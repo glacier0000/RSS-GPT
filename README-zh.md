@@ -64,4 +64,4 @@
 - https://rsshub.app/36kr/motif/327686782977 -> https://glacier0000.github.io/RSS-GPT/36kr-ai.xml
 - https://rsshub.app/paulgraham/articles -> https://glacier0000.github.io/RSS-GPT/paul-graham.xml
 - https://nesslabs.com/feed -> https://glacier0000.github.io/RSS-GPT/ness-labs.xml
-- https://rsshub.app/yicai/latest -> https://glacier0000.github.io/RSS-GPT/cai-xin.xml
+- https://rsshub.app/huanqiu/news/china -> https://glacier0000.github.io/RSS-GPT/huan-qiu.xml
