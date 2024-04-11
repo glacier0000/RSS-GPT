@@ -1,0 +1,76 @@
+------------------------------------------------------
+Started: 2024-04-11 16:23:41.564649
+Existing_entries: 0
+Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [独家对话RNG战队CEO：欠了几千万快破产，但还是想赢](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654492109&idx=1&sn=bf00c649fa93db9d190e1f80803f2dc7&chksm=8b8542cabcf2cbdcf21153c3a2b467398945a9b0cb0af97ef60e64633fdaa7b35435caae8c0b&scene=58&subscene=0)
+Token length: 2920
+Summarized using GPT-3.5-turbo
+Append: [红米的1999元新机，要让友商汗流浃背了。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654492109&idx=2&sn=cd365fdc3cd989f947407a7545b6d50c&chksm=8b8542cabcf2cbdc280fae49cae161af151b1d57a39d2d73be9447fa73bd412c68c0d798ecfb&scene=58&subscene=0)
+Token length: 2992
+Summarized using GPT-3.5-turbo
+Append: [3DS和WiiU正式断网，我的青春也结束了。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654492109&idx=3&sn=9bd0dfec9f96dc0de1c9aff662b8ef16&chksm=8b8542cabcf2cbdc2b6bbdb2c620af190dcaaf53dc51b2b2a4ac7898a16f57c90b0f8f95ea4b&scene=58&subscene=0)
+Token length: 54
+Summarized using GPT-3.5-turbo
+Append: [今日最佳：让我看看，让我看看，让我看看。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654492109&idx=4&sn=7019c2c66fa8ddbbf7da568a6e22ad9c&chksm=8b8542cabcf2cbdca7fe763f7ce25d2cab6ab021762302e73a61f3dd35fa289221eecbb5f51b&scene=58&subscene=0)
+Token length: 33
+Summarized using GPT-3.5-turbo
+Append: [聊一聊：你用了最久的电话铃声是啥？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654492109&idx=5&sn=00f1561ec9de3b340e6c83501f37ad8c&chksm=8b8542cabcf2cbdcb3b58f190abe05e87b27fbd42f6d8d8d603b6ec70738130bf45745cabff9&scene=58&subscene=0)
+Token length: 1104
+Summarized using GPT-3.5-turbo
+Append: [暴雪游戏国服官宣夏季回归，字节辟谣去年利润飙升约60%，小鹏进军港澳及欧洲市场，马云内网发声，这就是今天的其他大新闻！](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654492109&idx=6&sn=19b96b42c65abeb5ca8cf52700578b19&chksm=8b8542cabcf2cbdc07a3bcc0af6c4ad481ed2ece143471dced027550c1d37e6dc5067cacf52e&scene=58&subscene=0)
+Token length: 3265
+Summarized using GPT-3.5-turbo
+Append: [因为一个Rapper，成都有了自己的迪士尼。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654491920&idx=1&sn=0850faba57d48cbbbeff637622c9c8c5&chksm=8b854217bcf2cb0135100120030306e343301cfe95b6e2b78e40c8488a286267801b970f573d&scene=58&subscene=0)
+Token length: 2474
+Summarized using GPT-3.5-turbo
+Append: [泄密苹果的内鬼，说自己在伸张正义。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654491920&idx=2&sn=e76f1629dcde7bc66e2ead1f610b5917&chksm=8b854217bcf2cb01071ca7a2460b057d0f050a9afc0fa46013435c9554456bab8463f27d8a54&scene=58&subscene=0)
+Token length: 2424
+Summarized using GPT-3.5-turbo
+Append: [特斯拉又搞了一个 unbox 技术，这次又打算降价多少？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654491920&idx=3&sn=ede5e3766c6f6ff3a9a3d7d3cc0d8449&chksm=8b854217bcf2cb013bc4548a16ecce3b41442b29cff10cdcbfdd0ecc7b955a5f3a8beeb69629&scene=58&subscene=0)
+Token length: 79
+Summarized using GPT-3.5-turbo
+Append: [今日最佳：莫名其妙被骂了。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654491920&idx=4&sn=dd84a5e469889e861422fad5ef5ee44e&chksm=8b854217bcf2cb019398ca4a04e39657bdfb4e764e9890184d315c744ff680df36cd9095b721&scene=58&subscene=0)
+Append: [聊一聊：说一个你充钱最多的游戏。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654491920&idx=5&sn=e745f2f0dafd1505eb5629524e3ad98d&chksm=8b854217bcf2cb019c02052d80d1a0e555413b8ab33a88d647b982558740af65fbfbb0c383c9&scene=58&subscene=0)
+Append: [丰田或与华为合作，网易回应暴雪国服回归，华为P70或突袭上架，比亚迪或考虑放弃美国市场，这就是今天的其他大新闻！](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654491920&idx=6&sn=560ea4a0f418d8f3a344ff4aeadda5cc&chksm=8b854217bcf2cb014d433a9e90ca917df47fc28b60c0adb3be4e870e7eb8629a54a259c71267&scene=58&subscene=0)
+Append: [独家 | 国服暴雪，将官宣本周回归。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654491625&idx=1&sn=556f2fb0813e3b70431e6118c8773048&chksm=8b8544eebcf2cdf877cdd8cde7c408567a2fde8242a57c2479ec77cdb75bb642f1fa4b44ced3&scene=58&subscene=0)
+Append: [一场智己 L6 的发布会，全程都在说小米。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654491625&idx=2&sn=a981e75b5f84dc7b6ab11c2b6b7c2993&chksm=8b8544eebcf2cdf82caa9d6825ed1ea53ccce971284bf540db3c816c0cd798ad922b39a55801&scene=58&subscene=0)
+Append: [因为一台 MacBook，我从果黑变成了果粉。。。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654491625&idx=3&sn=57c9f1db5da92ec442409d7b80d1ad01&chksm=8b8544eebcf2cdf8b21ccd939d6633dda11b70cd860053f26ca7d8e1044756cb197fdd137f03&scene=58&subscene=0)
+Append: [今日最佳：师父，大师兄被妖怪抓走了！](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654491625&idx=4&sn=35333235f5ecfcd64458faaa01ae4275&chksm=8b8544eebcf2cdf81a2a84904fce3146c006c5ed11f571cc8e1dc0cbd93f9a9c7431b5fdbd5c&scene=58&subscene=0)
+Append: [聊一聊：你用过印象最深刻的闹钟铃声是啥？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654491625&idx=5&sn=c812e58ef4047d87054831cde547f5d7&chksm=8b8544eebcf2cdf8bd7e20b33611e1b8509466a17e095f93958599a70656cc8a504637c1c4c4&scene=58&subscene=0)
+Append: [苹果爆出重大泄密事件，阿维塔辟谣与高合并购，传英伟达游戏显卡价格普涨，苹果宣布接受欧盟反垄断要求，这就是今天的其他大新闻！](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654491625&idx=6&sn=9b18f1e9b0974d865ebef3618092da5b&chksm=8b8544eebcf2cdf8213e967fd0017a7f4621989eabc6358aa1cf276424d9e2ef6bf3bbfd0bde&scene=58&subscene=0)
+Append: [提车三天开了1073公里，34个问题告诉你小米SU7到底咋样。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654491462&idx=1&sn=51404d21aad87397027582d26834171b&chksm=8b854441bcf2cd57fc5096c5698cad469a1e636d73255af76c2c273d5405382bace229c13474&scene=58&subscene=0)
+Append: [GoPro指控国产运动相机侵权？我觉得他有点急了。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654491462&idx=2&sn=6efcbe47ad07319f3725bcee4073faab&chksm=8b854441bcf2cd577f5200c61d993c8a30ccca99bbde96cdd2835ff8c0fb49e8afa094e58016&scene=58&subscene=0)
+Append: [你注销掉的手机号，可能正在出卖你。。。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654491462&idx=3&sn=a2d52681a9961793d6d183aa1813ecf2&chksm=8b854441bcf2cd57072aeb13e0ebffadc0c94a7a74ac4963b7119c72a0b582c3c60e99c3014e&scene=58&subscene=0)
+Append: [今日最佳：请跳出苏轼圈。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654491462&idx=4&sn=75d2652147c8c866949e35ed304e33d5&chksm=8b854441bcf2cd57751ca15b796acf7762fc0405408badfca901234fd29917c543bdeb7f440f&scene=58&subscene=0)
+Append: [聊一聊：哪个游戏让你通宵过最多次？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654491462&idx=5&sn=f7dcc5c195efebb543173a8f9f94a549&chksm=8b854441bcf2cd5709db9789939332d9a41069146d683e3a3c45f2261e098a24af63615aa450&scene=58&subscene=0)
+Append: [恒大造车亏超1100亿，传日系三大汽车品牌之一将接入华为智驾，室温超导作者涉数据伪造，美团回应单车涨价，这就是今天的其他大新闻！](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654491462&idx=6&sn=c2ac53609bf56c06c793a41203f1083a&chksm=8b854441bcf2cd57248ac3bff7bbcfa675e51ae816d254c24f96ec5f4d39fe7283f3d0f26838&scene=58&subscene=0)
+Append: [营销号们，让马斯克和罗翔成了毒鸡汤批发部。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654490905&idx=1&sn=6f21a2abf65881aae1fbb2fb13c7e357&chksm=8b85461ebcf2cf08121f5c5fc3cdc4ed811566a4e731513bb3e1efbdf904beb04bc45a74aa1c&scene=58&subscene=0)
+Append: [帮特斯拉活过来的松下，自己却在作死。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654490905&idx=2&sn=7b26be266ea9dca7367df4f4dc93d606&chksm=8b85461ebcf2cf0825810451cdb8aff19383660bbb772151aa3fed532f57e5ebea17feaf4764&scene=58&subscene=0)
+Append: [今日最佳：飞驰人生3。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654490905&idx=3&sn=3a0bcb01441daf89741e4e376e781e64&chksm=8b85461ebcf2cf08df3c5f24cf0e685d8fffcef1cf0c19d5aabe5138847a2a096734160065c4&scene=58&subscene=0)
+Append: [聊一聊：清明小长假怎么过的？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654490905&idx=4&sn=8148b9832eb9e90a6356903e5d1831cc&chksm=8b85461ebcf2cf086e5a3cd5a8b3f570873d3b3408bcacdcf97a93012234240c3421807d0bd9&scene=58&subscene=0)
+Append: [欧盟又罚苹果18.4亿，小米SU7标准版确认没城市NOA，特斯拉将推无人出租车，苹果对血氧侵权提出上诉，这就是今天的其他大新闻！](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654490905&idx=5&sn=55ec8aba4c267d53736017ba58ce652c&chksm=8b85461ebcf2cf0891155e34ef1ff2b7f82ecd1555adc9b0670d06ae8e7a10bcd4fe653a3db9&scene=58&subscene=0)
+Append: [特斯拉推出3年半价回购政策，iPhone SE4外形渲染图出炉，小米再次回应退定金，库克减持苹果股票，这就是今天的其他大新闻！](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654490732&idx=1&sn=2116ed6861775e903ee565736ec50adf&chksm=8b85476bbcf2ce7d5f8689d4c9324e4ac902a88862dca8c59ff7f1b38f88c42567e008e6be6a&scene=58&subscene=0)
+Append: [拆除比建造难？那么高的摩天大楼要怎么拆除？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654490732&idx=2&sn=e9584755baaeab13e3a010d7061e9efe&chksm=8b85476bbcf2ce7ddc269e6b78d835c3249f3df75235893cc1e4e7303ee14720a64111a095c5&scene=58&subscene=0)
+Append: [差点把玩家手机干爆炸，这款被喷出史的游戏咋回事？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654490732&idx=3&sn=db979eb4eb97355c3bc825654831b937&chksm=8b85476bbcf2ce7dc2e653f19ac70f984f6d267fd21f131e6fc1da2547410d5aaaf9a4d7bb48&scene=58&subscene=0)
+Append: [今日最佳：异型障碍物。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654490732&idx=4&sn=40c7be1d5462e3d14ba95dcc36d96f25&chksm=8b85476bbcf2ce7dabc6dcb7e1f33fdb6b662d5d9c88f03658f1b98437dc94a1f5503d101caa&scene=58&subscene=0)
+Append: [聊一聊：你打到过最豪华的网约车是？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654490732&idx=5&sn=1b525c8389de81c8eb2d309173ac71d6&chksm=8b85476bbcf2ce7d88e29baea5b3b6390049324fd55e173b5241f68d532ed5eed144c4a03300&scene=58&subscene=0)
+Append: [出海收割老外这块，小红书是我见过最菜的。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654490703&idx=1&sn=c48c96bea16596bbcf6e2c7e60f4fccd&chksm=8b854748bcf2ce5ead7bd0af28dc4c7f6fc50fb524d030f18374e5f65d85f226bda7a15659e1&scene=58&subscene=0)
+Append: [22岁的火狐，市占率被3岁的自己超了。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654490703&idx=2&sn=5fef079db825858b11598960e827e007&chksm=8b854748bcf2ce5e55581f3737318983bdd8c7913be3a977292657b63c0d6e2fffb6362842e5&scene=58&subscene=0)
+Append: [今日最佳：面带笑容。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654490703&idx=3&sn=32154cd68468e5a10e41932f85bb31ee&chksm=8b854748bcf2ce5e9225d1c1ec8680d02016a0b52ae626f43827ba3ac8fca560aab4a054b4f2&scene=58&subscene=0)
+Append: [聊一聊：这个假期怎么计划的？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654490703&idx=4&sn=6a282ffb9a35fa9ba6af960144233efb&chksm=8b854748bcf2ce5edd3aab301ee2f7d917b4c09ec5796bec01661ee4b0955c82237caf83d775&scene=58&subscene=0)
+Append: [苹果被爆研发家庭机器人，台积电回应复产，蔚来150度电池包下线，地震预警App回应iOS端收费，这就是今天的其他大新闻！](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654490703&idx=5&sn=de399690f34e983df86c0ba02e100c01&chksm=8b854748bcf2ce5e364524c31fa274c7ad3da92bab1b029739c1018734f210a1a071b6ebfa1b&scene=58&subscene=0)
+Append: [B站这个更新后，电影解说们要顶不住了。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654490400&idx=1&sn=ea9472a26e52fe2346441985cebd53c4&chksm=8b855827bcf2d1311cc9303a7eea7c3ac4f3a62d6b81c0224242c242a22eb289dc03f3518692&scene=58&subscene=0)
+Append: [小米赢了和海信的官司？但说实话，吵架还是以前有意思。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654490400&idx=2&sn=3addb196213d7811f2783ab540c80467&chksm=8b855827bcf2d131545dbf0921315426128dc5027b4ef0eb5f9a936e8ffb19610338369d82c8&scene=58&subscene=0)
+Append: [今日最佳：一派狐言。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654490400&idx=3&sn=6af7c21d0944b4ddd67854cd89e575de&chksm=8b855827bcf2d131314c5d35972300ce85d2a6a1f9598b958f43ccf5c0725f2b6d64601726b9&scene=58&subscene=0)
+Append: [聊一聊：有啥古早广告语，你一直记到现在？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654490400&idx=4&sn=eac0f6b26cfbd525e04947388be42b27&chksm=8b855827bcf2d131ca03c6fd47f9d54c95cab08de8532a195c0e8bd8d4c4d5b6c31d581c1bd7&scene=58&subscene=0)
+Append: [央行取消自用汽车贷款最高比例限制，华为门店回应P70发布时间，台积电暂停台湾工厂建设，极氪回应IPO，这就是今天的其他大新闻！](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654490400&idx=5&sn=d392334ba02815d6ef3c05e516e6cf78&chksm=8b855827bcf2d1315fc4e115764ce462ab1e59bc2710868d208cb4f34285763f108d7da86e66&scene=58&subscene=0)
+Append: [建议贾跃亭别骂小米了，赶紧去直播带货吧。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654489865&idx=1&sn=14e47203e7096e02ee02e661763084cf&chksm=8b855a0ebcf2d3188c9c84a8a53885df3a92adeb8b4f1557abaa3862a7be3caa62e9b729b40f&scene=58&subscene=0)
+Append: [起猛了，看到淘宝要用火箭送快递了。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654489865&idx=2&sn=166413250f7e0aaa3830bd799fb156dc&chksm=8b855a0ebcf2d318a23f5896768cb44b695559ee3740544da090e0de5eb6f323ff8501e41900&scene=58&subscene=0)
+Append: [ChatGPT不用登录就能用了，但真没啥卵用。。。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654489865&idx=3&sn=a7d0ea47e06362d85aa0f39e88e33fe4&chksm=8b855a0ebcf2d31894837d9199e036110d7e540536670d51fa1b6592d64b3d15b4984d5874a1&scene=58&subscene=0)
+Append: [今日最佳：看点快乐小狗。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654489865&idx=4&sn=4e186432bead04f3cb6a241a3d7882ab&chksm=8b855a0ebcf2d318d36801282c9184fc4cb7e2cb281210547a7163162ee443edbbe2aeb07563&scene=58&subscene=0)
+Append: [聊一聊：我们买的SU7 MAX创始版快提车了，你最想了解点啥？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654489865&idx=5&sn=1adf16c51105fe8b4825a26b43549240&chksm=8b855a0ebcf2d3184c361721ae3a0791edfa52b9b5353020606909ff11d0cf0b07a02b85500e&scene=58&subscene=0)
+Append: [特斯拉将大幅降低生产成本，小米汽车要求供应商月产1万辆，传苹果将出低价耳机，国内星闪数字车钥匙标准发布，这就是今天的其他大新闻！](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654489865&idx=6&sn=6fc0af8bbd7a0557aba39aa467f735d2&chksm=8b855a0ebcf2d31858de92eefedc9cbbbe4aa058e541f3024c3295e59c672115511e88d367fa&scene=58&subscene=0)
+append_entries: 50
+Finish: 2024-04-11 16:24:43.833088

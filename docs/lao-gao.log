@@ -1,0 +1,46 @@
+------------------------------------------------------
+Started: 2024-04-11 16:20:44.685257
+Existing_entries: 0
+Fetching from https://wechat2rss.xlab.app/feed/574587b13c6f60617fc74605702258ddf4aefac6.xml
+Token length: 4255
+Summarized using GPT-3.5-turbo
+Append: [从 IP 的拥有量角度看中国的经济情况 2023Q2 版](https://mp.weixin.qq.com/s?__biz=MzA4NDMzODY1MQ==&mid=2247484209&idx=1&sn=f89fc20b8733c89e5951b80a20162233&chksm=9fe9f185a89e7893c69cfbc49106d9069d8c034046d1eb22edc76b067748680fcf79d32ba471&scene=58&subscene=0)
+Token length: 1952
+Summarized using GPT-3.5-turbo
+Append: [案子相关二三事～](https://mp.weixin.qq.com/s?__biz=MzA4NDMzODY1MQ==&mid=2247484204&idx=1&sn=1166251dfea36a8fb051af9e253bb3af&chksm=9fe9f198a89e788ebecd39d6e83224d466e28658bdcbe7e814d13d502e2518989a73326fe522&scene=58&subscene=0)
+Token length: 1743
+Summarized using GPT-3.5-turbo
+Append: [北京天特信科技有限公司声明：我们胜诉！](https://mp.weixin.qq.com/s?__biz=MzA4NDMzODY1MQ==&mid=2247484194&idx=1&sn=06c4ba7bfa2377b4e96e9fa33cf42390&chksm=9fe9f196a89e7880519570ad10df90189fc699dddd06c8ac1176923d8353f9d6c44c4b1249de&scene=58&subscene=0)
+Token length: 4585
+Summarized using GPT-3.5-turbo
+Append: [从 IP 的拥有量角度看中国的经济情况 2023Q1 版](https://mp.weixin.qq.com/s?__biz=MzA4NDMzODY1MQ==&mid=2247484192&idx=1&sn=86e1a215fc2ef1c54a8830013e62571e&chksm=9fe9f194a89e78826f58a05dbfccd6100ac22efd1350147610ec958b1637877295bcb305581e&scene=58&subscene=0)
+Token length: 3262
+Summarized using GPT-3.5-turbo
+Append: [都说乙方卷来卷去，甲方就没有责任了吗？](https://mp.weixin.qq.com/s?__biz=MzA4NDMzODY1MQ==&mid=2247484184&idx=1&sn=d74e977b71a6aca71b63e00853d3105d&chksm=9fe9f1aca89e78ba64e6234f157f8313ec8a9506c85bd0790f7c550be154323f7e250d9d2b14&scene=58&subscene=0)
+Token length: 4003
+Summarized using GPT-3.5-turbo
+Append: [2022，从 IP 的拥有量角度看中国的经济情况～](https://mp.weixin.qq.com/s?__biz=MzA4NDMzODY1MQ==&mid=2247484179&idx=1&sn=df5dfd70dc218652837978d72b016c70&chksm=9fe9f1a7a89e78b13a93573acf8fe62ba207e549a09a248cb203cc60b67223d78d56a24ebd2f&scene=58&subscene=0)
+Token length: 2785
+Summarized using GPT-3.5-turbo
+Append: [一起来算个数字吧，全员核酸检测与全员打疫苗，都需要花多少钱？](https://mp.weixin.qq.com/s?__biz=MzA4NDMzODY1MQ==&mid=2247484174&idx=1&sn=a6a442cfb95f4b6c766f4c7f7068c5a3&chksm=9fe9f1baa89e78ac24c27069d7555633bac75fd66f58d179672f52eea7ca8cd10064443ec18c&scene=58&subscene=0)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [转发：百度腾讯阿里真的是高科技企业吗？](https://mp.weixin.qq.com/s?__biz=MzA4NDMzODY1MQ==&mid=2247484169&idx=1&sn=6a594e5fde9bf50316f0d63840b3ae7a&chksm=9fe9f1bda89e78ab8550bbb0a5106959c68b8fd6fd447fc09876db970c2ab5697f55b3d02730&scene=58&subscene=0)
+Token length: 3105
+Summarized using GPT-3.5-turbo
+Append: [这是我第一次具体点评某大厂同类产品并给出建议！！！](https://mp.weixin.qq.com/s?__biz=MzA4NDMzODY1MQ==&mid=2247484162&idx=1&sn=e49e624f185af9d32ffdad3860f260df&chksm=9fe9f1b6a89e78a094a50b978bcfd9c875194bf46760a1897f5b235fd11d317932704c826fe5&scene=58&subscene=0)
+Token length: 2888
+Summarized using GPT-3.5-turbo
+Append: [是什么造成了中国软件产业的悲剧](https://mp.weixin.qq.com/s?__biz=MzA4NDMzODY1MQ==&mid=2247484127&idx=1&sn=448a0e66cff5c8dbdd5a056c66f9e2f6&chksm=9fe9f06ba89e797d3ffba046e01b8f0870fe68845abbdbd88224280dabcbeafc19618101b7c2&scene=58&subscene=0)
+Append: [DNS 智能解析功能评测之国内部分总结篇～](https://mp.weixin.qq.com/s?__biz=MzA4NDMzODY1MQ==&mid=2247484125&idx=1&sn=141759752499fd6addd5210646331a17&chksm=9fe9f069a89e797fe08cf669455aa8713d95de68d4b27d20ba8dc24169054eba7e83d13df91b&scene=58&subscene=0)
+Append: [DNS 智能解析功能评测之四菜一起上（阿里云/百度云/京东云/火山引擎）篇～](https://mp.weixin.qq.com/s?__biz=MzA4NDMzODY1MQ==&mid=2247484121&idx=1&sn=51937ba5e9a40cdf06208495cd9254a0&chksm=9fe9f06da89e797bbc09b866cd158ce2a6ef15b55134deba15b7fd7c3c6410f782051b73f384&scene=58&subscene=0)
+Append: [DNS 智能解析功能评测之 DNS.COM 篇～](https://mp.weixin.qq.com/s?__biz=MzA4NDMzODY1MQ==&mid=2247484106&idx=1&sn=e4fe43af4c7fb45d8ba5ca6321168fa0&chksm=9fe9f07ea89e7968243fec054ee22df979aba2bb3b9247aa2830b239bd8f5d3195e7ba4d6e11&scene=58&subscene=0)
+Append: [技术团队，是不是在祸害公司？](https://mp.weixin.qq.com/s?__biz=MzA4NDMzODY1MQ==&mid=2247484099&idx=1&sn=fadb666aee3492bf6916e4a304303044&chksm=9fe9f077a89e796182dba6c1260588a0a4c9eb5e62f8512b4b3066715f2456ccf6444f49628c&scene=58&subscene=0)
+Append: [DNS 智能解析功能评测之华为云篇～](https://mp.weixin.qq.com/s?__biz=MzA4NDMzODY1MQ==&mid=2247484081&idx=1&sn=dd37f4e281ec561f9974f5518dfbc451&chksm=9fe9f005a89e7913ae06f4ca10c7231beaf2a64d52f87de8e892138bead4fe902adbedf64fe4&scene=58&subscene=0)
+Append: [DNS 智能解析功能评测之 DNSPOD 篇～](https://mp.weixin.qq.com/s?__biz=MzA4NDMzODY1MQ==&mid=2247484069&idx=1&sn=63cc0d12c969ec39476bd295d3e951c7&chksm=9fe9f011a89e790733dc50d49292bc8eb1be0aa8e6b272e16c9f95a0220f7fcdbec4fa13ec08&scene=58&subscene=0)
+Append: [有关进行 DNS 智能解析功能评测的说明～](https://mp.weixin.qq.com/s?__biz=MzA4NDMzODY1MQ==&mid=2247484068&idx=1&sn=a8a2c87b8cbcd9913043904564cb927c&chksm=9fe9f010a89e79062ef6774a96ed778db40e9e7ffc8f048e809557ee227d28dfc5c76d7ab03d&scene=58&subscene=0)
+Append: [有关 BestTrace 的话题～](https://mp.weixin.qq.com/s?__biz=MzA4NDMzODY1MQ==&mid=2247484046&idx=1&sn=eb131ce80403cef5cef9bf23e457ad06&chksm=9fe9f03aa89e792cdbe5c1797a715b0aa1eeae576f7878ccc9ecf5d514949818bec5ba0d1289&scene=58&subscene=0)
+Append: [大家猜猜看？过去一年里，全球有多少 IP 发生了地理位置上的变更？](https://mp.weixin.qq.com/s?__biz=MzA4NDMzODY1MQ==&mid=2247484041&idx=1&sn=c582e6a866c044eb341ee93457436c2d&chksm=9fe9f03da89e792bb7a650352941e1715839438f25577c0949ce17fe9b468c2b65af8c3da3f0&scene=58&subscene=0)
+Append: [深入！让我们再出一个基于延迟的同行 IP 库数据评估来打个样，这次是上海～](https://mp.weixin.qq.com/s?__biz=MzA4NDMzODY1MQ==&mid=2247484031&idx=1&sn=268ee6bcd2c382415048f8b11e2831b5&chksm=9fe9f0cba89e79dd727f5cfd34ddcd330bef4f650a109d2d18b9183208fb74f622b88be740f4&scene=58&subscene=0)
+append_entries: 20
+Finish: 2024-04-11 16:22:03.742192

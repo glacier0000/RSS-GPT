@@ -1,0 +1,46 @@
+------------------------------------------------------
+Started: 2024-04-11 16:17:35.325011
+Existing_entries: 0
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Token length: 3622
+Summarized using GPT-3.5-turbo
+Append: [如何用 Readwise Reader 定制提示词 AI 自动辅助处理信息？](https://sspai.com/post/87968)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [这一年，我从半马132跑进130](https://sspai.com/post/87958)
+Token length: 1548
+Summarized using GPT-3.5-turbo
+Append: [连点成线，在线构建节点关系图谱：NRD Studio](https://sspai.com/post/87943)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [游记｜溧阳1号公路，三色轨迹，一路风光](https://sspai.com/post/87947)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [什么是笔记的理想形态？个人笔记系统折腾手记](https://sspai.com/post/87490)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [给理想多少时间？](https://sspai.com/post/87903)
+Token length: 1129
+Summarized using GPT-3.5-turbo
+Append: [别让乐高吃灰！拍起来！](https://sspai.com/post/87863)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [也许学校根本没有教你如何学习：论什么是真正的自学](https://sspai.com/post/87551)
+Token length: 2817
+Summarized using GPT-3.5-turbo
+Append: [碎片写作——建立一具思维标本](https://sspai.com/post/87876)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [Essential Meets Expression——聊一聊Nothing Phone(2a)](https://sspai.com/post/87846)
+Append: [读完《人人都能用英语》，我开发了一款产品有效积累词汇量](https://sspai.com/post/87847)
+Append: [为你的钱包节流，本地部署 LLM code assistant](https://sspai.com/post/87839)
+Append: [这才是真的自动记账，颠覆式记账完整教程](https://sspai.com/post/87809)
+Append: [带壳截图神器NiceShots重磅更新🎉](https://sspai.com/post/87822)
+Append: [用Quicker复制6种软件的回链](https://sspai.com/post/87819)
+Append: [何为教育：读《你当像鸟飞往你的山》](https://sspai.com/post/87817)
+Append: [用Quicker设置Obsidian到PotPlayer的跳转、回链动作](https://sspai.com/post/87794)
+Append: [如何不编程用 ChatGPT 爬取网站数据？](https://sspai.com/post/87755)
+Append: [自我记录、量化与回溯的数字之旅](https://sspai.com/post/86747)
+Append: [为了记录生活大小事，我开发了 MarkTimes](https://sspai.com/post/87648)
+append_entries: 20
+Finish: 2024-04-11 16:18:36.992140

@@ -1,0 +1,48 @@
+------------------------------------------------------
+Started: 2024-04-11 16:18:36.992367
+Existing_entries: 0
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 3298
+Summarized using GPT-3.5-turbo
+Append: [技术吹得再强，离用户不近有何用？](https://www.huxiu.com/article/2890229.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [转移或结束话题很难吗？](https://www.huxiu.com/article/2894878.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [请把“睡一个好觉”，当成一天里最重要的事来管理](https://www.huxiu.com/article/2894854.html)
+Token length: 2290
+Summarized using GPT-3.5-turbo
+Append: [3月通胀数据不妙，美联储下一步是加息？](https://www.huxiu.com/article/2894823.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [音乐界Sora上线：AI音乐的GPT时刻到来了吗？](https://www.huxiu.com/article/2894830.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [农村小个体户，艰难求生](https://www.huxiu.com/article/2893779.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [小米的压铸机，值得单独拿出来吹吗？](https://www.huxiu.com/article/2893802.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [曾经被嫌弃的跟团游，咋成了新顶流？](https://www.huxiu.com/article/2894736.html)
+Token length: 2378
+Summarized using GPT-3.5-turbo
+Append: [长期缺爱的人有什么表现？](https://www.huxiu.com/article/2894747.html)
+Token length: 3186
+Summarized using GPT-3.5-turbo
+Append: [B站UP主“恰饭”难](https://www.huxiu.com/article/2893558.html)
+Append: [除了治疗糖尿病，新一代减肥药还能治疗老年痴呆？](https://www.huxiu.com/article/2893291.html)
+Append: [有多少深漂，正在惠州布局养老](https://www.huxiu.com/article/2894376.html)
+Append: [为什么淄博烧烤又火了？](https://www.huxiu.com/article/2894398.html)
+Append: [“成都迪士尼”，狂欢8天](https://www.huxiu.com/article/2893841.html)
+Append: [文明是怎样堕落为野蛮的](https://www.huxiu.com/article/2893840.html)
+Append: [别用《娘道》爆改亦舒](https://www.huxiu.com/article/2894368.html)
+Append: [七年烧光15亿，OpenAI投了四个月的公司倒闭了](https://www.huxiu.com/article/2893762.html)
+Append: [大润发全国闭店十几家：一边关店，一边调整](https://www.huxiu.com/article/2893557.html)
+Append: [超30城支持住房“以旧换新”，东部占七成，成效几何？](https://www.huxiu.com/article/2893807.html)
+Append: [公司的AI服务，如何定价？](https://www.huxiu.com/article/2893542.html)
+Append: [进击的民营银行：从零到2万亿，十年寻路两极分化](https://www.huxiu.com/article/2893806.html)
+Append: [高校出海，图什么？](https://www.huxiu.com/article/2893787.html)
+append_entries: 22
+Finish: 2024-04-11 16:19:33.054541

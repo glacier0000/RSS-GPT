@@ -50,14 +50,15 @@ These feeds on hosted in the [`docs/` subdirectory](https://github.com/yinan-c/R
 
 I will consider hosting more feeds in the future. Email me or submit an issue if there is any question using the script or any suggestions.
 
-- https://brett.trpstra.net/brettterpstra -> https://glacier0000.github.io/RSS-GPT/brett-terpstra.xml
+- https://glacier0000.vercel.app/woshipm/popular -> https://glacier0000.github.io/RSS-GPT/ren-ren-pm.xml
 - https://meta.appinn.net/tag/chrome.rss, https://meta.appinn.net/tag/ios.rss, https://meta.appinn.net/tag/macos.rss -> https://glacier0000.github.io/RSS-GPT/appinn.xml
 - https://rsshub.app/sspai/index -> https://glacier0000.github.io/RSS-GPT/sspai.xml
-- https://rknight.me/feed.xml -> https://glacier0000.github.io/RSS-GPT/robb-knight.xml
-- https://stephanango.com/feed.xml -> https://glacier0000.github.io/RSS-GPT/steph-ango.xml
-- https://lopespm.com/atom.xml -> https://glacier0000.github.io/RSS-GPT/byte-tank.xml
+- https://glacier0000.vercel.app/sspai/matrix -> https://glacier0000.github.io/RSS-GPT/shao-shu-pai.xml
+- https://glacier0000.vercel.app/huxiu/article -> https://glacier0000.github.io/RSS-GPT/hu-xiu.xml
+- https://wechat2rss.xlab.app/feed/90c827b8290310a96ef80a13df9dbcc06ab69892.xml -> https://glacier0000.github.io/RSS-GPT/wu-ai-po-jie.xml
 - https://rsshub.app/36kr/motif/327685554177, https://rsshub.app/36kr/motif/327687077889, https://rsshub.app/36kr/motif/1366661828936836, https://rsshub.app/36kr/motif/1366662419875203, https://rsshub.app/36kr/motif/1756302767423108, https://rsshub.app/36kr/motif/327686815745, https://rsshub.app/36kr/motif/327685734401 -> https://glacier0000.github.io/RSS-GPT/36kr.xml
 - https://rsshub.app/36kr/motif/327686782977 -> https://glacier0000.github.io/RSS-GPT/36kr-ai.xml
-- https://rsshub.app/paulgraham/articles -> https://glacier0000.github.io/RSS-GPT/paul-graham.xml
-- https://nesslabs.com/feed -> https://glacier0000.github.io/RSS-GPT/ness-labs.xml
-- https://rsshub.app/huanqiu/news/china -> https://glacier0000.github.io/RSS-GPT/huan-qiu.xml
+- https://wechat2rss.xlab.app/feed/574587b13c6f60617fc74605702258ddf4aefac6.xml -> https://glacier0000.github.io/RSS-GPT/lao-gao.xml
+- https://wechat2rss.xlab.app/feed/6111a6d5ecf28cfdd4fc9b664244c05ddacef15c.xml -> https://glacier0000.github.io/RSS-GPT/qian-hei.xml
+- https://wechat2rss.xlab.app/feed/31436fcc3bba8c2c2a9337a163afcb3b5a57a0a0.xml -> https://glacier0000.github.io/RSS-GPT/42-zhang-jing.xml
+- https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml -> https://glacier0000.github.io/RSS-GPT/cha-ping.xml

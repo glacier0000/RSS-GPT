@@ -1,0 +1,60 @@
+------------------------------------------------------
+Started: 2024-04-11 16:19:33.054854
+Existing_entries: 0
+Fetching from https://wechat2rss.xlab.app/feed/90c827b8290310a96ef80a13df9dbcc06ab69892.xml
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [ELangPatcher - 一个简单的基于特征码的易语言静态编译程序膨胀与混淆工具](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651140425&idx=1&sn=30beed51ba6fe1d836f264e0d07905b4&chksm=bd50a11d8a27280b4675e00e503dfdaf9dae053b111d43a3b753a833ee548f4c0f94b0421565&scene=58&subscene=0)
+Token length: 2970
+Summarized using GPT-3.5-turbo
+Append: [[验证码识别]某盾滑块验证码增强版的识别](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651140373&idx=1&sn=83e93cad7c5a97819f3ba2cf98f4ea03&chksm=bd50a1418a2728571c78c36f8f36dbf500fb45939cfaa1e1c9c5e7b22d8fb8556abe3f5ed890&scene=58&subscene=0)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [2022腾讯游戏安全大赛复盘](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651140353&idx=1&sn=ee512da957024b45e2e854aaee2725c0&chksm=bd50a1558a2728434bb74fc90144a2573311afe7dbc9a664250f2f57163e533b07b0bcf40366&scene=58&subscene=0)
+Token length: 1237
+Summarized using GPT-3.5-turbo
+Append: [【公告】关于论坛验证码无法显示的问题解决方法](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651140318&idx=1&sn=e77d522f3ced943e26ef4c5a0b2570e8&chksm=bd50a08a8a27299ca62f961c28c942e9c0665749abd118ec1b99fa8c3ff67874b4e86dbd60a0&scene=58&subscene=0)
+Token length: 3829
+Summarized using GPT-3.5-turbo
+Append: [华硕fx63vd7700充电保护程序“ASUS Battery Health Charging”逆向分析](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651140308&idx=1&sn=97258089fd7ac9252b638ffc7e9fde7d&chksm=bd50a0808a27299644a5f10d065b50f003660f6e057e5d5d6af238f63bb0c1c4d3b3a995e70c&scene=58&subscene=0)
+Token length: 79
+Summarized using GPT-3.5-turbo
+Append: [今日清除 开放注册 后一直未激活会员1320人，基本都是邮箱写错了的。](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651140294&idx=1&sn=522546657474998f6e54b8f9058ea084&chksm=bd50a0928a2729848992803408fd71dc94116ac6f7449c1965cf072367bca930e4f99b31b399&scene=58&subscene=0)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [【漏洞分析】CVE-2021-4145 dirty cred漏洞复现](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651140292&idx=1&sn=525c0180c43ad8028deadaa683e50c9d&chksm=bd50a0908a272986b8d0075aadadf72cbc6c3af41c4d4bd5d0539b3613df059e240811370e67&scene=58&subscene=0)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [吾爱破解2024红包题部分WriteUP](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651140291&idx=1&sn=4bb26af6072119b8e0757b8aece7ddec&chksm=bd50a0978a272981aa38bdeb24ded75053a2fa778362ee986b6c8dcade3091baaae0e0072437&scene=58&subscene=0)
+Token length: 37
+Summarized using GPT-3.5-turbo
+Append: [十六周年开放注册四小时共注册46677人，没有激活的同学请尽快激活啦，发帖前请认真阅读注册须知和总版规，防止违规封号注销。
+
+刚加入的同学请经常登录并保持活跃（注意：签到不算活跃，只有发帖或回帖才算，这句话很重要），参与到论坛交流中来，对于给予帮助你的人加热心和论坛币，做一个热心受欢迎的人。](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651140216&idx=1&sn=db8ffb124fb2682de404536278f8893f&chksm=bd50a02c8a27293aca1512867952c33deb7f219c6bff8ba7901380813a8c9686c655d7c1448d&scene=58&subscene=0)
+Token length: 31
+Summarized using GPT-3.5-turbo
+Append: [【开放注册公告】吾爱破解论坛2024年3月13日十六周年开放注册公告即将开始 12：00 -- 14：00 和 20：00 -- 22：00。
+
+赶不上的定个晚间闹钟吧，新通知会在B站继续发布。
+
+推荐使用电脑注册，可以使用论坛的诊断修复工具修复一次，方便提前解决注册中可能会遇到的问题，如果修复后还是不行建议尽快更换设备尝试。
+
+注册页面会强制10分钟来阅读注册须知，须知中包括了你注册现在和未来可能会遇到的问题，请仔细阅读，否则可能无法注册成功或注册后被清理。
+
+开放注册期间暂停签到任务、QQ登录绑定、下载论坛附件功能、默认搜索功能等功能请各位知晓，在论坛等待大家光临。](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651140214&idx=1&sn=7c3de58302fc3da5d1dfb436567717fd&chksm=bd50a0228a272934d1a98f07c75ce86f7f689b1060f1b4f1faf47cdc16b50488f7bb3bdcab62&scene=58&subscene=0)
+Append: [十六周年开放注册微信抽奖活动，再送40个账号注册码或300论坛币，下午两点开奖，详见【开放注册公告】吾爱破解论坛2024年3月13日十六周年开放注册公告。
+
+注：中奖后务必今天领奖，延期无效。
+
+另：明天开放注册期间暂停签到任务、下载论坛附件功能、默认搜索功能、QQ登录绑定等功能（忘记账号密码可以邮箱重置后登陆）请各位知晓。主要把下载附件的带宽和服务器负载节省下来供用户注册访问使用，等注册结束就恢复了（默认搜索功能根据论坛负载压力预计一周左右恢复），请大家谅解。另外新注册的会员需要注册一天后才可以发帖，以缓解注册压力。](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651140212&idx=1&sn=c631371d786bc30870b342f907df53a3&chksm=bd50a0208a272936dd6fa90d4b999df2f75aa3fca0cddfd18c969d530cf8679518b39335d5c1&scene=58&subscene=0)
+Append: [吾爱破解 2024 春节红包活动WP(全，含 Android 高级题)](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651140210&idx=1&sn=0f3c8d79d823ad6dfd30b95fbd11be9b&chksm=bd50a0268a272930a694d989c02d58121311eabfddd56f63bd7be73ea316efa76872584c1bd2&scene=58&subscene=0)
+Append: [十六周年开放注册微信抽奖活动，提前再送40个账号注册码或300论坛币，下周二下午两点开奖，详见【开放注册公告】吾爱破解论坛2024年3月13日十六周年开放注册公告。](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651140204&idx=1&sn=7a3bb055249cc0f61a4f486a463cd61d&chksm=bd50a0388a27292eba88011f5a15d764a81df5dc8506e2aa98c44462d89214e77e1c70a11e0f&scene=58&subscene=0)
+Append: [【开放注册公告】吾爱破解论坛2024年3月13日十六周年开放注册公告](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651140202&idx=1&sn=7dd95aeb1b06728ffabf80b96cb5b78c&chksm=bd50a03e8a27292813723345291ff024137b34b76d5fcbcb17233cef50bc414346025e1ed639&scene=58&subscene=0)
+Append: [十六周年开放注册微信抽奖活动，先送20个账号注册码或300论坛币，今天下午两点开奖，详见【开放注册公告】吾爱破解论坛2024年3月13日十六周年开放注册公告。](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651140199&idx=1&sn=e27d9a00557d0f9c49a0c83bf2e455af&chksm=bd50a0338a272925dd0f4fee3e76e24437ba4c948d6c1360805a281024baa0316527535198fe&scene=58&subscene=0)
+Append: [十六周年开放注册微信抽奖活动，先送20个账号注册码或300论坛币，明天下午两点开奖，详见【开放注册公告】吾爱破解论坛2024年3月13日十六周年开放注册公告。](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651140197&idx=1&sn=ec1a6e9254da837582d966aae3b09690&chksm=bd50a0318a27292791850cb4b1d614c954cdc106af4840e98671bb8782a911e6218e6788245b&scene=58&subscene=0)
+Append: [【2024春节】解题领红包之web题writeup](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651140195&idx=1&sn=dfd66f351cc9e8608004f25b94b679cd&chksm=bd50a0378a272921f453cc49095c7c68399b645732d707b4a231a622f669ae2e217eca5ef311&scene=58&subscene=0)
+Append: [【开放注册公告】吾爱破解论坛2024年3月13日十六周年开放注册公告](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651140118&idx=1&sn=ebfd649128b56c20a3de756477233ecb&chksm=bd50a0428a27295408280749dc6c261e8a5194b893e1c0a27ace4fe77317a20f7bf9b96c5a43&scene=58&subscene=0)
+Append: [【清理未活跃会员】清理2023年光棍节开放注册未活跃会员公告](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651140115&idx=1&sn=db7f92a4ac85c70895044bbf2310673f&chksm=bd50a0478a2729510f2f0867624e77365291d553c803ad6a5e5258cabdc125f33bd11ed5f866&scene=58&subscene=0)
+Append: [吾爱破解安卓逆向入门教程《安卓逆向这档事》番外实战篇2-【2024春节】解题领红包活动，启动!](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651140106&idx=1&sn=47a4d985cc32e332e1e039fc810896de&chksm=bd50a05e8a272948a2fc4af36269aeb24616aec58c3391d960ad4b6d37709bcdf1b5242891af&scene=58&subscene=0)
+append_entries: 20
+Finish: 2024-04-11 16:20:38.017335

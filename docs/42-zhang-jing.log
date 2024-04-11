@@ -1,0 +1,49 @@
+------------------------------------------------------
+Started: 2024-04-11 16:22:50.324638
+Existing_entries: 0
+Fetching from https://wechat2rss.xlab.app/feed/31436fcc3bba8c2c2a9337a163afcb3b5a57a0a0.xml
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [一个顶级 AI 产品经理的自我修养 | 42章经](https://mp.weixin.qq.com/s?__biz=MzIyMDE5OTYyMw==&mid=2651050446&idx=1&sn=ee0db81f6f55c5f250e465d9685f0f16&chksm=8c38de66bb4f5770e61efc384a101ce8d8ec5adcfbd6ac0240b05cf6cfa9bc2fd26e3918aaf2&scene=58&subscene=0)
+Token length: 35
+Summarized using GPT-3.5-turbo
+Append: [比特币怎么又创新高了？Web3 世界这几年在发生什么？| 42章经](https://mp.weixin.qq.com/s?__biz=MzIyMDE5OTYyMw==&mid=2651050429&idx=1&sn=87c3afeef88ba4537175bba3f83c4ab9&chksm=8c38de15bb4f57037374ec1561ad8a6f0d6cd26b75e97d752764ed9153a2ac3c452b54dc8639&scene=58&subscene=0)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [24、25 年会是下一代浪潮最关键的两年 | 42章经 AI 年终复盘](https://mp.weixin.qq.com/s?__biz=MzIyMDE5OTYyMw==&mid=2651050414&idx=1&sn=1179c918271312839fb265848a2f3f27&chksm=8c38de06bb4f57105cb99a9a1de8f89cdbe572e0abc7d38ed1cf49888b293020b68b5fb83fce&scene=58&subscene=0)
+Token length: 2479
+Summarized using GPT-3.5-turbo
+Append: [2023 文章、播客合集 | 42章经](https://mp.weixin.qq.com/s?__biz=MzIyMDE5OTYyMw==&mid=2651050384&idx=1&sn=510500e5c722f25f924181165096d3bc&chksm=8c38de38bb4f572e70ee068e53b91cdd0195000547abe778cc4dfe560923f6d2ac12c7b1fb10&scene=58&subscene=0)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [AI 的对错早晚与 VC 的农耕渔牧 | 42章经](https://mp.weixin.qq.com/s?__biz=MzIyMDE5OTYyMw==&mid=2651050353&idx=1&sn=b15b9906ec3a48d15c4abb79f026b4b2&chksm=8c38ded9bb4f57cf6ef75455e263d6a3cbd70ca1c8a03313e3436814bc4b8fdf3328a888f325&scene=58&subscene=0)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [拒绝三亿美金 offer 的人 | 42章经](https://mp.weixin.qq.com/s?__biz=MzIyMDE5OTYyMw==&mid=2651050321&idx=1&sn=03a43720c8e23a266dc6ac3282ebff27&chksm=8c38def9bb4f57efe6a982b7acdfd2b27de0386c93414f60f5573a22bed446b33cfba6eed66b&scene=58&subscene=0)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [投 AI 最猛的人 | 42章经](https://mp.weixin.qq.com/s?__biz=MzIyMDE5OTYyMw==&mid=2651050308&idx=1&sn=a2312e14f9de2a738c0a50909195d837&chksm=8c38deecbb4f57fa0c1c53f6625e883574313f2ca102b706ee51d7857b912adbdd58f6d87145&scene=58&subscene=0)
+Token length: 2767
+Summarized using GPT-3.5-turbo
+Append: [朱啸虎和傅盛都没错 | 42章经](https://mp.weixin.qq.com/s?__biz=MzIyMDE5OTYyMw==&mid=2651050281&idx=1&sn=477b9e3a1f65231cd9c90691074a9603&chksm=8c38de81bb4f57977cbfb895689e02a26f5e8e1c4528356ece9b5c72b2ac77c42df5bdaaf417&scene=58&subscene=0)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [投资中的节奏与结构 | 42章经](https://mp.weixin.qq.com/s?__biz=MzIyMDE5OTYyMw==&mid=2651050275&idx=1&sn=670fba37b9bcbccaca4ff33851e2568d&chksm=8c38de8bbb4f579dc5d0fca83a54061fa8ea65bb00a949f2a000915ea2cab5a4cb2ecb2b3269&scene=58&subscene=0)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [到底有没有人在投 AI？AI 赛道第一线实操体感分享 | 42章经](https://mp.weixin.qq.com/s?__biz=MzIyMDE5OTYyMw==&mid=2651050257&idx=1&sn=0105673f36c74e66d27180a99b735c87&chksm=8c38deb9bb4f57af7ad977406ac14f7efedb30d4e53c5d389f23c460cdded95d01c4000d4aaf&scene=58&subscene=0)
+Append: [All in AI，你退休前的最后一站 | 42章经](https://mp.weixin.qq.com/s?__biz=MzIyMDE5OTYyMw==&mid=2651050247&idx=1&sn=5d710670b5d2df5b04743b965d55c54a&chksm=8c38deafbb4f57b90d1659a2f4bb3c075c0955177ab72b54fc71592af99361cc120513c9710b&scene=58&subscene=0)
+Append: [ChatGPT 把 Web 3.0 从币圈手里夺回来 | 42章经](https://mp.weixin.qq.com/s?__biz=MzIyMDE5OTYyMw==&mid=2651050233&idx=1&sn=7420b1d821880b651e4cde881c0c8947&chksm=8c38df51bb4f564721f8072e8c3c9e8b6b9943277bb51dee7ef1e98c2c2beb097a5348831707&scene=58&subscene=0)
+Append: [我是怎样用一周时间研究 ChatGPT 的？](https://mp.weixin.qq.com/s?__biz=MzIyMDE5OTYyMw==&mid=2651050227&idx=1&sn=9877d0a9ffe2c7b8ea9a54c6fa26fc34&chksm=8c38df5bbb4f564dbeeb878df3166677609ace47cdde8c677a8830e8a06df65efe49f8714ff0&scene=58&subscene=0)
+Append: [创业者之死 | 42章经](https://mp.weixin.qq.com/s?__biz=MzIyMDE5OTYyMw==&mid=2651050221&idx=1&sn=329896c398a468cb100b804ea2ec9659&chksm=8c38df45bb4f5653a65b0e2ebce0887f2dd0c11904fbe777e4659b61cec336802003e14aed7b&scene=58&subscene=0)
+Append: [中国创业者的全球化进程 | 活动报名](https://mp.weixin.qq.com/s?__biz=MzIyMDE5OTYyMw==&mid=2651050216&idx=1&sn=c370345671f22b74d36b9563bc47366f&chksm=8c38df40bb4f56562ff0f19de4d026ee3b1c5596ad9709b63bfaeae9cebb0712dd3afc0ed5f3&scene=58&subscene=0)
+Append: [红杉美国最新 52 页 PPT 分享，警告严峻考验的时刻到来 | 42章经](https://mp.weixin.qq.com/s?__biz=MzIyMDE5OTYyMw==&mid=2651050209&idx=1&sn=2165beeeaf12c84290ba8f9dd60f0a5e&chksm=8c38df49bb4f565f8ac0d94ee0cb86ff8b27c9ab41a4aafe2c1a6f4cddd1f1f8a5acb3a0e278&scene=58&subscene=0)
+Append: [寻找供应链中的投资价值 | 42章经](https://mp.weixin.qq.com/s?__biz=MzIyMDE5OTYyMw==&mid=2651050170&idx=1&sn=fe12b64a16a6e932b1f52fb32244b792&chksm=8c38df12bb4f560440d44a30e2e7b6aac7d5bb8f6ad8a4bc912d1db3d9f75b16523867bb2dde&scene=58&subscene=0)
+Append: [线下连锁咋就火了？我们请大咖来讲课了 | 42章经](https://mp.weixin.qq.com/s?__biz=MzIyMDE5OTYyMw==&mid=2651050091&idx=1&sn=4174f2f3eedb2cb888e24a3a43df2f0d&chksm=8c38dfc3bb4f56d5cf34b2b14d106dc51464c531463db2a0e6d8910070c0641609be63896140&scene=58&subscene=0)
+Append: [LP 对投资 VC 的深度研究与复盘总结｜42章经](https://mp.weixin.qq.com/s?__biz=MzIyMDE5OTYyMw==&mid=2651050066&idx=1&sn=8bc1a6f0a3a0f3506938fff2f76a6b9a&chksm=8c38dffabb4f56ec34a203d18c6d2aaa080c8527b9b3e21386da30f9ee81fc6bc38211a8f134&scene=58&subscene=0)
+Append: [重拳出海－品牌出海新招式｜42章经闭门茶话会](https://mp.weixin.qq.com/s?__biz=MzIyMDE5OTYyMw==&mid=2651050066&idx=2&sn=f3267df03dddc23921ce8338564d51c8&chksm=8c38dffabb4f56ec7f8831470effe03620dfad4a8367d226477e6095165812f15a744552ed9d&scene=58&subscene=0)
+Append: [品牌渠道特训班｜42章经第五期消费营招生](https://mp.weixin.qq.com/s?__biz=MzIyMDE5OTYyMw==&mid=2651050066&idx=3&sn=65d38c10edd2259e44fd8e5904920137&chksm=8c38dffabb4f56ecc452a2ca893ffe78ca32422f09ba906271e30f0ba4e36db5a308be97eebd&scene=58&subscene=0)
+Append: [品牌渠道特训班｜42章经第五期消费营招生](https://mp.weixin.qq.com/s?__biz=MzIyMDE5OTYyMw==&mid=2651050012&idx=1&sn=9de0560fee06e7c7168fbb01752cf414&chksm=8c38dfb4bb4f56a20801cf3c6575fabe9da28101be3e52656ce2f7498af1234856eb8c28a9b7&scene=58&subscene=0)
+Append: [投资中的周期与载波](https://mp.weixin.qq.com/s?__biz=MzIyMDE5OTYyMw==&mid=2651049973&idx=1&sn=842cc37798360f367d1e63be336f47a0&chksm=8c38c05dbb4f494b072c90bb3fe80e48397373600081d20ba87f72b895d6d9f027321ad044e6&scene=58&subscene=0)
+append_entries: 23
+Finish: 2024-04-11 16:23:41.564442
