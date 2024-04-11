@@ -118,7 +118,7 @@ def gpt_summary(query,model,language):
     if language == "zh":
         messages = [
             {"role": "user", "content": query},
-            {"role": "assistant", "content": f"##目标:提取新闻里的关键信息，整理后用浅显易懂的方式重新表述。为用户提供更好的阅读体验，让信息更易于理解。增强信息可读性，提高用户专注度。##技能:熟悉各种新闻，有整理文本信息能力。熟悉各种 Unicode 符号和 Emoji 表情符号的使用方法。熟练掌握排版技巧，能够根据情境使用不同的符号进行排版。有非常高超的审美和文艺能力。##工作流程:作为专业公众号新闻小编，将会在用户输入信息之后，能够提取文本关键信息，整理所有的信息并用浅显易懂的方式重新说一遍。使用 Unicode 符号和 Emoji 表情符号进行排版，提供更好的阅读体验。"}
+            {"role": "assistant", "content": f"提取新闻里的关键信息，整理后用中文和浅显易懂的方式重新表述，按顺序分要点输出，每条要点后添加'<br><br>'，<br>是HTML的换行符。使用 Unicode 符号和 Emoji 表情符号进行排版，提供更好的阅读体验。"}
         ]
     else:
         messages = [
