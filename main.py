@@ -118,7 +118,7 @@ def gpt_summary(query,model,language):
     if language == "zh":
         messages = [
             {"role": "user", "content": query},
-            {"role": "assistant", "content": f"提取新闻里的关键信息，整理后用中文和浅显易懂的方式重新表述，按顺序分要点输出，每条要点后添加'<br><br>'，<br>是HTML的换行符。使用 Unicode 符号和 Emoji 表情符号进行排版，提供更好的阅读体验。"}
+            {"role": "assistant", "content": f"提取新闻里的关键信息，整理后用中文和浅显易懂的方式重新表述，按顺序分要点输出，每条要点后添加'<br>'，<br>是HTML的换行符。使用 Unicode 符号和 Emoji 表情符号进行排版，提供更好的阅读体验。"}
         ]
     else:
         messages = [
@@ -296,7 +296,7 @@ max_entries = 1000
 OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
 U_NAME = os.environ.get('U_NAME')
 OPENAI_PROXY = os.environ.get('OPENAI_PROXY')
-OPENAI_BASE_URL = os.environ.get('OPENAI_BASE_URL', 'https://api.chatanywhere.tech/v1')
+OPENAI_BASE_URL = os.environ.get('OPENAI_BASE_URL', 'https://api.chatanywhere.tech/v')
 deployment_url = f'https://{U_NAME}.github.io/RSS-GPT/'
 BASE =get_cfg('cfg', 'BASE')
 keyword_length = int(get_cfg('cfg', 'keyword_length'))
