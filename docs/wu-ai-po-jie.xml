@@ -4,12 +4,12 @@
 <title>吾爱破解论坛</title>
 <link>https://wechat2rss.xlab.app/https://wechat2rss.xlab.app/feed/90c827b8290310a96ef80a13df9dbcc06ab69892.xml</link>
 
+
 <item>
 <title>ELangPatcher - 一个简单的基于特征码的易语言静态编译程序膨胀与混淆工具</title>
 <link>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140425&amp;idx=1&amp;sn=30beed51ba6fe1d836f264e0d07905b4&amp;chksm=bd50a11d8a27280b4675e00e503dfdaf9dae053b111d43a3b753a833ee548f4c0f94b0421565&amp;scene=58&amp;subscene=0</link>
 <guid>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140425&amp;idx=1&amp;sn=30beed51ba6fe1d836f264e0d07905b4&amp;chksm=bd50a11d8a27280b4675e00e503dfdaf9dae053b111d43a3b753a833ee548f4c0f94b0421565&amp;scene=58&amp;subscene=0</guid>
 <content:encoded><![CDATA[
-
 <p>
 原创 <span>吾爱pojie</span> <span>2024-03-28 14:43</span> <span style="display: inline-block;">北京</span>
 </p>
@@ -28,20 +28,19 @@
 <p><a href="https://www.52pojie.cn/thread-1904733-1-1.html">阅读原文</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 28 Mar 2024 14:42:44 +0800</pubDate>
-<pubDate>Thu, 28 Mar 2024 14:42:44 +0800</pubDate>
 </item>
 <item>
 <title>[验证码识别]某盾滑块验证码增强版的识别</title>
 <link>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140373&amp;idx=1&amp;sn=83e93cad7c5a97819f3ba2cf98f4ea03&amp;chksm=bd50a1418a2728571c78c36f8f36dbf500fb45939cfaa1e1c9c5e7b22d8fb8556abe3f5ed890&amp;scene=58&amp;subscene=0</link>
 <guid>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140373&amp;idx=1&amp;sn=83e93cad7c5a97819f3ba2cf98f4ea03&amp;chksm=bd50a1418a2728571c78c36f8f36dbf500fb45939cfaa1e1c9c5e7b22d8fb8556abe3f5ed890&amp;scene=58&amp;subscene=0</guid>
 <content:encoded><![CDATA[
-<div> - 最近，某盾推出了增强版验证码，其中滑块移动轨迹是条弧线，且会旋转，通过attrs值控制移动和旋转方式。<br>
-- 滑块移动轨迹通过控制台调试可以观察到，attrs值影响滑块移动和旋转，如attrs小于0时以右上角为中心点进行旋转。<br>
-- 滑块移动轨迹算法通过代码分析得到，可以计算滑块的偏移量和旋转角度。<br>
-- 实现缺口识别的方案包括旋转模板匹配、目标检测+旋转模板匹配、目标检测+滑块轨迹位置匹配和置信度比较。<br>
-- 通过计算滑块轨迹点和缺口中心点的最小距离，可以匹配正确的缺口，选择置信度最高的缺口作为目标。<br>
-- 进行目标检测需要训练数据集并合理选择训练数量，训练方法可以参考作者之前的文章。<br>
-- 欢迎讨论和分享更好的识别方法。<br> <div>
+<div> - 最近，某盾推出了增强版验证码，其中滑块移动轨迹是条弧线，且会旋转，通过attrs值控制移动和旋转方式。<br />
+- 滑块移动轨迹通过控制台调试可以观察到，attrs值影响滑块移动和旋转，如attrs小于0时以右上角为中心点进行旋转。<br />
+- 滑块移动轨迹算法通过代码分析得到，可以计算滑块的偏移量和旋转角度。<br />
+- 实现缺口识别的方案包括旋转模板匹配、目标检测+旋转模板匹配、目标检测+滑块轨迹位置匹配和置信度比较。<br />
+- 通过计算滑块轨迹点和缺口中心点的最小距离，可以匹配正确的缺口，选择置信度最高的缺口作为目标。<br />
+- 进行目标检测需要训练数据集并合理选择训练数量，训练方法可以参考作者之前的文章。<br />
+- 欢迎讨论和分享更好的识别方法。<br /> <div>
 <p>
 原创 <span>吾爱pojie</span> <span>2024-03-27 16:38</span> <span style="display: inline-block;">北京</span>
 </p>
@@ -60,14 +59,12 @@
 <p><a href="https://www.52pojie.cn/thread-1904971-1-1.html">阅读原文</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 27 Mar 2024 16:38:19 +0800</pubDate>
-<pubDate>Wed, 27 Mar 2024 16:38:19 +0800</pubDate>
 </item>
 <item>
 <title>2022腾讯游戏安全大赛复盘</title>
 <link>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140353&amp;idx=1&amp;sn=ee512da957024b45e2e854aaee2725c0&amp;chksm=bd50a1558a2728434bb74fc90144a2573311afe7dbc9a664250f2f57163e533b07b0bcf40366&amp;scene=58&amp;subscene=0</link>
 <guid>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140353&amp;idx=1&amp;sn=ee512da957024b45e2e854aaee2725c0&amp;chksm=bd50a1558a2728434bb74fc90144a2573311afe7dbc9a664250f2f57163e533b07b0bcf40366&amp;scene=58&amp;subscene=0</guid>
 <content:encoded><![CDATA[
-
 <p>
 原创 <span>吾爱pojie</span> <span>2024-03-25 18:17</span> <span style="display: inline-block;">北京</span>
 </p>
@@ -86,21 +83,20 @@
 <p><a href="https://www.52pojie.cn/thread-1904205-1-1.html">阅读原文</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 25 Mar 2024 18:17:09 +0800</pubDate>
-<pubDate>Mon, 25 Mar 2024 18:17:09 +0800</pubDate>
 </item>
 <item>
 <title>【公告】关于论坛验证码无法显示的问题解决方法</title>
 <link>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140318&amp;idx=1&amp;sn=e77d522f3ced943e26ef4c5a0b2570e8&amp;chksm=bd50a08a8a27299ca62f961c28c942e9c0665749abd118ec1b99fa8c3ff67874b4e86dbd60a0&amp;scene=58&amp;subscene=0</link>
 <guid>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140318&amp;idx=1&amp;sn=e77d522f3ced943e26ef4c5a0b2570e8&amp;chksm=bd50a08a8a27299ca62f961c28c942e9c0665749abd118ec1b99fa8c3ff67874b4e86dbd60a0&amp;scene=58&amp;subscene=0</guid>
 <content:encoded><![CDATA[
-<div> 🔍DNS解析错误导致部分同学无法显示验证码，建议使用加密DNS进行网络访问，减少网络劫持的发生。<br>
-🖥️推荐国内加密DNS：阿里加密DNS和腾讯加密DNS。<br>
-🌐设置浏览器加密DNS方法：<br>
-Microsoft Edge、Google Chrome、360极速浏览器X、Firefox火狐浏览器分别有不同步骤。<br>
-Windows 11系统支持加密DNS设置，其他老系统推荐使用浏览器设置方式。<br>
-📱手机系统和浏览器根据设备和浏览器信息进行加密DNS设置。<br>
-💡建议绑定QQ，使用QQ登录可免除验证码问题。后期将启用新验证码机制，加强用户体验。<br>
-ℹ️更多问题解决方案和公告请关注官方论坛www.52pojie.cn。<br> <div>
+<div> 🔍DNS解析错误导致部分同学无法显示验证码，建议使用加密DNS进行网络访问，减少网络劫持的发生。<br />
+🖥️推荐国内加密DNS：阿里加密DNS和腾讯加密DNS。<br />
+🌐设置浏览器加密DNS方法：<br />
+Microsoft Edge、Google Chrome、360极速浏览器X、Firefox火狐浏览器分别有不同步骤。<br />
+Windows 11系统支持加密DNS设置，其他老系统推荐使用浏览器设置方式。<br />
+📱手机系统和浏览器根据设备和浏览器信息进行加密DNS设置。<br />
+💡建议绑定QQ，使用QQ登录可免除验证码问题。后期将启用新验证码机制，加强用户体验。<br />
+ℹ️更多问题解决方案和公告请关注官方论坛www.52pojie.cn。<br /> <div>
 <p>
 原创 <span>吾爱pojie</span> <span>2024-03-20 16:50</span> <span style="display: inline-block;">北京</span>
 </p>
@@ -119,19 +115,18 @@ Windows 11系统支持加密DNS设置，其他老系统推荐使用浏览器设�
 <p><a href="https://www.52pojie.cn/thread-98585-1-1.html">阅读原文</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 20 Mar 2024 16:50:19 +0800</pubDate>
-<pubDate>Wed, 20 Mar 2024 16:50:19 +0800</pubDate>
 </item>
 <item>
 <title>华硕fx63vd7700充电保护程序“ASUS Battery Health Charging”逆向分析</title>
 <link>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140308&amp;idx=1&amp;sn=97258089fd7ac9252b638ffc7e9fde7d&amp;chksm=bd50a0808a27299644a5f10d065b50f003660f6e057e5d5d6af238f63bb0c1c4d3b3a995e70c&amp;scene=58&amp;subscene=0</link>
 <guid>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140308&amp;idx=1&amp;sn=97258089fd7ac9252b638ffc7e9fde7d&amp;chksm=bd50a0808a27299644a5f10d065b50f003660f6e057e5d5d6af238f63bb0c1c4d3b3a995e70c&amp;scene=58&amp;subscene=0</guid>
 <content:encoded><![CDATA[
-<div> 1. 作者对华硕飞行堡垒fx63vd7700型号的充电保护程序进行了分析，发现可以控制最高充电百分比。<br>
-2. 该充电保护程序有三种模式：完整充电模式、平衡保养模式、最佳保养模式，分别限制充电百分比为100%、80%和60%。<br>
-3. 通过动态调试和静态分析，作者发现DeviceIoControl函数用于和设备通信，并结构体中的perecent字段可以控制充电百分比。<br>
-4. 作者通过C++代码复现了控制笔记本最高充电百分比的方法，可以修改为60%、80%和100%这三种数值，其他数值会默认为100%。<br>
-5. 作者提供了代码和操作步骤，可以自行尝试修改最高充电百分比。<br>
-6. 对于其他品牌或型号的笔记本电脑，该充电保护程序不适用。<br> <div>
+<div> 1. 作者对华硕飞行堡垒fx63vd7700型号的充电保护程序进行了分析，发现可以控制最高充电百分比。<br />
+2. 该充电保护程序有三种模式：完整充电模式、平衡保养模式、最佳保养模式，分别限制充电百分比为100%、80%和60%。<br />
+3. 通过动态调试和静态分析，作者发现DeviceIoControl函数用于和设备通信，并结构体中的perecent字段可以控制充电百分比。<br />
+4. 作者通过C++代码复现了控制笔记本最高充电百分比的方法，可以修改为60%、80%和100%这三种数值，其他数值会默认为100%。<br />
+5. 作者提供了代码和操作步骤，可以自行尝试修改最高充电百分比。<br />
+6. 对于其他品牌或型号的笔记本电脑，该充电保护程序不适用。<br /> <div>
 <p>
 原创 <span>吾爱pojie</span> <span>2024-03-19 16:10</span> <span style="display: inline-block;">北京</span>
 </p>
@@ -149,7 +144,6 @@ Windows 11系统支持加密DNS设置，其他老系统推荐使用浏览器设�
 
 <p><a href="https://www.52pojie.cn/thread-1902161-1-1.html">阅读原文</a></p>
 ]]></content:encoded>
-<pubDate>Tue, 19 Mar 2024 16:10:09 +0800</pubDate>
 <pubDate>Tue, 19 Mar 2024 16:10:09 +0800</pubDate>
 </item>
 <item>
@@ -169,7 +163,7 @@ Windows 11系统支持加密DNS设置，其他老系统推荐使用浏览器设�
 1. 时间：2024年3月18日下午5点05分
 2. 地点：北京
 
-<br> <div>
+<br /> <div>
 <p>
 <span></span> <span>2024-03-18 17:05</span> <span style="display: inline-block;">北京</span>
 </p>
@@ -190,14 +184,12 @@ Windows 11系统支持加密DNS设置，其他老系统推荐使用浏览器设�
                       </div>
 ]]></content:encoded>
 <pubDate>Mon, 18 Mar 2024 17:04:44 +0800</pubDate>
-<pubDate>Mon, 18 Mar 2024 17:04:44 +0800</pubDate>
 </item>
 <item>
 <title>【漏洞分析】CVE-2021-4145 dirty cred漏洞复现</title>
 <link>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140292&amp;idx=1&amp;sn=525c0180c43ad8028deadaa683e50c9d&amp;chksm=bd50a0908a272986b8d0075aadadf72cbc6c3af41c4d4bd5d0539b3613df059e240811370e67&amp;scene=58&amp;subscene=0</link>
 <guid>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140292&amp;idx=1&amp;sn=525c0180c43ad8028deadaa683e50c9d&amp;chksm=bd50a0908a272986b8d0075aadadf72cbc6c3af41c4d4bd5d0539b3613df059e240811370e67&amp;scene=58&amp;subscene=0</guid>
 <content:encoded><![CDATA[
-
 <p>
 原创 <span>吾爱pojie</span> <span>2024-03-16 09:25</span> <span style="display: inline-block;">北京</span>
 </p>
@@ -216,14 +208,12 @@ Windows 11系统支持加密DNS设置，其他老系统推荐使用浏览器设�
 <p><a href="https://www.52pojie.cn/thread-1900181-1-1.html">阅读原文</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 15 Mar 2024 17:27:50 +0800</pubDate>
-<pubDate>Fri, 15 Mar 2024 17:27:50 +0800</pubDate>
 </item>
 <item>
 <title>吾爱破解2024红包题部分WriteUP</title>
 <link>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140291&amp;idx=1&amp;sn=4bb26af6072119b8e0757b8aece7ddec&amp;chksm=bd50a0978a272981aa38bdeb24ded75053a2fa778362ee986b6c8dcade3091baaae0e0072437&amp;scene=58&amp;subscene=0</link>
 <guid>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140291&amp;idx=1&amp;sn=4bb26af6072119b8e0757b8aece7ddec&amp;chksm=bd50a0978a272981aa38bdeb24ded75053a2fa778362ee986b6c8dcade3091baaae0e0072437&amp;scene=58&amp;subscene=0</guid>
 <content:encoded><![CDATA[
-
 <p>
 原创 <span>吾爱pojie</span> <span>2024-03-15 17:27</span> <span style="display: inline-block;">北京</span>
 </p>
@@ -242,7 +232,6 @@ Windows 11系统支持加密DNS设置，其他老系统推荐使用浏览器设�
 <p><a href="https://www.52pojie.cn/thread-1888883-1-1.html">阅读原文</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 15 Mar 2024 17:26:51 +0800</pubDate>
-<pubDate>Fri, 15 Mar 2024 17:26:51 +0800</pubDate>
 </item>
 <item>
 <title>十六周年开放注册四小时共注册46677人，没有激活的同学请尽快激活啦，发帖前请认真阅读注册须知和总版规，防止违规封号注销。
@@ -252,11 +241,11 @@ Windows 11系统支持加密DNS设置，其他老系统推荐使用浏览器设�
 <guid>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140216&amp;idx=1&amp;sn=db8ffb124fb2682de404536278f8893f&amp;chksm=bd50a02c8a27293aca1512867952c33deb7f219c6bff8ba7901380813a8c9686c655d7c1448d&amp;scene=58&amp;subscene=0</guid>
 <content:encoded><![CDATA[
 <div> ❶ 事件名称：吾爱破解网站发布2024年03月14日的消息
-<br>
+<br />
 ❷ 发布时间：11:19
-<br>
+<br />
 ❸ 发布地点：北京
-<br> <div>
+<br /> <div>
 <p>
 <span>吾爱pojie</span> <span>2024-03-14 11:19</span> <span style="display: inline-block;">北京</span>
 </p>
@@ -277,7 +266,6 @@ Windows 11系统支持加密DNS设置，其他老系统推荐使用浏览器设�
                       </div>
 ]]></content:encoded>
 <pubDate>Thu, 14 Mar 2024 11:19:20 +0800</pubDate>
-<pubDate>Thu, 14 Mar 2024 11:19:20 +0800</pubDate>
 </item>
 <item>
 <title>【开放注册公告】吾爱破解论坛2024年3月13日十六周年开放注册公告即将开始 12：00 -- 14：00 和 20：00 -- 22：00。
@@ -296,9 +284,9 @@ Windows 11系统支持加密DNS设置，其他老系统推荐使用浏览器设�
 🕚 11:15  
 📍 北京  
 
-1. 2024年3月13日上午11:15，这则新闻发生在北京。<br>
+1. 2024年3月13日上午11:15，这则新闻发生在北京。<br />
 
-2. 请注意，这是中国当地时间，可能与您所在地的时间存在差异。<br> <div>
+2. 请注意，这是中国当地时间，可能与您所在地的时间存在差异。<br /> <div>
 <p>
 <span></span> <span>2024-03-13 11:15</span> <span style="display: inline-block;">北京</span>
 </p>
@@ -319,7 +307,6 @@ Windows 11系统支持加密DNS设置，其他老系统推荐使用浏览器设�
                       </div>
 ]]></content:encoded>
 <pubDate>Wed, 13 Mar 2024 11:14:42 +0800</pubDate>
-<pubDate>Wed, 13 Mar 2024 11:14:42 +0800</pubDate>
 </item>
 <item>
 <title>十六周年开放注册微信抽奖活动，再送40个账号注册码或300论坛币，下午两点开奖，详见【开放注册公告】吾爱破解论坛2024年3月13日十六周年开放注册公告。
@@ -330,7 +317,6 @@ Windows 11系统支持加密DNS设置，其他老系统推荐使用浏览器设�
 <link>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140212&amp;idx=1&amp;sn=c631371d786bc30870b342f907df53a3&amp;chksm=bd50a0208a272936dd6fa90d4b999df2f75aa3fca0cddfd18c969d530cf8679518b39335d5c1&amp;scene=58&amp;subscene=0</link>
 <guid>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140212&amp;idx=1&amp;sn=c631371d786bc30870b342f907df53a3&amp;chksm=bd50a0208a272936dd6fa90d4b999df2f75aa3fca0cddfd18c969d530cf8679518b39335d5c1&amp;scene=58&amp;subscene=0</guid>
 <content:encoded><![CDATA[
-
 <p>
 <span></span> <span>2024-03-12 10:25</span> <span style="display: inline-block;">北京</span>
 </p>
@@ -351,14 +337,12 @@ Windows 11系统支持加密DNS设置，其他老系统推荐使用浏览器设�
                       </div>
 ]]></content:encoded>
 <pubDate>Tue, 12 Mar 2024 10:25:40 +0800</pubDate>
-<pubDate>Tue, 12 Mar 2024 10:25:40 +0800</pubDate>
 </item>
 <item>
 <title>吾爱破解 2024 春节红包活动WP(全，含 Android 高级题)</title>
 <link>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140210&amp;idx=1&amp;sn=0f3c8d79d823ad6dfd30b95fbd11be9b&amp;chksm=bd50a0268a272930a694d989c02d58121311eabfddd56f63bd7be73ea316efa76872584c1bd2&amp;scene=58&amp;subscene=0</link>
 <guid>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140210&amp;idx=1&amp;sn=0f3c8d79d823ad6dfd30b95fbd11be9b&amp;chksm=bd50a0268a272930a694d989c02d58121311eabfddd56f63bd7be73ea316efa76872584c1bd2&amp;scene=58&amp;subscene=0</guid>
 <content:encoded><![CDATA[
-
 <p>
 原创 <span>吾爱pojie</span> <span>2024-03-11 12:18</span> <span style="display: inline-block;">北京</span>
 </p>
@@ -377,14 +361,12 @@ Windows 11系统支持加密DNS设置，其他老系统推荐使用浏览器设�
 <p><a href="https://www.52pojie.cn/thread-1897975-1-1.html">阅读原文</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 11 Mar 2024 12:16:15 +0800</pubDate>
-<pubDate>Mon, 11 Mar 2024 12:16:15 +0800</pubDate>
 </item>
 <item>
 <title>十六周年开放注册微信抽奖活动，提前再送40个账号注册码或300论坛币，下周二下午两点开奖，详见【开放注册公告】吾爱破解论坛2024年3月13日十六周年开放注册公告。</title>
 <link>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140204&amp;idx=1&amp;sn=7a3bb055249cc0f61a4f486a463cd61d&amp;chksm=bd50a0388a27292eba88011f5a15d764a81df5dc8506e2aa98c44462d89214e77e1c70a11e0f&amp;scene=58&amp;subscene=0</link>
 <guid>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140204&amp;idx=1&amp;sn=7a3bb055249cc0f61a4f486a463cd61d&amp;chksm=bd50a0388a27292eba88011f5a15d764a81df5dc8506e2aa98c44462d89214e77e1c70a11e0f&amp;scene=58&amp;subscene=0</guid>
 <content:encoded><![CDATA[
-
 <p>
 <span></span> <span>2024-03-09 09:25</span> <span style="display: inline-block;">北京</span>
 </p>
@@ -405,14 +387,12 @@ Windows 11系统支持加密DNS设置，其他老系统推荐使用浏览器设�
                       </div>
 ]]></content:encoded>
 <pubDate>Fri, 08 Mar 2024 18:01:26 +0800</pubDate>
-<pubDate>Fri, 08 Mar 2024 18:01:26 +0800</pubDate>
 </item>
 <item>
 <title>【开放注册公告】吾爱破解论坛2024年3月13日十六周年开放注册公告</title>
 <link>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140202&amp;idx=1&amp;sn=7dd95aeb1b06728ffabf80b96cb5b78c&amp;chksm=bd50a03e8a27292813723345291ff024137b34b76d5fcbcb17233cef50bc414346025e1ed639&amp;scene=58&amp;subscene=0</link>
 <guid>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140202&amp;idx=1&amp;sn=7dd95aeb1b06728ffabf80b96cb5b78c&amp;chksm=bd50a03e8a27292813723345291ff024137b34b76d5fcbcb17233cef50bc414346025e1ed639&amp;scene=58&amp;subscene=0</guid>
 <content:encoded><![CDATA[
-
 <p>
 <span>吾爱pojie</span> <span>2024-03-08 16:23</span> <span style="display: inline-block;">北京</span>
 </p>
@@ -431,14 +411,12 @@ Windows 11系统支持加密DNS设置，其他老系统推荐使用浏览器设�
 <p><a href="https://www.52pojie.cn/thread-1896511-1-1.html">阅读原文</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 08 Mar 2024 16:22:41 +0800</pubDate>
-<pubDate>Fri, 08 Mar 2024 16:22:41 +0800</pubDate>
 </item>
 <item>
 <title>十六周年开放注册微信抽奖活动，先送20个账号注册码或300论坛币，今天下午两点开奖，详见【开放注册公告】吾爱破解论坛2024年3月13日十六周年开放注册公告。</title>
 <link>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140199&amp;idx=1&amp;sn=e27d9a00557d0f9c49a0c83bf2e455af&amp;chksm=bd50a0338a272925dd0f4fee3e76e24437ba4c948d6c1360805a281024baa0316527535198fe&amp;scene=58&amp;subscene=0</link>
 <guid>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140199&amp;idx=1&amp;sn=e27d9a00557d0f9c49a0c83bf2e455af&amp;chksm=bd50a0338a272925dd0f4fee3e76e24437ba4c948d6c1360805a281024baa0316527535198fe&amp;scene=58&amp;subscene=0</guid>
 <content:encoded><![CDATA[
-
 <p>
 <span></span> <span>2024-03-07 10:15</span> <span style="display: inline-block;">日本</span>
 </p>
@@ -459,14 +437,12 @@ Windows 11系统支持加密DNS设置，其他老系统推荐使用浏览器设�
                       </div>
 ]]></content:encoded>
 <pubDate>Thu, 07 Mar 2024 10:14:47 +0800</pubDate>
-<pubDate>Thu, 07 Mar 2024 10:14:47 +0800</pubDate>
 </item>
 <item>
 <title>十六周年开放注册微信抽奖活动，先送20个账号注册码或300论坛币，明天下午两点开奖，详见【开放注册公告】吾爱破解论坛2024年3月13日十六周年开放注册公告。</title>
 <link>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140197&amp;idx=1&amp;sn=ec1a6e9254da837582d966aae3b09690&amp;chksm=bd50a0318a27292791850cb4b1d614c954cdc106af4840e98671bb8782a911e6218e6788245b&amp;scene=58&amp;subscene=0</link>
 <guid>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140197&amp;idx=1&amp;sn=ec1a6e9254da837582d966aae3b09690&amp;chksm=bd50a0318a27292791850cb4b1d614c954cdc106af4840e98671bb8782a911e6218e6788245b&amp;scene=58&amp;subscene=0</guid>
 <content:encoded><![CDATA[
-
 <p>
 <span></span> <span>2024-03-06 10:46</span> <span style="display: inline-block;">北京</span>
 </p>
@@ -487,14 +463,12 @@ Windows 11系统支持加密DNS设置，其他老系统推荐使用浏览器设�
                       </div>
 ]]></content:encoded>
 <pubDate>Wed, 06 Mar 2024 10:45:47 +0800</pubDate>
-<pubDate>Wed, 06 Mar 2024 10:45:47 +0800</pubDate>
 </item>
 <item>
 <title>【2024春节】解题领红包之web题writeup</title>
 <link>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140195&amp;idx=1&amp;sn=dfd66f351cc9e8608004f25b94b679cd&amp;chksm=bd50a0378a272921f453cc49095c7c68399b645732d707b4a231a622f669ae2e217eca5ef311&amp;scene=58&amp;subscene=0</link>
 <guid>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140195&amp;idx=1&amp;sn=dfd66f351cc9e8608004f25b94b679cd&amp;chksm=bd50a0378a272921f453cc49095c7c68399b645732d707b4a231a622f669ae2e217eca5ef311&amp;scene=58&amp;subscene=0</guid>
 <content:encoded><![CDATA[
-
 <p>
 原创 <span>吾爱pojie</span> <span>2024-03-05 15:20</span> <span style="display: inline-block;">北京</span>
 </p>
@@ -513,14 +487,12 @@ Windows 11系统支持加密DNS设置，其他老系统推荐使用浏览器设�
 <p><a href="https://www.52pojie.cn/thread-1893062-1-1.html">阅读原文</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 05 Mar 2024 15:19:27 +0800</pubDate>
-<pubDate>Tue, 05 Mar 2024 15:19:27 +0800</pubDate>
 </item>
 <item>
 <title>【开放注册公告】吾爱破解论坛2024年3月13日十六周年开放注册公告</title>
 <link>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140118&amp;idx=1&amp;sn=ebfd649128b56c20a3de756477233ecb&amp;chksm=bd50a0428a27295408280749dc6c261e8a5194b893e1c0a27ace4fe77317a20f7bf9b96c5a43&amp;scene=58&amp;subscene=0</link>
 <guid>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140118&amp;idx=1&amp;sn=ebfd649128b56c20a3de756477233ecb&amp;chksm=bd50a0428a27295408280749dc6c261e8a5194b893e1c0a27ace4fe77317a20f7bf9b96c5a43&amp;scene=58&amp;subscene=0</guid>
 <content:encoded><![CDATA[
-
 <p>
 <span>吾爱pojie</span> <span>2024-03-04 17:33</span> <span style="display: inline-block;">北京</span>
 </p>
@@ -539,14 +511,12 @@ Windows 11系统支持加密DNS设置，其他老系统推荐使用浏览器设�
 <p><a href="https://www.52pojie.cn/thread-1896511-1-1.html">阅读原文</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 04 Mar 2024 17:32:35 +0800</pubDate>
-<pubDate>Mon, 04 Mar 2024 17:32:35 +0800</pubDate>
 </item>
 <item>
 <title>【清理未活跃会员】清理2023年光棍节开放注册未活跃会员公告</title>
 <link>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140115&amp;idx=1&amp;sn=db7f92a4ac85c70895044bbf2310673f&amp;chksm=bd50a0478a2729510f2f0867624e77365291d553c803ad6a5e5258cabdc125f33bd11ed5f866&amp;scene=58&amp;subscene=0</link>
 <guid>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140115&amp;idx=1&amp;sn=db7f92a4ac85c70895044bbf2310673f&amp;chksm=bd50a0478a2729510f2f0867624e77365291d553c803ad6a5e5258cabdc125f33bd11ed5f866&amp;scene=58&amp;subscene=0</guid>
 <content:encoded><![CDATA[
-
 <p>
 <span></span> <span>2024-02-29 17:29</span> <span style="display: inline-block;">北京</span>
 </p>
@@ -565,14 +535,12 @@ Windows 11系统支持加密DNS设置，其他老系统推荐使用浏览器设�
 <p><a href="https://www.52pojie.cn/thread-1894998-1-1.html">阅读原文</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 29 Feb 2024 17:29:04 +0800</pubDate>
-<pubDate>Thu, 29 Feb 2024 17:29:04 +0800</pubDate>
 </item>
 <item>
 <title>吾爱破解安卓逆向入门教程《安卓逆向这档事》番外实战篇2-【2024春节】解题领红包活动，启动!</title>
 <link>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140106&amp;idx=1&amp;sn=47a4d985cc32e332e1e039fc810896de&amp;chksm=bd50a05e8a272948a2fc4af36269aeb24616aec58c3391d960ad4b6d37709bcdf1b5242891af&amp;scene=58&amp;subscene=0</link>
 <guid>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140106&amp;idx=1&amp;sn=47a4d985cc32e332e1e039fc810896de&amp;chksm=bd50a05e8a272948a2fc4af36269aeb24616aec58c3391d960ad4b6d37709bcdf1b5242891af&amp;scene=58&amp;subscene=0</guid>
 <content:encoded><![CDATA[
-
 <p>
 原创 <span>吾爱pojie</span> <span>2024-02-28 15:36</span> <span style="display: inline-block;">北京</span>
 </p>
@@ -591,8 +559,6 @@ Windows 11系统支持加密DNS设置，其他老系统推荐使用浏览器设�
 <p><a href="https://www.bilibili.com/video/BV1NW421P7CF">阅读原文</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 28 Feb 2024 15:35:53 +0800</pubDate>
-<pubDate>Wed, 28 Feb 2024 15:35:53 +0800</pubDate>
 </item>
-
 </channel>
 </rss>

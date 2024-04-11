@@ -44,3 +44,10 @@ Append: [自我记录、量化与回溯的数字之旅](https://sspai.com/post/8
 Append: [为了记录生活大小事，我开发了 MarkTimes](https://sspai.com/post/87648)
 append_entries: 20
 Finish: 2024-04-11 16:18:36.992140
+------------------------------------------------------
+Started: 2024-04-11 18:08:21.316294
+Existing_entries: 20
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/shao-shu-pai
