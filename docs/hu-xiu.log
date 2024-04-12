@@ -250,3 +250,49 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-04-12 14:07:02.374226
+Existing_entries: 86
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日150次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 150 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [高跟鞋，为什么被越来越多的女性抛弃？](https://www.huxiu.com/article/2899752.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日150次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 150 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [一个季度省出2.68亿美元，远程办公的账要怎么算？](https://www.huxiu.com/article/2899196.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日150次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 150 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [租到“串串房”的深圳打工人](https://www.huxiu.com/article/2899181.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日150次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 150 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [陈鲁豫：我始终认为，感同身受非常重要](https://www.huxiu.com/article/2899086.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日150次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 150 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [以色列太疯狂了，赢家和输家已经出现](https://www.huxiu.com/article/2898718.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日150次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 150 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [谁能制造下一个成都“迪斯尼”](https://www.huxiu.com/article/2899225.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日150次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 150 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [你GPT成瘾了吗？](https://www.huxiu.com/article/2899101.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日150次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 150 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [我们关系的“远近”，不只是一种比喻](https://www.huxiu.com/article/2895522.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日150次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 150 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [首批Ai Pin用户集体劝退，“AI时代的iPhone”把人变得愚蠢](https://www.huxiu.com/article/2899147.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日150次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 150 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [细数阿里投资，蔡崇信所言不是否定只是事实](https://www.huxiu.com/article/2898747.html)
+Append: [投资短剧，小心掉坑里](https://www.huxiu.com/article/2898704.html)
+Append: [OpenAI开除Ilya盟友，理由：涉嫌泄密](https://www.huxiu.com/article/2898782.html)
+Append: [阿里改革这一年，马云的三次关键发声](https://www.huxiu.com/article/2898243.html)
+Append: [埃及的地府到底长啥样？](https://www.huxiu.com/article/2898748.html)
+Append: [AI大模型，正在重塑跨境电商的未来](https://www.huxiu.com/article/2898745.html)
+Append: [越南重启南北高铁计划，影响有多大？](https://www.huxiu.com/article/2897193.html)
+Append: [猪企暴雷，股票却大涨，猪周期到底是怎么回事儿？](https://www.huxiu.com/article/2898773.html)
+Append: [猪周期拐点将至？](https://www.huxiu.com/article/2898725.html)
+Append: [方便面这么弯，是用针织出来的吗？](https://www.huxiu.com/article/2899066.html)
+Append: [新能源MPV市场，国产汽车的下一个破局点？](https://www.huxiu.com/article/2893830.html)
+append_entries: 20
+Finish: 2024-04-12 14:08:59.596040
