@@ -303,3 +303,15 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-04-12 18:07:26.986087
+Existing_entries: 106
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 3811
+Summarized using GPT-3.5-turbo
+Append: [DeepMind真的“发现220万种晶体”？](https://www.huxiu.com/article/2899830.html)
+Token length: 2875
+Summarized using GPT-3.5-turbo
+Append: [数字人到底是不是花瓶？](https://www.huxiu.com/article/2899182.html)
+append_entries: 2
+Finish: 2024-04-12 18:07:51.847416
