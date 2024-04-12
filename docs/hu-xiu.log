@@ -296,3 +296,10 @@ Append: [方便面这么弯，是用针织出来的吗？](https://www.huxiu.com
 Append: [新能源MPV市场，国产汽车的下一个破局点？](https://www.huxiu.com/article/2893830.html)
 append_entries: 20
 Finish: 2024-04-12 14:08:59.596040
+------------------------------------------------------
+Started: 2024-04-12 16:07:44.974873
+Existing_entries: 106
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu

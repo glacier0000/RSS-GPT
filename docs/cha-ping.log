@@ -140,3 +140,27 @@ Existing_entries: 50
 Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
 append_entries: 0
 Finish: 2024-04-12 14:09:20.289139
+------------------------------------------------------
+Started: 2024-04-12 16:08:19.530957
+Existing_entries: 50
+Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [华为又发了一次智界S7，这回还能逆天改命吗？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654492491&idx=1&sn=1208c168aed3e1e89a9d624fa6a5ab80&chksm=8b85404cbcf2c95a299700bfa4848777aa5cf7ebc274e367ca11cf12ff11452f96b4801eb49c&scene=58&subscene=0)
+Token length: 2709
+Summarized using GPT-3.5-turbo
+Append: [小米 SU7 赛道上墙？你还真不能怪刹车片。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654492491&idx=2&sn=abfd31e9d4752b857b5ca06d29fa103e&chksm=8b85404cbcf2c95a6581fa1a57213d6df42884f39695f62a3b47b17fe9334abe1444e36364db&scene=58&subscene=0)
+Token length: 2572
+Summarized using GPT-3.5-turbo
+Append: [大疆今晚发布的无人机，让我体会到了空中版速度与激情！](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654492491&idx=3&sn=6b6f15bb8ab1818e5db4ce33560c3711&chksm=8b85404cbcf2c95aaf291bdfe23a322e0705124dfff36e3e8aba5cf6d4fd46be2a4d38412165&scene=58&subscene=0)
+Token length: 68
+Summarized using GPT-3.5-turbo
+Append: [今日最佳：皮裤是茄子做的证据。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654492491&idx=4&sn=466646cbe996e16f5efcd9a6c69d0742&chksm=8b85404cbcf2c95a9b2e0f9d9dce7c3c66701a82eb96085ae862ef63be50f4403daf4dfd3e48&scene=58&subscene=0)
+Token length: 33
+Summarized using GPT-3.5-turbo
+Append: [聊一聊：如果能和一个游戏角色见一面，你会选谁？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654492491&idx=5&sn=277586fd024bc2c12b95050c04a4634b&chksm=8b85404cbcf2c95a36e7643f2ef918a3eac8c7dbc689d14bb891cfaa0c022b1a4ea93e6f289e&scene=58&subscene=0)
+Token length: 1357
+Summarized using GPT-3.5-turbo
+Append: [字节剥离TikTok限期或延长至一年，苹果承认手表存在鬼触，荣耀回应红米标错参数，传台积电2nm入正轨，这就是今天的其他大新闻！](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654492491&idx=6&sn=3503d11cb7bafbdd067259f9ba2f3001&chksm=8b85404cbcf2c95ae3e5e7dcb15cfe5abefe21a80022330f291864dff491fdaaf2e1222f1215&scene=58&subscene=0)
+append_entries: 6
+Finish: 2024-04-12 16:08:52.491890
