@@ -96,3 +96,15 @@ Existing_entries: 21
 Fetching from https://glacier0000.vercel.app/sspai/matrix
 append_entries: 0
 Finish: 2024-04-12 08:09:10.992071
+------------------------------------------------------
+Started: 2024-04-12 10:07:22.483039
+Existing_entries: 21
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日150次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 150 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [当爱已成往事：致敬索尼爱立信 Xperia Arc S](https://sspai.com/post/88001)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日150次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 150 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [初见山西，记住大同](https://sspai.com/post/87791)
+append_entries: 2
+Finish: 2024-04-12 10:07:50.501904
