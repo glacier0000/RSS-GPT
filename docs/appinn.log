@@ -21877,3 +21877,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-04-12 00:30:56.972522
+------------------------------------------------------
+Started: 2024-04-12 02:19:15.941987
+Existing_entries: 350
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Token length: 746
+Summarized using GPT-3.5-turbo
+Append: [【自荐】通过打卡的方式写日记，一个小于 1MB 的 iOS 日记软件](https://meta.appinn.net/t/topic/31337)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-04-12 02:19:26.287842
