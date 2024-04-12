@@ -19896,3 +19896,12 @@ Existing_entries: 719
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-12 04:08:22.816736
+------------------------------------------------------
+Started: 2024-04-12 06:09:37.398813
+Existing_entries: 719
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [沉浸式语言学习实践](https://sspai.com/post/87977)
+append_entries: 1
+Finish: 2024-04-12 06:09:40.290979

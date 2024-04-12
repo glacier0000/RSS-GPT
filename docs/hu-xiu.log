@@ -150,3 +150,10 @@ Append: [黄金牛市，上涨还会延续吗？](https://www.huxiu.com/article/
 Append: [他们给机器人造大脑，OpenAI红杉抢着投5亿](https://www.huxiu.com/article/2892926.html)
 append_entries: 22
 Finish: 2024-04-12 04:09:15.228375
+------------------------------------------------------
+Started: 2024-04-12 06:09:46.828950
+Existing_entries: 52
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu

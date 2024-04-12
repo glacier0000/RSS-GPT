@@ -21899,3 +21899,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2024-04-12 04:08:18.293420
+------------------------------------------------------
+Started: 2024-04-12 06:09:24.500030
+Existing_entries: 352
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Token length: 175
+Summarized using GPT-3.5-turbo
+Append: [【自荐】fork 自 Motrix 的全平台下载软件](https://meta.appinn.net/t/topic/55081)
+append_entries: 1
+Finish: 2024-04-12 06:09:33.038054
