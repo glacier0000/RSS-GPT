@@ -5,26 +5,48 @@
 <link>https://meta.appinn.net/tag/macos</link>
 
 <item>
+<title>话说现在chromium系浏览器到底还有没有不用开发者模式在国内装插件的办法？</title>
+<link>https://meta.appinn.net/t/topic/55075</link>
+<guid>https://meta.appinn.net/t/topic/55075</guid>
+<content:encoded><![CDATA[
+<div> 🌐 天天发现用 Chromium 浏览器的人很少提及这个问题。
+🔒 国内的插件站都是提供 crx 文件下载，需要手动解压并拖入浏览器。
+🚫 Chromium 的开发者模式常常提示用户，但操作不太适合小白用户。
+🤔 360 极速曾有插件商店，但现已全部下架，现在只有少量插件可用。
+🛠 解决办法：有人问起插件问题时，无法随意教授翻墙或使用开发者模式，需要寻找更便捷的方法。 <div>
+<p>天天有chromium浏览器选择的帖子，怎么没人提这个呢？</p>
+<p>国内的插件站毫无意外都是下载crx解压拖进去。<br />
+chromium的开发者模式又蛋疼的天天警告你。而且这类操作没法教小白，每次有人问我你的浏览器怎么跟我不一样，我也要你这个。我都为之一顿，怎么办，我总不能教人家翻墙吧？教一个小白用开发者模式也不靠谱啊</p>
+<p>最早360极速有插件商店，主流插件还都有，但现在全部下架了，挺好个插件站，最近还改了ui，但一共没几个插件。反正也约等于没有吧。</p>
+<p>你们都是咋办的？老婆的浏览器装插件都得每次我来搞呢。</p>
+            <p><small>3 个帖子 - 2 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/55075">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Fri, 12 Apr 2024 03:57:10 +0000</pubDate>
+<pubDate>Fri, 12 Apr 2024 03:57:10 +0000</pubDate>
+</item>
+
+<item>
 <title>【自荐】通过打卡的方式写日记，一个小于 1MB 的 iOS 日记软件</title>
 <link>https://meta.appinn.net/t/topic/31337</link>
 <guid>https://meta.appinn.net/t/topic/31337</guid>
 <content:encoded><![CDATA[
-<div> 📱 软件名称：TinyDay<br>
-📱 应用平台：iOS<br>
-📱 推荐类型：开发者自荐<br>
+<div> 📱 软件名称：TinyDay<br />
+📱 应用平台：iOS<br />
+📱 推荐类型：开发者自荐<br />
 
-🌟 一句简介：TinyDay是一款通过打卡记录日记的应用，鼓励随时随地记录生活点滴，帮助用户保存珍贵的回忆。<br>
+🌟 一句简介：TinyDay是一款通过打卡记录日记的应用，鼓励随时随地记录生活点滴，帮助用户保存珍贵的回忆。<br />
 
-🔍 更多介绍：<br>
-- TinyDay与传统日记软件不同，通过打卡方式记录生活，无论是喝咖啡、吃饭还是情绪波动都可以记录下来。<br>
-- 用户可以自由创建打卡频道，结构化记录活动信息，如喝咖啡的产地、游戏玩法等。<br>
-- 提供简单的记账功能，并支持iCloud同步和CSV导出数据。<br>
+🔍 更多介绍：<br />
+- TinyDay与传统日记软件不同，通过打卡方式记录生活，无论是喝咖啡、吃饭还是情绪波动都可以记录下来。<br />
+- 用户可以自由创建打卡频道，结构化记录活动信息，如喝咖啡的产地、游戏玩法等。<br />
+- 提供简单的记账功能，并支持iCloud同步和CSV导出数据。<br />
 
-🚀 未来计划：<br>
-- 支持小组件、Apple Watch和健康数据打通。<br>
+🚀 未来计划：<br />
+- 支持小组件、Apple Watch和健康数据打通。<br />
 
-📥 应用下载：<br>
-- 在App Store搜索TinyDay进行下载，体积仅1MB，保持轻量级且不添加统计跟踪代码。<br> <div>
+📥 应用下载：<br />
+- 在App Store搜索TinyDay进行下载，体积仅1MB，保持轻量级且不添加统计跟踪代码。<br /> <div>
 <h2>
 <a class="anchor" href="https://meta.appinn.net#h-1" name="h-1"></a>软件名称</h2>
 <p>TinyDay</p>
@@ -62,9 +84,7 @@
             <p><a href="https://meta.appinn.net/t/topic/31337">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Sat, 02 Apr 2022 06:57:13 +0000</pubDate>
-<pubDate>Sat, 02 Apr 2022 06:57:13 +0000</pubDate>
 </item>
-
 <item>
 <title>求，精简浏览器右键菜单</title>
 <link>https://meta.appinn.net/t/topic/55011</link>

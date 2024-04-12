@@ -102,3 +102,51 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-04-12 04:08:30.043408
+Existing_entries: 30
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 57
+Summarized using GPT-3.5-turbo
+Append: [茶叶的水有多深？我开网店卖茶，终于摸清了其中套路](https://www.huxiu.com/article/2896855.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [阿里云们的2024：打不完价格战，卷不动大模型](https://www.huxiu.com/article/2896841.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [甘肃高校建设升温，传递出什么信号？](https://www.huxiu.com/article/2895225.html)
+Token length: 124
+Summarized using GPT-3.5-turbo
+Append: [对标小米却被“反杀”，智己发布会的煽情套路有用吗？](https://www.huxiu.com/article/2893857.html)
+Token length: 2024
+Summarized using GPT-3.5-turbo
+Append: [刚刚，ChatGPT大更新，GPT-4又变聪明了](https://www.huxiu.com/article/2897158.html)
+Token length: 2892
+Summarized using GPT-3.5-turbo
+Append: [为了造车，还要舍弃多少老婆孩子？](https://www.huxiu.com/article/2896807.html)
+Token length: 133
+Summarized using GPT-3.5-turbo
+Append: [10年研发投入超万亿，华为增长的驱动力是什么？](https://www.huxiu.com/article/2876000.html)
+Token length: 117
+Summarized using GPT-3.5-turbo
+Append: [从偷渡客到公海赌王，他如何成为首富噩梦？](https://www.huxiu.com/article/2894481.html)
+Token length: 1985
+Summarized using GPT-3.5-turbo
+Append: [谷歌：假如AI大模型支持无限长上下文，会如何？](https://www.huxiu.com/article/2896806.html)
+Token length: 142
+Summarized using GPT-3.5-turbo
+Append: [两个人的空壳中介，竟能狂揽几千万收入？](https://www.huxiu.com/article/2890847.html)
+Append: [1次训练用电2.4亿度，AI为什么那么耗电？](https://www.huxiu.com/article/2896760.html)
+Append: [VC/PE们快醒醒，一级市场迎来“小阳春”](https://www.huxiu.com/article/2896779.html)
+Append: [这届观众不爱“霸总”，爱“王妈”？](https://www.huxiu.com/article/2894844.html)
+Append: [王熙凤身上最危险的职场标签](https://www.huxiu.com/article/2896838.html)
+Append: [没有OpenAI任何股份，奥特曼靠投资也身价数十亿美元](https://www.huxiu.com/article/2896824.html)
+Append: [连锁餐饮投资生涯总结](https://www.huxiu.com/article/2889939.html)
+Append: [CPI数据是怎样算出来的？](https://www.huxiu.com/article/2894850.html)
+Append: [中国县域零售的困局与解法](https://www.huxiu.com/article/2896638.html)
+Append: [揭秘：为什么印尼是出海第一站？](https://www.huxiu.com/article/2896805.html)
+Append: [在学校旁开文具店，一定能盈利吗？](https://www.huxiu.com/article/2892936.html)
+Append: [黄金牛市，上涨还会延续吗？](https://www.huxiu.com/article/2890843.html)
+Append: [他们给机器人造大脑，OpenAI红杉抢着投5亿](https://www.huxiu.com/article/2892926.html)
+append_entries: 22
+Finish: 2024-04-12 04:09:15.228375
