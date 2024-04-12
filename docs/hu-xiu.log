@@ -243,3 +243,10 @@ Append: [嫦娥五号月球样品申请名单，NASA竟然在列？](https://www
 Append: [大润发的命运](https://www.huxiu.com/article/2898219.html)
 append_entries: 12
 Finish: 2024-04-12 10:09:50.902053
+------------------------------------------------------
+Started: 2024-04-12 12:11:47.942182
+Existing_entries: 86
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu

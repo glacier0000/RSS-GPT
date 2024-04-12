@@ -43353,3 +43353,36 @@ Filter: [IPO一周年，“深圳AI第一股”褪色](https://www.36kr.com/p/27
 Filter: [AI大战上演：巨头激战、初创逆袭，谁将引领未来AI新潮流？](https://www.36kr.com/p/2728722782594054)
 append_entries: 0
 Finish: 2024-04-12 10:09:58.796415
+------------------------------------------------------
+Started: 2024-04-12 12:12:06.298133
+Existing_entries: 643
+Fetching from https://rsshub.app/36kr/motif/327686782977
+Filter: [首批 Ai Pin 用户集体劝退，「AI 时代的 iPhone」把人变得愚蠢](https://www.36kr.com/p/2730353513850117)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日150次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 150 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [突发：OpenAI开除Ilya盟友，理由：涉嫌信息泄漏](https://www.36kr.com/p/2730340497875969)
+Filter: [谷歌爆改Transformer，“无限注意力”让1B小模型读完10部小说，114倍信息压缩](https://www.36kr.com/p/2730340547961860)
+Filter: [GPT-4升级被曝引入Q*，推理/数学更强废话更少，竞技场重夺王位](https://www.36kr.com/p/2730340737131526)
+Filter: [这款AI文献神器，能让“论文党”少掉些头发｜New Things](https://www.36kr.com/p/2729909352916229)
+Filter: [用AI帮企业跑通财税服务全流程，「创业爸爸」获1000万元融资｜36氪首发](https://www.36kr.com/p/2729877214045447)
+Filter: [谷歌大脑DeepMind「婚后」貌合神离，Hassabis怨气冲天，1+1<1](https://www.36kr.com/p/2730327268729860)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日150次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 150 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [OpenAI内斗第二弹，Ilya亲信、超级对齐团队2人惨遭开除，被批泄密](https://www.36kr.com/p/2730273434199299)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日150次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 150 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [GPT-4 Turbo重回王座，ChatGPT免费升级，数学暴涨10%/上下文全面碾压](https://www.36kr.com/p/2730273532208390)
+Filter: [AI Agent，垂直AI重塑B2B价值链的关键](https://www.36kr.com/p/2730114122925827)
+Filter: [俄罗斯搜索巨头Yandex Ads：AI能协助客户管理70%广告营销](https://www.36kr.com/p/2730030566450182)
+Filter: [亚马逊CEO股东信全文：生成式AI将成亚马逊新支柱，承诺削减成本](https://www.36kr.com/p/2730198059852809)
+Filter: [深访硅谷一个月后，一位投资人发问：大模型持续烧钱最后由谁买单？](https://www.36kr.com/p/2729991193502983)
+Filter: [李彦宏还缺个Sora](https://www.36kr.com/p/2730022737159168)
+Filter: [走进 AI 高薪族：小而美团队成主流，博士生招聘需求飙升 430%](https://www.36kr.com/p/2730042289906953)
+Filter: [Suno爆火没一个月，文生音乐的头把交椅就要换人了？](https://www.36kr.com/p/2730124841116674)
+Filter: [给AI当“奶妈”，是天涯们的生路吗？](https://www.36kr.com/p/2730072294745095)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日150次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 150 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [山姆·奥特曼跻身“十亿级”富豪榜：身家超20亿美元，不含OpenAI股份](https://www.36kr.com/p/2729941257462791)
+Filter: [大模型加持后，数字人“更像人”了吗？](https://www.36kr.com/p/2729919343010817)
+append_entries: 4
+Finish: 2024-04-12 12:12:49.013802

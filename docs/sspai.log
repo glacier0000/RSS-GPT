@@ -19920,3 +19920,15 @@ error: Error code: 429 - {'error': {'message': '免费API限制每日150次请�
 Append: [为了发现更多感觉兴趣的播客，我开发了一款工具](https://sspai.com/post/87991)
 append_entries: 1
 Finish: 2024-04-12 10:07:22.377648
+------------------------------------------------------
+Started: 2024-04-12 12:11:16.907945
+Existing_entries: 721
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日150次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 150 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [本周看什么 | 最近值得一看的好一些作品](https://sspai.com/post/88024)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日150次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 150 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [新兴云端部署服务 Zeabur 创始团队都装了啥？](https://sspai.com/post/87993)
+append_entries: 2
+Finish: 2024-04-12 12:11:41.964097
