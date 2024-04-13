@@ -469,3 +469,15 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-04-13 18:07:36.621906
+Existing_entries: 144
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 3013
+Summarized using GPT-3.5-turbo
+Append: [“半固态”电池算固态电池吗？](https://www.huxiu.com/article/2902840.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [押注自动驾驶，英伟达需要中国](https://www.huxiu.com/article/2903521.html)
+append_entries: 2
+Finish: 2024-04-13 18:07:51.600111
