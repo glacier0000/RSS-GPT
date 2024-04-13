@@ -347,3 +347,42 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-04-13 04:08:31.724535
+Existing_entries: 110
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 67
+Summarized using GPT-3.5-turbo
+Append: [快递新规执行一月，效果如何？](https://www.huxiu.com/article/2899078.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [“妈妈工人”：“好用的棋子”，用完即弃](https://www.huxiu.com/article/2896853.html)
+Token length: 114
+Summarized using GPT-3.5-turbo
+Append: [又一新明星品牌被强制执行，创始人曾扬言：我觉得我很英明](https://www.huxiu.com/article/2900318.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [“住院医师规培制度第一人”回应规培之问](https://www.huxiu.com/article/2901878.html)
+Token length: 41
+Summarized using GPT-3.5-turbo
+Append: [拉路人试驾刚提的小米SU7，结果……](https://www.huxiu.com/article/2899819.html)
+Token length: 2625
+Summarized using GPT-3.5-turbo
+Append: [中国女孩重新捧红这珠宝，但没人为了爱情](https://www.huxiu.com/article/2901615.html)
+Token length: 97
+Summarized using GPT-3.5-turbo
+Append: [穿戴甲出海，有人悄悄月入百万](https://www.huxiu.com/article/2901614.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [“坠落的审判”后，男人成为“可怜的东西”](https://www.huxiu.com/article/2898779.html)
+Token length: 79
+Summarized using GPT-3.5-turbo
+Append: [MicroLED的量产为啥遥遥无期？“巨量转移”到底难在哪？](https://www.huxiu.com/article/2901598.html)
+Token length: 112
+Summarized using GPT-3.5-turbo
+Append: [飞机损毁率高，是印度工业的真实写照](https://www.huxiu.com/article/2901624.html)
+Append: [“荒岛”生存记：一家大学生自营书店的十四年](https://www.huxiu.com/article/2900762.html)
+Append: [抢钱又抢人，澳门楼市也要“撤辣”了](https://www.huxiu.com/article/2900776.html)
+Append: [新“国九条”，你真看懂了吗？](https://www.huxiu.com/article/2900351.html)
+append_entries: 13
+Finish: 2024-04-13 04:09:12.384513
