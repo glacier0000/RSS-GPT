@@ -218,3 +218,27 @@ Existing_entries: 56
 Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
 append_entries: 0
 Finish: 2024-04-13 10:06:37.815622
+------------------------------------------------------
+Started: 2024-04-13 12:10:46.660727
+Existing_entries: 56
+Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [这个不讲“道德”的网站，成了千万网友最爱的白嫖工具。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654493498&idx=1&sn=28d1eed2dd311e2e96a75aea92be9bdd&chksm=8b854c3dbcf2c52b61e2a8d26a86c2868b1f4e85c36926e729a574bff0d26dfea85ee5cca95b&scene=58&subscene=0)
+Token length: 3312
+Summarized using GPT-3.5-turbo
+Append: [我是真没想到，高阶智驾都已经比手机还便宜了。。。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654493498&idx=2&sn=b1bae08cb19e0fc77b09d37332f198cf&chksm=8b854c3dbcf2c52bfb080998c1d87762b4bca45fdbbbf3e11ca78d96a2f4b8da5405aeba57a2&scene=58&subscene=0)
+Token length: 2401
+Summarized using GPT-3.5-turbo
+Append: [沙特的现代版“万里长城”，要缩水了。。。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654493498&idx=3&sn=189bd3bad68100740ccc4a3fff44efb5&chksm=8b854c3dbcf2c52bd11fe36f44118b4875aa0a625178ca2f9ca78f66d793a64c3c424139ea32&scene=58&subscene=0)
+Token length: 85
+Summarized using GPT-3.5-turbo
+Append: [今日最佳：好歹毒的学习方式。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654493498&idx=4&sn=7f93d031d4dd961197e28d2a8868b055&chksm=8b854c3dbcf2c52b9755ba462f209722cca148429d157b628abf81a98135f9a4927d2a75e2fb&scene=58&subscene=0)
+Token length: 33
+Summarized using GPT-3.5-turbo
+Append: [聊一聊：你买过贬值最快的东西是啥？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654493498&idx=5&sn=46d4acab6b8075ca002562ce2e9df3da&chksm=8b854c3dbcf2c52b23ad0e625abbfbdf0b6f0ec750b01a55419bf232c281e6cc259882ded6ea&scene=58&subscene=0)
+Token length: 1295
+Summarized using GPT-3.5-turbo
+Append: [巴黎捡到小学生作业系编造，李彦宏称大模型开源意义不大，OPPO引入谷歌大模型，英拟禁止向未成年售手机，，这就是今天的其他大新闻！](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654493498&idx=6&sn=948cb797011b4b7a2b2352989cf45e3d&chksm=8b854c3dbcf2c52bc08d092209ddb5b684e6eb27044649f7bbf5536c2ab66bb7e24d2c12e5ed&scene=58&subscene=0)
+append_entries: 6
+Finish: 2024-04-13 12:11:14.079825

@@ -407,3 +407,49 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-04-13 12:09:37.515824
+Existing_entries: 123
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [让AI诞生的职业，会因为AI失业吗？](https://www.huxiu.com/article/2903277.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [空乘生病不让治，民航生病谁来治](https://www.huxiu.com/article/2903278.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [资本市场迎来第三个“国九条”，会有第三次“大牛市”吗？](https://www.huxiu.com/article/2902830.html)
+Token length: 86
+Summarized using GPT-3.5-turbo
+Append: [洗碗大姐天降亿万横财，两个中国女人背后的惊天骗局](https://www.huxiu.com/article/2900350.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [一个县城高中生，被困在小红书的平行世界里](https://www.huxiu.com/article/2705104.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [二次元少女去哈佛](https://www.huxiu.com/article/2902819.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [县城很忙：80%加盟商亏损？](https://www.huxiu.com/article/2902820.html)
+Token length: 129
+Summarized using GPT-3.5-turbo
+Append: [开桌游店不如做白日梦，真别想不开](https://www.huxiu.com/article/2901625.html)
+Token length: 2702
+Summarized using GPT-3.5-turbo
+Append: [马斯克发布Grok-1.5V，能干得过GPT-4和Claude么？](https://www.huxiu.com/article/2902515.html)
+Token length: 179
+Summarized using GPT-3.5-turbo
+Append: [打脸、背刺、食言，一家硅谷大模型企业的营利路](https://www.huxiu.com/article/2899224.html)
+Append: [“ChatGPT版iPhone”，上市即翻车](https://www.huxiu.com/article/2902332.html)
+Append: [资本市场大变革，方向全在“国九条”](https://www.huxiu.com/article/2902513.html)
+Append: [爱说脏话的黑化版ChatGPT，为什么火爆小红书和 TikTok？](https://www.huxiu.com/article/2902258.html)
+Append: [一个视频了解，唐军为什么这么强？](https://www.huxiu.com/article/2900340.html)
+Append: [要颠覆iPhone的Ai Pin，还不如小米手环](https://www.huxiu.com/article/2902336.html)
+Append: [入境游“小阳春”，旅行社订单爆满](https://www.huxiu.com/article/2902326.html)
+Append: [刚过去的一周，海外市场凌乱了](https://www.huxiu.com/article/2902328.html)
+Append: [福利变负担，社保该考虑现在还是未来？](https://www.huxiu.com/article/2898786.html)
+Append: [详解新“国九条”：A股或有这些新气象](https://www.huxiu.com/article/2902262.html)
+Append: [库迪咖啡创始人被强执18.9亿，创业20年，归来仍是老赖？](https://www.huxiu.com/article/2899106.html)
+append_entries: 20
+Finish: 2024-04-13 12:10:19.794489
