@@ -519,3 +519,18 @@ Summarized using GPT-3.5-turbo
 Append: [日本国宝级食物，怎么和山东老家咸菜一个味？](https://www.huxiu.com/article/2904575.html)
 append_entries: 4
 Finish: 2024-04-14 03:13:22.533346
+------------------------------------------------------
+Started: 2024-04-14 04:31:40.721525
+Existing_entries: 150
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [挪威主权基金800亿美金的“大计划”，黄了？](https://www.huxiu.com/article/2905280.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [放弃鸡娃后，他们开始卷家委会](https://www.huxiu.com/article/2904916.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [少刷手机，好好生活](https://www.huxiu.com/article/2902816.html)
+append_entries: 3
+Finish: 2024-04-14 04:31:55.495241
