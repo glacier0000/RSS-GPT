@@ -501,3 +501,21 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-04-14 03:12:54.723140
+Existing_entries: 146
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [鸡娃，从城市蔓延至乡镇](https://www.huxiu.com/article/2901142.html)
+Token length: 2824
+Summarized using GPT-3.5-turbo
+Append: [驻非六年：在医院，我看到了非漂中国工人的不易](https://www.huxiu.com/article/2904596.html)
+Token length: 1811
+Summarized using GPT-3.5-turbo
+Append: [美债吃紧：美国“想借就借”的日子还有多少？](https://www.huxiu.com/article/2904595.html)
+Token length: 2624
+Summarized using GPT-3.5-turbo
+Append: [日本国宝级食物，怎么和山东老家咸菜一个味？](https://www.huxiu.com/article/2904575.html)
+append_entries: 4
+Finish: 2024-04-14 03:13:22.533346
