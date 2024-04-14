@@ -308,3 +308,24 @@ Existing_entries: 62
 Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
 append_entries: 0
 Finish: 2024-04-14 14:37:32.651860
+------------------------------------------------------
+Started: 2024-04-14 22:22:34.010182
+Existing_entries: 62
+Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
+Token length: 931
+Summarized using GPT-3.5-turbo
+Append: [多平台封禁“猫一杯”，小米应用商店实施新规，QQ浏览器内测“小云盘”功能，xAI 展示首个多模态模型，这就是今天的其他大新闻！](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654493534&idx=1&sn=54c9e040e35c106d837784b16f3c943e&chksm=8b854c59bcf2c54f44b6e023bd8eb92e9668b63e91c5a979f1f05a49f4bdbb91dddfaa4cd36c&scene=58&subscene=0)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [这届年轻人，正在用小猫演绎自己的精神状态。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654493534&idx=2&sn=c186528932d69eda7fe26d9a1a263a61&chksm=8b854c59bcf2c54f700609eb5dd3f2e01a27533995a56e04f85f9c9f78e6e982d2381956adec&scene=58&subscene=0)
+Token length: 2744
+Summarized using GPT-3.5-turbo
+Append: [胆小慎入！20万人在线的恐怖游戏长啥样？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654493534&idx=3&sn=4077257f6bcc6b2fd4f4769218066f13&chksm=8b854c59bcf2c54fdc53f1075063e279b7bb295fbd5955e39f6361f3c100d657124cd8a70c3c&scene=58&subscene=0)
+Token length: 58
+Summarized using GPT-3.5-turbo
+Append: [今日最佳：一次外向换来一辈子内向](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654493534&idx=4&sn=4caef8b851823bb818d67ef6fd76dbd8&chksm=8b854c59bcf2c54f910e6a1dc46adffa4a8876645a658ce4387b23add7e615aa8999905caec0&scene=58&subscene=0)
+Token length: 33
+Summarized using GPT-3.5-turbo
+Append: [聊一聊：哪些事会让你觉得没虚度周末？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654493534&idx=5&sn=53b548183f61b5b48806c58c4e684ad4&chksm=8b854c59bcf2c54f25b406089cd817aaa0d176d5b1e17d44cd1bc572d55f046d6899c0e66cd6&scene=58&subscene=0)
+append_entries: 5
+Finish: 2024-04-14 22:22:52.769789

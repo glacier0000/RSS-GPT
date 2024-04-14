@@ -597,3 +597,9 @@ Summarized using GPT-3.5-turbo
 Append: [被“物理化学时尚”搞晕的中国女孩](https://www.huxiu.com/article/2906777.html)
 append_entries: 8
 Finish: 2024-04-14 14:37:17.292389
+------------------------------------------------------
+Started: 2024-04-14 22:22:11.728433
+Existing_entries: 168
+Fetching from https://glacier0000.vercel.app/huxiu/article
+append_entries: 0
+Finish: 2024-04-14 22:22:15.656462
