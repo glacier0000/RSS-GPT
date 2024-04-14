@@ -534,3 +534,21 @@ error: Error code: 403 - {'error': {'message': '免费API限制模型输入token
 Append: [少刷手机，好好生活](https://www.huxiu.com/article/2902816.html)
 append_entries: 3
 Finish: 2024-04-14 04:31:55.495241
+------------------------------------------------------
+Started: 2024-04-14 07:48:48.069281
+Existing_entries: 153
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 3762
+Summarized using GPT-3.5-turbo
+Append: [世界首个AI程序员Devin，视频竟造假？](https://www.huxiu.com/article/2905585.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [“漫长的季节”，如何收尾？](https://www.huxiu.com/article/2898285.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [不去耶鲁，我在德国小城做科研](https://www.huxiu.com/article/2906060.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [英国剑桥：科技战争最隐秘的角落](https://www.huxiu.com/article/2905288.html)
+append_entries: 4
+Finish: 2024-04-14 07:49:09.766311
