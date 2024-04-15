@@ -684,3 +684,41 @@ Append: [AIGC时代的产品思考：像用人一样用AI](https://www.huxiu.com
 Append: [一做决定就内耗？这三个错觉，正在让你陷入精神内耗](https://www.huxiu.com/article/2897679.html)
 append_entries: 11
 Finish: 2024-04-15 04:25:34.247960
+------------------------------------------------------
+Started: 2024-04-15 06:09:48.472598
+Existing_entries: 197
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 120
+Summarized using GPT-3.5-turbo
+Append: [商王死了也要带去殉葬，戈为何是战争的代名词？](https://www.huxiu.com/article/2909121.html)
+Token length: 1924
+Summarized using GPT-3.5-turbo
+Append: [一季度VC/PE报告：新基金数量再低谷](https://www.huxiu.com/article/2909425.html)
+Token length: 4605
+Summarized using GPT-3.5-turbo
+Append: [量子多体纠缠计算新范式：抽样约化密度矩阵](https://www.huxiu.com/article/2908669.html)
+Token length: 2673
+Summarized using GPT-3.5-turbo
+Append: [400亿的美妆巨头快被卖了](https://www.huxiu.com/article/2909166.html)
+Token length: 142
+Summarized using GPT-3.5-turbo
+Append: [金庸IP10亿成本的射雕，被网易玩砸了](https://www.huxiu.com/article/2898787.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [中国CXO还有未来吗？](https://www.huxiu.com/article/2909147.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [用文化盛事提振一方经济，品牌如何实现名利双收？](https://www.huxiu.com/article/2908741.html)
+Token length: 127
+Summarized using GPT-3.5-turbo
+Append: [中国大妈助力电车出海，还能这样赚老外的钱？](https://www.huxiu.com/article/2901626.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [那些“工作顺心”的人，其实是规划对了职业生涯](https://www.huxiu.com/article/2908696.html)
+Token length: 92
+Summarized using GPT-3.5-turbo
+Append: [用户狂欢、谷歌傻眼，ChatGPT可以免费直接用了](https://www.huxiu.com/article/2901605.html)
+Append: [小红书上的“尊者”](https://www.huxiu.com/article/2909135.html)
+Append: [宽带上网技术简史](https://www.huxiu.com/article/2909184.html)
+append_entries: 12
+Finish: 2024-04-15 06:10:46.169187
