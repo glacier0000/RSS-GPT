@@ -371,3 +371,24 @@ Existing_entries: 67
 Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
 append_entries: 0
 Finish: 2024-04-15 14:07:39.695657
+------------------------------------------------------
+Started: 2024-04-15 16:07:55.586997
+Existing_entries: 67
+Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [被2.3亿人白嫖了5年的软件，为啥只能做你的舔狗？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654493586&idx=1&sn=cb708fc0df723b7cca8cc25ad35a9e4b&chksm=8b854c95bcf2c58306b423cee5f17938d1374b8c502db65063b561cb24bdd4a1a1d9d4992a90&scene=58&subscene=0)
+Token length: 2019
+Summarized using GPT-3.5-turbo
+Append: [你以为已经凉透的WiFi万能钥匙，搞副业也活挺好](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654493586&idx=2&sn=e432ba7824e7cc0bd1e908c8847b1790&chksm=8b854c95bcf2c58360eb468c1fe8a7e6daf7a030ae143082a2f519859621bbc62a953e2cb9b5&scene=58&subscene=0)
+Token length: 88
+Summarized using GPT-3.5-turbo
+Append: [今日最佳：我教雷军赚点钱。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654493586&idx=3&sn=0e16338e4061e1d7e8bee2938754bc74&chksm=8b854c95bcf2c5831225fac3d8fe0ff63000d71e43e26194f6546eff9d8600bbbd23134e270e&scene=58&subscene=0)
+Token length: 33
+Summarized using GPT-3.5-turbo
+Append: [聊一聊：抽卡手游里，你最忍受不了哪些东西？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654493586&idx=4&sn=b5986eb3d707d3c182412c0bf0aa9e78&chksm=8b854c95bcf2c583bad8a0696ab87546c1a7583dcfa457e4a2d00db58c4bdc7772ff9342d669&scene=58&subscene=0)
+Token length: 1068
+Summarized using GPT-3.5-turbo
+Append: [小米SU7锁单破6万，英特尔特供中国芯片性能暴降、暴雪前总裁希望游戏增加小费功能，间谍窃取我国水稻种子，这就是今天的其他大新闻！](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654493586&idx=5&sn=93f5888f9fc13e1333242f25a0e2833a&chksm=8b854c95bcf2c5835de8fc09bc0f3e3a50256f4e90f8356533d068c6bac67de196ca456851b3&scene=58&subscene=0)
+append_entries: 5
+Finish: 2024-04-15 16:08:29.635454
