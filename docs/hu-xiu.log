@@ -800,3 +800,44 @@ Append: [马斯克发布全员邮件：特斯拉全球裁员10%](https://www.hux
 Append: [还在卷长文本？谷歌直接把文本干到无限长了](https://www.huxiu.com/article/2909697.html)
 append_entries: 14
 Finish: 2024-04-15 10:06:47.277568
+------------------------------------------------------
+Started: 2024-04-15 12:13:00.889372
+Existing_entries: 235
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 1168
+Summarized using GPT-3.5-turbo
+Append: [库克抵达越南，披露“越南果链”投资额已超千亿](https://www.huxiu.com/article/2910587.html)
+Token length: 2069
+Summarized using GPT-3.5-turbo
+Append: [喝咖啡手抖，我是不是有帕金森病基因啊？](https://www.huxiu.com/article/2910199.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [一个打工人的思考：人生的意义到底在哪里？](https://www.huxiu.com/article/2909647.html)
+Token length: 955
+Summarized using GPT-3.5-turbo
+Append: [油价飙升后，对冲基金大举做空能源股](https://www.huxiu.com/article/2910176.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [手机支架之争背后：小米与华为在汽车圈的“顶流”对决](https://www.huxiu.com/article/2910160.html)
+Token length: 1806
+Summarized using GPT-3.5-turbo
+Append: [元气森林不只0糖，全公司都是0与1](https://www.huxiu.com/article/2881081.html)
+Token length: 155
+Summarized using GPT-3.5-turbo
+Append: [太监与宫女的“对食”和“菜户”分别指什么？](https://www.huxiu.com/article/2910171.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [去了第一代网红城市，我后悔了](https://www.huxiu.com/article/2910158.html)
+Token length: 3415
+Summarized using GPT-3.5-turbo
+Append: [我用AI五分钟生成一个广告 ，却花了五个小时“去AI味”](https://www.huxiu.com/article/2910203.html)
+Token length: 1471
+Summarized using GPT-3.5-turbo
+Append: [特斯拉全球裁员10%，研发投入已落后比亚迪](https://www.huxiu.com/article/2910523.html)
+Append: [AI“芯”突围：英特尔Gaudi 3硬刚英伟达](https://www.huxiu.com/article/2910159.html)
+Append: [在中国做To B生意真是太苦了](https://www.huxiu.com/article/2910193.html)
+Append: [那些“干脏活的人”](https://www.huxiu.com/article/2910180.html)
+Append: [日系车销量大跌，华为智驾成救命稻草？](https://www.huxiu.com/article/2910116.html)
+Append: [上海门店全关、国内仅剩1家，“汉堡界爱马仕”怎么了？](https://www.huxiu.com/article/2910101.html)
+append_entries: 15
+Finish: 2024-04-15 12:14:01.279173
