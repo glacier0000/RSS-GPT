@@ -722,3 +722,41 @@ Append: [小红书上的“尊者”](https://www.huxiu.com/article/2909135.html
 Append: [宽带上网技术简史](https://www.huxiu.com/article/2909184.html)
 append_entries: 12
 Finish: 2024-04-15 06:10:46.169187
+------------------------------------------------------
+Started: 2024-04-15 08:08:03.474690
+Existing_entries: 209
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 3181
+Summarized using GPT-3.5-turbo
+Append: [懂梗图做学术，这个AI对标ChatGPT+DALL-E3](https://www.huxiu.com/article/2909382.html)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [暴雪网易官宣“复婚”，玩家是赢还是输？](https://www.huxiu.com/article/2909205.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [椰树换帅，还没找到新故事](https://www.huxiu.com/article/2909671.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [“我不管，今年金像奖影帝就是林保怡”](https://www.huxiu.com/article/2909641.html)
+Token length: 93
+Summarized using GPT-3.5-turbo
+Append: [维达被收购，又一消失的国货？](https://www.huxiu.com/article/2901911.html)
+Token length: 109
+Summarized using GPT-3.5-turbo
+Append: [买黄金还能爆雷？金店跑路，几千万的黄金被卷走](https://www.huxiu.com/article/2909423.html)
+Token length: 2388
+Summarized using GPT-3.5-turbo
+Append: [人口第一大省，开始“砸”铁饭碗了](https://www.huxiu.com/article/2909195.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [30岁裸辞，50岁留学: 逃离轨道的女性人生](https://www.huxiu.com/article/2909374.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [“月入十万”的短剧人，时刻准备逃跑](https://www.huxiu.com/article/2909461.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [重新理解“价格战”：伤人伤己，但欲罢不能](https://www.huxiu.com/article/2909202.html)
+Append: [马斯克作出了一个艰难的选择](https://www.huxiu.com/article/2909344.html)
+Append: [乐事一出新口味，流量就起飞？](https://www.huxiu.com/article/2909153.html)
+append_entries: 12
+Finish: 2024-04-15 08:08:55.581029
