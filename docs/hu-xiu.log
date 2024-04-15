@@ -841,3 +841,33 @@ Append: [日系车销量大跌，华为智驾成救命稻草？](https://www.hux
 Append: [上海门店全关、国内仅剩1家，“汉堡界爱马仕”怎么了？](https://www.huxiu.com/article/2910101.html)
 append_entries: 15
 Finish: 2024-04-15 12:14:01.279173
+------------------------------------------------------
+Started: 2024-04-15 14:05:27.793337
+Existing_entries: 250
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [霸屏的UFC“中国德比”，能否改写女子格斗“钱”景？](https://www.huxiu.com/article/2910162.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [浙江最深藏不露的城市，居然辣翻了整个包邮区](https://www.huxiu.com/article/2910574.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [特斯拉裁员1.4万人，马斯克跌落凡间](https://www.huxiu.com/article/2911004.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [大模型下众生相：焦虑者、使用者和弃用者](https://www.huxiu.com/article/2910638.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [出海人卷向沙特，但热钱没想象中好赚](https://www.huxiu.com/article/2910617.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [二论博尔赫斯：在迷宫中行走，迷宫中心为何物（上）](https://www.huxiu.com/article/2910631.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [昔日基金业“顶流”蔡嵩松涉行贿、受贿案，什么情况？](https://www.huxiu.com/article/2910568.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [走出泌尿外科，他们继续和“福报”沉默斗争](https://www.huxiu.com/article/2909348.html)
+append_entries: 8
+Finish: 2024-04-15 14:07:22.785389
