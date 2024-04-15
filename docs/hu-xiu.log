@@ -647,3 +647,40 @@ Append: [都在卷长文本，原来谷歌魔改了Transformer](https://www.huxi
 Append: [面板行业，难言周期反转](https://www.huxiu.com/article/2906836.html)
 append_entries: 18
 Finish: 2024-04-15 02:59:15.332534
+------------------------------------------------------
+Started: 2024-04-15 04:24:42.117651
+Existing_entries: 186
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [曾为职业方向迷茫的我，来就业指导中心工作了](https://www.huxiu.com/article/2909150.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [迷雾之下：国航129航班的不归之途](https://www.huxiu.com/article/2908727.html)
+Token length: 111
+Summarized using GPT-3.5-turbo
+Append: [每个国家都嫌弃的火鸡，为什么依然风靡全球？](https://www.huxiu.com/article/2901888.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [中国车企出海：卖到哪里？谁赚麻了？](https://www.huxiu.com/article/2908757.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [铁路里程第一的内蒙古，却比江苏更“散装”？](https://www.huxiu.com/article/2907142.html)
+Token length: 2883
+Summarized using GPT-3.5-turbo
+Append: [中国式财政分权与地方政府支出预算执行偏差](https://www.huxiu.com/article/2857117.html)
+Token length: 136
+Summarized using GPT-3.5-turbo
+Append: [门槛一千万，一堆人挤破头？海底捞加盟，能赚钱吗？](https://www.huxiu.com/article/2909136.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [广西彩礼不超过三万，为何做妈妈的却倍感焦虑？](https://www.huxiu.com/article/2908218.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [深圳“最苦”大学，来头很大，存在感却有点低？](https://www.huxiu.com/article/2907574.html)
+Token length: 2737
+Summarized using GPT-3.5-turbo
+Append: [AIGC时代的产品思考：像用人一样用AI](https://www.huxiu.com/article/2909133.html)
+Append: [一做决定就内耗？这三个错觉，正在让你陷入精神内耗](https://www.huxiu.com/article/2897679.html)
+append_entries: 11
+Finish: 2024-04-15 04:25:34.247960
