@@ -878,3 +878,27 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-04-15 18:09:03.558425
+Existing_entries: 258
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [“加密货币之王”SBF的疯狂人生，与FTX帝国的崩塌](https://www.huxiu.com/article/2909440.html)
+Token length: 2590
+Summarized using GPT-3.5-turbo
+Append: [一家B轮公司估值打六折](https://www.huxiu.com/article/2910085.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [从中美司法实践剖析：AI生成的作品是否受版权保护？](https://www.huxiu.com/article/2910166.html)
+Token length: 1954
+Summarized using GPT-3.5-turbo
+Append: [高盛：以色列如何反应，将决定油价市场走向](https://www.huxiu.com/article/2911042.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [特斯拉撤退，谁在接盘碳化硅？](https://www.huxiu.com/article/2910994.html)
+Token length: 4290
+Summarized using GPT-3.5-turbo
+Append: [车载MCU芯片，也要拼制程了](https://www.huxiu.com/article/2909683.html)
+append_entries: 6
+Finish: 2024-04-15 18:09:45.309750
