@@ -1023,3 +1023,45 @@ error: Error code: 403 - {'error': {'message': '免费API限制模型输入token
 Append: [裁员这剂猛药，马斯克开错了？](https://www.huxiu.com/article/2913244.html)
 append_entries: 9
 Finish: 2024-04-16 06:09:57.548659
+------------------------------------------------------
+Started: 2024-04-16 08:09:32.521444
+Existing_entries: 300
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 322
+Summarized using GPT-3.5-turbo
+Append: [虎嗅【作·嗅之星】周榜第205期](https://www.huxiu.com/article/2914120.html)
+Token length: 2261
+Summarized using GPT-3.5-turbo
+Append: [最高法婚姻家庭司法解释：夫妻即使离婚了，也要养对方一辈子？](https://www.huxiu.com/article/2914054.html)
+Token length: 110
+Summarized using GPT-3.5-turbo
+Append: [一口气搞懂山岳峰峦](https://www.huxiu.com/article/2914075.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [金沙江朱啸虎：别下牌桌，别下牌桌，别下牌桌](https://www.huxiu.com/article/2913211.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [排队整容的老年人，养活县城美容院](https://www.huxiu.com/article/2903318.html)
+Token length: 116
+Summarized using GPT-3.5-turbo
+Append: [内蒙古，如何成为中美粮食战争的新底牌？](https://www.huxiu.com/article/2913264.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [中国车企，东南亚夺食日系车](https://www.huxiu.com/article/2913708.html)
+Token length: 106
+Summarized using GPT-3.5-turbo
+Append: [“731部队”词条火上热搜，日本罪行瞒不住了](https://www.huxiu.com/article/2910096.html)
+Token length: 111
+Summarized using GPT-3.5-turbo
+Append: [陕西挖出周文王的秘密日记？《易经》的真相由此揭开？](https://www.huxiu.com/article/2909203.html)
+Token length: 3417
+Summarized using GPT-3.5-turbo
+Append: [400亿元短剧“蛋糕”，横店变“竖店”](https://www.huxiu.com/article/2913704.html)
+Append: [最高法婚姻家庭司法解释：只保护女性权益，不管男性死活？](https://www.huxiu.com/article/2908752.html)
+Append: [“打工人苦调休久矣”，放假制度不改不行了？](https://www.huxiu.com/article/2913295.html)
+Append: [图解Transformer：什么是注意力计算？](https://www.huxiu.com/article/2913729.html)
+Append: [独角兽清洗计划，IPO上市远低于20%](https://www.huxiu.com/article/2912671.html)
+Append: [30岁拿下金像奖影后，她才是新一代敢拼港女](https://www.huxiu.com/article/2909447.html)
+Append: [今年第一季度，中国企业IPO情况如何？](https://www.huxiu.com/article/2911060.html)
+append_entries: 16
+Finish: 2024-04-16 08:10:31.020568
