@@ -22239,3 +22239,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-04-16 02:15:26.740221
+------------------------------------------------------
+Started: 2024-04-16 04:08:38.105460
+Existing_entries: 356
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Token length: 897
+Summarized using GPT-3.5-turbo
+Append: [【自荐】一款可以AI出题、AI自动生成题库的在线考试工具，金数据团队出品](https://meta.appinn.net/t/topic/55250)
+append_entries: 1
+Finish: 2024-04-16 04:08:46.435081

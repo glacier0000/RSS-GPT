@@ -942,3 +942,51 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-04-16 04:08:58.897314
+Existing_entries: 269
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [游戏行业的老板们在焦虑什么？](https://www.huxiu.com/article/2910585.html)
+Token length: 98
+Summarized using GPT-3.5-turbo
+Append: [抢黄金的背后是上涨逻辑吗？黄金的魅力究竟是什么？](https://www.huxiu.com/article/2909715.html)
+Token length: 137
+Summarized using GPT-3.5-turbo
+Append: [股价暴跌520亿，绝味鸭脖为什么要死磕投资？](https://www.huxiu.com/article/2910167.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [公司还需要品牌总监吗？](https://www.huxiu.com/article/2912669.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [蜜雪冰城、泡泡玛特们，出海搞到钱了吗？](https://www.huxiu.com/article/2912651.html)
+Token length: 109
+Summarized using GPT-3.5-turbo
+Append: [除了小米SU7和MEGA，中东土豪为啥还关注“中国方盒子”？](https://www.huxiu.com/article/2909169.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [“反英伟达联盟”背后，是AI的第三场战争](https://www.huxiu.com/article/2912723.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [湖南打响逆城市化第一枪，背后藏着三重考量](https://www.huxiu.com/article/2911343.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [享誉世界的君特·格拉斯，为何揭开自己的纳粹过往？](https://www.huxiu.com/article/2907434.html)
+Token length: 3355
+Summarized using GPT-3.5-turbo
+Append: [如何树立正确的“职场三观”？](https://www.huxiu.com/article/2911704.html)
+Append: [如果你是弱者，最好假定你是错的](https://www.huxiu.com/article/2911303.html)
+Append: [广义对称性：联结高能理论、凝聚态理论与数学的新概念](https://www.huxiu.com/article/2912620.html)
+Append: [“秦朗”假作业：真相困于流量](https://www.huxiu.com/article/2911330.html)
+Append: [1天赚1亿，又土又爽的微短剧凭啥这么火？](https://www.huxiu.com/article/2910555.html)
+Append: [人工智能立法与合规中的版权挑战](https://www.huxiu.com/article/2912652.html)
+Append: [中国的日料店里，根本没有正宗的日本和牛？](https://www.huxiu.com/article/2910579.html)
+Append: [万人裁员后，又一核心高管离职，特斯拉股价收跌5.6%](https://www.huxiu.com/article/2912667.html)
+Append: [Suno的冲击：AI音乐来了](https://www.huxiu.com/article/2911370.html)
+Append: [神秘国度朝鲜是如何造车的？](https://www.huxiu.com/article/2910533.html)
+Append: [性别刻板印象，藏在儿童绘本里](https://www.huxiu.com/article/2911287.html)
+Append: [冰峰“易主”](https://www.huxiu.com/article/2909168.html)
+Append: [新公司法语境下的反舞弊](https://www.huxiu.com/article/2911374.html)
+append_entries: 22
+Finish: 2024-04-16 04:09:39.554369
