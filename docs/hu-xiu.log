@@ -1065,3 +1065,10 @@ Append: [30岁拿下金像奖影后，她才是新一代敢拼港女](https://ww
 Append: [今年第一季度，中国企业IPO情况如何？](https://www.huxiu.com/article/2911060.html)
 append_entries: 16
 Finish: 2024-04-16 08:10:31.020568
+------------------------------------------------------
+Started: 2024-04-16 10:07:39.295306
+Existing_entries: 316
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
