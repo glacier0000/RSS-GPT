@@ -339,3 +339,15 @@ Existing_entries: 26
 Fetching from https://glacier0000.vercel.app/sspai/matrix
 append_entries: 0
 Finish: 2024-04-16 00:30:22.090279
+------------------------------------------------------
+Started: 2024-04-16 02:15:39.793611
+Existing_entries: 26
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [当一个IT人决定学中医](https://sspai.com/post/88098)
+Token length: 2063
+Summarized using GPT-3.5-turbo
+Append: [《死亡细胞》“联动”《波斯王子》？《波斯王子 Rogue》试玩体验分享【UCG】](https://sspai.com/post/88087)
+append_entries: 2
+Finish: 2024-04-16 02:15:56.028698
