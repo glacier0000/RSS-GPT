@@ -990,3 +990,36 @@ Append: [冰峰“易主”](https://www.huxiu.com/article/2909168.html)
 Append: [新公司法语境下的反舞弊](https://www.huxiu.com/article/2911374.html)
 append_entries: 22
 Finish: 2024-04-16 04:09:39.554369
+------------------------------------------------------
+Started: 2024-04-16 06:09:12.881535
+Existing_entries: 291
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [千亿宠物生意，真的赚钱吗？](https://www.huxiu.com/article/2912670.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [折叠屏手机，陷入死局？](https://www.huxiu.com/article/2911358.html)
+Token length: 2010
+Summarized using GPT-3.5-turbo
+Append: [比特币惊魂杀跌，现货ETF要来了](https://www.huxiu.com/article/2913288.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [宁王：低谷已过，黎明不远？](https://www.huxiu.com/article/2912700.html)
+Token length: 109
+Summarized using GPT-3.5-turbo
+Append: [新“国九条”发布，会迎来大牛市吗？](https://www.huxiu.com/article/2911718.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [在深圳华强北，年轻人暴打消费主义](https://www.huxiu.com/article/2910499.html)
+Token length: 176
+Summarized using GPT-3.5-turbo
+Append: [“厂二代”集体接班，中国进入代际传承期](https://www.huxiu.com/article/2909723.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [火遍县城的中式汉堡，值70亿吗？](https://www.huxiu.com/article/2912675.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [裁员这剂猛药，马斯克开错了？](https://www.huxiu.com/article/2913244.html)
+append_entries: 9
+Finish: 2024-04-16 06:09:57.548659
