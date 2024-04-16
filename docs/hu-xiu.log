@@ -1072,3 +1072,51 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-04-16 12:11:45.212696
+Existing_entries: 316
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [美国高中自杀潮，揭开精英教育的骗局](https://www.huxiu.com/article/2906840.html)
+Token length: 97
+Summarized using GPT-3.5-turbo
+Append: [3岁前的记忆都去哪里了？](https://www.huxiu.com/article/2914478.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [年轻人为省钱，一不小心就掉到了坑里](https://www.huxiu.com/article/2915078.html)
+Token length: 115
+Summarized using GPT-3.5-turbo
+Append: [黑人“护送”中国人夺冠，赞助方暗箱操作过头？](https://www.huxiu.com/article/2909415.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [宽带上网技术，发展到哪一步了？](https://www.huxiu.com/article/2915095.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [绕着地球，追樱花的人](https://www.huxiu.com/article/2915016.html)
+Token length: 128
+Summarized using GPT-3.5-turbo
+Append: [只有人类有鼻毛吗？](https://www.huxiu.com/article/2915007.html)
+Token length: 2456
+Summarized using GPT-3.5-turbo
+Append: [离开北京去了云南，几年后负债100多万](https://www.huxiu.com/article/2915086.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [新搜索时代，如何抓住红利？](https://www.huxiu.com/article/2914066.html)
+Token length: 104
+Summarized using GPT-3.5-turbo
+Append: [制造业爆单，你怎么看？](https://www.huxiu.com/article/2913197.html)
+Append: [美联储要是不降息了，美债怎么办？](https://www.huxiu.com/article/2914502.html)
+Append: [美国医生去年赚了多少钱？](https://www.huxiu.com/article/2914481.html)
+Append: [一季度经济数据：5.3%增速超预期，居民收入增长跑赢GDP](https://www.huxiu.com/article/2915021.html)
+Append: [AI不是魔法，而是减法，5分钟带你看懂AI生图原理](https://www.huxiu.com/article/2914442.html)
+Append: [长期国债是怎么回事？为什么最近窜这么厉害？](https://www.huxiu.com/article/2914500.html)
+Append: [日赚2亿，茅台“真香”](https://www.huxiu.com/article/2909693.html)
+Append: [170万人的县城，跑出60家IPO](https://www.huxiu.com/article/2914498.html)
+Append: [人类没出过太阳系，是如何知道银河系大小和形状的？](https://www.huxiu.com/article/2880070.html)
+Append: [苏联人如何搞互联网？](https://www.huxiu.com/article/2914113.html)
+Append: [年轻人扎堆棋牌室创业，再次败给内卷和房东](https://www.huxiu.com/article/2914088.html)
+Append: [从“厌女”到“爱女”，她们对浪漫小说感到厌烦](https://www.huxiu.com/article/2912676.html)
+Append: [天才在左，疯子在右，法国在哪？](https://www.huxiu.com/article/2913728.html)
+append_entries: 22
+Finish: 2024-04-16 12:12:36.256914
