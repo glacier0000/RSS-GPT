@@ -1135,3 +1135,27 @@ error: Error code: 429 - {'error': {'message': '免费API限制每日100次请�
 Append: [关于AI，我们想来点真实的、清晰的、新鲜的](https://www.huxiu.com/article/2885418.html)
 append_entries: 3
 Finish: 2024-04-16 14:08:36.552097
+------------------------------------------------------
+Started: 2024-04-16 16:09:16.873206
+Existing_entries: 341
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [修脚界的“蜜雪冰城”：流水线上的技师，支撑足疗百亿市场](https://www.huxiu.com/article/2913709.html)
+Token length: 3295
+Summarized using GPT-3.5-turbo
+Append: [火箭是怎么飞到目的地的：生活化描述](https://www.huxiu.com/article/2915767.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [云南的菌子，迟早会教你做人](https://www.huxiu.com/article/2915770.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [19世纪的厕所和浴室：为现代日常生活方式奠基](https://www.huxiu.com/article/2915763.html)
+Token length: 3305
+Summarized using GPT-3.5-turbo
+Append: [5.3%，经济“温差”让微观未充分感受到宏观火热](https://www.huxiu.com/article/2915759.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [海外，抢购中国“二手车”](https://www.huxiu.com/article/2915083.html)
+append_entries: 6
+Finish: 2024-04-16 16:09:45.367588
