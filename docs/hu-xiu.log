@@ -1120,3 +1120,18 @@ Append: [从“厌女”到“爱女”，她们对浪漫小说感到厌烦](htt
 Append: [天才在左，疯子在右，法国在哪？](https://www.huxiu.com/article/2913728.html)
 append_entries: 22
 Finish: 2024-04-16 12:12:36.256914
+------------------------------------------------------
+Started: 2024-04-16 14:07:56.582357
+Existing_entries: 338
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [投胎的顶配，为什么变成了东北独生女](https://www.huxiu.com/article/2915031.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [大脑是如何形成长期记忆的？](https://www.huxiu.com/article/2915076.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [关于AI，我们想来点真实的、清晰的、新鲜的](https://www.huxiu.com/article/2885418.html)
+append_entries: 3
+Finish: 2024-04-16 14:08:36.552097
