@@ -914,3 +914,24 @@ Existing_entries: 264
 Fetching from https://glacier0000.vercel.app/huxiu/article
 append_entries: 0
 Finish: 2024-04-15 22:05:22.243975
+------------------------------------------------------
+Started: 2024-04-16 00:30:22.998476
+Existing_entries: 264
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [大厂的集体“反思”，有何深意？](https://www.huxiu.com/article/2911714.html)
+Token length: 3659
+Summarized using GPT-3.5-turbo
+Append: [斯坦福2024 AI指数报告出炉，揭示10大趋势](https://www.huxiu.com/article/2911701.html)
+Token length: 3233
+Summarized using GPT-3.5-turbo
+Append: [5万块一趟的南极之旅，挤满了中国人](https://www.huxiu.com/article/2911315.html)
+Token length: 2386
+Summarized using GPT-3.5-turbo
+Append: [一季度，并购市场发生了些什么？](https://www.huxiu.com/article/2910498.html)
+Token length: 3681
+Summarized using GPT-3.5-turbo
+Append: [万科的底牌捂不住了](https://www.huxiu.com/article/2902253.html)
+append_entries: 5
+Finish: 2024-04-16 00:31:00.811920
