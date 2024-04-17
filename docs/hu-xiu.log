@@ -1260,3 +1260,30 @@ error: Error code: 403 - {'error': {'message': '免费API限制模型输入token
 Append: [从1000元到8000万，类《完蛋》游戏是致富新路吗？](https://www.huxiu.com/article/2916028.html)
 append_entries: 10
 Finish: 2024-04-17 04:11:07.854863
+------------------------------------------------------
+Started: 2024-04-17 06:11:15.290170
+Existing_entries: 371
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [美国人痛恨的“游戏分级教父”，为何在中国受到追思？](https://www.huxiu.com/article/2916037.html)
+Token length: 2265
+Summarized using GPT-3.5-turbo
+Append: [公募基金经理，困在限薪传闻里](https://www.huxiu.com/article/2917538.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [抢食BAT，10亿用户“新矿”浮出水面](https://www.huxiu.com/article/2910128.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [大龄农民工，路在何方？](https://www.huxiu.com/article/2917324.html)
+Token length: 1141
+Summarized using GPT-3.5-turbo
+Append: [成熟是开始承认自己很需要对方](https://www.huxiu.com/article/2916814.html)
+Token length: 2845
+Summarized using GPT-3.5-turbo
+Append: [GPT-4整治学术不端](https://www.huxiu.com/article/2909380.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [产科关停后，产科医生去哪里？](https://www.huxiu.com/article/2917313.html)
+append_entries: 7
+Finish: 2024-04-17 06:11:53.585059
