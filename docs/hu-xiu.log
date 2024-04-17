@@ -1327,3 +1327,43 @@ Append: [无限上下文、2万亿token，它能干翻Transformer？](https://ww
 Append: [中国最长的跨海通道，要来了？](https://www.huxiu.com/article/2917350.html)
 append_entries: 14
 Finish: 2024-04-17 08:10:25.116315
+------------------------------------------------------
+Started: 2024-04-17 10:07:47.224691
+Existing_entries: 392
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 138
+Summarized using GPT-3.5-turbo
+Append: [最“卷”外国人，帮助中国企业在海外赚钱？](https://www.huxiu.com/article/2918366.html)
+Token length: 96
+Summarized using GPT-3.5-turbo
+Append: [解读“国九条”？不妨让子弹飞一会](https://www.huxiu.com/article/2918182.html)
+Token length: 2721
+Summarized using GPT-3.5-turbo
+Append: [火箭是怎么飞到目的地的：物理描述](https://www.huxiu.com/article/2918176.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [再一次，我选择了不稳定的未来](https://www.huxiu.com/article/2915771.html)
+Token length: 132
+Summarized using GPT-3.5-turbo
+Append: [高考誓师大会，怎么成了互联网的“乐子批发部”？](https://www.huxiu.com/article/2918111.html)
+Token length: 2976
+Summarized using GPT-3.5-turbo
+Append: [9块9玩不动了：咖啡馆做起婚恋、健身、殡葬生意](https://www.huxiu.com/article/2918367.html)
+Token length: 918
+Summarized using GPT-3.5-turbo
+Append: [特斯拉万人大裁员涉及中国市场，销售部门是重灾区](https://www.huxiu.com/article/2918335.html)
+Token length: 127
+Summarized using GPT-3.5-turbo
+Append: [高科技梦想，低质量生活，印度面临最严重的水危机](https://www.huxiu.com/article/2917516.html)
+Token length: 2958
+Summarized using GPT-3.5-turbo
+Append: [理发为何越来越贵了？](https://www.huxiu.com/article/2918181.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [揭底大模型训练成本：Gemini Ultra是GPT-4的2.5倍](https://www.huxiu.com/article/2913637.html)
+Append: [《白日之下》排雷：爹味太重，请尊重底层民众](https://www.huxiu.com/article/2918137.html)
+Append: [AI杀疯了？我们花了一年时间，总结出十款必备AI工具](https://www.huxiu.com/article/2918328.html)
+Append: [超充时代，还要固态电池做什么？](https://www.huxiu.com/article/2918125.html)
+Append: [喝不起下午茶，日本年轻人成了“新穷人”](https://www.huxiu.com/article/2918121.html)
+append_entries: 14
+Finish: 2024-04-17 10:08:36.650349
