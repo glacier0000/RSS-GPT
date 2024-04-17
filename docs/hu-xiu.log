@@ -1367,3 +1367,47 @@ Append: [超充时代，还要固态电池做什么？](https://www.huxiu.com/ar
 Append: [喝不起下午茶，日本年轻人成了“新穷人”](https://www.huxiu.com/article/2918121.html)
 append_entries: 14
 Finish: 2024-04-17 10:08:36.650349
+------------------------------------------------------
+Started: 2024-04-17 12:12:23.271653
+Existing_entries: 406
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 2340
+Summarized using GPT-3.5-turbo
+Append: [在这件事上，海航堪称民航“胖东来”](https://www.huxiu.com/article/2918770.html)
+Token length: 2480
+Summarized using GPT-3.5-turbo
+Append: [伊拉克商人在义乌：除了财富和机遇，也有中东菜和水烟](https://www.huxiu.com/article/2918408.html)
+Token length: 3115
+Summarized using GPT-3.5-turbo
+Append: [AI大模型的智能，真是涌现出来的吗？](https://www.huxiu.com/article/2918448.html)
+Token length: 121
+Summarized using GPT-3.5-turbo
+Append: [很多东西的价格在悄悄上涨，涨价潮又来了？](https://www.huxiu.com/article/2911368.html)
+Token length: 3196
+Summarized using GPT-3.5-turbo
+Append: [智能手机战场再生变：三星一季度销量超苹果](https://www.huxiu.com/article/2918409.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [全球纸媒纷纷倒闭，日本报纸为何活下来？](https://www.huxiu.com/article/2918126.html)
+Token length: 2160
+Summarized using GPT-3.5-turbo
+Append: [一级市场的中年危机](https://www.huxiu.com/article/2918777.html)
+Token length: 115
+Summarized using GPT-3.5-turbo
+Append: [离奇桃花癫，钟情妄想症，这些难道是真实世界的投影？](https://www.huxiu.com/article/2913184.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [19岁了，“美国版贴吧”为何还是这么火？](https://www.huxiu.com/article/2918374.html)
+Token length: 3577
+Summarized using GPT-3.5-turbo
+Append: [凶猛的燃气费，重庆燃气第四季度营业利润暴增了11倍](https://www.huxiu.com/article/2918406.html)
+Append: [体面的中产家庭，正在杀死自己的孩子](https://www.huxiu.com/article/2918407.html)
+Append: [网易微软，“各怀鬼胎”](https://www.huxiu.com/article/2918441.html)
+Append: [除三害背后的邪教究竟有多可怕？如何才能不被洗脑？](https://www.huxiu.com/article/2917354.html)
+Append: [薛兆丰：成本是放弃了的最大代价](https://www.huxiu.com/article/2918455.html)
+Append: [复星保险版图“瘦身”，拟出售比利时险企股权，回笼资金约50亿](https://www.huxiu.com/article/2918405.html)
+Append: [黄金暴涨背后的可怕现实，这才真的是百年大变局](https://www.huxiu.com/article/2918352.html)
+Append: [网红品牌背后的真相：成功与失败的假象](https://www.huxiu.com/article/2918149.html)
+Append: [山姆·阿尔特曼是如何成为亿万富豪的？](https://www.huxiu.com/article/2918420.html)
+append_entries: 18
+Finish: 2024-04-17 12:13:27.940158
