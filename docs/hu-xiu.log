@@ -1224,3 +1224,39 @@ Append: [被赊账拖垮的烟酒店](https://www.huxiu.com/article/2915782.html
 Append: [隆基苦等翻盘](https://www.huxiu.com/article/2894431.html)
 append_entries: 14
 Finish: 2024-04-17 02:18:26.306880
+------------------------------------------------------
+Started: 2024-04-17 04:10:08.877823
+Existing_entries: 361
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 3414
+Summarized using GPT-3.5-turbo
+Append: [上海城市超市全面停业，精品超市路在何方？](https://www.huxiu.com/article/2917283.html)
+Token length: 124
+Summarized using GPT-3.5-turbo
+Append: [花买车的钱买飞机，飞行汽车真的来了吗？](https://www.huxiu.com/article/2917326.html)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [不仅贫困，而且孤独，韩国老人的双重困境](https://www.huxiu.com/article/2915008.html)
+Token length: 3238
+Summarized using GPT-3.5-turbo
+Append: [追随女友出国读博，他却同时开始创业？](https://www.huxiu.com/article/2917288.html)
+Token length: 1800
+Summarized using GPT-3.5-turbo
+Append: [国家医保局发文点名减肥药：不进医保](https://www.huxiu.com/article/2916637.html)
+Token length: 120
+Summarized using GPT-3.5-turbo
+Append: [暗藏“嘿咻陷阱”的“搭子文化”，为何在年轻人中如此盛行?](https://www.huxiu.com/article/2917293.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [为什么有些人会从“欺负别人”中得到快感？](https://www.huxiu.com/article/2915965.html)
+Token length: 3134
+Summarized using GPT-3.5-turbo
+Append: [俞永福二次谢幕](https://www.huxiu.com/article/2916890.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [名导失灵，票房犹在](https://www.huxiu.com/article/2916915.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [从1000元到8000万，类《完蛋》游戏是致富新路吗？](https://www.huxiu.com/article/2916028.html)
+append_entries: 10
+Finish: 2024-04-17 04:11:07.854863
