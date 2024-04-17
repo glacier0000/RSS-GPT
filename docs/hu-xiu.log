@@ -1184,3 +1184,43 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-04-17 02:17:32.212157
+Existing_entries: 347
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [我在澳洲送外卖：日赚千元，满身是伤](https://www.huxiu.com/article/2916827.html)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [金价飙涨，美债滞销，都源自美元霸权的衰落？](https://www.huxiu.com/article/2915113.html)
+Token length: 1706
+Summarized using GPT-3.5-turbo
+Append: [糖代谢致癌新机制：吃饭不健康，癌症风险可能更高](https://www.huxiu.com/article/2916837.html)
+Token length: 3184
+Summarized using GPT-3.5-turbo
+Append: [21座万亿城市，一年多了139万人](https://www.huxiu.com/article/2915992.html)
+Token length: 105
+Summarized using GPT-3.5-turbo
+Append: [特斯拉宣布全球大裁员，是中国新能源汽车的胜利吗？](https://www.huxiu.com/article/2915115.html)
+Token length: 2770
+Summarized using GPT-3.5-turbo
+Append: [在台湾乡间民宿，我看到了生活的小确幸](https://www.huxiu.com/article/2916152.html)
+Token length: 137
+Summarized using GPT-3.5-turbo
+Append: [你有这么高速运转的机械，是怎么进入ChatGPT的？](https://www.huxiu.com/article/2914423.html)
+Token length: 3316
+Summarized using GPT-3.5-turbo
+Append: [中国电动车出海，对全球消费者不香吗](https://www.huxiu.com/article/2916045.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [时尚产业，收购潮汹涌](https://www.huxiu.com/article/2916017.html)
+Token length: 1303
+Summarized using GPT-3.5-turbo
+Append: [特斯拉股价跌跌不休，裁员加剧了华尔街担忧](https://www.huxiu.com/article/2916687.html)
+Append: [扫不干净的村庄](https://www.huxiu.com/article/2916639.html)
+Append: [韩国养老金改革倒计时，韩元进入长期贬值通道？](https://www.huxiu.com/article/2916673.html)
+Append: [被赊账拖垮的烟酒店](https://www.huxiu.com/article/2915782.html)
+Append: [隆基苦等翻盘](https://www.huxiu.com/article/2894431.html)
+append_entries: 14
+Finish: 2024-04-17 02:18:26.306880

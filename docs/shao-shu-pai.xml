@@ -4,6 +4,26 @@
 <title>少数派 -- Matrix</title>
 <link>https://sspai.com/matrix</link>
 
+<item>
+<title>「像老乡鸡那样做饭」</title>
+<link>https://sspai.com/post/88123</link>
+<guid>https://sspai.com/post/88123</guid>
+<content:encoded><![CDATA[
+<div> 老乡鸡公开了自己的《菜品溯源报告》，详细列出食品配料、食材供应商和操作明细。<br>
+这份报告虽详实，但呈现在官网上的 PDF 格式太过难以阅读和查阅。<br>
+有人将报告内容转录成 Markdown 格式，制作了一个类似菜谱的项目「像老乡鸡那样做饭」。<br>
+通过这个项目，可以清晰了解菜品制作的工艺和所需配料，甚至可以购买到相同的食材。<br>
+老乡鸡的配料中有些特殊的来自第三方供应商，例如「宫保鸡丁调味酱」来自成都圣恩生物。<br>
+老乡鸡公开了一些菜品的供应商信息，展现了现代食品工业的复杂性和艰难。<br>
+尽管老乡鸡只公布了部分配料，但并未公开全部成分、配比和步骤。<br>
+老乡鸡在部分门店标注了菜品的制作方式，走在食品公开的前列，希望能赢得消费者的信任。<br>
+现代食品工业的繁琐和复杂使消费者食用到的食品缺少灵魂，希望有更多餐饮企业引领食品公开之风。<br>
+项目地址欢迎大家查阅、补充贡献，分享实践中的教训、总结与经验。<br> <div>
+<p>最近几天，「老乡鸡开源了」的消息让人眼前一惊：一家做餐饮的企业何谈“开源”二字？开源他们的erp吗？</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/16/338a759b644ea6c9f6bc31506f2688c6.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /><figcaption>开源中国关于老乡鸡“开源”的文章截图</figcaption></figure><p>仔细阅读后发现，是老乡鸡公开了自己的《菜品溯源报告》，其中包含了自己的食品配料、食材供应商和操作明细的环节，可以说是事无巨细。</p><p>但是公开在官网的<a href="https://www.lxjchina.com.cn/display.asp?id=4226" target="_blank">《老乡鸡菜品溯源报告》</a>实在是一份又丑又长的PDF，让人很难读下去不说，查阅起来也很不便。</p><p>于是我突发奇想：为何不真的把它“开源”了？</p><p>于是便有了 <a href="https://github.com/SoilZhu/CookLikeHOC" target="_blank">CookLikeHOC</a> ，「像老乡鸡那样做饭」。</p><h2>项目介绍</h2><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/17/8791f0c90c5d4dafd780bee5c2016c5e.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /><figcaption>自己做的banner用图，仿照老乡鸡原有logo的风格，画了一位熟人上去（</figcaption></figure><p>之所以叫做 CookLikeHOC ，是因为觉得写作 CookLikeLaoxiangji 应该不怎么方便阅读。恰巧在China Daily上发现有报道将老乡鸡称为 Home Original Chicken ，于是就缩写成 HOC 了。</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/16/7fd8c339506510dcb7f3c81e81529dff.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /><figcaption>仓库页面截图</figcaption></figure><p>我和我的朋友花费了将近一周的时间将《菜品溯源报告》里的菜品都详细地录入成 Markdown 格式的文档，并且按照菜品的制作工艺进行分类。</p><p>找到自己想看的菜品后可以很清晰的看到菜谱：</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/16/df2ce542b5606360adcfb6c1a25b56a1.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /><figcaption>截图</figcaption></figure><p>其中老乡鸡采购的一些来自第三方的比较特殊的配料，我们也在后面备注了供应商。一般来说，大家可以很方便的在网购平台上买到同款配料！</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/16/1cf28287c5a702c942bb5c19fd3571e8.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /><figcaption>例如「宫保鸡丁调味酱」就来自成都圣恩生物</figcaption></figure><p>&nbsp;</p><h2>只是做菜？</h2><p>老乡鸡这次公开自己的《菜品溯源报告》，让人从中一瞥现代食品工业的复杂性，也知道在外吃一口“好饭”，实际上有多么艰难。</p><p>值得指出的是，老乡鸡的相当多的调味料和半成品都来自自己的“老乡鸡中央厨房”，老乡鸡只公布了部分成分，但并没有公开全部成分、配比和步骤。</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/16/397f115e88fb0d1a5b8d9f6f601326f0.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /><figcaption>例如这个「炒菜基料」，在报告中出现了很多次，但实在让人无法知道这是什么（</figcaption></figure><p>同时老乡鸡也有很大比例的菜品是完全的预制菜，基本上可以等同于在门店里热热，摆盘一下就上桌。</p><p>按照老乡鸡官方的说法：</p><blockquote><p>其中餐厅现做的占比70.6%，半预制的占比27.7%，复热预制的占比1.7%。</p></blockquote><p>但老乡鸡已经开始在部分门店标注哪些菜是现做的、哪些菜是预制菜，可以说在食品公开方面走在了前面，也借此希望能得到消费者的信任。</p><p>现代食品工业或许注定是繁琐和复杂的，最终让消费者消费到的食品会需只能是「毫无灵魂」的菜品。但希望有这么一家餐饮企业带头，能让我们吃的放心一些吧，</p><p>大概。</p><p>&nbsp;</p><p>项目地址：</p><p><a href="https://github.com/SoilZhu/CookLikeHOC">https://github.com/SoilZhu/CookLikeHOC</a></p><p>欢迎大家来查阅和补充贡献，并且分享你在实践中的教训、总结与经验。</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/17/ee10d6e2ae9fce90338cf74205b12309.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>&nbsp;</p>
+]]></content:encoded>
+<pubDate>Wed, 17 Apr 2024 01:12:26 GMT</pubDate>
+<pubDate>Wed, 17 Apr 2024 01:12:26 GMT</pubDate>
+</item>
 
 <item>
 <title>当一个IT人决定学中医</title>
