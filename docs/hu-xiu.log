@@ -1457,3 +1457,12 @@ Existing_entries: 431
 Fetching from https://glacier0000.vercel.app/huxiu/article
 append_entries: 0
 Finish: 2024-04-17 20:07:38.496305
+------------------------------------------------------
+Started: 2024-04-17 22:05:27.276139
+Existing_entries: 431
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [美国小卖铺，卡住中国老板](https://www.huxiu.com/article/2919719.html)
+append_entries: 1
+Finish: 2024-04-17 22:05:35.298164
