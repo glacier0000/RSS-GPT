@@ -548,3 +548,27 @@ Existing_entries: 78
 Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
 append_entries: 0
 Finish: 2024-04-17 14:09:21.100531
+------------------------------------------------------
+Started: 2024-04-17 16:09:02.055132
+Existing_entries: 78
+Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [电车还要降价，因为车企还没把造电池的吸干。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654494051&idx=1&sn=6c30e07b83b23b5438aacd64734e39f1&chksm=8b854a64bcf2c372d30bf4a4c0c2e585b0b0c659ce98bafd171fffabf1b8273c65728e74ef1f&scene=58&subscene=0)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [一年卖出100万台，全景相机到底有什么魔力？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654494051&idx=2&sn=577597cdff2a081de96e601e605a2f38&chksm=8b854a64bcf2c3724f281844dfb7e46b0366c621610a72b05ad74b2b46bfca7cce4d546d6e5c&scene=58&subscene=0)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [“天下第一”的游戏出了个抽卡手游，结果翻大车？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654494051&idx=3&sn=b15f4a5101029de0930348c6bd3a428f&chksm=8b854a64bcf2c3727ee0d18331f0277ac22d913d86ab25671c541299295d17c9a58fed16ba80&scene=58&subscene=0)
+Token length: 68
+Summarized using GPT-3.5-turbo
+Append: [今日最佳：给大家表演个魔术。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654494051&idx=4&sn=d6651b4b8e7e848b18431ac6bb18d7f6&chksm=8b854a64bcf2c372d23d215863ca7e317f42c25091aeca5a640fe312ea0e4b893eca72d1838a&scene=58&subscene=0)
+Token length: 33
+Summarized using GPT-3.5-turbo
+Append: [聊一聊：你觉得二手商品该支持退换吗？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654494051&idx=5&sn=32fddb434f2b70b786ebd297e1b38007&chksm=8b854a64bcf2c372bb0482d60e85726b62e76248b466c2fdad32451f982c220e0fd6801771cd&scene=58&subscene=0)
+Token length: 1188
+Summarized using GPT-3.5-turbo
+Append: [特斯拉开启大规模裁员，本田推出新品牌“烨”，苹果新机或容量翻倍价格不变，华夏芯被申请破产清算，这就是今天的其他大新闻！](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654494051&idx=6&sn=1f3a09e7ad1bb7701ffacca22384d836&chksm=8b854a64bcf2c372653bbea6afc92a233b6bf15881b73b69a919e0447979588a02fa63df6f72&scene=58&subscene=0)
+append_entries: 6
+Finish: 2024-04-17 16:09:27.882011

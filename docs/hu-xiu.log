@@ -1438,3 +1438,10 @@ error: Error code: 429 - {'error': {'message': '免费API限制每日100次请�
 Append: [AI圈的内卷：怎么看？怎么办？](https://www.huxiu.com/article/2918795.html)
 append_entries: 7
 Finish: 2024-04-17 14:08:38.543982
+------------------------------------------------------
+Started: 2024-04-17 16:08:35.809825
+Existing_entries: 431
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
