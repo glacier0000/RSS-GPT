@@ -1411,3 +1411,30 @@ Append: [网红品牌背后的真相：成功与失败的假象](https://www.hux
 Append: [山姆·阿尔特曼是如何成为亿万富豪的？](https://www.huxiu.com/article/2918420.html)
 append_entries: 18
 Finish: 2024-04-17 12:13:27.940158
+------------------------------------------------------
+Started: 2024-04-17 14:06:16.541711
+Existing_entries: 424
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 2886
+Summarized using GPT-3.5-turbo
+Append: [30岁的世界之窗，已经没有人去“看世界”了？](https://www.huxiu.com/article/2919303.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [“旅行+一切”，综艺的伪创新](https://www.huxiu.com/article/2918349.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [硬折扣的繁荣，还禁不起吹捧](https://www.huxiu.com/article/2919269.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [上传丁丁照、1分钟看性病，我看不懂的AI应用又多了](https://www.huxiu.com/article/2919215.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [走访硅谷：美国正在推动制造业回流](https://www.huxiu.com/article/2919274.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [美妆“顶流”败走中国，外资巨头撑不住了？](https://www.huxiu.com/article/2918760.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [AI圈的内卷：怎么看？怎么办？](https://www.huxiu.com/article/2918795.html)
+append_entries: 7
+Finish: 2024-04-17 14:08:38.543982
