@@ -1504,3 +1504,43 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-04-18 06:09:54.980290
+Existing_entries: 438
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 2860
+Summarized using GPT-3.5-turbo
+Append: [Google、Meta、马斯克和整个世界，都在抄袭它？](https://www.huxiu.com/article/2921540.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [倒闭新能源车车主的“电子墓碑”](https://www.huxiu.com/article/2921502.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [西安医械“王者”，困在“小池塘”](https://www.huxiu.com/article/2921586.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [名校硕士生，困在“第一学历”里](https://www.huxiu.com/article/2921512.html)
+Token length: 3824
+Summarized using GPT-3.5-turbo
+Append: [IPO大门到底收多紧？Q1上市公司数量同比腰斩](https://www.huxiu.com/article/2921524.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [赚了50%的钱，仍然做不好防沉迷](https://www.huxiu.com/article/2919754.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [遭遇阵痛的电竞行业，还会变好吗？](https://www.huxiu.com/article/2919250.html)
+Token length: 108
+Summarized using GPT-3.5-turbo
+Append: [创业者被告上法庭？细数回购协议的“罪”与“罚”](https://www.huxiu.com/article/2917588.html)
+Token length: 155
+Summarized using GPT-3.5-turbo
+Append: [收入翻倍的机会怎么抓？李彦宏这三个王炸，教你抄作业](https://www.huxiu.com/article/2921525.html)
+Token length: 2891
+Summarized using GPT-3.5-turbo
+Append: [间歇性冷漠，其实是一种自我保护](https://www.huxiu.com/article/2920994.html)
+Append: [ASML业绩崩坍，AI的风吹不到光刻机？](https://www.huxiu.com/article/2918450.html)
+Append: [哪一类员工，最容易被开除？](https://www.huxiu.com/article/2921016.html)
+Append: [“徽酒王者”高炉家30年浮沉录](https://www.huxiu.com/article/2919752.html)
+Append: [回县城老家开一家零食很忙，能赚钱吗？](https://www.huxiu.com/article/2920667.html)
+append_entries: 14
+Finish: 2024-04-18 06:10:45.943622

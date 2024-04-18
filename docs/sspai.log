@@ -20352,3 +20352,12 @@ Existing_entries: 739
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-18 04:08:23.210250
+------------------------------------------------------
+Started: 2024-04-18 06:09:43.687055
+Existing_entries: 739
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [有奖｜2024 年，我如何找回听歌实感](https://sspai.com/post/88147)
+append_entries: 1
+Finish: 2024-04-18 06:09:46.472177
