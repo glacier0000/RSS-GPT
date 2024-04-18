@@ -1473,3 +1473,27 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-04-18 02:17:20.505721
+Existing_entries: 432
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 121
+Summarized using GPT-3.5-turbo
+Append: [2024年大宗商品纯碱会有机会吗？](https://www.huxiu.com/article/2919745.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [下班之后，我有权利不看微信吗？](https://www.huxiu.com/article/2793766.html)
+Token length: 3199
+Summarized using GPT-3.5-turbo
+Append: [985教授发传单推广课程：如何让教育回归本位？](https://www.huxiu.com/article/2897154.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [爬上火山的勇敢中产，发现旷野上挤满了人](https://www.huxiu.com/article/2916888.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [7个方法，助力你学会商业思维](https://www.huxiu.com/article/2918151.html)
+Token length: 3158
+Summarized using GPT-3.5-turbo
+Append: [中国外贸第四城苏州，“坐”不住了](https://www.huxiu.com/article/2919741.html)
+append_entries: 6
+Finish: 2024-04-18 02:17:47.267004

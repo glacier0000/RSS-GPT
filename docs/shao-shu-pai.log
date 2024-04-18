@@ -495,3 +495,21 @@ Existing_entries: 30
 Fetching from https://glacier0000.vercel.app/sspai/matrix
 append_entries: 0
 Finish: 2024-04-18 00:30:32.744378
+------------------------------------------------------
+Started: 2024-04-18 02:16:59.195180
+Existing_entries: 30
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [大连旅行笔记](https://sspai.com/post/87868)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [从碎片到系统：设计师必备的知识库搭建指南](https://sspai.com/post/88128)
+Token length: 1914
+Summarized using GPT-3.5-turbo
+Append: [好奇心](https://sspai.com/post/87981)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [构建数字收件箱，以任务调度组织高效工作](https://sspai.com/post/88116)
+append_entries: 4
+Finish: 2024-04-18 02:17:19.055701
