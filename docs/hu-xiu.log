@@ -1544,3 +1544,43 @@ Append: [“徽酒王者”高炉家30年浮沉录](https://www.huxiu.com/articl
 Append: [回县城老家开一家零食很忙，能赚钱吗？](https://www.huxiu.com/article/2920667.html)
 append_entries: 14
 Finish: 2024-04-18 06:10:45.943622
+------------------------------------------------------
+Started: 2024-04-18 08:10:36.982017
+Existing_entries: 452
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 2346
+Summarized using GPT-3.5-turbo
+Append: [“中东王子”，豪骗全球](https://www.huxiu.com/article/2921814.html)
+Token length: 1948
+Summarized using GPT-3.5-turbo
+Append: [“数学考140分就可上名校”为误读](https://www.huxiu.com/article/2922133.html)
+Token length: 108
+Summarized using GPT-3.5-turbo
+Append: [日元韩元剧烈贬值，“货币保卫战”开始了？](https://www.huxiu.com/article/2921851.html)
+Token length: 165
+Summarized using GPT-3.5-turbo
+Append: [游戏公司甩锅，手机厂商隐身，渠道服问题无人解？](https://www.huxiu.com/article/2921752.html)
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [多少中年人，把肯德基当加油站](https://www.huxiu.com/article/2921575.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [德国天才学校，为何并不培养精英？](https://www.huxiu.com/article/2922123.html)
+Token length: 4566
+Summarized using GPT-3.5-turbo
+Append: [波士顿动力刚发布的人形机器人，有一点点吓人](https://www.huxiu.com/article/2922129.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [波士顿动力推出全新Atlas：人形机器人并不一定要像人](https://www.huxiu.com/article/2921507.html)
+Token length: 2546
+Summarized using GPT-3.5-turbo
+Append: [放弃，是一种能力](https://www.huxiu.com/article/2919721.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [没有“一手好牌”的人生，还值得继续探索吗？](https://www.huxiu.com/article/2922120.html)
+Append: [品牌如何避免塌房？在什么山，唱什么戏](https://www.huxiu.com/article/2922115.html)
+Append: [AI背后全是印度人？印度已成“世界服务工厂”](https://www.huxiu.com/article/2922137.html)
+Append: [TikTok之后，Temu和SHEIN在北美“遇袭”](https://www.huxiu.com/article/2921776.html)
+Append: [男性为何会因控制欲杀人？从谷歌工程师杀妻谈起](https://www.huxiu.com/article/2612316.html)
+append_entries: 14
+Finish: 2024-04-18 08:11:45.215846
