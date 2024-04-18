@@ -1497,3 +1497,10 @@ Summarized using GPT-3.5-turbo
 Append: [中国外贸第四城苏州，“坐”不住了](https://www.huxiu.com/article/2919741.html)
 append_entries: 6
 Finish: 2024-04-18 02:17:47.267004
+------------------------------------------------------
+Started: 2024-04-18 04:08:31.397031
+Existing_entries: 438
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
