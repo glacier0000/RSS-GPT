@@ -1713,3 +1713,10 @@ error: Error code: 403 - {'error': {'message': '免费API限制模型输入token
 Append: [为一切定价，走出统计的黑暗时代](https://www.huxiu.com/article/2922903.html)
 append_entries: 5
 Finish: 2024-04-18 16:08:25.416024
+------------------------------------------------------
+Started: 2024-04-18 18:09:00.191935
+Existing_entries: 503
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
