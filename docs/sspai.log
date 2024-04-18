@@ -20370,3 +20370,12 @@ Summarized using GPT-3.5-turbo
 Append: [复古胶片拍立得，口袋相机新选择：Limi Cam](https://sspai.com/post/88045)
 append_entries: 1
 Finish: 2024-04-18 08:10:29.084734
+------------------------------------------------------
+Started: 2024-04-18 10:07:23.146863
+Existing_entries: 741
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [新玩意 178｜少数派的编辑们最近买了啥？](https://sspai.com/post/88142)
+append_entries: 1
+Finish: 2024-04-18 10:07:28.901804

@@ -1584,3 +1584,41 @@ Append: [TikTok之后，Temu和SHEIN在北美“遇袭”](https://www.huxiu.com
 Append: [男性为何会因控制欲杀人？从谷歌工程师杀妻谈起](https://www.huxiu.com/article/2612316.html)
 append_entries: 14
 Finish: 2024-04-18 08:11:45.215846
+------------------------------------------------------
+Started: 2024-04-18 10:07:37.158251
+Existing_entries: 466
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 125
+Summarized using GPT-3.5-turbo
+Append: [AI浪潮下的中国布局，你看懂了吗？](https://www.huxiu.com/article/2922415.html)
+Token length: 2588
+Summarized using GPT-3.5-turbo
+Append: [社零增速连续4个月放缓，被啥拖累了？](https://www.huxiu.com/article/2922438.html)
+Token length: 2571
+Summarized using GPT-3.5-turbo
+Append: [华为造爆款，耗时8分钟](https://www.huxiu.com/article/2922463.html)
+Token length: 2880
+Summarized using GPT-3.5-turbo
+Append: [一代快时尚鼻祖走到了悬崖边](https://www.huxiu.com/article/2922390.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [下沉市场对黄金的偏爱，停滞在金价飙升之前](https://www.huxiu.com/article/2922161.html)
+Token length: 945
+Summarized using GPT-3.5-turbo
+Append: [美国通胀居高不下的“三大支柱”：房价、保险和能源](https://www.huxiu.com/article/2922433.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [抖音没有一姐](https://www.huxiu.com/article/2921765.html)
+Token length: 91
+Summarized using GPT-3.5-turbo
+Append: [“认同别人还是自己”？自卑感从何而来？](https://www.huxiu.com/article/2917566.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [现实版“黄金大劫案”：金价猛涨后，金店老板破产跑路](https://www.huxiu.com/article/2921760.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [图灵奖得主专访：我不想把大模型未来押注在Scaling Law上](https://www.huxiu.com/article/2922177.html)
+Append: [当中年父亲背着家庭有了新孩子](https://www.huxiu.com/article/2922152.html)
+Append: [福建人的年，是要过到夏天的](https://www.huxiu.com/article/2921859.html)
+append_entries: 12
+Finish: 2024-04-18 10:08:46.741051
