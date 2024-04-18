@@ -1622,3 +1622,40 @@ Append: [当中年父亲背着家庭有了新孩子](https://www.huxiu.com/artic
 Append: [福建人的年，是要过到夏天的](https://www.huxiu.com/article/2921859.html)
 append_entries: 12
 Finish: 2024-04-18 10:08:46.741051
+------------------------------------------------------
+Started: 2024-04-18 12:11:44.268817
+Existing_entries: 478
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 2527
+Summarized using GPT-3.5-turbo
+Append: [为什么酒店用同一个算法就违法了？](https://www.huxiu.com/article/2922868.html)
+Token length: 2314
+Summarized using GPT-3.5-turbo
+Append: [实探华为Pura 70开售现场，一分钟清货](https://www.huxiu.com/article/2922434.html)
+Token length: 1483
+Summarized using GPT-3.5-turbo
+Append: [研究了5.8万对中国母婴，有哪些新发现？](https://www.huxiu.com/article/2921793.html)
+Token length: 2051
+Summarized using GPT-3.5-turbo
+Append: [巴黎奥运会订单涌向义乌：“现在下单，得排到五月”](https://www.huxiu.com/article/2922435.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [年轻一代的愤怒，会是吞噬世界的业火吗？](https://www.huxiu.com/article/2922466.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [互联网大厂人的下一站：考公上岸](https://www.huxiu.com/article/2922446.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [年轻人需要怎样的出境游产品？](https://www.huxiu.com/article/2922460.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [一位深圳朋友，8年没去过香港了](https://www.huxiu.com/article/2922402.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [从老祖宗到小皇帝：如何理解中国人的家庭转型？](https://www.huxiu.com/article/2914099.html)
+Token length: 2512
+Summarized using GPT-3.5-turbo
+Append: [伊以冲突对石油黄金影响多大？](https://www.huxiu.com/article/2922436.html)
+Append: [该让大模型走出对话框了](https://www.huxiu.com/article/2921796.html)
+append_entries: 11
+Finish: 2024-04-18 12:12:54.058950
