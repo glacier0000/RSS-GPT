@@ -1868,3 +1868,30 @@ Summarized using GPT-3.5-turbo
 Append: [年轻人存钱“上头”：一边“抢”大额存单，一边砸钱囤黄金](https://www.huxiu.com/article/2927502.html)
 append_entries: 4
 Finish: 2024-04-19 12:13:09.654165
+------------------------------------------------------
+Started: 2024-04-19 14:03:33.232711
+Existing_entries: 545
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 1668
+Summarized using GPT-3.5-turbo
+Append: [日股牛市，才刚刚开始？](https://www.huxiu.com/article/2928271.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [AI大模型催生App“通胀”](https://www.huxiu.com/article/2928037.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [这个苏北县城，承包了所有女生的指尖](https://www.huxiu.com/article/2928219.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [一个山区乡镇，该怎样发展经济？](https://www.huxiu.com/article/2924918.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [断崖式卖房的深圳人](https://www.huxiu.com/article/2927949.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [扎克伯格万字访谈：“最强开源大模型”Llama3是如何炼成的？](https://www.huxiu.com/article/2928055.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [在华外资，告别“躺赚”时代](https://www.huxiu.com/article/2928001.html)
+append_entries: 7
+Finish: 2024-04-19 14:04:56.986061
