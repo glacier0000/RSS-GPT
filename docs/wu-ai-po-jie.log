@@ -574,3 +574,15 @@ Existing_entries: 20
 Fetching from https://wechat2rss.xlab.app/feed/90c827b8290310a96ef80a13df9dbcc06ab69892.xml
 append_entries: 0
 Finish: 2024-04-19 08:12:42.083046
+------------------------------------------------------
+Started: 2024-04-19 10:09:26.445152
+Existing_entries: 20
+Fetching from https://wechat2rss.xlab.app/feed/90c827b8290310a96ef80a13df9dbcc06ab69892.xml
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [腾讯游戏安全大赛2024初赛题解](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651140518&idx=1&sn=c7b5335b5a6db8408d12285e2e71fee8&chksm=bd50a1f28a2728e40475422b3056a79a2e5bc83ae38dcf6eb325e3ac5919ef71125634222b5d&scene=58&subscene=0)
+Token length: 6411
+Summarized using GPT-3.5-turbo
+Append: [【PC样本分析】警惕，黑客通过伪装游戏作弊器 dll注入器等的GitHub开源项目传播多种恶意软件](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651140493&idx=1&sn=88884999bb2684b0842b1697dd5d3aa7&chksm=bd50a1d98a2728cff316a2794de805646e1c008e5d30a724a878bfe02e2e6083f9f609eafd1b&scene=58&subscene=0)
+append_entries: 2
+Finish: 2024-04-19 10:09:55.052102
