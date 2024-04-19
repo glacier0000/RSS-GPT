@@ -20448,3 +20448,15 @@ error: Error code: 403 - {'error': {'message': '免费API限制模型输入token
 Append: [商店表达：探索三家神秘的 Apple Watch 快闪店，一段梦想超越现实的特殊时光](https://sspai.com/post/88132)
 append_entries: 1
 Finish: 2024-04-19 06:10:19.657212
+------------------------------------------------------
+Started: 2024-04-19 08:09:34.805884
+Existing_entries: 745
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [赛博时代的复古异类：我们为什么还在用这些「旧玩意」](https://sspai.com/post/88186)
+Token length: 605
+Summarized using GPT-3.5-turbo
+Append: [做一款创意驱动的手机壳，让每个人都能玩开心](https://sspai.com/post/88188)
+append_entries: 2
+Finish: 2024-04-19 08:10:06.669488
