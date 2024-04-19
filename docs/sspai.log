@@ -20439,3 +20439,12 @@ Existing_entries: 744
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-19 04:08:21.051121
+------------------------------------------------------
+Started: 2024-04-19 06:10:15.660491
+Existing_entries: 744
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [商店表达：探索三家神秘的 Apple Watch 快闪店，一段梦想超越现实的特殊时光](https://sspai.com/post/88132)
+append_entries: 1
+Finish: 2024-04-19 06:10:19.657212
