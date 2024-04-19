@@ -4,12 +4,12 @@
 <title>吾爱破解论坛</title>
 <link>https://wechat2rss.xlab.app/feed/90c827b8290310a96ef80a13df9dbcc06ab69892.xml</link>
 
+
 <item>
 <title>腾讯游戏安全大赛2024初赛题解</title>
 <link>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140518&amp;idx=1&amp;sn=c7b5335b5a6db8408d12285e2e71fee8&amp;chksm=bd50a1f28a2728e40475422b3056a79a2e5bc83ae38dcf6eb325e3ac5919ef71125634222b5d&amp;scene=58&amp;subscene=0</link>
 <guid>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140518&amp;idx=1&amp;sn=c7b5335b5a6db8408d12285e2e71fee8&amp;chksm=bd50a1f28a2728e40475422b3056a79a2e5bc83ae38dcf6eb325e3ac5919ef71125634222b5d&amp;scene=58&amp;subscene=0</guid>
 <content:encoded><![CDATA[
-
 <p>
 原创 <span>吾爱pojie</span> <span>2024-04-19 15:40</span> <span style="display: inline-block;">北京</span>
 </p>
@@ -28,22 +28,21 @@
 <p><a href="https://www.52pojie.cn/thread-1913623-1-1.html">阅读原文</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 19 Apr 2024 15:39:22 +0800</pubDate>
-<pubDate>Fri, 19 Apr 2024 15:39:22 +0800</pubDate>
 </item>
 <item>
 <title>【PC样本分析】警惕，黑客通过伪装游戏作弊器 dll注入器等的GitHub开源项目传播多种恶意软件</title>
 <link>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140493&amp;idx=1&amp;sn=88884999bb2684b0842b1697dd5d3aa7&amp;chksm=bd50a1d98a2728cff316a2794de805646e1c008e5d30a724a878bfe02e2e6083f9f609eafd1b&amp;scene=58&amp;subscene=0</link>
 <guid>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140493&amp;idx=1&amp;sn=88884999bb2684b0842b1697dd5d3aa7&amp;chksm=bd50a1d98a2728cff316a2794de805646e1c008e5d30a724a878bfe02e2e6083f9f609eafd1b&amp;scene=58&amp;subscene=0</guid>
 <content:encoded><![CDATA[
-<div> 1. **GitHub恶意软件警报**：有人在GitHub上下载了一个假装是工程文件的可执行文件，实际上是恶意软件。<br>
-2. **GitHub组织信息**：恶意软件仓库隶属于名为Hayrowi的GitHub组织，这个组织下有多个仓库都包含恶意软件。<br>
-3. **恶意软件行为分析**：恶意软件的行为分为两层。第一层是一个.NET文件，伪装成sln工程文件，实际上是用来下载恶意软件的。第二层是通过解密压缩包释放的.NET文件，用来执行更进一步的恶意行为。<br>
-4. **恶意软件行为链**：经过分析发现，该恶意软件通过两个.NET文件下载最终的恶意载荷，其中包含两个恶意的Electron模块和一个与之相关的注入模块。<br>
-5. **具体恶意软件行为**：该恶意软件下载真实的sln白文件，然后下载加密压缩包并解密，释放多个恶意模块，包括异步远程访问工具(AsyncRAT)和RegAsm注入等。<br>
-6. **详细样本信息**：提供了恶意软件的具体样本信息和相关哈希值，包括文件名称和SHA256哈希。<br>
-7. **相关链接**：提供了官方论坛的链接以及如何设置“星标”获取新消息通知的说明。<br>
+<div> 1. **GitHub恶意软件警报**：有人在GitHub上下载了一个假装是工程文件的可执行文件，实际上是恶意软件。<br />
+2. **GitHub组织信息**：恶意软件仓库隶属于名为Hayrowi的GitHub组织，这个组织下有多个仓库都包含恶意软件。<br />
+3. **恶意软件行为分析**：恶意软件的行为分为两层。第一层是一个.NET文件，伪装成sln工程文件，实际上是用来下载恶意软件的。第二层是通过解密压缩包释放的.NET文件，用来执行更进一步的恶意行为。<br />
+4. **恶意软件行为链**：经过分析发现，该恶意软件通过两个.NET文件下载最终的恶意载荷，其中包含两个恶意的Electron模块和一个与之相关的注入模块。<br />
+5. **具体恶意软件行为**：该恶意软件下载真实的sln白文件，然后下载加密压缩包并解密，释放多个恶意模块，包括异步远程访问工具(AsyncRAT)和RegAsm注入等。<br />
+6. **详细样本信息**：提供了恶意软件的具体样本信息和相关哈希值，包括文件名称和SHA256哈希。<br />
+7. **相关链接**：提供了官方论坛的链接以及如何设置“星标”获取新消息通知的说明。<br />
 
-这些信息表明，GitHub上存在来自Hayrowi组织的恶意软件，其行为复杂且有组织，需要引起警惕。<br> <div>
+这些信息表明，GitHub上存在来自Hayrowi组织的恶意软件，其行为复杂且有组织，需要引起警惕。<br /> <div>
 <p>
 原创 <span>吾爱pojie</span> <span>2024-04-18 17:51</span> <span style="display: inline-block;">北京</span>
 </p>
@@ -62,9 +61,7 @@
 <p><a href="https://www.52pojie.cn/thread-1913167-1-1.html">阅读原文</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 18 Apr 2024 17:49:06 +0800</pubDate>
-<pubDate>Thu, 18 Apr 2024 17:49:06 +0800</pubDate>
 </item>
-
 <item>
 <title>ELangPatcher - 一个简单的基于特征码的易语言静态编译程序膨胀与混淆工具</title>
 <link>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140425&amp;idx=1&amp;sn=30beed51ba6fe1d836f264e0d07905b4&amp;chksm=bd50a11d8a27280b4675e00e503dfdaf9dae053b111d43a3b753a833ee548f4c0f94b0421565&amp;scene=58&amp;subscene=0</link>

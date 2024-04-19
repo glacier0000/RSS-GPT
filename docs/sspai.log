@@ -20466,3 +20466,12 @@ Existing_entries: 747
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-19 10:07:42.619546
+------------------------------------------------------
+Started: 2024-04-19 12:11:50.164475
+Existing_entries: 747
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [本周看什么 | 最近值得一看的一大煲作品](https://sspai.com/post/88196)
+append_entries: 1
+Finish: 2024-04-19 12:11:55.385864
