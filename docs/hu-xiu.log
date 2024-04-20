@@ -2059,3 +2059,18 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-04-20 16:07:42.355225
+Existing_entries: 582
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 1981
+Summarized using GPT-3.5-turbo
+Append: [火车下铺：别在把我逼疯以后又说爱我](https://www.huxiu.com/article/2931779.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [理想L6，夹在华为和小米的刀间](https://www.huxiu.com/article/2931172.html)
+Token length: 3113
+Summarized using GPT-3.5-turbo
+Append: [光靠堆料，造不出“中国劳斯莱斯”](https://www.huxiu.com/article/2931359.html)
+append_entries: 3
+Finish: 2024-04-20 16:08:04.889297
