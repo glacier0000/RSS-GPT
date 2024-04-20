@@ -2007,3 +2007,24 @@ error: Error code: 403 - {'error': {'message': '免费API限制模型输入token
 Append: [等一下，你重视小钱吗？](https://www.huxiu.com/article/2928655.html)
 append_entries: 5
 Finish: 2024-04-20 06:08:51.221796
+------------------------------------------------------
+Started: 2024-04-20 08:07:58.466701
+Existing_entries: 573
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 1195
+Summarized using GPT-3.5-turbo
+Append: [为AI发电，对全球意味着什么？](https://www.huxiu.com/article/2930906.html)
+Token length: 2639
+Summarized using GPT-3.5-turbo
+Append: [Llama 3发布，亮点在于“小”模型](https://www.huxiu.com/article/2928909.html)
+Token length: 140
+Summarized using GPT-3.5-turbo
+Append: [学生卖身、警察下海，日本有多性饥渴？](https://www.huxiu.com/article/2928031.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [谷歌全面整合AI力量背后：DeepMind浮沉史](https://www.huxiu.com/article/2930154.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [段永平难隐于市](https://www.huxiu.com/article/2914479.html)
+append_entries: 5
+Finish: 2024-04-20 08:08:27.295119
