@@ -1950,3 +1950,39 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-04-20 04:09:13.681799
+Existing_entries: 558
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [“中国酿造”加速出海，还有哪些课要补？](https://www.huxiu.com/article/2928676.html)
+Token length: 1554
+Summarized using GPT-3.5-turbo
+Append: [英伟达一夜蒸发超万亿市值](https://www.huxiu.com/article/2929768.html)
+Token length: 104
+Summarized using GPT-3.5-turbo
+Append: [我分析了778部院线电影，真相完全想不到……](https://www.huxiu.com/article/2927963.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [80%退票手续费，“强实名”后观演成本更高了？](https://www.huxiu.com/article/2928331.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [研究生导师频出大瓜，学术圈是象牙塔还是名利场？](https://www.huxiu.com/article/2929774.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [爆改上海1㎡小户型，看到最后都哭了](https://www.huxiu.com/article/2929797.html)
+Token length: 3219
+Summarized using GPT-3.5-turbo
+Append: [上海豪宅再现“抢购”](https://www.huxiu.com/article/2928636.html)
+Token length: 92
+Summarized using GPT-3.5-turbo
+Append: [不作死就不会死？英系车是怎么被自己人干团灭的？](https://www.huxiu.com/article/2927905.html)
+Token length: 3295
+Summarized using GPT-3.5-turbo
+Append: [中国制造：外需与新产能的未来](https://www.huxiu.com/article/2929783.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [元气森林“反腐”案疑云](https://www.huxiu.com/article/2928635.html)
+append_entries: 10
+Finish: 2024-04-20 04:10:03.503810
