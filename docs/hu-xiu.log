@@ -2028,3 +2028,12 @@ error: Error code: 403 - {'error': {'message': '免费API限制模型输入token
 Append: [段永平难隐于市](https://www.huxiu.com/article/2914479.html)
 append_entries: 5
 Finish: 2024-04-20 08:08:27.295119
+------------------------------------------------------
+Started: 2024-04-20 10:05:13.617558
+Existing_entries: 578
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 164
+Summarized using GPT-3.5-turbo
+Append: [AI+电商，将撬动更大的市场](https://www.huxiu.com/article/2927452.html)
+append_entries: 1
+Finish: 2024-04-20 10:05:22.828618
