@@ -2037,3 +2037,18 @@ Summarized using GPT-3.5-turbo
 Append: [AI+电商，将撬动更大的市场](https://www.huxiu.com/article/2927452.html)
 append_entries: 1
 Finish: 2024-04-20 10:05:22.828618
+------------------------------------------------------
+Started: 2024-04-20 12:11:29.536389
+Existing_entries: 579
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 3321
+Summarized using GPT-3.5-turbo
+Append: [号称超越GPT-4的大模型们，有多少靠的是“抄袭”](https://www.huxiu.com/article/2931339.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [中国互联网三十周年，那些陨落的流星](https://www.huxiu.com/article/2930141.html)
+Token length: 172
+Summarized using GPT-3.5-turbo
+Append: [从三尺讲台到一米摊位，靠一个手电筒财富自由](https://www.huxiu.com/article/2928010.html)
+append_entries: 3
+Finish: 2024-04-20 12:11:57.707215
