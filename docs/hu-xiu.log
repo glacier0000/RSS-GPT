@@ -1925,3 +1925,21 @@ Existing_entries: 554
 Fetching from https://glacier0000.vercel.app/huxiu/article
 append_entries: 0
 Finish: 2024-04-19 22:05:26.501505
+------------------------------------------------------
+Started: 2024-04-20 00:30:19.396513
+Existing_entries: 554
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 914
+Summarized using GPT-3.5-turbo
+Append: [连亏三年，人人乐三度面临退市风险](https://www.huxiu.com/article/2928634.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [姚颂：穿过创业与投资的旋转门](https://www.huxiu.com/article/2929329.html)
+Token length: 1643
+Summarized using GPT-3.5-turbo
+Append: [不应让慢性病拦住“考公”](https://www.huxiu.com/article/2928632.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [出海泰国，中国汽车没有“降维打击”](https://www.huxiu.com/article/2927526.html)
+append_entries: 4
+Finish: 2024-04-20 00:30:52.465196
