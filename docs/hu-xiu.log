@@ -2204,3 +2204,24 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-04-21 14:06:44.056031
+Existing_entries: 608
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 2512
+Summarized using GPT-3.5-turbo
+Append: [齐齐哈尔烤肉，中国的烧烤王者](https://www.huxiu.com/article/2934720.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [房企得“绿”下去，更得活下去](https://www.huxiu.com/article/2926900.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [马面裙是如何冲出汉服圈成为全民风潮的？](https://www.huxiu.com/article/2934711.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [无话、无爱，该离婚吗？](https://www.huxiu.com/article/2934712.html)
+Token length: 3120
+Summarized using GPT-3.5-turbo
+Append: [一个充电桩巨头宣布破产](https://www.huxiu.com/article/2934683.html)
+append_entries: 5
+Finish: 2024-04-21 14:08:01.812267
