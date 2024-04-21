@@ -2234,3 +2234,10 @@ error: Error code: 403 - {'error': {'message': '免费API限制模型输入token
 Append: [过敏性鼻炎超全自救指南](https://www.huxiu.com/article/2935514.html)
 append_entries: 1
 Finish: 2024-04-21 16:07:50.070155
+------------------------------------------------------
+Started: 2024-04-21 18:09:49.187319
+Existing_entries: 614
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
