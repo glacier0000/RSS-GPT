@@ -2128,3 +2128,27 @@ error: Error code: 403 - {'error': {'message': '免费API限制模型输入token
 Append: [为啥火锅创业更难了？](https://www.huxiu.com/article/2933564.html)
 append_entries: 5
 Finish: 2024-04-21 02:20:18.813798
+------------------------------------------------------
+Started: 2024-04-21 04:08:12.112652
+Existing_entries: 593
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [第一批投大模型的VC，开始卖老股了？](https://www.huxiu.com/article/2933762.html)
+Token length: 1453
+Summarized using GPT-3.5-turbo
+Append: [TikTok走向危险边缘，业内人士：可能直接退出](https://www.huxiu.com/article/2933791.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [当前投资者面临的最大风险是什么？](https://www.huxiu.com/article/2933759.html)
+Token length: 1246
+Summarized using GPT-3.5-turbo
+Append: [美众议院再次通过TikTok“封杀令”，将出售期限延长至一年](https://www.huxiu.com/article/2933574.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [金价涨到700元后，我既不敢买也不敢卖](https://www.huxiu.com/article/2933586.html)
+Token length: 2880
+Summarized using GPT-3.5-turbo
+Append: [如果过完很平凡的一生，那我们是否真的活过？](https://www.huxiu.com/article/2933584.html)
+append_entries: 6
+Finish: 2024-04-21 04:08:41.194477
