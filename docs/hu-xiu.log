@@ -2107,3 +2107,24 @@ error: Error code: 403 - {'error': {'message': '免费API限制模型输入token
 Append: [雷军不是雷神](https://www.huxiu.com/article/2927978.html)
 append_entries: 3
 Finish: 2024-04-21 00:34:09.148565
+------------------------------------------------------
+Started: 2024-04-21 02:19:52.826148
+Existing_entries: 588
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 91
+Summarized using GPT-3.5-turbo
+Append: [从“又土又老”的老牌国货，到国产奢侈品，它是怎么做到的？](https://www.huxiu.com/article/2930158.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [铁路，一个天才的系统](https://www.huxiu.com/article/2933594.html)
+Token length: 53
+Summarized using GPT-3.5-turbo
+Append: [自掏30万提了台小米SU7，你们的这些问题有答案了](https://www.huxiu.com/article/2927985.html)
+Token length: 3254
+Summarized using GPT-3.5-turbo
+Append: [我在纽约当医生](https://www.huxiu.com/article/2933583.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [为啥火锅创业更难了？](https://www.huxiu.com/article/2933564.html)
+append_entries: 5
+Finish: 2024-04-21 02:20:18.813798
