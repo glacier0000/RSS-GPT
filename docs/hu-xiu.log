@@ -2092,3 +2092,18 @@ Existing_entries: 585
 Fetching from https://glacier0000.vercel.app/huxiu/article
 append_entries: 0
 Finish: 2024-04-20 22:07:23.716035
+------------------------------------------------------
+Started: 2024-04-21 00:33:49.336315
+Existing_entries: 585
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 2830
+Summarized using GPT-3.5-turbo
+Append: [一个独角兽估值砍200亿](https://www.huxiu.com/article/2931179.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [四十岁，心力要强人要松](https://www.huxiu.com/article/2932432.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [雷军不是雷神](https://www.huxiu.com/article/2927978.html)
+append_entries: 3
+Finish: 2024-04-21 00:34:09.148565
