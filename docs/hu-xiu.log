@@ -2152,3 +2152,15 @@ Summarized using GPT-3.5-turbo
 Append: [如果过完很平凡的一生，那我们是否真的活过？](https://www.huxiu.com/article/2933584.html)
 append_entries: 6
 Finish: 2024-04-21 04:08:41.194477
+------------------------------------------------------
+Started: 2024-04-21 06:09:24.746399
+Existing_entries: 599
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [黄金飙涨还没看到上限](https://www.huxiu.com/article/2934169.html)
+Token length: 3831
+Summarized using GPT-3.5-turbo
+Append: [波士顿动力转向纯电机器人，电动为什么是机器人唯一方向？](https://www.huxiu.com/article/2934131.html)
+append_entries: 2
+Finish: 2024-04-21 06:09:39.511201
