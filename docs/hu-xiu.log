@@ -2225,3 +2225,12 @@ Summarized using GPT-3.5-turbo
 Append: [一个充电桩巨头宣布破产](https://www.huxiu.com/article/2934683.html)
 append_entries: 5
 Finish: 2024-04-21 14:08:01.812267
+------------------------------------------------------
+Started: 2024-04-21 16:07:41.062932
+Existing_entries: 613
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [过敏性鼻炎超全自救指南](https://www.huxiu.com/article/2935514.html)
+append_entries: 1
+Finish: 2024-04-21 16:07:50.070155
