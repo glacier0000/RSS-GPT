@@ -2164,3 +2164,21 @@ Summarized using GPT-3.5-turbo
 Append: [波士顿动力转向纯电机器人，电动为什么是机器人唯一方向？](https://www.huxiu.com/article/2934131.html)
 append_entries: 2
 Finish: 2024-04-21 06:09:39.511201
+------------------------------------------------------
+Started: 2024-04-21 08:08:34.206708
+Existing_entries: 601
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [英国最大比特币洗钱案牵扯中国400亿非吸案，钱是如何流到国外的？](https://www.huxiu.com/article/2934376.html)
+Token length: 3712
+Summarized using GPT-3.5-turbo
+Append: [第一生育大省：为什么广东热衷生娃？](https://www.huxiu.com/article/2934377.html)
+Token length: 2754
+Summarized using GPT-3.5-turbo
+Append: [淡出的中长期大额存单](https://www.huxiu.com/article/2934166.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [车企大佬集体“上播”](https://www.huxiu.com/article/2934168.html)
+append_entries: 4
+Finish: 2024-04-21 08:08:57.892191
