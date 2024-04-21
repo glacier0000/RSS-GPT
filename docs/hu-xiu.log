@@ -2182,3 +2182,18 @@ error: Error code: 403 - {'error': {'message': '免费API限制模型输入token
 Append: [车企大佬集体“上播”](https://www.huxiu.com/article/2934168.html)
 append_entries: 4
 Finish: 2024-04-21 08:08:57.892191
+------------------------------------------------------
+Started: 2024-04-21 10:06:21.082381
+Existing_entries: 605
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [“霉霉经济学”：霉霉的狮城之旅，给新加坡带来了什么？](https://www.huxiu.com/article/2934692.html)
+Token length: 2124
+Summarized using GPT-3.5-turbo
+Append: [聊聊黄金投资二三事](https://www.huxiu.com/article/2934378.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [从翻译腔年代走出来的人](https://www.huxiu.com/article/2934387.html)
+append_entries: 3
+Finish: 2024-04-21 10:06:48.220714
