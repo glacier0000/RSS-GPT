@@ -20709,3 +20709,12 @@ error: Error code: 429 - {'error': {'message': '免费API限制每日100次请�
 Append: [派评 | 近期值得关注的 App](https://sspai.com/post/88259)
 append_entries: 1
 Finish: 2024-04-22 14:07:25.960589
+------------------------------------------------------
+Started: 2024-04-22 16:08:37.508791
+Existing_entries: 752
+Fetching from https://rsshub.app/sspai/index
+Token length: 0
+Summarized using GPT-3.5-turbo
+Append: [如何借用维基百科翻译术语](https://sspai.com/post/88266)
+append_entries: 1
+Finish: 2024-04-22 16:08:41.538798
