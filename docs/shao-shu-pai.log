@@ -798,3 +798,21 @@ Existing_entries: 35
 Fetching from https://glacier0000.vercel.app/sspai/matrix
 append_entries: 0
 Finish: 2024-04-22 00:32:32.948201
+------------------------------------------------------
+Started: 2024-04-22 02:19:16.190177
+Existing_entries: 35
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Token length: 2906
+Summarized using GPT-3.5-turbo
+Append: [这半年以来，我为 Notion 做了款插件，让 Notion 更适合国人使用了](https://sspai.com/post/88201)
+Token length: 851
+Summarized using GPT-3.5-turbo
+Append: [如何使用Logseq背单词](https://sspai.com/post/88197)
+Token length: 1411
+Summarized using GPT-3.5-turbo
+Append: [什么时候才能升级我的电纸书——文石boox leaf2](https://sspai.com/post/88175)
+Token length: 2712
+Summarized using GPT-3.5-turbo
+Append: [跳出笔记工具的使用陷阱，基于 4 个维度重新选择](https://sspai.com/post/88072)
+append_entries: 4
+Finish: 2024-04-22 02:21:32.524332

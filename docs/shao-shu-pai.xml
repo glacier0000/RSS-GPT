@@ -4,6 +4,123 @@
 <title>少数派 -- Matrix</title>
 <link>https://sspai.com/matrix</link>
 
+<item>
+<title>这半年以来，我为 Notion 做了款插件，让 Notion 更适合国人使用了</title>
+<link>https://sspai.com/post/88201</link>
+<guid>https://sspai.com/post/88201</guid>
+<content:encoded><![CDATA[
+<div> 1. Notion 是一款备受赞誉的多功能工具，但在国内用户看来，它距离完全的 All in One 还有差距。<br>
+2. 与国内竞品相比，Notion 最大的缺陷之一是缺乏移动端高效的剪藏工具。<br>
+3. 这导致用户无法像在 flowus、腾讯文档或语雀等平台上那样直接剪藏到Notion中。<br>
+4. 尽管有一些第三方工具可以帮助实现同步，但并不直接、快捷，而且可能需要额外付费。<br>
+5. 作为一名程序员和Notion忠实用户，麦可意识到这个问题，因此开发了一个名为NotionMpClipper的小程序插件。<br>
+6. NotionMpClipper 实现了移动端快速记录灵感想法和剪藏文章到 Notion 的功能。<br>
+7. 目前，NotionMpClipper 已经支持多个平台的深度剪藏，包括微信公众号、知乎问答等。<br>
+8. 为了持续发展和更新，NotionMpClipper 推出了付费方案，包括买断制方案和按年订阅制方案。<br>
+9. 用户对 NotionMpClipper 的评价普遍积极，认为它大大提升了Notion在移动设备上的剪藏体验。<br>
+10. 麦可认为，尽管做Notion插件在国内可能不会赚到很多钱，但用户的使用和认可已经是他的成功。<br>
+11. 他将继续努力维护和更新产品，希望通过付费方案实现产品的可持续发展。<br>
+12. 这个故事也展示了麦可从一个想法到一个产品落地的过程中的成长和突破。<br>
+13. 最后，麦可以一句话结束这篇故事：“悲观者正确，乐观者成功！”<br> <div>
+<h2>起因</h2><p>Notion 宣传 All in One，但是对国内用户来说，Notion 离 All In One 其实还差一步。</p><p>在谈这个问题之前，我必须承认 notion 这款产品非常优秀，如果他在我心里不够好，那么就不会有这篇文章。</p><p>我们对比一下 flowus、腾讯文档、语雀等国内竞品，你觉得 Notion 最大的缺陷是什么？</p><p>不支持中文？网络延迟？</p><p>我认为Notion缺少了移动端的高效收集剪藏工具。</p><h4>举个例子</h4><p>我在手机端阅读最多的是公众号文章，看到精彩的内容都会想要收藏起来，为了方便后续精读整理和永久保存，我需要剪藏到我的知识库里面去。这时候你会发现，flowus 用户可以直接同步保存到 flowus，腾讯文档也可以，语雀也可以，但是 notion 就不可以。至少官方没有提供类似工具，而且 notion 没进中国市场之前应该都不可以。</p><p>其实这个问题也有解决方案，我就发现有很多剪藏工具可以进行收集剪藏并可以同步到 notion。</p><p>比如 flomo ，一款非常优秀的 GTD 工具，非常适合记录灵感想法。</p><p>比如 cubox，非常优秀阅读学习助手，剪藏功能很强，也能快速记录灵感和想法。</p><p>但是他们的定位显然不是 notion 剪藏工具，他们有自己的数据处理和呈现方式，他们有自己的使命。</p><p>而且借助这些工具进行Notion同步，总是不够直接快捷，还可能需要额外为这类工具付费。</p><h2>我的想法</h2><p>假设你仅需要 Notion 一款产品，实现 All In One，你现在可能就缺少一个移动端的剪藏插件。</p><p>你可能希望这款插件能够实现如 flomo 般快速记录灵感想法，如 cubox 般丝滑的剪藏文章。</p><p>那么你和我一样，我们都有这种需求。</p><p>我叫麦可，一位 Notion 忠实用户，我还是一位程序员。</p><p>我从去年 2 月份从同事那里了解到 Notion 这款产品，6 月份就花巨资购买了二一大佬的 Notion 课程进行深入学习，渴望掌握 Notion 的全部秘法。</p><p>而在此之前，我从来没有对其他软件有过短时间就购买使用教程的消费现象。</p><p>随着 Notion 的使用时间变长，我就发现了 Notion 在移动端剪藏能力的缺失，这在当时让我对 Notion 产生了一点消极情绪（由爱生恨那种）</p><p>坦诚地说，我曾放弃 Notion 去用过一段时间语雀，flowus 也注册了，他们都很优秀，也解决了移动端剪藏的问题。</p><p>但我最终还是回到了 Notion 的阵营，我想我可以做点什么，因为我是一位程序员。</p><h4>补充一下过程</h4><p>我在 notion 使用期间了解了很多方法论，有知识收集/知识管理/时间管理/效率管理等等，例如 GTD，P.A.R.A，四象限，番茄工作法等等。</p><p>很有意思，因为一款产品让我学习了这么多额外的知识。</p><p>还因此养成了一些付费意愿，比如我就购买了 TODO 清单的永久会员，购买了 flomo，cubox 的年卡，包括刚刚提到的二一的 Notion 课程（挺棒的 Notion 课程）。</p><h2>解决方案</h2><p>说回到我是程序员这回事，我当时就想给 Notion 做一款插件，<strong>一款能实现移动端快速记录灵感想法，快速剪藏文章到 Notion 的一个工具。</strong></p><p>于是我便网上找了课程现学了小程序开发，还学了点 UI 设计规范，边学边搞，终于在去年 9 月份上线了。</p><p>到现在已经更新升级了有 7 个月之久，如果有咱们产品的用户刷到这里，请评论区让我看见你，哈哈！！！</p><p>我做的这款 Notion 插件叫 <strong>NotionMpClipper</strong>，命名参考 Notion Web Clipper，因为当时只考虑做微信公众号剪藏，所以将 Web 替换成 MP。</p><p>我当时就是基于对 Notion 的兴趣开发的，没觉得有多少人会用，所以奉行最小可行产品原则，正文都没实现剪藏的情况下就匆匆上线了，还好当时用户比较包容，还表示挺不错，这给了我极大的鼓舞。</p><p>这里再次感谢一下二一，因为我第一次推广是在二一的用户群里分享的，分享后第三天二一主动联系我表示感兴趣并愿意分享，还咨询了后续的开发和付费计划，我当时哪能想到还有后续啊，有用户愿意用已是对我的极大激励了，当即表示可以一年内免费无广使用，并持续维护升级产品。</p><h2>产品现状</h2><p>到目前为止，NotionMpClipper 支持提供了<strong>微信公众号</strong>、<strong>知乎问答</strong>、<strong>少数派</strong>、<strong>小红书</strong>、<strong>即刻</strong>、<strong>下厨房</strong>等平台深度适配的剪藏能力，另外还提供了企业微信助手和服务号的转发功能，<strong>通过企业微信助手和服务号，你可以实现像跟好友聊天一样完成文字图片和文章的收集剪藏。</strong></p><p>简单一点理解就是，这款插件可以实现像 flomo 一样快速记录灵感想法，同时像 cubox 一样丝滑的剪藏一些平台的文章（不是所有都支持，为了保证剪藏质量，是一个一个平台适配的）</p><p>甚至某些场景下，剪藏质量比 cubox 要好一些。当然，要论剪藏能力， cubox 和简悦始终是我学习的榜样。</p><p>为了避免我文字表达的不够明白，我放几张产品截图你可以看看：</p><figure class="ss-imgRows"><img alt="" src="https://cdn.sspai.com/2024/04/19/e4d324aed933785401add4e00adfbaf0.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /><img alt="" src="https://cdn.sspai.com/2024/04/19/c108218698e74651fa707d71fc233387.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><figure class="ss-imgRows"><img alt="" src="https://cdn.sspai.com/2024/04/19/018e67c63ceb1cc9689c98bfee63bf75.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /><img alt="" src="https://cdn.sspai.com/2024/04/19/5998dc9487c20794411b369b7619d1f6.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>因为文章剪藏结果页面截图太长，我直接分享一个页面出来，你可以点开看看效果。</p><span class="ss-linkCard">&nbsp;</span><p>&nbsp;</p><p>一两句话可能还无法完整的表达出这款产品的能力，但如果你有这个需求，建议你扫码亲自体验一下，如果有问题咨询，你也可以加群讨论。</p><figure class="ss-imgRows"><img alt="" src="https://cdn.sspai.com/2024/04/19/9fa7692c3b5005b7b4a155355a7f06bd.jpeg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /><img alt="" src="https://cdn.sspai.com/2024/04/19/603438a9d9837afe2c7697e7ca09945a.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>&nbsp;</p><h2>产品需要付费吗</h2><p>我本来是打算一年内免费提供持续升级服务的，坚持到今年 3 月份，用户越来越多，需求也越来越多，有用户就建议能不能放二维码出来，付费提需求，其实之前也有很多用户加我表示功能好用，可以搞付费了。</p><p>其实我从一开始就明白一件事，在国内做 Notion 的插件是不赚钱的，要说真正靠 notion 能赚钱的可能更多是教程类或者模板类的场景，可是我想总会有人去做这件事吧。</p><p>我的出发点是基于兴趣，对于我来说，有人愿意用就是成功，说明我把这件事做好了做成了。</p><p>但回归现实来说，真正的成功，是持续的维护，持续的更新，持续的存在着。</p><p>所以，我们需要付费用户。</p><ul><li>付费可以让产品可持续的发展</li><li>付费可以让我持续的得到激励</li></ul><p>最终我和一群早期种子用户一起定下了我们的付费方案</p><ul><li>限量的买断制方案：199元（限 100 位）</li><li>按年订阅制方案：36 元/年（控制在一杯咖啡的价格）</li><li>体验制方案：每月剪藏次数 30 次</li></ul><h2>用户评价</h2><p>①&nbsp;NotionMpClipper 是高效且好用的工具，极大扩展了 Notion 的应用场景，特别是在移动设备上的剪藏体验大为改善。<br />②&nbsp;迄今为止，最符合工作流的剪藏工具，干净简洁没广告（写于 24 年 4 月 13 日）<br />③&nbsp;能简化了将网页内容保存到 Notion 的步骤，提升了产品体验。高效整理信息，为用户节省时间，是在日常工作和学习中非常实用的小程序<br />④&nbsp;适配性真的很高，我在其它工具遇到的，微信剪藏格式报错，放在这个上都 OK 了<br />⑤&nbsp;notion 微信剪藏中，只有这个是最好的，问题解答也及时，功能做的也好，yyds<br />⑥&nbsp;类似的小程序用过几个，坚持稳定一直更新的只有这个。</p><p>&nbsp;</p><p>写文章对我来说真的很难，憋了一个月才出来这 2000 字。<br />但这件事还是要去做的，生了孩子就得好好养着。<br />要说起来，自从开始做这个小程序那时起，从一个想法到一个产品落地的过程中，我确实也突破了很多能力。</p><p>最后以最近看到的一句话结尾：<strong>悲观者正确，乐观者成功！</strong></p>
+]]></content:encoded>
+<pubDate>Sun, 21 Apr 2024 22:44:11 GMT</pubDate>
+<pubDate>Sun, 21 Apr 2024 22:44:11 GMT</pubDate>
+</item>
+<item>
+<title>如何使用Logseq背单词</title>
+<link>https://sspai.com/post/88197</link>
+<guid>https://sspai.com/post/88197</guid>
+<content:encoded><![CDATA[
+<div> 1. 发现 COCA60000 词频表，好奇心驱使搜索后得知其为高频词汇表。
+<br>
+2. 在 GitHub 上发现有人整理了 COCA20000 的单词，并将其放到了一个仓库中。
+<br>
+3. 使用 Logseq 背单词，它有闪念卡片（flashcard）功能，类似 Anki 记忆卡片。
+<br>
+4. 之前零散地在工作中遇到生词时用 Logseq 记下来，但觉得不够系统。
+<br>
+5. 发现有人整理完整的词汇表后，尝试导入 Logseq 中来记忆单词，并成功实践。
+<br>
+6. 使用 Logseq 背单词的好处包括方便添加批注、自定义程度高、可以加深记忆等。
+<br>
+7. 通过添加标签、隐藏部分内容、双向链接等方式可以增强记忆效果。
+<br>
+8. 解决格式问题是实现目标的关键，需要将词汇表转换成 Logseq 可以识别的卡片形式。
+<br>
+9. 使用 Python 处理统一格式的 Markdown 文件，通过 GPT 写出相应的 Python 脚本。
+<br>
+10. 使用脚本成功处理了 Markdown 文件，符合要求后导入 Logseq 进行记忆测试。
+<br>
+11. 导入成功，剩余卡片数量与导入测试的单词数相符，背单词愉快！
+<br>
+12. 将格式修改完善的 Markdown 文件上传到了指定位置。 <div>
+<p style="margin-left: 0px;">刚刚在看<a href="https://sspai.com/post/66397">另一篇关于背单词的文章</a>的时候，无意在评论区发现COCA60000词频表</p><figure class="image ss-img-wrapper image_resized" style="width: 446px;"><img src="https://cdn.sspai.com/2024/04/19/23b22a468d4c82ef73bc8adceb090e7a.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p style="margin-left: 0px;">好奇心驱使我去搜了搜，原来这是高频词汇表，有人整理了COCA20000的单词，放到github上：<a href="https://github.com/llt22/coca-vocabulary-20000">coca-vocabulary-20000</a>。</p><p style="margin-left: 0px;">日常我使用Logseq作为笔记软件，Logseq有个功能是闪念卡片（flashcard），我感觉和anki的记忆卡片差不多。之前也时不时用它来背些单词，但都是自己在工作中碰到生词，就记下来，比较零散。正好看到有人整理完整的词汇表，就想着，能不能导入到Logseq中来记忆。经过我的实践，我得出的结论是可以。</p><h2 style="margin-left: 0px;">先看看实现后的效果吧</h2><p style="margin-left: 0px;">使用Logseq背单词的好处在于，可以很方便地添加批注，自定义程度很高。你可以把一个单词比较陌生的意思高亮，让自己下次注意。也可以在单词的后面自己造句，加深记忆。</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/19/14e9279bebb6181d957942a3b60e4b14.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p style="margin-left: 0px;">或者是添加一个图片，通过图片来联想。</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/19/d6c64cb3bd0cf9c6c45f1a48aea0b645.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p style="margin-left: 0px;">也可以双向链接这些单词，比如你发现，诶这个单词和我之前背过的一个单词很像，那你可以把近义单词的ref，加在下面，比如：</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/19/c49007568d7b8707280ba618010c7c24.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><h2 style="margin-left: 0px;">具体实现</h2><p style="margin-left: 0px;">要实现这个目的，最重要的是解决格式问题。</p><p style="margin-left: 0px;">最初将仓库作者整理的md文件导入Logseq，文件的呈现方式是：</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/19/5ecc48ec9a7c01903384972d4ba50fb8.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p style="margin-left: 0px;">需要调整格式，把每个单词都变成Logseq可以识别的卡片，具体来说，</p><ol><li>在单词后面添加标签 #card</li><li>把需要隐藏（记忆）的部分，缩进到单词的下一层级。</li></ol><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/19/0228a3ef3c566dad0cd515d87acaf562.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p style="margin-left: 0px;">然后就可以在Logseq的flashcards中记忆这个单词啦。一开始只显示单词，你可以回忆一下这个单词是什么意思。</p><figure class="image ss-img-wrapper image_resized" style="width: 573px;"><img src="https://cdn.sspai.com/2024/04/19/e86db760c3050f4e900358126dbf2b21.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>点击show answers之后，显示释义，可以选择对这个单词的掌握程度</p><ul><li>完全忘了</li><li>得想一会儿</li><li>记住了</li></ul><p>这决定了以后它出现的频率。</p><figure class="image ss-img-wrapper image_resized" style="width: 583px;"><img src="https://cdn.sspai.com/2024/04/19/701438272bf0e160958e33ee2b9c5533.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p style="margin-left: 0px;">那怎么批量修改所有的单词呢？这可是20000个。</p><p style="margin-left: 0px;">像这样格式统一的md文件用python来处理最好了，而GPT可以帮我写出这个python脚本。</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/19/bb66253961f968520f1d09359869a380.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /><figcaption>我的prompt</figcaption></figure><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/19/f9f7cf6a5fcd8b0cdc1d1690c1727efa.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /><figcaption>Claude给出的回答</figcaption></figure><p style="margin-left: 0px;">让我们用两个md文件试一试这个脚本，看起来处理之后很完美地符合了我们的要求</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/19/4acb54f24dc46ec124437cd571b0e321.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p style="margin-left: 0px;">导入logseq试试，可以看到右上角剩余卡片是402个，也就是我们导入测试的单词数，导入成功～</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/19/072721c11a0c2346d0193a94c472b675.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p style="margin-left: 0px;">&nbsp;</p><p style="margin-left: 0px;">祝大家背单词愉快～我把修改完格式的md文件，上传到<a href="https://github.com/dengxian-xreal/coca-vocabulary-20000">这个fork后的仓库</a>里了。<br />&nbsp;</p>
+]]></content:encoded>
+<pubDate>Fri, 19 Apr 2024 08:29:30 GMT</pubDate>
+<pubDate>Fri, 19 Apr 2024 08:29:30 GMT</pubDate>
+</item>
+<item>
+<title>什么时候才能升级我的电纸书——文石boox leaf2</title>
+<link>https://sspai.com/post/88175</link>
+<guid>https://sspai.com/post/88175</guid>
+<content:encoded><![CDATA[
+<div> 1. **产品外观与设计**：
+   - 白色礼盒版本具备磁吸功能，可搭配薄保护壳。
+   - 白色外观不易沾染指纹，无玻璃盖板使显示效果更优。
+   - 设计采用三面窄边框，握持舒适，人体工学。
+   - 边框控制良好，屏幕下有橡胶缓冲圈，提升耐摔性。<br>
+
+2. **按键及接口设计**：
+   - 实体翻页按键置于握持一侧，按键软但舒适，支持重力感应。
+   - 侧边设计有弧度，包含扬声器、麦克风、Type-C充电口和TF卡槽。
+   - TF卡槽最大支持512GB，解决存储问题，适合漫画爱好者。<br>
+
+3. **屏幕与显示效果**：
+   - 采用7寸PPi300的Carta1200屏，显示效果优秀。
+   - 全局刷新功能可获得清晰图文显示，支持不同软件设置不同刷新方式。<br>
+
+4. **灯光及音质特性**：
+   - 双色温灯光，适合暗光环境，但使用次数不多。
+   - 音质一般，扬声器在此类产品中用途有限。<br>
+
+5. **性能及续航**：
+   - 未提供具体处理器型号，但日常阅读足够。
+   - 2GB运存、64GB存储，常用阅读软件可流畅运行。
+   - 2000mAh电池，在无灯光和网络下可持续数天，开启会显著减少续航时间，相对Kindle有差距。<br>
+
+6. **价格及长期考量**：
+   - 价格为1699元，二手市场约900元。
+   - 产品升级缓慢，但长期使用满足阅读需求。
+   - 对于彩色墨水屏的升级，需等待技术成熟。<br>
+
+这些信息应该能帮助其他人更清楚地了解产品的特点和性能。 <div>
+<p>我买的是白色的礼盒版本，多了磁吸功能，能搭配一些更薄的保护壳，白色的颜色更不容易沾染指纹，并且少了一层玻璃盖板，使得显示效果跟优秀，底色会更显白，相对黑色的版本个人认为体验会更好一些。</p><p>文石leaf2采用的是三面窄边框，加宽握持部分的非对称式人体工学设计，窄的三个边框采用的是等边框的设计，并且边框控制还是不错的。屏幕盖板和中框之间有一层略高于屏幕的橡胶缓冲圈过度，可以最大限度的提升摔落情况下的碎屏风险，整体的耐用性会有所提升。</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/18/a779eba2b0393a74090d85a81d03dee5.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/18/cec4f84b5f52c50da316e6233c778489.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>实体翻页按键被击中在了握持的一侧，上下两枚按键是连载一起的，按键有点软，用了一年多目前能明显看到晃动，不过中段按下去的感觉还是很舒服的，看书的时候有个按键也比直接划动屏幕的感觉舒服很多，并且由于支持重力感应，所以可以根据握持方向按键位置自动调整。这个实体按键针对主流的墨水屏版阅读软件都有适配，非墨水屏的软件也有优化功能，但体验上不如定制版软件。</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/18/413e332523e30aed21bae95cea38857e.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>侧边机身有一定的弧度，握持这一侧的边框上有扬声器、麦克风、type-c充电接口以及一个tf卡槽。这个卡槽支持最高512g的tf卡槽拓展，可以说是漫画党的福音，基本能够摆脱存储焦虑。电源键放在了logo附近，电源键内有指示灯能够展示充电的状态。背面的话整体相对比较简洁，采用的是纯平+LOGO的设计。整体的质感和做工方面还是很扎实的。</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/18/f32ebd18a067dd0e62cec8f671f8afaf.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>虽然有着扬声器，但是电子书这类产品，能用到扬声器的场景感觉并不多，本身的音质也不算出色，对于有听书需求的人可能是一个优点。</p><p>&nbsp;</p><p>屏幕使用了7寸ppi300的Carta1200屏，相比其他老Carta1000屏的阅读器，屏幕显示效果更好，不过由于墨水屏屏幕常年挤牙膏的原因，这种更好的显示效果基本只有放在一起对比的时候才能看得出来。得益于文石leaf2支持全局刷新的功能，他能够获得非常干净的图文以及纯图片的显示效果，并且由于是开放式系统，他也支持不同的软件设置不同的刷新方式以得到更好的软件体验。</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/18/345c8cd8f1efd7f223af0cb1f6344ae4.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/18/e5bf277421ea187c795f1a29aef8bc11.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>有双色温的灯光，不过我一般不在暗光环境下看书，所以使用的次数不多，亮度全开的情况下边缘的亮度会更高一些，非全开亮度的时候均匀性还是可以的，不过我的这款有阴阳屏的感觉，右边会有些偏黄。</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/18/b8b50323d978f52882754527bdb368e5.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>文石leaf2没有手写笔的功能，主打的还是小屏便携阅读，这个机身尺寸可以放进我大部分卫衣口袋，但是夏天的时候还是只能塞进包里带着，虽然不像一些手机尺寸的阅读器可以塞进口袋里那么便携，不过7寸的屏幕尺寸在看漫画上还是有很大的优势。</p><p>&nbsp;</p><p>性能上没有写具体的处理器型号，感觉可能不如上一代的骁龙636，不过日常看漫画和小说都够用，2g的运存和自带64g的存储空间，一些常用的阅读软件都能够下载使用，作为一个定位便携阅读器，纯阅读看书的情况下，这个运行速度其实足够了。</p><p>&nbsp;</p><p>2000mAh的电池容量，我重度阅读不开灯和网络的情况下看几天的书完全没问题，但是打开网络和背光的话续航时间会有明显下降，开放式系统的阅读器相对kindle这种封闭式系统的，在整体续航上确实还是有所差距。</p><p>&nbsp;</p><p>我买的时候是1699的价格，现在咸鱼二手应该在九百左右，不过像是电纸书这样升级缓慢的产品，过个五六年再进行升级也完全没问题，即使是八年前的初代kindle oasis到现在纯看书也足够满足我的大部分需求了，而文石最新的leaf3相比leaf2也就只有少许的升级，而彩色墨水屏目前的技术又没有那么先进，可能真的要等到彩色墨水屏的显示效果接近目前屏幕的时候我才会考虑再换个电纸书了。</p>
+]]></content:encoded>
+<pubDate>Fri, 19 Apr 2024 06:50:38 GMT</pubDate>
+<pubDate>Fri, 19 Apr 2024 06:50:38 GMT</pubDate>
+</item>
+<item>
+<title>跳出笔记工具的使用陷阱，基于 4 个维度重新选择</title>
+<link>https://sspai.com/post/88072</link>
+<guid>https://sspai.com/post/88072</guid>
+<content:encoded><![CDATA[
+<div> 1️⃣ 我信奉「少即是多」，但在笔记工具的选择上却多变。曾使用过多种工具，包括印象笔记、石墨文档、Notion 等。<br>
+2️⃣ 4 年的尝试让我意识到，好的工具只能发挥有限作用，90%的创作源自个人思考，而非工具。<br>
+3️⃣ 笔记工具应是思考和写作的辅助，而非主导因素。<br>
+4️⃣ 选择笔记工具时，不仅要考虑功能和理念，还需关注体验和服务。<br>
+5️⃣ 好的体验包括流畅的书写、即时的同步速度和良好的用户反馈。<br>
+6️⃣ 笔记工具应提供详细的使用指南和良好的沟通服务，以建立用户信任。<br>
+7️⃣ 在相同功能下，更贴近用户的工具更值得选择，且具有更广的竞争优势。<br>
+8️⃣ 笔记工具的小巧设计也能吸引用户，如 Craft 的「Markdown 格式文本」复制功能。<br>
+9️⃣ 记录和思考是笔记工具的核心，依赖于用户的持续记录和思考，而非工具本身。<br>
+🔟 笔记工具应被视为个人数据库，随时准备迁移至更好的工具。<br>
+🔠 持续的记录和思考也是对大脑的磨练，有助于更好地利用工具。<br> <div>
+<p>我总是信奉和践行「少即是多」，崇尚用最少的物品换取持久专注的体验，但在笔记工具的使用上，却是繁杂多样的。</p><p>我用过印象笔记，用过石墨文档，用过墨记，用过语雀、飞书，用过 Bear、Agenda，用过 Notion、Wolai、Flowus，用过 Obsidian、Metion、Logseq、Lattics，用过 iA Writer、Typora，现在在用 flomo 和 Craft。</p><p>我对笔记工具的使用，是多变的，是浅尝辄止的。表层原因是兴趣使然，喜欢尝试和体验被大众热议的工具；根本原因是<strong>陷入工具使用的认知陷进，指望一款笔记工具，激发我的创作欲，让我写出满意的文章，搭建完善的知识库。</strong></p><p>只是，经过 4 年的折腾，我终于意识到且接受了<strong>在写作这件事上，再好的工具，也只能发挥 10% 的作用，剩余的 90% 全由我们自己的思考来创作。</strong>而思考则由我们的阅读、实践和感悟得来<strong>。</strong></p><p><strong>我们写不出东西，不是工具不够好，也不要指望由工具来完成，而是要追溯到信息的来源和吸收消化的问题。</strong></p><h3>笔记工具，是辅助写作和思考的脚手架</h3><p>我们在各种笔记工具里，用最新学到的笔记组织方法，如 PARA、INKP，新建诸多文件夹、文件和标签，再冠之以「数字花园」、「思考集」等时髦的名字，把自己想象成一个播种知识的农夫，等待这些种满知识的笔记生长发芽，为未来的自己提供帮助。</p><p>愿望是美好的，但是没有阅读和思考，何来知识笔记的种子；即便有了知识的种子，没有耐心的加工浇灌，又何来花园。</p><p><strong>笔记工具，只是辅助我们写作和思考的脚手架。</strong>卡片写作笔记法奏效的最大原因，不是卡片这个工具，而是背后的流程理念，即把写作这件事分摊在生活的方方面面，随时记录，及时串联，待到案台前，已经有了较为完整的写作思路，只管把卡片上的素材和脑子里的想法，汇集成篇即可。</p><p>既然笔记工具，对写作思考只能发挥 10% 的作用，那是否已经没有必要在精心挑选和调用了？是，也不是。</p><p>一方面，这张广为流传笔记工具图，是我们不必挑选笔记应用的例证。数不清的各行各业的高手，用最简单的 Apple Notes、Mirosoft Word 就能完成知识的记录、整理和创作的所有过程，在真实的世界里，取得不错的成绩。</p><figure class="image ss-img-wrapper"><img alt="笔记工具嘲笑图.png" src="https://cdn.sspai.com/2024/04/16/article/a3af5c13540b66fe31d59f64561838e0.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>另一方面，市面上诸多笔记工具的存在，又例证了笔记工具的市场需求，以及它值得被精心挑选。麦克卢汉曾说，我们塑造了工具，此后工具又塑造了我们。既然我们会被工具所塑造，那自然希望被塑造地更好一些，这是挑选工具的意义。</p><h3>选择笔记工具，等于选择理念和功能</h3><p>我们的笔记工具，从纸笔，到 Notes、Pages，到印象笔记、石墨云文档，再到 Roam Research、Notion、Obsidian、Craft、Heptabase 等等，经历四次更迭。</p><p>处在第四次笔记工具的创造浪潮之中，我们比以往任何时候用的工具都要丰富，其丰富归根到底是基于「Tools For Thought」之上的理念多元。</p><p>选择笔记工具，就是在选择笔记工具背后的理念和功能，<strong>理念决定功能，功能反映理念。</strong></p><p>理念是观点，没有好坏对错，只有鲜明与否，在竞争激烈的笔记工具市场，依靠鲜明的理念，更有机会被看见。一如：</p><ul><li>Notion 以块状编辑为基础，让我们像叠积木一样去自定义一个集笔记、任务、数据库、协作为一体的个人空间；</li><li>Obsidian 则强调本地存储，通过丰富的插件和双链笔记，构建一个互相连接的知识库；</li><li>Heptabase 试图用可视化的白板、思维导图，让我们更容易理解和构建庞大的知识网络；</li></ul><p>……</p><p>但许多自身没有独特理念，只做个理念跟班的工具，在当下也同样有市场，比如国内版的 Notion-like 凭借汉化的优势和多种功能的拼合，也有许多用户。</p><p>究其原因是，<strong>我们普通用户鲜少去理解笔记工具的理念主张，更在意的是承载理念的功能是否满足自身的需求，是否足够好用。</strong></p><p>所以，<strong>当我们在选择笔记工具时，大多数情况下就是在做功能合集的选择</strong>，比如我们希望我们的笔记工具：</p><ol><li>支持 Markdown</li><li>支持暗黑模式</li><li>支持块状编辑</li><li>支持全平台同步</li></ol><p>只要能够满足这 4 条要求的笔记工具，就可以为我们所用， Notion、Obsidian、Craft、语雀、飞书文档等等都能做到，可选的空间很丰富。</p><p>但是我们真正能长期使用笔记工具的却只有一两个，因为在理念和功能之外，体验和服务也会是我们选择笔记工具的重要参考维度。</p><h3>选择笔记工具，等于选择体验和服务</h3><p>体验和服务，是笔记工具团队基本功和态度的显现，也是我们是否愿意把个人数据托付给一个工具团队的考量依据。</p><p>对体验和服务的需求，正如功能一样，因人而异，我只先谈谈我所理解的好体验和好服务，我希望它们在满足我所需功能之后，还能够拥有：</p><ol><li>流畅的书写体验</li><li>即时的同步速度</li><li>畅通的用户反馈渠道，且愿意及时回复用户的反馈</li></ol><p>前 2 点体验，是对笔记工具能力的考量，反映当前工具的基本功是否扎实；第 3 点，则是对笔记工具的态度的考量，是否愿意和用户沟通，为用户提供良好的服务，这一点至关重要。</p><p>因为笔记工具，本质上依然是在为用户提供一种服务，一种让用户记录、整理和创作的服务。如果能够为用户提供详细的使用指南、实时更新最新的产品日志、和用户直接沟通解决问题，则更容易让我们用户去相信，去使用。</p><p><strong>在具备相同功能的情况下，和用户的距离更近的笔记工具，一定是更值得被选择的工具，它也将拥有更宽的护城河。</strong></p><p>除此之外，笔记工具如若还有一些小巧思，如同电影彩蛋一样，也会是吸引用户的关键体验，尤其是一些可以嵌入工作流里的独一无二的设计。</p><p>比如我在 Craft 上体验到的「Markdown 格式文本」复制，可以让我在 Quail 发布 Newsletter 时直接复制，不必再调整格式，很方便。这个设计，我在其他笔记工具上还没有见到过，这就是我现在继续用 Craft 的一个小原因。</p><p>我相信其他笔记工具的忠实用户，之所以能够持续使用一个笔记工具，也会有许多类似的原因。</p><h3>工具之外，更关注记录和思考</h3><p>说到底，<strong>笔记工具，是知识的存放地，也是知识的再生地。知识的存放和再生，靠的是我们在笔记工具中的持续记录和思考。</strong></p><p>即便越来越多的笔记工具，开始嵌入 AI 功能，让 AI 帮助我们更快找到我们要找的信息、帮助我们总结分析我们记录的信息、基于我们记录的信息生成新的内容，但这一切的前提，依然是我们持续的记录和思考，为 AI 提供足够多的信息。</p><p>在工具之外，我们更应关注如何持续的记录和思考，我们理应把笔记工具当成自己的私人数据库，当未来有更好的工具选择出现时，就打包这份私人数据库，直接迁移就好。</p><p>如果没有这份私人数据库，再好的 AI 工具也难为无米之炊。且，<strong>记录和思考，也在不断磨练我们自己的大脑，从而更好地驾驭工具。</strong></p>
+]]></content:encoded>
+<pubDate>Fri, 19 Apr 2024 04:12:17 GMT</pubDate>
+<pubDate>Fri, 19 Apr 2024 04:12:17 GMT</pubDate>
+</item>
 
 <item>
 <title>十日内观禅修体验</title>

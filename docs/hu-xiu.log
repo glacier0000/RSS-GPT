@@ -2280,3 +2280,33 @@ error: Error code: 403 - {'error': {'message': '免费API限制模型输入token
 Append: [冷了几年，中国商业航天又热了](https://www.huxiu.com/article/2934164.html)
 append_entries: 7
 Finish: 2024-04-22 00:33:46.952434
+------------------------------------------------------
+Started: 2024-04-22 02:21:34.758185
+Existing_entries: 621
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [“开便利店的多了，钱更难赚了”](https://www.huxiu.com/article/2936872.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [美元潮汐的最后一抹余晖](https://www.huxiu.com/article/2936839.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [毒液中的意外发现，催生减肥“神药”司美格鲁肽](https://www.huxiu.com/article/2936794.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [珍珠市场调查：“月入千万”神话降温之后](https://www.huxiu.com/article/2936784.html)
+Token length: 3183
+Summarized using GPT-3.5-turbo
+Append: [五一调休冲上热搜：多放假是顺势而为](https://www.huxiu.com/article/2934390.html)
+Token length: 2373
+Summarized using GPT-3.5-turbo
+Append: [大模型新时代，小公司靠边站？](https://www.huxiu.com/article/2936793.html)
+Token length: 3062
+Summarized using GPT-3.5-turbo
+Append: [去年火爆的音乐节，今年凉了？](https://www.huxiu.com/article/2936820.html)
+Token length: 2444
+Summarized using GPT-3.5-turbo
+Append: [马斯克裁一万来人，闹得跟特斯拉要破产了似的](https://www.huxiu.com/article/2936497.html)
+append_entries: 8
+Finish: 2024-04-22 02:24:01.572737
