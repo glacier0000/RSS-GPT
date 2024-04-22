@@ -2424,3 +2424,51 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-04-22 12:12:55.239239
+Existing_entries: 662
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 105
+Summarized using GPT-3.5-turbo
+Append: [AI能不能让人类的救命药，来得更快一点？](https://www.huxiu.com/article/2938567.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [福建立法规定“妻子可查询配偶财产”，为何会引发网络热议？](https://www.huxiu.com/article/2938945.html)
+Token length: 126
+Summarized using GPT-3.5-turbo
+Append: [远古英语meme：乌鸦群=谋杀，鱼群=学校?](https://www.huxiu.com/article/2938494.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [自称“月入10万，肯定比上班强”：起底职业闭店人的灰色生意经](https://www.huxiu.com/article/2938937.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [南京滋味养成史](https://www.huxiu.com/article/2938582.html)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [为何最近火山、地震频发？一座超级火山正在蓄力？](https://www.huxiu.com/article/2937332.html)
+Token length: 171
+Summarized using GPT-3.5-turbo
+Append: [我用AI制作了《火影忍者》真人版预告片](https://www.huxiu.com/article/2938973.html)
+Token length: 228
+Summarized using GPT-3.5-turbo
+Append: [从数字前任到AI分身，华为天才少年的创业之路](https://www.huxiu.com/article/2937372.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [AI+医疗，竟然是这样落地的](https://www.huxiu.com/article/2937321.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [30岁的中国互联网，依旧在路上](https://www.huxiu.com/article/2938519.html)
+Append: [没有伤痕累累，哪来皮糙肉厚：给管理者的10条建议](https://www.huxiu.com/article/2936825.html)
+Append: [赘婿赛道，挤满了优质人才](https://www.huxiu.com/article/2938509.html)
+Append: [AI即将演化为一场泡沫](https://www.huxiu.com/article/2938028.html)
+Append: [“卷”不动的传统烟酒店](https://www.huxiu.com/article/2938495.html)
+Append: [“我投的项目退出了，拿回1块钱”](https://www.huxiu.com/article/2938474.html)
+Append: [中国互联网，是如何诞生的？](https://www.huxiu.com/article/2935016.html)
+Append: [苹果通往Vision之路](https://www.huxiu.com/article/2937341.html)
+Append: [雷军为何偏爱造车而非AI？](https://www.huxiu.com/article/2930168.html)
+Append: [《不够善良的我们》：台剧拍熟女的又一次胜利](https://www.huxiu.com/article/2938013.html)
+Append: [全新腾势N7，你想知道的都在这](https://www.huxiu.com/article/2937308.html)
+Append: [微软秒删的开源大模型，性能如何？](https://www.huxiu.com/article/2938036.html)
+Append: [扶梯靠右站，成了被嫌弃的“社畜文明”](https://www.huxiu.com/article/2938059.html)
+append_entries: 22
+Finish: 2024-04-22 12:13:52.417117

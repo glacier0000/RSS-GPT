@@ -802,3 +802,12 @@ Existing_entries: 22
 Fetching from https://wechat2rss.xlab.app/feed/90c827b8290310a96ef80a13df9dbcc06ab69892.xml
 append_entries: 0
 Finish: 2024-04-22 10:09:19.044470
+------------------------------------------------------
+Started: 2024-04-22 12:13:53.233891
+Existing_entries: 22
+Fetching from https://wechat2rss.xlab.app/feed/90c827b8290310a96ef80a13df9dbcc06ab69892.xml
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [腾讯游戏安全大赛2024决赛题解](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651140550&idx=1&sn=06032f42320c27348461d54fce62318a&chksm=bd50a1928a2728843f062d140281a3622ab175a86c46d574bd10578b7695b36fb8726bad4357&scene=58&subscene=0)
+append_entries: 1
+Finish: 2024-04-22 12:14:10.517378
