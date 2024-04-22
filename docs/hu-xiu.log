@@ -2253,3 +2253,30 @@ Existing_entries: 614
 Fetching from https://glacier0000.vercel.app/huxiu/article
 append_entries: 0
 Finish: 2024-04-21 22:04:59.809001
+------------------------------------------------------
+Started: 2024-04-22 00:32:35.130471
+Existing_entries: 614
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 2678
+Summarized using GPT-3.5-turbo
+Append: [全产业链涨价共振，钨价十年新高](https://www.huxiu.com/article/2936474.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [“中国最年轻富豪”遭罚没1.33亿](https://www.huxiu.com/article/2935517.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [女儿被割喉的340天](https://www.huxiu.com/article/2926386.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [最懂享福的打工人，都在大学家属院租房](https://www.huxiu.com/article/2927918.html)
+Token length: 3398
+Summarized using GPT-3.5-turbo
+Append: [露营2024：奢牌跌落，白牌狂欢](https://www.huxiu.com/article/2935853.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [字节又和微信杠上了](https://www.huxiu.com/article/2918365.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [冷了几年，中国商业航天又热了](https://www.huxiu.com/article/2934164.html)
+append_entries: 7
+Finish: 2024-04-22 00:33:46.952434
