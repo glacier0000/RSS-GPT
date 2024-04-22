@@ -20661,3 +20661,12 @@ Existing_entries: 748
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-22 02:19:16.023955
+------------------------------------------------------
+Started: 2024-04-22 04:08:44.952363
+Existing_entries: 748
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [派早报：特斯拉因踏板缺陷召回全部 Cybertruck](https://sspai.com/post/88234)
+append_entries: 1
+Finish: 2024-04-22 04:08:48.066954

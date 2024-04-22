@@ -5,26 +5,165 @@
 <link>https://sspai.com/matrix</link>
 
 <item>
+<title>手机号绑定了哪些服务？试试借助短信进行排查</title>
+<link>https://sspai.com/post/88076</link>
+<guid>https://sspai.com/post/88076</guid>
+<content:encoded><![CDATA[
+
+<p style="margin-left: 0px;"><strong>Matrix 首页推荐</strong>&nbsp;</p><p style="margin-left: 0px;"><a href="https://sspai.com/matrix">Matrix</a>&nbsp;是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。</p><p style="margin-left: 0px;">文章代表作者个人观点，少数派仅对标题和排版略作修改。</p><hr /><p>说明：<strong>本文的方案仅适用于 iPhone + Mac 双端用户</strong>。Android 机器未经调研，如果能够导出短信数据，那么本文后续对数据的处理和分析流程仍然适用。</p><p>我有两张 SIM 卡，一张是家乡的号码（下称「旧号」），另一张是到上海工作后新办理的号码（下称「新号」）。有了新号后，便把支付宝、淘宝、微信这些重要的账号都重新绑定了。最近想着旧号一直不用，还总是接到营销电话，不如直接注销了。正好这段时间，「注销手机号就是在出卖自己」这类话题引发了不少网友吐槽「我怎么知道自己的手机号都注册了什么服务？」所以来分享一下自己的解决方案。</p><p>工信部官方推出的「全国互联网账号『一证通查』」服务目前仅能查询到 16 个相当常见的互联网平台注册情况，覆盖面显然不足。于是，我转而开始思考，我和这些平台之间，有什么存在于本地的数据，能够揭示我们之间的关联吗？</p><p>是短信。当代社会，使用手机号注册平台账号，大概率会收到对方发来的各类短信。之前的工作曾涉及短信营销，一个印象深刻的点是，在给用户批量发短信前，必须先申请「<strong>短信签名</strong>」。一条常见的服务短信长这样：</p><blockquote><p>【少数派】安全提醒：为了保障你的账号安全，我们建议你立即绑定邮箱。当你的手机丢失或手机号不可用时，你可以通过邮箱邮箱二次验证后来更换手机号。立即绑定：https://sspai.com/setting/account</p></blockquote><p>短信开头的 <code>少数派</code> 就是所谓的「短信签名」，作为发信者的身份标识，一般可以被认为是公司名称。各个公司申请到短信资质和签名后，就可以在短信服务提供商购买额度，然后按照模板要求编写短信内容，最后一键发送。服务商则自动在短信内容前添加签名，并以方头括号 <code>【</code> &nbsp;和 <code>】</code> 标记。通过对<a href="https://help.aliyun.com/zh/sms/user-guide/message-template-specifications/" target="_blank">阿里云</a>、<a href="https://cloud.tencent.com/document/product/382/39023" target="_blank">腾讯云</a>、<a href="https://support.huaweicloud.com/productdesc-msgsms/sms_templates.html" target="_blank">华为云</a>、<a href="https://www.volcengine.com/docs/6361/170340" target="_blank">火山引擎</a>这四家的短信服务规范取并集（以扩大短信识别范围），可以得到如下的表格（后文方案会用到短信类型，这里可以特别关注一下）：</p><figure class="table"><table><thead><tr><th>短信类型</th><th>内容规范</th><th>适用场景</th><th>收信人类型</th><th>案例</th></tr></thead><tbody><tr><td>所有类型</td><td>所有类型的短信都需要「<strong>短信签名</strong>」用于标识发送方属性，在短信内容中体现为短信开头的「<strong>【某某公司】</strong>」</td><td>不涉及</td><td>不涉及</td><td>见下</td></tr><tr><td>验证码短信</td><td>短信内容必须包含「验证码、注册码、校验码、动态码、动态密码、CODE」中的一个</td><td>需要安全验证的操作</td><td>发起注册、登录等操作的用户</td><td>【某某音乐】1234 您的某某音乐验证码，有效时间为 10 分钟，请尽快验证</td></tr><tr><td>通知类短信</td><td>禁止发送营销推广类内容和链接</td><td>系统相关信息，例如服务升级、服务开通、价格调整、 订单确认、物流动态、消费确认等</td><td>注册用户</td><td>【某某餐厅】您的会员卡 1234 在某某分店消费，剩余卡值 54.32，积分余额 46</td></tr><tr><td>营销类短信</td><td>短信末尾必须携带退订方式，根据最新规定目前仅支持「拒收请回复R」</td><td>新品宣传、会员关怀、商品促销、活动邀请、跨境营销等</td><td>没有明确限制</td><td>【某某旗舰店】新势力周囤货啦！全店叠加满减满 300 减 90！爆款下单赠惊喜好礼，冲！ s.tb.cn/abcdefg 拒收请回复 R</td></tr></tbody></table></figure><p>于是，一个自然的想法是，我们可以逆向利用这些短信中的签名，来辅助判断自己的手机号绑定了哪些服务。<strong>只要导出这些短信，用正则表达式提取签名，按照出现频率倒序排列，一个个打钩确认就可以了。</strong></p><p>这个方案需要同时使用 iPhone 和 Mac，并在 iPhone 上开启「短信转发」功能。在「设置 - 信息 - 短信转发」中，打开 Mac 设备的开关即可；读者也可参考 <a href="https://support.apple.com/zh-cn/102545" target="_blank">Apple 官方支持文档</a>进行操作。等待一段时间，让历史短信同步到 Mac 上，完成之后就可以尝试使用诸如 <a href="https://tableplus.com/" target="_blank">TablePlus</a> 之类的数据库管理工具访问位于 <code>/Users/yourusername/Library/Messages/chat.db</code> 路径的数据库了。这里建议将 <code>chat.db</code> 复制到一个普通权限的文件夹下，否则对数据库进行操作可能会被请求授予「完全磁盘访问权限」，同时可以避免误操作可能导致的其他问题。</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/17/9cc1f36bf5ce3b2cff5887c47bd5ed40.JPEG?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>另外，iOS 17 增加了一项功能新功能，可以自动删除使用过的验证码短信。如果你最近有注销手机号的需求，且想使用本文的方案，不妨先把这个功能关掉一段时间，以积累更多短信数据。设置路径为「设置 - 密码 - 密码选项 」，关闭「使用后删除」即可。</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/17/f182a747ae26274436e041e10d0d879f.JPEG?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><h2>短信导出，有没有现成的解决方案？</h2><p>本着「绝不重复造轮子」的原则，我确实找到了两个解决方案。</p><p>一是 iMazing 的短信备份功能，可以导出为 Excel 表格。国内经销商给出的最低价是 188 元，我没有使用此软件的需求，并不愿意单纯为了一次短信导出付出这个价格。同时，它导出的短信表格并没有区分手机号，这对我来说大大增加了排查的工作量，遂放弃。另外，我大约有 15K+ 条短信，从 iPhone 备份到 Mac 上耗费了将近 3 个小时，这个速度也让我有点不能接受。</p><p>另一个是用 Rust 语言编写的开源项目 <a href="https://github.com/ReagentX/imessage-exporter">imessage-exporter</a>，免费且导出速度极快，但同样没有区分手机号。我给作者提了 issue，已经被加入下一版本的计划中。读者如果不想自己实现，可以等等作者发新版。可能是因为直接读取已经存在于 Mac 上的数据库（而不是经由 iPhone 备份的方式），同样是 15K+ 短信，导出仅消耗了几秒钟。</p><p>如果你只有一个手机号，并且已经是 iMazing 用户或者有一些技术背景，那这些其实是够用的。但对于双卡双待的用户，无法区分短信的收信号码，情况就有些复杂了。</p><h2>粗糙的 MVP：先解决核心问题</h2><p>一开始，我想修改一下前文中提的开源项目，毕竟只要添加数据库的一个字段就可以了。但我对 Rust 语言一无所知，即便有 AI 的加持，修改一个完整的项目也感到十分捉襟见肘，不知从何下手。折腾一番之后，最终还是开始自己造轮子了。</p><p>项目的核心问题是，<strong>我们的手机号到底注册/绑定了哪些服务？</strong>那么解决方案至少要把手机号、短信签名、频次这三列导出来。</p><h3>先看一看，短信数据库长什么样？</h3><p>经过一些探索，我整理出了 <code>chat.db</code> 中与我们问题相关的表格和字段。并且，同步到 Mac 的短信通过 <code>destination_caller_id</code> 这一字段保留了收信号码，这意味着我们的解决方案有了一些眉目。</p><figure class="table"><table><thead><tr><th>表格名称</th><th>内容</th></tr></thead><tbody><tr><td>chat</td><td>记录每个对话的属性，例如对话 ID、发信人号码、最后一次的联络时间等。</td></tr><tr><td>message</td><td>记录每条信息的详细内容和属性，例如短信 ID、短信富文本内容、收信号码、收发时间、是否被过滤等。</td></tr><tr><td>chat_message_join</td><td>记录对话 ID 和信息 ID 的对应关系，一个对话可能包含多条信息。</td></tr></tbody></table></figure><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/17/110bd91e55f51ac8d80347cd24759ed3.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>挑选出项目相关字段后，这三张表格关系如图所示。一个 <code>chat</code> (对话）可能包含多条 <code>message</code> (s) (信息），两者的对应关系，被记录于 <code>chat_message_join</code> 这张表里。一些需要解释的字段如下：</p><ul><li><a href="https://stackoverflow.com/questions/75330393/how-can-i-read-the-attributedbody-column-in-macos-imessage-database" target="_blank">自 macOS Ventura 某次更新后</a>，短信文本不再直接存储于 <code>text</code> 列，而是以特殊格式放到了<code>attributedBody</code> 里。<code>attributedBody</code> 是<code>blob</code> (Big Large Object) 类型，存储了包含短信文本在内的各项数据。由十六进制转化为文本后，在一堆乱码中勉强看到了短信内容和 <code>NSAttributedString</code>、<code>streamtyped</code>等字眼，搜索资料后了解到与 iOS 和 Swift 有关。这方面我并不了解，还好搜到了一个开源项目（<a href="https://github.com/dgelessus/python-typedstream">python-typedstream</a>），可以通过 Python 直接读取并抽取其中的文本值。</li><li><code>date</code> 是起始于 2001 年 01 月 01 日的时间戳（不同于默认的 1970 年 01 月 01 日），需要特别转换一下。</li><li><code>service</code> 指短信的服务类型，亦即 SMS 或是 iMessage，这里我们只需要 SMS（因为 iMessage 是邮件地址发来的信息，不是我们需要的服务短信）。</li><li><code>is_from_me</code> 代表「是否为本机发出的信息」，这里只需要收到的短信，所以加上一个过滤条件 <code>is_from_me==0</code> 。</li><li><code>destination_caller_id</code> 就是我们需要的「收信号码」字段。</li><li><code>chat_identifier</code> 是发信号码。</li></ul><h3>把短信数据拿出来</h3><p>此处使用 Python 语言，在 Terminal 中运行 <code>pip install pytypedstream</code> 以安装上文提到的包。完成后，我们先定义两个函数，分别用来从 <code>attributedBody</code> 中提取短信文本和转换时间戳。</p><pre class="language-python"><code># 用于从blob数据类型中抽取短信文本内容
+import typedstream
+def get_value_from_bytesobj(hex_bytes):
+    try:
+        ts_obj = typedstream.unarchive_from_data(hex_bytes)
+        return ts_obj.contents[0].value.value
+    except Exception as e:
+        return None</code></pre><pre class="language-python"><code># 用于将时间戳转换为人类可读的日期时间格式
+from datetime import datetime, timedelta
+# iOS messages的timestamp开始于2001-01-01，且需要转化为北京时间
+def timestamp_converting(timestamp, custom_epoch = datetime(2001, 1, 1)):
+    try:
+        timestamp_seconds = timestamp / 1e9
+        resulting_date = custom_epoch + timedelta(seconds=timestamp_seconds) + timedelta(hours=8)
+        return resulting_date.strftime('%Y-%m-%dT%H:%M:%S.%f')[:-3]
+    except Exception as e:
+        return None</code></pre><p>接下来我们连接到数据库 <code>chat.db</code>，取出需要的数据，并且应用刚才定义的两个函数，对数据做初步处理，并写入 Excel 表格。</p><pre class="language-python"><code>import sqlite3
+import pandas as pd
+
+# 建立数据库链接，取数据
+database_path = 'path/to/chat.db'
+connection = sqlite3.connect(database_path)
+
+query = '''SELECT a.ROWID AS message_id, c.ROWID AS chat_id, c.chat_identifier, a.attributedbody, a.date, a.destination_caller_id FROM message AS a
+LEFT OUTER JOIN chat_message_join AS b ON a.rowid = b.message_id
+LEFT OUTER JOIN chat AS c ON b.chat_id = c.rowid
+WHERE a.is_from_me = 0 AND a.service = "SMS";'''
+
+df = pd.read_sql_query(query, connection)
+connection.close()
+
+# 初步处理数据，抽取短信内容、转换时间戳，排除空文本短信，写入Excel表格
+df['sms_text'] = df['attributedBody'].apply(get_value_from_bytesobj)
+df['sms_date'] = df['date'].apply(timestamp_converting).apply(lambda x: pd.to_datetime(x, format='%Y-%m-%dT%H:%M:%S.%f'))
+# 去除没有文本内容的短信
+df = df[~df['sms_text'].isnull()]
+df = df[['message_id', 'chat_identifier', 'destination_caller_id', 'sms_date', 'sms_text']].sort_values(by = 'sms_date', ascending = False)
+df.to_excel("sms_content.xlsx",index=None)</code></pre><p>这里解释一下为何选择较为「笨重」的 <code>.xlsx</code> 格式存储，而不选择 <code>.csv</code>？因为不确定短信文本内容中是否包含了和分隔符（英文逗号 <code>,</code> ）一样的符号，导致后续读数时错列。同时数据量也不大， 如果数据量大，可以尝试用 <code>arrow</code> 包写 <code>.parquet</code> 文件。</p><p>最终，我们可以得到数据字典结构如下的表格，并进行下一步分析。</p><figure class="table"><table><thead><tr><th>字段名称</th><th>数据类型</th><th>含义及备注</th><th>样例</th></tr></thead><tbody><tr><td>message_id</td><td>integer</td><td>短信 ID</td><td>5337</td></tr><tr><td>chat_identifier</td><td>text</td><td>发信人号码</td><td>106905109757920</td></tr><tr><td>destination_caller_id</td><td>text</td><td>本机号码，可能不止一个（双卡双待）</td><td>+8613912345678</td></tr><tr><td>sms_date</td><td>datetime</td><td>收信时间</td><td>2024-04-01 12:34:56</td></tr><tr><td>sms_text</td><td>text</td><td>从 <code>attributedBody</code> 字段中提取的短信文本内容</td><td>【某某音乐】1234 是您某某音乐的验证码，有效时间为 10 分钟，请尽快验证</td></tr></tbody></table></figure><h3>清洗数据，得到检查清单</h3><p>注：<strong>从这里开始，编程语言变成了 R。</strong>在解决个人生活问题的项目上，我的编程习惯比较随意，什么语言方便用什么。我在本文最后提供了一个一键导出的应用，供不太熟悉 R 语言读者使用。另外，少数派编辑器的代码块模块还不支持 R 语言，所以语言类型我选择了纯文本，没有高亮。</p><pre class="language-null"><code>library(data.table)
+library(tidyverse)
+library(readxl)
+library(writexl)
+
+# 读取刚才保存的短信数据表格
+sms_df = read_xlsx("sms_content.xlsx") %&gt;% 
+  setDT()
+
+# 这里去除了短信首尾的空白符号和占位符，并且将所有英文符号转为小写
+sms_df[, sms_text := sms_text %&gt;% str_squish() %&gt;% str_remove_all(., "\uFFFC") %&gt;% str_to_lower()]
+
+# 此处为了排除一些无关联的IDFA而进行过滤
+# 请将"new"和"old"替换为自己的手机号
+sms_df = sms_df[destination_caller_id %chin% c("new", "old")]</code></pre><p>首先，我们需要将手机号发来的日常短信过滤掉。手机号是 11 位，在 <code>chat_identifier</code> 字段中会增加前缀 <code>+86</code>。在查阅<a href="https://baike.baidu.com/item/%E6%89%8B%E6%9C%BA%E5%8F%B7%E7%A0%81/1417348" target="_blank">资料</a>获得手机号段特征后，我们可以通过以下正则表达式将其过滤（关于正则表达式可以参考 <a href="https://deerchao.cn/tutorials/regex/regex.htm" target="_blank">regex101</a> 和<a href="https://sspai.com/post/60650" target="_blank">少数派这篇文章</a>，这里不再赘述）。</p><pre class="language-null"><code>phone_number_pattern = "^\\+86((135|136|137|138|139|150|151|152|157|158|159|178|182|183|184|187|188|195|197|198|130|131|132|145|155|156|166|175|176|185|186|196|133|149|153|173|177|180|181|189|190|191|193|199|192|162|165|167|170|171)[0-9]{8}|134[0-8]{8})$"
+
+sms_df = sms_df[!str_detect(chat_identifier, phone_number_pattern)]</code></pre><p>然后，把 <code>【】</code> 内部的文本抽取出来，选择旧号相关的短信签名，按照出现频率倒序排列，写入 Excel 文件，一一去排查即可。注意，这里我们的正则表达式匹配了位于<strong>开头或结尾</strong>的方头括号，因为有些公司会把短信签名放在末尾（比如交通银行），也许是有自己的独立渠道，不需要受短信服务商模板的约束。</p><p>此外，还需将首尾均未出现签名的短信过滤掉，除了由一些公共机构、政府部门下发的公益短信外，全部都是售假、赌博、色情类内容（不清楚它们是如何绕过审核系统下发的）。</p><pre class="language-null"><code># 匹配短信开头和末尾的签名
+sms_df[, `:=`(sms_sign_start = sms_text %&gt;% str_extract(., "^【(.*?)】", group = 1), sms_sign_end = sms_text %&gt;% str_extract(., "【([^】]*)】$", group = 1))]
+
+# 将首尾均未出现签名的短信过滤掉
+sms_df = sms_df[!(is.na(sms_sign_start) &amp; is.na(sms_sign_end))]
+
+# 将首尾签名两列数据合并到一列中
+sms_df = sms_df %&gt;%
+  pivot_longer(
+    cols = starts_with("sms_sign"),
+    values_to = "sms_sign",
+    values_drop_na = T
+  ) %&gt;% 
+  setDT()
+
+# 按照出现频率从高到低对短信签名进行排序，并写入文件
+# 这里请将"old"替换为你的手机号  
+sms_sign_cnt = sms_sign_cnt[destination_caller_id == "old", .N, .(sms_sign)] %&gt;% 
+  setorder(-N)
+sms_sign_cnt %&gt;% 
+  write_xlsx(., "path/to/file.xlsx")</code></pre><p>我的旧号中有 368 个短信签名，出现频率前五的签名如下（出现频次进行了数据脱敏），包含了当时仍属于网易的「网易考拉」，也许算得上是一滴时代的眼泪了。不过这么多签名，排查起来工作量不少，能不能简化一点呢？</p><figure class="table"><table><thead><tr><th>sms_sign</th><th>N（出现频次）</th></tr></thead><tbody><tr><td>交通银行</td><td>402</td></tr><tr><td>中国移动</td><td>287</td></tr><tr><td>网易</td><td>109</td></tr><tr><td>网易考拉</td><td>98</td></tr><tr><td>招商银行</td><td>72</td></tr></tbody></table></figure><p>一个简单的思路是，将低频签名过滤掉。让我们先看一下数据的分位点。</p><pre class="language-null"><code>sms_sign_cnt[, quantile(N)]
+sms_sign_cnt[N &gt;= quantile(N, 0.75)]</code></pre><figure class="table"><table><thead><tr><th>0%</th><th>25%</th><th>50%</th><th>75%</th><th>100%</th></tr></thead><tbody><tr><td>1</td><td>1</td><td>1</td><td>4</td><td>402</td></tr></tbody></table></figure><p>有超过一半的短信签名只出现过 1 次，前 25% 的短信签名出现次数在 4 次及以上。如果我们以「至少出现 4 次」为基准进行切割，需要排查的签名就只剩下了 109 个。快刀斩乱麻，直接减少了 70% 的工作量——但会不会有点担心，那些低频签名中偏偏有我们很看重的呢？</p><h2>精细化分析：减少排查工作量</h2><p>从这里开始，项目的目标从「找到所有注册/绑定的服务」变成了<strong>「找到值得被排查的服务」</strong>。因此，我们需要增加一些数据分析的维度，尽量排除不需要检查的签名。</p><p>此后都是基于作者个人短信数据情况而进行的非标准化分析，主要是为了提供一些解决思路，读者如果感兴趣，可以参考自行实现。</p><h3>Step1 排除移动服务商和公共机构</h3><p>大体扫一眼短信内容，我们会发现不少短信来自于移动服务商：话费余额提醒、宽带推广、流量包优惠等等。手机号和移动服务商天然绑定，注销手机号自然不需要考虑它们。以我的移动号码为例，所有以 10086 和 10085 开头的号段都是移动下发各类通知的号码，可以将其直接过滤。同时，再增加一个判断条件，短信文本中出现了类似「中国移动」「上海移动」「江苏移动」等模式的签名也会被过滤掉。</p><p>另外，有些公共机构的公益短信（例如天气预警）也会通过 10086 的端口下发，可以将其一并过滤。</p><pre class="language-null"><code>sms_df[destination_caller_id == "old" &amp; (str_detect(chat_identifier, "^1008[56]") | str_detect(sms_text, "(中国|江苏|上海)移动")), .N, sms_sign] %&gt;% 
+  arrange(., desc(N)) %&gt;% {
+    print(.)
+  } -&gt; plot_stats_mobile_operators</code></pre><figure class="table"><table><thead><tr><th>sms_sign</th><th>N</th></tr></thead><tbody><tr><td>中国移动</td><td>287</td></tr><tr><td>中国移动心级服务，让爱连接</td><td>73</td></tr><tr><td>余额不足提醒</td><td>55</td></tr><tr><td>流量提醒</td><td>42</td></tr><tr><td>江苏省文旅厅</td><td>13</td></tr></tbody></table></figure><pre class="language-null"><code># 这里anti_join()函数的功能是从X中排除出现在Y的内容
+sms_sign_cnt_step1 = sms_sign_cnt %&gt;% 
+  anti_join(., plot_stats_mobile_operators, by = join_by(sms_sign))
+
+plot_stats_step1 = nrow(sms_sign_cnt_step1)</code></pre><p>这一步排查出了 87 个移动运营商和公共机构签名，总排查量还剩 281 个，占比 76%。</p><h3>Step2 排除电商旗舰店</h3><p>每逢各类电商活动，商家们的推广信息就纷至沓来。我们的号码和电商平台绑定，不需要额外对这些旗舰店进行解绑操作。因此，包含「旗舰店」字样的短信签名可以被过滤掉。</p><pre class="language-null"><code>sms_df[destination_caller_id == "old" &amp; str_detect(sms_sign, "旗舰店"), .N, sms_sign] %&gt;% {
+  print(.)
+} -&gt; plot_stats_ecommerce
+
+sms_sign_cnt_step2 = sms_sign_cnt_step1 %&gt;% 
+  anti_join(., plot_stats_ecommerce, by = join_by(sms_sign))
+
+plot_stats_step2 = nrow(sms_sign_cnt_step2)</code></pre><p>这一步排查出了 14 个电商商家签名，总排查量还剩 267 个，占比 73%。</p><h3>Step3 排除已经解绑过的服务</h3><p>因为我有两个手机号，且一部分账号已经重新绑定到新号上，所以短信签名在新旧号的活跃状态就成了一个额外的分析维度。例如，如果旧号自某天（记为 T）起再也没有收到过某个短信签名，而新号第一次收到此签名的短信在 T 之后，就可以认为我已经将此签名的服务绑定到新号上了，从而在检查列表中将其排除。</p><figure class="table"><table><thead><tr><th>签名新号状态</th><th>签名旧号状态</th><th>含义</th><th>检查列表策略</th></tr></thead><tbody><tr><td>活跃</td><td>活跃</td><td>两个号码混用</td><td>保留此签名</td></tr><tr><td>活跃</td><td>不活跃</td><td>已迁移到新号</td><td>过滤此签名</td></tr><tr><td>不活跃</td><td>活跃</td><td>未迁移到新号</td><td>保留此签名</td></tr><tr><td>不活跃</td><td>不活跃</td><td>不存在此情况</td><td>不涉及</td></tr></tbody></table></figure><p>我们利用全部数据集（包含新号和旧号的短信）构建一个表格，对每一个短信签名，都列出以下四个属性：</p><ul><li>旧号最远接收的日期 <code>min_date_old</code></li><li>旧号最近接收的日期 <code>max_date_old</code></li><li>新号最远接受的日期 <code>min_date_new</code></li><li>新号最近接收的日期 <code>max_date_new</code></li></ul><p>基于对日期大小的比较，可以判断短信签名在新旧号的活跃状态（过去的日期距离当下越远，则在数值上越小）。</p><pre class="language-null"><code>sms_minmax_date = sms_df[, .(min_date = min(sms_date), max_date = max(sms_date)), .(destination_caller_id, sms_sign)]
+
+sms_minmax_date = sms_minmax_date %&gt;% 
+  pivot_wider(., names_from = destination_caller_id, values_from = c(min_date, max_date)) %&gt;% 
+  setDT()</code></pre><p>生成的表格字段如下：</p><figure class="table"><table><thead><tr><th>sms_sign</th><th>min_date_new</th><th>min_date_old</th><th>max_date_new</th><th>max_date_old</th></tr></thead><tbody><tr><td>某服务</td><td>2020-06-25 18:17:36</td><td>2018-11-18 21:54:34</td><td>2021-07-05 17:54:16</td><td>2019-10-15 12:12:46</td></tr></tbody></table></figure><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/17/3f41d775d7ceca90e29785d8bb46ef0e.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /><figcaption>「新号活跃、旧号不活跃」模式时间关系示意</figcaption></figure><p>以 <code>min_date_new &gt; max_date_old</code> 为过滤条件，找到满足「新号活跃、旧号不活跃」模式的短信签名，可以视作已经解绑旧号并重新绑定了新号。</p><pre class="language-null"><code>sms_minmax_date[min_date_new &gt; max_date_old] %&gt;% {
+  print(.)
+} -&gt; plot_stats_shifted_to_new
+
+sms_sign_cnt_step3 = sms_sign_cnt_step2 %&gt;% 
+  anti_join(., plot_stats_shifted_to_new, by = join_by(sms_sign))
+
+plot_stats_step3 = nrow(sms_sign_cnt_step3)</code></pre><p>在旧号的短信中，我们找到了 81 个满足指定模式的签名，总排查量还有 193 个，占比 52%。注意，本小节是对整个旧号数据集进行操作，前面已经过滤的签名仍然有可能重复出现在这里，所以数值上并不是直接相减的关系，而是排除（亦即 <code>anti_join()</code> ）后计数。</p><p>还有一种情况是新旧号在混用，例如我在 B 站和当当网都有两个账号，可能一个是通过微信登录直接授予了旧号，另一个是用手机验证码登录了新号，导致一会新号收到短信，一会旧号收到短信。这种模式体现在时间上的特征为，新旧号的时间段是相互交错的。这类签名也需要作为排查对象，先存下来，在下一步分析时使用。</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/17/8000da9b4e3df8b6ab16b6cbd5064d59.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /><figcaption>「新旧号混用」模式的时间关系示意</figcaption></figure><pre class="language-null"><code>sms_minmax_date[(max_date_old &gt; max_date_new &amp; max_date_new &gt; min_date_old) | (max_date_new &gt; max_date_old &amp; max_date_old &gt; min_date_new)] %&gt;% {
+  print(.)
+  } -&gt; plot_stats_mixed</code></pre><h3>Step4 排除只发过营销类短信的服务</h3><p>在文章开头，我们提到了服务短信的三种分类。细想一下，「验证码短信」涉及到注册、登录等需要安全验证的场景，频率低但重要性高；「通知类短信」则标识着用户在此公司有相关业务，频率越高则关联程度越高，主动操作的可能性就越高，注销手机号的影响也就越大；「营销类短信」则不是用户主动发起的，也没有强制规定不能发送给未注册的用户，无论其频率如何，重要性都是最低。</p><p>因此，那些<strong>只</strong>出现在营销类短信的签名，可以认为是获客类操作，反证了我们的手机号并没有注册过它们的服务。</p><p>我们明确知道验证码和营销类短信的模板要求，因此可以用正则表达式为短信打上标签。但是通知类短信没有明显的文本规律，为了扩大安全边界，我们可以将不满足验证码和营销类模式的短信都归为通知类短信。</p><p>另外，由于营销类短信的拒收话术有过更新，所以为了定位此类历史短信，对应的正则表达式也扩大了识别范围。</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/18/8959529b650a6a11cf6693820c8b90b6.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /><figcaption>三类短信的文本特征</figcaption></figure><pre class="language-null"><code># 这里的OTP代表One Time Password
+verification_code_pattern = "验证码|注册码|校验码|动态码|动态密码|动态验证码|code|otp" 
+promotion_pattern = "拒收|退订|td|回[a-z]+退?"
+
+# 通过正则表达式为短信打上类型标签
+sms_df[, sms_category :=
+               ifelse(
+                 str_detect(sms_text, verification_code_pattern),
+                 "verification",
+                 ifelse(
+                   str_detect(sms_text, promotion_pattern),
+                   "promotion",
+                   "notification"
+                 )
+               )
+]</code></pre><p>接下来，将旧号中只发送过营销类短信的签名找出来。</p><pre class="language-null"><code>sms_df[destination_caller_id == "old", .N, .(sms_sign, sms_category)] %&gt;% 
+  pivot_wider(., names_from = "sms_category", values_from = "N", values_fill = 0) %&gt;% 
+  filter(., notification == 0 &amp; verification == 0) %&gt;%
+  as.data.table() %&gt;% {
+    print(.)
+  } -&gt; plot_stats_only_promotion</code></pre><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/17/4c8053d8a4b542aedb26a6be1f50e2e5.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>这里我们需要特别注意一下，「旧号仅发送过营销短信的签名」也有可能后续给新号发了验证码和通知类短信（存在新旧号混用的情况），所以我们要把这个待过滤列表中「新旧号混用的签名」先排除掉，剩下的才是应该被过滤的签名。</p><pre class="language-null"><code>sms_sign_cnt_step4 = sms_sign_cnt_step3 %&gt;% 
+  anti_join(
+    plot_stats_only_promotion %&gt;% 
+      anti_join(., plot_stats_mixed, by = join_by(sms_sign)),
+    by = join_by(sms_sign)
+  )
+
+plot_stats_step4 = nrow(sms_sign_cnt_step4)</code></pre><p>这一步我们在旧号所有短信中确定了 110 个仅发送过营销类短信的服务，大致是一些借贷、网游类我未使用过的服务。</p><h3>精细化分析小结</h3><figure class="table"><table><thead><tr><th>步骤</th><th>剩余短信签名数量</th><th>每一步排除的签名数量（去重）</th></tr></thead><tbody><tr><td>开始</td><td>368</td><td>0</td></tr><tr><td>Step1 过滤移动运营商</td><td>281</td><td>87</td></tr><tr><td>Step2 过滤旗舰店</td><td>267</td><td>14</td></tr><tr><td>Step3 过滤已迁移</td><td>193</td><td>74</td></tr><tr><td>Step4 过滤纯营销</td><td>127</td><td>66</td></tr><tr><td>结束</td><td>127</td><td>241</td></tr></tbody></table></figure><p>最终，待排查的短信签名从 368 个降低到了 127 个，减少了 65% 的排查工作。相比较于以「出现频率&gt;=4」为标准快刀斩乱麻砍掉约同等工作量（70%）的方式，后续的分析复杂了一些，但是对结果准确度的信心却大大提升了。</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/17/eed2c77d290accd390a56bb799705e37.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /><figcaption>经过四个步骤的清洗，排查工作量降低至 35%</figcaption></figure><h2>一键导出工具下载</h2><p>链接：https://pan.quark.cn/s/bfe088195639</p><p>提取码：wHV6</p><p>这个工具用 Python 的 <code>tkinter</code> 包做了一个十分简陋的 GUI，并使用 <code>PyInstaller</code> 进行了打包。我对非 Web 应用程序的开发十分不熟悉，所以这个工具仅实现了基本功能：选择数据库、判断数据库是否存在指定的表格和字段、选择保存路径、抽取和输出数据为 Excel 表格。同时，因为是在本文内放出的下载链接，默认用户都浏览过本文，所以界面上没有提供其他辅助信息，这可能会让从其他渠道接触的用户一头雾水。</p><p>如果读者无法打开此工具，可能需要到「设置 - 安全和隐私」中选择允许本应用运行。另外，如果打开了，却发现它好像闪退了，请稍微等待一会儿，它似乎在解压自己到某个临时文件夹，解压好了这个窗口就会弹出来。或者到活动监视器中杀掉进程后重试。</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/18/0675f5fb89f52b562eb424e4de195e9f.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>如果数据库通过检验，将会输出两个 <code>.xlsx</code> 文件：</p><ol><li>历史收到的所有 SMS 类型短信（相当于一次短信导出）。</li><li>分表单存储的「运营商和公共机构签名」「电商旗舰店签名」「分短信类别统计过频次的其他签名」（已排除前两者），均有收信号码、短信签名和频次标注。</li></ol><h2>这个产品后续会有什么改进吗？</h2><p>一开始我想把它做成一次性买断产品，价格大概在 3-6 元。毕竟，谁不希望拥有属于自己且还能赚钱的产品呢？网络上的讨论确实让我意识到，这个需求虽然是超低频的一次性需求，但也真实存在，并且我的解决方案确实告诉了用户「你的手机号到底在哪些平台注册过」，理论上存在 PMF。</p><p>但涉及到对短信内容的分析，有多少用户会允许一个不知名开发者的小工具去访问自己的敏感数据呢？即便我声明了这个工具不会上传用户数据、纯在本地分析、可以断网使用，想必还是很难打消用户的疑虑。尤其是还没有申请签名，可能被 macOS 的安全策略阻拦，而直接选择系统路径的 <code>chat.db</code> 又会被提示需要「授予完全磁盘访问权限」，总归令人不安。其实换我是用户，我也不太会愿意使用这个工具。</p><p>另外，虽然尽可能列出了排查对象，也尽可能减少了排查工作量，但毕竟不能帮助用户一键解绑。所有绑定的服务，都需要用户手动一个个去寻找解绑方式。因此，这个工具的竞争对手，也许并不是其他相同思路、界面更美观、用户体验更好、开发者更知名的同类产品，而是用户面对上百个待排查项目最终冒出的「算了好烦，还是办个 8 块钱保号套餐吧」想法。</p><p>但不管怎么说，我也算是有了第一款属于自己的产品了，我会尝试在小红书上营销一下此产品，看看市场反馈。后续还有其他项目需要用 React 开发，所以也想尝试用 React + Electron + Python 的方式把它完善一下，当做练习作品，至少 UI 不能看起来像诈骗软件（笑）。</p><p style="margin-left: 0px;">&gt; 关注 <a href="https://sspai.com/link?target=https%3A%2F%2Fwww.xiaohongshu.com%2Fuser%2Fprofile%2F63f5d65d000000001001d8d4">少数派小红书</a>，找到数字时代更好的生活方式 🎊</p><p style="margin-left: 0px;">&gt; 实用、好用的 <a href="https://sspai.com/mall">正版软件</a>，少数派为你呈现 🚀</p>
+]]></content:encoded>
+<pubDate>Fri, 19 Apr 2024 06:50:13 GMT</pubDate>
+<pubDate>Fri, 19 Apr 2024 06:50:13 GMT</pubDate>
+</item>
+
+<item>
 <title>这半年以来，我为 Notion 做了款插件，让 Notion 更适合国人使用了</title>
 <link>https://sspai.com/post/88201</link>
 <guid>https://sspai.com/post/88201</guid>
 <content:encoded><![CDATA[
-<div> 1. Notion 是一款备受赞誉的多功能工具，但在国内用户看来，它距离完全的 All in One 还有差距。<br>
-2. 与国内竞品相比，Notion 最大的缺陷之一是缺乏移动端高效的剪藏工具。<br>
-3. 这导致用户无法像在 flowus、腾讯文档或语雀等平台上那样直接剪藏到Notion中。<br>
-4. 尽管有一些第三方工具可以帮助实现同步，但并不直接、快捷，而且可能需要额外付费。<br>
-5. 作为一名程序员和Notion忠实用户，麦可意识到这个问题，因此开发了一个名为NotionMpClipper的小程序插件。<br>
-6. NotionMpClipper 实现了移动端快速记录灵感想法和剪藏文章到 Notion 的功能。<br>
-7. 目前，NotionMpClipper 已经支持多个平台的深度剪藏，包括微信公众号、知乎问答等。<br>
-8. 为了持续发展和更新，NotionMpClipper 推出了付费方案，包括买断制方案和按年订阅制方案。<br>
-9. 用户对 NotionMpClipper 的评价普遍积极，认为它大大提升了Notion在移动设备上的剪藏体验。<br>
-10. 麦可认为，尽管做Notion插件在国内可能不会赚到很多钱，但用户的使用和认可已经是他的成功。<br>
-11. 他将继续努力维护和更新产品，希望通过付费方案实现产品的可持续发展。<br>
-12. 这个故事也展示了麦可从一个想法到一个产品落地的过程中的成长和突破。<br>
-13. 最后，麦可以一句话结束这篇故事：“悲观者正确，乐观者成功！”<br> <div>
+<div> 1. Notion 是一款备受赞誉的多功能工具，但在国内用户看来，它距离完全的 All in One 还有差距。<br />
+2. 与国内竞品相比，Notion 最大的缺陷之一是缺乏移动端高效的剪藏工具。<br />
+3. 这导致用户无法像在 flowus、腾讯文档或语雀等平台上那样直接剪藏到Notion中。<br />
+4. 尽管有一些第三方工具可以帮助实现同步，但并不直接、快捷，而且可能需要额外付费。<br />
+5. 作为一名程序员和Notion忠实用户，麦可意识到这个问题，因此开发了一个名为NotionMpClipper的小程序插件。<br />
+6. NotionMpClipper 实现了移动端快速记录灵感想法和剪藏文章到 Notion 的功能。<br />
+7. 目前，NotionMpClipper 已经支持多个平台的深度剪藏，包括微信公众号、知乎问答等。<br />
+8. 为了持续发展和更新，NotionMpClipper 推出了付费方案，包括买断制方案和按年订阅制方案。<br />
+9. 用户对 NotionMpClipper 的评价普遍积极，认为它大大提升了Notion在移动设备上的剪藏体验。<br />
+10. 麦可认为，尽管做Notion插件在国内可能不会赚到很多钱，但用户的使用和认可已经是他的成功。<br />
+11. 他将继续努力维护和更新产品，希望通过付费方案实现产品的可持续发展。<br />
+12. 这个故事也展示了麦可从一个想法到一个产品落地的过程中的成长和突破。<br />
+13. 最后，麦可以一句话结束这篇故事：“悲观者正确，乐观者成功！”<br /> <div>
 <h2>起因</h2><p>Notion 宣传 All in One，但是对国内用户来说，Notion 离 All In One 其实还差一步。</p><p>在谈这个问题之前，我必须承认 notion 这款产品非常优秀，如果他在我心里不够好，那么就不会有这篇文章。</p><p>我们对比一下 flowus、腾讯文档、语雀等国内竞品，你觉得 Notion 最大的缺陷是什么？</p><p>不支持中文？网络延迟？</p><p>我认为Notion缺少了移动端的高效收集剪藏工具。</p><h4>举个例子</h4><p>我在手机端阅读最多的是公众号文章，看到精彩的内容都会想要收藏起来，为了方便后续精读整理和永久保存，我需要剪藏到我的知识库里面去。这时候你会发现，flowus 用户可以直接同步保存到 flowus，腾讯文档也可以，语雀也可以，但是 notion 就不可以。至少官方没有提供类似工具，而且 notion 没进中国市场之前应该都不可以。</p><p>其实这个问题也有解决方案，我就发现有很多剪藏工具可以进行收集剪藏并可以同步到 notion。</p><p>比如 flomo ，一款非常优秀的 GTD 工具，非常适合记录灵感想法。</p><p>比如 cubox，非常优秀阅读学习助手，剪藏功能很强，也能快速记录灵感和想法。</p><p>但是他们的定位显然不是 notion 剪藏工具，他们有自己的数据处理和呈现方式，他们有自己的使命。</p><p>而且借助这些工具进行Notion同步，总是不够直接快捷，还可能需要额外为这类工具付费。</p><h2>我的想法</h2><p>假设你仅需要 Notion 一款产品，实现 All In One，你现在可能就缺少一个移动端的剪藏插件。</p><p>你可能希望这款插件能够实现如 flomo 般快速记录灵感想法，如 cubox 般丝滑的剪藏文章。</p><p>那么你和我一样，我们都有这种需求。</p><p>我叫麦可，一位 Notion 忠实用户，我还是一位程序员。</p><p>我从去年 2 月份从同事那里了解到 Notion 这款产品，6 月份就花巨资购买了二一大佬的 Notion 课程进行深入学习，渴望掌握 Notion 的全部秘法。</p><p>而在此之前，我从来没有对其他软件有过短时间就购买使用教程的消费现象。</p><p>随着 Notion 的使用时间变长，我就发现了 Notion 在移动端剪藏能力的缺失，这在当时让我对 Notion 产生了一点消极情绪（由爱生恨那种）</p><p>坦诚地说，我曾放弃 Notion 去用过一段时间语雀，flowus 也注册了，他们都很优秀，也解决了移动端剪藏的问题。</p><p>但我最终还是回到了 Notion 的阵营，我想我可以做点什么，因为我是一位程序员。</p><h4>补充一下过程</h4><p>我在 notion 使用期间了解了很多方法论，有知识收集/知识管理/时间管理/效率管理等等，例如 GTD，P.A.R.A，四象限，番茄工作法等等。</p><p>很有意思，因为一款产品让我学习了这么多额外的知识。</p><p>还因此养成了一些付费意愿，比如我就购买了 TODO 清单的永久会员，购买了 flomo，cubox 的年卡，包括刚刚提到的二一的 Notion 课程（挺棒的 Notion 课程）。</p><h2>解决方案</h2><p>说回到我是程序员这回事，我当时就想给 Notion 做一款插件，<strong>一款能实现移动端快速记录灵感想法，快速剪藏文章到 Notion 的一个工具。</strong></p><p>于是我便网上找了课程现学了小程序开发，还学了点 UI 设计规范，边学边搞，终于在去年 9 月份上线了。</p><p>到现在已经更新升级了有 7 个月之久，如果有咱们产品的用户刷到这里，请评论区让我看见你，哈哈！！！</p><p>我做的这款 Notion 插件叫 <strong>NotionMpClipper</strong>，命名参考 Notion Web Clipper，因为当时只考虑做微信公众号剪藏，所以将 Web 替换成 MP。</p><p>我当时就是基于对 Notion 的兴趣开发的，没觉得有多少人会用，所以奉行最小可行产品原则，正文都没实现剪藏的情况下就匆匆上线了，还好当时用户比较包容，还表示挺不错，这给了我极大的鼓舞。</p><p>这里再次感谢一下二一，因为我第一次推广是在二一的用户群里分享的，分享后第三天二一主动联系我表示感兴趣并愿意分享，还咨询了后续的开发和付费计划，我当时哪能想到还有后续啊，有用户愿意用已是对我的极大激励了，当即表示可以一年内免费无广使用，并持续维护升级产品。</p><h2>产品现状</h2><p>到目前为止，NotionMpClipper 支持提供了<strong>微信公众号</strong>、<strong>知乎问答</strong>、<strong>少数派</strong>、<strong>小红书</strong>、<strong>即刻</strong>、<strong>下厨房</strong>等平台深度适配的剪藏能力，另外还提供了企业微信助手和服务号的转发功能，<strong>通过企业微信助手和服务号，你可以实现像跟好友聊天一样完成文字图片和文章的收集剪藏。</strong></p><p>简单一点理解就是，这款插件可以实现像 flomo 一样快速记录灵感想法，同时像 cubox 一样丝滑的剪藏一些平台的文章（不是所有都支持，为了保证剪藏质量，是一个一个平台适配的）</p><p>甚至某些场景下，剪藏质量比 cubox 要好一些。当然，要论剪藏能力， cubox 和简悦始终是我学习的榜样。</p><p>为了避免我文字表达的不够明白，我放几张产品截图你可以看看：</p><figure class="ss-imgRows"><img alt="" src="https://cdn.sspai.com/2024/04/19/e4d324aed933785401add4e00adfbaf0.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /><img alt="" src="https://cdn.sspai.com/2024/04/19/c108218698e74651fa707d71fc233387.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><figure class="ss-imgRows"><img alt="" src="https://cdn.sspai.com/2024/04/19/018e67c63ceb1cc9689c98bfee63bf75.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /><img alt="" src="https://cdn.sspai.com/2024/04/19/5998dc9487c20794411b369b7619d1f6.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>因为文章剪藏结果页面截图太长，我直接分享一个页面出来，你可以点开看看效果。</p><span class="ss-linkCard">&nbsp;</span><p>&nbsp;</p><p>一两句话可能还无法完整的表达出这款产品的能力，但如果你有这个需求，建议你扫码亲自体验一下，如果有问题咨询，你也可以加群讨论。</p><figure class="ss-imgRows"><img alt="" src="https://cdn.sspai.com/2024/04/19/9fa7692c3b5005b7b4a155355a7f06bd.jpeg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /><img alt="" src="https://cdn.sspai.com/2024/04/19/603438a9d9837afe2c7697e7ca09945a.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>&nbsp;</p><h2>产品需要付费吗</h2><p>我本来是打算一年内免费提供持续升级服务的，坚持到今年 3 月份，用户越来越多，需求也越来越多，有用户就建议能不能放二维码出来，付费提需求，其实之前也有很多用户加我表示功能好用，可以搞付费了。</p><p>其实我从一开始就明白一件事，在国内做 Notion 的插件是不赚钱的，要说真正靠 notion 能赚钱的可能更多是教程类或者模板类的场景，可是我想总会有人去做这件事吧。</p><p>我的出发点是基于兴趣，对于我来说，有人愿意用就是成功，说明我把这件事做好了做成了。</p><p>但回归现实来说，真正的成功，是持续的维护，持续的更新，持续的存在着。</p><p>所以，我们需要付费用户。</p><ul><li>付费可以让产品可持续的发展</li><li>付费可以让我持续的得到激励</li></ul><p>最终我和一群早期种子用户一起定下了我们的付费方案</p><ul><li>限量的买断制方案：199元（限 100 位）</li><li>按年订阅制方案：36 元/年（控制在一杯咖啡的价格）</li><li>体验制方案：每月剪藏次数 30 次</li></ul><h2>用户评价</h2><p>①&nbsp;NotionMpClipper 是高效且好用的工具，极大扩展了 Notion 的应用场景，特别是在移动设备上的剪藏体验大为改善。<br />②&nbsp;迄今为止，最符合工作流的剪藏工具，干净简洁没广告（写于 24 年 4 月 13 日）<br />③&nbsp;能简化了将网页内容保存到 Notion 的步骤，提升了产品体验。高效整理信息，为用户节省时间，是在日常工作和学习中非常实用的小程序<br />④&nbsp;适配性真的很高，我在其它工具遇到的，微信剪藏格式报错，放在这个上都 OK 了<br />⑤&nbsp;notion 微信剪藏中，只有这个是最好的，问题解答也及时，功能做的也好，yyds<br />⑥&nbsp;类似的小程序用过几个，坚持稳定一直更新的只有这个。</p><p>&nbsp;</p><p>写文章对我来说真的很难，憋了一个月才出来这 2000 字。<br />但这件事还是要去做的，生了孩子就得好好养着。<br />要说起来，自从开始做这个小程序那时起，从一个想法到一个产品落地的过程中，我确实也突破了很多能力。</p><p>最后以最近看到的一句话结尾：<strong>悲观者正确，乐观者成功！</strong></p>
 ]]></content:encoded>
-<pubDate>Sun, 21 Apr 2024 22:44:11 GMT</pubDate>
 <pubDate>Sun, 21 Apr 2024 22:44:11 GMT</pubDate>
 </item>
 <item>
@@ -33,31 +172,30 @@
 <guid>https://sspai.com/post/88197</guid>
 <content:encoded><![CDATA[
 <div> 1. 发现 COCA60000 词频表，好奇心驱使搜索后得知其为高频词汇表。
-<br>
+<br />
 2. 在 GitHub 上发现有人整理了 COCA20000 的单词，并将其放到了一个仓库中。
-<br>
+<br />
 3. 使用 Logseq 背单词，它有闪念卡片（flashcard）功能，类似 Anki 记忆卡片。
-<br>
+<br />
 4. 之前零散地在工作中遇到生词时用 Logseq 记下来，但觉得不够系统。
-<br>
+<br />
 5. 发现有人整理完整的词汇表后，尝试导入 Logseq 中来记忆单词，并成功实践。
-<br>
+<br />
 6. 使用 Logseq 背单词的好处包括方便添加批注、自定义程度高、可以加深记忆等。
-<br>
+<br />
 7. 通过添加标签、隐藏部分内容、双向链接等方式可以增强记忆效果。
-<br>
+<br />
 8. 解决格式问题是实现目标的关键，需要将词汇表转换成 Logseq 可以识别的卡片形式。
-<br>
+<br />
 9. 使用 Python 处理统一格式的 Markdown 文件，通过 GPT 写出相应的 Python 脚本。
-<br>
+<br />
 10. 使用脚本成功处理了 Markdown 文件，符合要求后导入 Logseq 进行记忆测试。
-<br>
+<br />
 11. 导入成功，剩余卡片数量与导入测试的单词数相符，背单词愉快！
-<br>
+<br />
 12. 将格式修改完善的 Markdown 文件上传到了指定位置。 <div>
 <p style="margin-left: 0px;">刚刚在看<a href="https://sspai.com/post/66397">另一篇关于背单词的文章</a>的时候，无意在评论区发现COCA60000词频表</p><figure class="image ss-img-wrapper image_resized" style="width: 446px;"><img src="https://cdn.sspai.com/2024/04/19/23b22a468d4c82ef73bc8adceb090e7a.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p style="margin-left: 0px;">好奇心驱使我去搜了搜，原来这是高频词汇表，有人整理了COCA20000的单词，放到github上：<a href="https://github.com/llt22/coca-vocabulary-20000">coca-vocabulary-20000</a>。</p><p style="margin-left: 0px;">日常我使用Logseq作为笔记软件，Logseq有个功能是闪念卡片（flashcard），我感觉和anki的记忆卡片差不多。之前也时不时用它来背些单词，但都是自己在工作中碰到生词，就记下来，比较零散。正好看到有人整理完整的词汇表，就想着，能不能导入到Logseq中来记忆。经过我的实践，我得出的结论是可以。</p><h2 style="margin-left: 0px;">先看看实现后的效果吧</h2><p style="margin-left: 0px;">使用Logseq背单词的好处在于，可以很方便地添加批注，自定义程度很高。你可以把一个单词比较陌生的意思高亮，让自己下次注意。也可以在单词的后面自己造句，加深记忆。</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/19/14e9279bebb6181d957942a3b60e4b14.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p style="margin-left: 0px;">或者是添加一个图片，通过图片来联想。</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/19/d6c64cb3bd0cf9c6c45f1a48aea0b645.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p style="margin-left: 0px;">也可以双向链接这些单词，比如你发现，诶这个单词和我之前背过的一个单词很像，那你可以把近义单词的ref，加在下面，比如：</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/19/c49007568d7b8707280ba618010c7c24.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><h2 style="margin-left: 0px;">具体实现</h2><p style="margin-left: 0px;">要实现这个目的，最重要的是解决格式问题。</p><p style="margin-left: 0px;">最初将仓库作者整理的md文件导入Logseq，文件的呈现方式是：</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/19/5ecc48ec9a7c01903384972d4ba50fb8.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p style="margin-left: 0px;">需要调整格式，把每个单词都变成Logseq可以识别的卡片，具体来说，</p><ol><li>在单词后面添加标签 #card</li><li>把需要隐藏（记忆）的部分，缩进到单词的下一层级。</li></ol><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/19/0228a3ef3c566dad0cd515d87acaf562.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p style="margin-left: 0px;">然后就可以在Logseq的flashcards中记忆这个单词啦。一开始只显示单词，你可以回忆一下这个单词是什么意思。</p><figure class="image ss-img-wrapper image_resized" style="width: 573px;"><img src="https://cdn.sspai.com/2024/04/19/e86db760c3050f4e900358126dbf2b21.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>点击show answers之后，显示释义，可以选择对这个单词的掌握程度</p><ul><li>完全忘了</li><li>得想一会儿</li><li>记住了</li></ul><p>这决定了以后它出现的频率。</p><figure class="image ss-img-wrapper image_resized" style="width: 583px;"><img src="https://cdn.sspai.com/2024/04/19/701438272bf0e160958e33ee2b9c5533.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p style="margin-left: 0px;">那怎么批量修改所有的单词呢？这可是20000个。</p><p style="margin-left: 0px;">像这样格式统一的md文件用python来处理最好了，而GPT可以帮我写出这个python脚本。</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/19/bb66253961f968520f1d09359869a380.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /><figcaption>我的prompt</figcaption></figure><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/19/f9f7cf6a5fcd8b0cdc1d1690c1727efa.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /><figcaption>Claude给出的回答</figcaption></figure><p style="margin-left: 0px;">让我们用两个md文件试一试这个脚本，看起来处理之后很完美地符合了我们的要求</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/19/4acb54f24dc46ec124437cd571b0e321.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p style="margin-left: 0px;">导入logseq试试，可以看到右上角剩余卡片是402个，也就是我们导入测试的单词数，导入成功～</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/19/072721c11a0c2346d0193a94c472b675.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p style="margin-left: 0px;">&nbsp;</p><p style="margin-left: 0px;">祝大家背单词愉快～我把修改完格式的md文件，上传到<a href="https://github.com/dengxian-xreal/coca-vocabulary-20000">这个fork后的仓库</a>里了。<br />&nbsp;</p>
 ]]></content:encoded>
-<pubDate>Fri, 19 Apr 2024 08:29:30 GMT</pubDate>
 <pubDate>Fri, 19 Apr 2024 08:29:30 GMT</pubDate>
 </item>
 <item>
@@ -69,35 +207,34 @@
    - 白色礼盒版本具备磁吸功能，可搭配薄保护壳。
    - 白色外观不易沾染指纹，无玻璃盖板使显示效果更优。
    - 设计采用三面窄边框，握持舒适，人体工学。
-   - 边框控制良好，屏幕下有橡胶缓冲圈，提升耐摔性。<br>
+   - 边框控制良好，屏幕下有橡胶缓冲圈，提升耐摔性。<br />
 
 2. **按键及接口设计**：
    - 实体翻页按键置于握持一侧，按键软但舒适，支持重力感应。
    - 侧边设计有弧度，包含扬声器、麦克风、Type-C充电口和TF卡槽。
-   - TF卡槽最大支持512GB，解决存储问题，适合漫画爱好者。<br>
+   - TF卡槽最大支持512GB，解决存储问题，适合漫画爱好者。<br />
 
 3. **屏幕与显示效果**：
    - 采用7寸PPi300的Carta1200屏，显示效果优秀。
-   - 全局刷新功能可获得清晰图文显示，支持不同软件设置不同刷新方式。<br>
+   - 全局刷新功能可获得清晰图文显示，支持不同软件设置不同刷新方式。<br />
 
 4. **灯光及音质特性**：
    - 双色温灯光，适合暗光环境，但使用次数不多。
-   - 音质一般，扬声器在此类产品中用途有限。<br>
+   - 音质一般，扬声器在此类产品中用途有限。<br />
 
 5. **性能及续航**：
    - 未提供具体处理器型号，但日常阅读足够。
    - 2GB运存、64GB存储，常用阅读软件可流畅运行。
-   - 2000mAh电池，在无灯光和网络下可持续数天，开启会显著减少续航时间，相对Kindle有差距。<br>
+   - 2000mAh电池，在无灯光和网络下可持续数天，开启会显著减少续航时间，相对Kindle有差距。<br />
 
 6. **价格及长期考量**：
    - 价格为1699元，二手市场约900元。
    - 产品升级缓慢，但长期使用满足阅读需求。
-   - 对于彩色墨水屏的升级，需等待技术成熟。<br>
+   - 对于彩色墨水屏的升级，需等待技术成熟。<br />
 
 这些信息应该能帮助其他人更清楚地了解产品的特点和性能。 <div>
 <p>我买的是白色的礼盒版本，多了磁吸功能，能搭配一些更薄的保护壳，白色的颜色更不容易沾染指纹，并且少了一层玻璃盖板，使得显示效果跟优秀，底色会更显白，相对黑色的版本个人认为体验会更好一些。</p><p>文石leaf2采用的是三面窄边框，加宽握持部分的非对称式人体工学设计，窄的三个边框采用的是等边框的设计，并且边框控制还是不错的。屏幕盖板和中框之间有一层略高于屏幕的橡胶缓冲圈过度，可以最大限度的提升摔落情况下的碎屏风险，整体的耐用性会有所提升。</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/18/a779eba2b0393a74090d85a81d03dee5.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/18/cec4f84b5f52c50da316e6233c778489.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>实体翻页按键被击中在了握持的一侧，上下两枚按键是连载一起的，按键有点软，用了一年多目前能明显看到晃动，不过中段按下去的感觉还是很舒服的，看书的时候有个按键也比直接划动屏幕的感觉舒服很多，并且由于支持重力感应，所以可以根据握持方向按键位置自动调整。这个实体按键针对主流的墨水屏版阅读软件都有适配，非墨水屏的软件也有优化功能，但体验上不如定制版软件。</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/18/413e332523e30aed21bae95cea38857e.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>侧边机身有一定的弧度，握持这一侧的边框上有扬声器、麦克风、type-c充电接口以及一个tf卡槽。这个卡槽支持最高512g的tf卡槽拓展，可以说是漫画党的福音，基本能够摆脱存储焦虑。电源键放在了logo附近，电源键内有指示灯能够展示充电的状态。背面的话整体相对比较简洁，采用的是纯平+LOGO的设计。整体的质感和做工方面还是很扎实的。</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/18/f32ebd18a067dd0e62cec8f671f8afaf.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>虽然有着扬声器，但是电子书这类产品，能用到扬声器的场景感觉并不多，本身的音质也不算出色，对于有听书需求的人可能是一个优点。</p><p>&nbsp;</p><p>屏幕使用了7寸ppi300的Carta1200屏，相比其他老Carta1000屏的阅读器，屏幕显示效果更好，不过由于墨水屏屏幕常年挤牙膏的原因，这种更好的显示效果基本只有放在一起对比的时候才能看得出来。得益于文石leaf2支持全局刷新的功能，他能够获得非常干净的图文以及纯图片的显示效果，并且由于是开放式系统，他也支持不同的软件设置不同的刷新方式以得到更好的软件体验。</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/18/345c8cd8f1efd7f223af0cb1f6344ae4.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/18/e5bf277421ea187c795f1a29aef8bc11.jpg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>有双色温的灯光，不过我一般不在暗光环境下看书，所以使用的次数不多，亮度全开的情况下边缘的亮度会更高一些，非全开亮度的时候均匀性还是可以的，不过我的这款有阴阳屏的感觉，右边会有些偏黄。</p><figure class="image ss-img-wrapper"><img src="https://cdn.sspai.com/2024/04/18/b8b50323d978f52882754527bdb368e5.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>文石leaf2没有手写笔的功能，主打的还是小屏便携阅读，这个机身尺寸可以放进我大部分卫衣口袋，但是夏天的时候还是只能塞进包里带着，虽然不像一些手机尺寸的阅读器可以塞进口袋里那么便携，不过7寸的屏幕尺寸在看漫画上还是有很大的优势。</p><p>&nbsp;</p><p>性能上没有写具体的处理器型号，感觉可能不如上一代的骁龙636，不过日常看漫画和小说都够用，2g的运存和自带64g的存储空间，一些常用的阅读软件都能够下载使用，作为一个定位便携阅读器，纯阅读看书的情况下，这个运行速度其实足够了。</p><p>&nbsp;</p><p>2000mAh的电池容量，我重度阅读不开灯和网络的情况下看几天的书完全没问题，但是打开网络和背光的话续航时间会有明显下降，开放式系统的阅读器相对kindle这种封闭式系统的，在整体续航上确实还是有所差距。</p><p>&nbsp;</p><p>我买的时候是1699的价格，现在咸鱼二手应该在九百左右，不过像是电纸书这样升级缓慢的产品，过个五六年再进行升级也完全没问题，即使是八年前的初代kindle oasis到现在纯看书也足够满足我的大部分需求了，而文石最新的leaf3相比leaf2也就只有少许的升级，而彩色墨水屏目前的技术又没有那么先进，可能真的要等到彩色墨水屏的显示效果接近目前屏幕的时候我才会考虑再换个电纸书了。</p>
 ]]></content:encoded>
-<pubDate>Fri, 19 Apr 2024 06:50:38 GMT</pubDate>
 <pubDate>Fri, 19 Apr 2024 06:50:38 GMT</pubDate>
 </item>
 <item>
@@ -105,23 +242,21 @@
 <link>https://sspai.com/post/88072</link>
 <guid>https://sspai.com/post/88072</guid>
 <content:encoded><![CDATA[
-<div> 1️⃣ 我信奉「少即是多」，但在笔记工具的选择上却多变。曾使用过多种工具，包括印象笔记、石墨文档、Notion 等。<br>
-2️⃣ 4 年的尝试让我意识到，好的工具只能发挥有限作用，90%的创作源自个人思考，而非工具。<br>
-3️⃣ 笔记工具应是思考和写作的辅助，而非主导因素。<br>
-4️⃣ 选择笔记工具时，不仅要考虑功能和理念，还需关注体验和服务。<br>
-5️⃣ 好的体验包括流畅的书写、即时的同步速度和良好的用户反馈。<br>
-6️⃣ 笔记工具应提供详细的使用指南和良好的沟通服务，以建立用户信任。<br>
-7️⃣ 在相同功能下，更贴近用户的工具更值得选择，且具有更广的竞争优势。<br>
-8️⃣ 笔记工具的小巧设计也能吸引用户，如 Craft 的「Markdown 格式文本」复制功能。<br>
-9️⃣ 记录和思考是笔记工具的核心，依赖于用户的持续记录和思考，而非工具本身。<br>
-🔟 笔记工具应被视为个人数据库，随时准备迁移至更好的工具。<br>
-🔠 持续的记录和思考也是对大脑的磨练，有助于更好地利用工具。<br> <div>
+<div> 1️⃣ 我信奉「少即是多」，但在笔记工具的选择上却多变。曾使用过多种工具，包括印象笔记、石墨文档、Notion 等。<br />
+2️⃣ 4 年的尝试让我意识到，好的工具只能发挥有限作用，90%的创作源自个人思考，而非工具。<br />
+3️⃣ 笔记工具应是思考和写作的辅助，而非主导因素。<br />
+4️⃣ 选择笔记工具时，不仅要考虑功能和理念，还需关注体验和服务。<br />
+5️⃣ 好的体验包括流畅的书写、即时的同步速度和良好的用户反馈。<br />
+6️⃣ 笔记工具应提供详细的使用指南和良好的沟通服务，以建立用户信任。<br />
+7️⃣ 在相同功能下，更贴近用户的工具更值得选择，且具有更广的竞争优势。<br />
+8️⃣ 笔记工具的小巧设计也能吸引用户，如 Craft 的「Markdown 格式文本」复制功能。<br />
+9️⃣ 记录和思考是笔记工具的核心，依赖于用户的持续记录和思考，而非工具本身。<br />
+🔟 笔记工具应被视为个人数据库，随时准备迁移至更好的工具。<br />
+🔠 持续的记录和思考也是对大脑的磨练，有助于更好地利用工具。<br /> <div>
 <p>我总是信奉和践行「少即是多」，崇尚用最少的物品换取持久专注的体验，但在笔记工具的使用上，却是繁杂多样的。</p><p>我用过印象笔记，用过石墨文档，用过墨记，用过语雀、飞书，用过 Bear、Agenda，用过 Notion、Wolai、Flowus，用过 Obsidian、Metion、Logseq、Lattics，用过 iA Writer、Typora，现在在用 flomo 和 Craft。</p><p>我对笔记工具的使用，是多变的，是浅尝辄止的。表层原因是兴趣使然，喜欢尝试和体验被大众热议的工具；根本原因是<strong>陷入工具使用的认知陷进，指望一款笔记工具，激发我的创作欲，让我写出满意的文章，搭建完善的知识库。</strong></p><p>只是，经过 4 年的折腾，我终于意识到且接受了<strong>在写作这件事上，再好的工具，也只能发挥 10% 的作用，剩余的 90% 全由我们自己的思考来创作。</strong>而思考则由我们的阅读、实践和感悟得来<strong>。</strong></p><p><strong>我们写不出东西，不是工具不够好，也不要指望由工具来完成，而是要追溯到信息的来源和吸收消化的问题。</strong></p><h3>笔记工具，是辅助写作和思考的脚手架</h3><p>我们在各种笔记工具里，用最新学到的笔记组织方法，如 PARA、INKP，新建诸多文件夹、文件和标签，再冠之以「数字花园」、「思考集」等时髦的名字，把自己想象成一个播种知识的农夫，等待这些种满知识的笔记生长发芽，为未来的自己提供帮助。</p><p>愿望是美好的，但是没有阅读和思考，何来知识笔记的种子；即便有了知识的种子，没有耐心的加工浇灌，又何来花园。</p><p><strong>笔记工具，只是辅助我们写作和思考的脚手架。</strong>卡片写作笔记法奏效的最大原因，不是卡片这个工具，而是背后的流程理念，即把写作这件事分摊在生活的方方面面，随时记录，及时串联，待到案台前，已经有了较为完整的写作思路，只管把卡片上的素材和脑子里的想法，汇集成篇即可。</p><p>既然笔记工具，对写作思考只能发挥 10% 的作用，那是否已经没有必要在精心挑选和调用了？是，也不是。</p><p>一方面，这张广为流传笔记工具图，是我们不必挑选笔记应用的例证。数不清的各行各业的高手，用最简单的 Apple Notes、Mirosoft Word 就能完成知识的记录、整理和创作的所有过程，在真实的世界里，取得不错的成绩。</p><figure class="image ss-img-wrapper"><img alt="笔记工具嘲笑图.png" src="https://cdn.sspai.com/2024/04/16/article/a3af5c13540b66fe31d59f64561838e0.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>另一方面，市面上诸多笔记工具的存在，又例证了笔记工具的市场需求，以及它值得被精心挑选。麦克卢汉曾说，我们塑造了工具，此后工具又塑造了我们。既然我们会被工具所塑造，那自然希望被塑造地更好一些，这是挑选工具的意义。</p><h3>选择笔记工具，等于选择理念和功能</h3><p>我们的笔记工具，从纸笔，到 Notes、Pages，到印象笔记、石墨云文档，再到 Roam Research、Notion、Obsidian、Craft、Heptabase 等等，经历四次更迭。</p><p>处在第四次笔记工具的创造浪潮之中，我们比以往任何时候用的工具都要丰富，其丰富归根到底是基于「Tools For Thought」之上的理念多元。</p><p>选择笔记工具，就是在选择笔记工具背后的理念和功能，<strong>理念决定功能，功能反映理念。</strong></p><p>理念是观点，没有好坏对错，只有鲜明与否，在竞争激烈的笔记工具市场，依靠鲜明的理念，更有机会被看见。一如：</p><ul><li>Notion 以块状编辑为基础，让我们像叠积木一样去自定义一个集笔记、任务、数据库、协作为一体的个人空间；</li><li>Obsidian 则强调本地存储，通过丰富的插件和双链笔记，构建一个互相连接的知识库；</li><li>Heptabase 试图用可视化的白板、思维导图，让我们更容易理解和构建庞大的知识网络；</li></ul><p>……</p><p>但许多自身没有独特理念，只做个理念跟班的工具，在当下也同样有市场，比如国内版的 Notion-like 凭借汉化的优势和多种功能的拼合，也有许多用户。</p><p>究其原因是，<strong>我们普通用户鲜少去理解笔记工具的理念主张，更在意的是承载理念的功能是否满足自身的需求，是否足够好用。</strong></p><p>所以，<strong>当我们在选择笔记工具时，大多数情况下就是在做功能合集的选择</strong>，比如我们希望我们的笔记工具：</p><ol><li>支持 Markdown</li><li>支持暗黑模式</li><li>支持块状编辑</li><li>支持全平台同步</li></ol><p>只要能够满足这 4 条要求的笔记工具，就可以为我们所用， Notion、Obsidian、Craft、语雀、飞书文档等等都能做到，可选的空间很丰富。</p><p>但是我们真正能长期使用笔记工具的却只有一两个，因为在理念和功能之外，体验和服务也会是我们选择笔记工具的重要参考维度。</p><h3>选择笔记工具，等于选择体验和服务</h3><p>体验和服务，是笔记工具团队基本功和态度的显现，也是我们是否愿意把个人数据托付给一个工具团队的考量依据。</p><p>对体验和服务的需求，正如功能一样，因人而异，我只先谈谈我所理解的好体验和好服务，我希望它们在满足我所需功能之后，还能够拥有：</p><ol><li>流畅的书写体验</li><li>即时的同步速度</li><li>畅通的用户反馈渠道，且愿意及时回复用户的反馈</li></ol><p>前 2 点体验，是对笔记工具能力的考量，反映当前工具的基本功是否扎实；第 3 点，则是对笔记工具的态度的考量，是否愿意和用户沟通，为用户提供良好的服务，这一点至关重要。</p><p>因为笔记工具，本质上依然是在为用户提供一种服务，一种让用户记录、整理和创作的服务。如果能够为用户提供详细的使用指南、实时更新最新的产品日志、和用户直接沟通解决问题，则更容易让我们用户去相信，去使用。</p><p><strong>在具备相同功能的情况下，和用户的距离更近的笔记工具，一定是更值得被选择的工具，它也将拥有更宽的护城河。</strong></p><p>除此之外，笔记工具如若还有一些小巧思，如同电影彩蛋一样，也会是吸引用户的关键体验，尤其是一些可以嵌入工作流里的独一无二的设计。</p><p>比如我在 Craft 上体验到的「Markdown 格式文本」复制，可以让我在 Quail 发布 Newsletter 时直接复制，不必再调整格式，很方便。这个设计，我在其他笔记工具上还没有见到过，这就是我现在继续用 Craft 的一个小原因。</p><p>我相信其他笔记工具的忠实用户，之所以能够持续使用一个笔记工具，也会有许多类似的原因。</p><h3>工具之外，更关注记录和思考</h3><p>说到底，<strong>笔记工具，是知识的存放地，也是知识的再生地。知识的存放和再生，靠的是我们在笔记工具中的持续记录和思考。</strong></p><p>即便越来越多的笔记工具，开始嵌入 AI 功能，让 AI 帮助我们更快找到我们要找的信息、帮助我们总结分析我们记录的信息、基于我们记录的信息生成新的内容，但这一切的前提，依然是我们持续的记录和思考，为 AI 提供足够多的信息。</p><p>在工具之外，我们更应关注如何持续的记录和思考，我们理应把笔记工具当成自己的私人数据库，当未来有更好的工具选择出现时，就打包这份私人数据库，直接迁移就好。</p><p>如果没有这份私人数据库，再好的 AI 工具也难为无米之炊。且，<strong>记录和思考，也在不断磨练我们自己的大脑，从而更好地驾驭工具。</strong></p>
 ]]></content:encoded>
 <pubDate>Fri, 19 Apr 2024 04:12:17 GMT</pubDate>
-<pubDate>Fri, 19 Apr 2024 04:12:17 GMT</pubDate>
 </item>
-
 <item>
 <title>十日内观禅修体验</title>
 <link>https://sspai.com/post/88165</link>

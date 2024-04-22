@@ -2310,3 +2310,39 @@ Summarized using GPT-3.5-turbo
 Append: [马斯克裁一万来人，闹得跟特斯拉要破产了似的](https://www.huxiu.com/article/2936497.html)
 append_entries: 8
 Finish: 2024-04-22 02:24:01.572737
+------------------------------------------------------
+Started: 2024-04-22 04:09:00.498408
+Existing_entries: 629
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 103
+Summarized using GPT-3.5-turbo
+Append: [扭转战局的“五兵之雄”，中国戟为何被人遗忘？](https://www.huxiu.com/article/2937302.html)
+Token length: 3564
+Summarized using GPT-3.5-turbo
+Append: [东南亚跨境电商市场，有哪些掘金机会？](https://www.huxiu.com/article/2937309.html)
+Token length: 175
+Summarized using GPT-3.5-turbo
+Append: [城市沉降，地面坍塌，我们还安全吗？](https://www.huxiu.com/article/2934697.html)
+Token length: 116
+Summarized using GPT-3.5-turbo
+Append: [金价狂飙，为什么金店还在倒闭？](https://www.huxiu.com/article/2937313.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [“不婚不恋”的年轻人，捧红相亲分析师](https://www.huxiu.com/article/2935866.html)
+Token length: 99
+Summarized using GPT-3.5-turbo
+Append: [美股和亚太股市暴跌，黄金暴涨，掀起金融风暴的蝴蝶？](https://www.huxiu.com/article/2930414.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [公募基金终于降佣了，券商研究所成了时代的眼泪？](https://www.huxiu.com/article/2936812.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [当中老年博主面对“重开”恶评](https://www.huxiu.com/article/2936499.html)
+Token length: 120
+Summarized using GPT-3.5-turbo
+Append: [进门先交260元，违反常理的山姆，为什么在中国越来越火？](https://www.huxiu.com/article/2935020.html)
+Token length: 129
+Summarized using GPT-3.5-turbo
+Append: [救市2.0：“以旧换新”，正在席卷楼市](https://www.huxiu.com/article/2928674.html)
+append_entries: 10
+Finish: 2024-04-22 04:10:57.354947

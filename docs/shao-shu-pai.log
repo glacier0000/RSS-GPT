@@ -816,3 +816,12 @@ Summarized using GPT-3.5-turbo
 Append: [跳出笔记工具的使用陷阱，基于 4 个维度重新选择](https://sspai.com/post/88072)
 append_entries: 4
 Finish: 2024-04-22 02:21:32.524332
+------------------------------------------------------
+Started: 2024-04-22 04:08:48.239726
+Existing_entries: 39
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [手机号绑定了哪些服务？试试借助短信进行排查](https://sspai.com/post/88076)
+append_entries: 1
+Finish: 2024-04-22 04:08:58.269077
