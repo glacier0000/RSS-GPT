@@ -2387,3 +2387,33 @@ Append: [为什么海外大厂都在押注手游？](https://www.huxiu.com/artic
 Append: [世界上最小的​AI可穿戴设备，到底是不是又一个Ai Pin？](https://www.huxiu.com/article/2937297.html)
 append_entries: 15
 Finish: 2024-04-22 06:10:40.790698
+------------------------------------------------------
+Started: 2024-04-22 08:10:03.832979
+Existing_entries: 654
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [我在美国“乡下”找到了不卷的工作](https://www.huxiu.com/article/2938010.html)
+Token length: 133
+Summarized using GPT-3.5-turbo
+Append: [太平天国严格的男女隔离制度下，普通人怎样生活？](https://www.huxiu.com/article/2932440.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [防止近地小行星撞击地球，中国是怎么做的？](https://www.huxiu.com/article/2937620.html)
+Token length: 2458
+Summarized using GPT-3.5-turbo
+Append: [AI融入便利店：没有店员，不用扫码付钱](https://www.huxiu.com/article/2918738.html)
+Token length: 67
+Summarized using GPT-3.5-turbo
+Append: [全美最大体育用品店，凭什么赢过同行、笑到最后？](https://www.huxiu.com/article/2930388.html)
+Token length: 136
+Summarized using GPT-3.5-turbo
+Append: [夏日防晒真相：500块防晒衣，效果赶不上50块黑衬衫？](https://www.huxiu.com/article/2937376.html)
+Token length: 295
+Summarized using GPT-3.5-turbo
+Append: [小米汽车：北京经开区的美丽传说](https://www.huxiu.com/article/2937347.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [为给国资股东交代，创始人把美元投资人“踢”出局了](https://www.huxiu.com/article/2937709.html)
+append_entries: 8
+Finish: 2024-04-22 08:10:43.087823
