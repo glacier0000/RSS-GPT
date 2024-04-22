@@ -2472,3 +2472,27 @@ Append: [微软秒删的开源大模型，性能如何？](https://www.huxiu.com
 Append: [扶梯靠右站，成了被嫌弃的“社畜文明”](https://www.huxiu.com/article/2938059.html)
 append_entries: 22
 Finish: 2024-04-22 12:13:52.417117
+------------------------------------------------------
+Started: 2024-04-22 14:07:34.996987
+Existing_entries: 684
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [打工人的顶配人设：盗人](https://www.huxiu.com/article/2938954.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [苹果听劝了？备受吐槽的配件被曝停产](https://www.huxiu.com/article/2939371.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [大模型没过“试用期”](https://www.huxiu.com/article/2939004.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [把人工智能当成合作伙伴，而不是竞争对手](https://www.huxiu.com/article/2934134.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [江浙沪独生女的另一面：“家里有钱，但不属于我”](https://www.huxiu.com/article/2938587.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.top 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [大模型新测试基准发布，最强开源Llama 3尴尬了](https://www.huxiu.com/article/2939008.html)
+append_entries: 6
+Finish: 2024-04-22 14:08:48.006011
