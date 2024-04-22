@@ -2346,3 +2346,44 @@ Summarized using GPT-3.5-turbo
 Append: [救市2.0：“以旧换新”，正在席卷楼市](https://www.huxiu.com/article/2928674.html)
 append_entries: 10
 Finish: 2024-04-22 04:10:57.354947
+------------------------------------------------------
+Started: 2024-04-22 06:09:50.094517
+Existing_entries: 639
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 121
+Summarized using GPT-3.5-turbo
+Append: [日本央行加息，意味着什么? 为什么大家抢着做空它？](https://www.huxiu.com/article/2937322.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [“大学贫困市”，开始绝地反弹](https://www.huxiu.com/article/2937367.html)
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [没有人逃得出小米之家](https://www.huxiu.com/article/2934708.html)
+Token length: 2387
+Summarized using GPT-3.5-turbo
+Append: [生物类似药，距离集采有多远？](https://www.huxiu.com/article/2937338.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [福田孝行杀人案：“未成年人”犯罪被判死刑，至今未执行](https://www.huxiu.com/article/2936853.html)
+Token length: 186
+Summarized using GPT-3.5-turbo
+Append: [老乡鸡不卖给老乡，卖给高级白领？](https://www.huxiu.com/article/2930870.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [因3亿欠款，海航被起诉](https://www.huxiu.com/article/2937363.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [港漂高材生，扎堆卖保险](https://www.huxiu.com/article/2926406.html)
+Token length: 3149
+Summarized using GPT-3.5-turbo
+Append: [德国生活点滴：歧视比你想象的要复杂](https://www.huxiu.com/article/2936507.html)
+Token length: 159
+Summarized using GPT-3.5-turbo
+Append: [《数码宝贝02》排雷：立意能封神，但实锤“情怀诈骗”](https://www.huxiu.com/article/2935523.html)
+Append: [火神居住的这座火山，会吐超音速的“烟圈”](https://www.huxiu.com/article/2935460.html)
+Append: [AI创业公司，怎么都干起了咨询公司的活？](https://www.huxiu.com/article/2937326.html)
+Append: [外贸“新江湖”：大单化整为零，“花2小时掰扯3分钱”](https://www.huxiu.com/article/2937304.html)
+Append: [为什么海外大厂都在押注手游？](https://www.huxiu.com/article/2930402.html)
+Append: [世界上最小的​AI可穿戴设备，到底是不是又一个Ai Pin？](https://www.huxiu.com/article/2937297.html)
+append_entries: 15
+Finish: 2024-04-22 06:10:40.790698

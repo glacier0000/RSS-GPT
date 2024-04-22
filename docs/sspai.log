@@ -20670,3 +20670,9 @@ error: Error code: 403 - {'error': {'message': '免费API限制模型输入token
 Append: [派早报：特斯拉因踏板缺陷召回全部 Cybertruck](https://sspai.com/post/88234)
 append_entries: 1
 Finish: 2024-04-22 04:08:48.066954
+------------------------------------------------------
+Started: 2024-04-22 06:09:40.454654
+Existing_entries: 749
+Fetching from https://rsshub.app/sspai/index
+append_entries: 0
+Finish: 2024-04-22 06:09:40.665489
