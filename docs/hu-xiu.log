@@ -2792,3 +2792,15 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-04-23 20:07:24.087435
+Existing_entries: 767
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 2777
+Summarized using GPT-3.5-turbo
+Append: [张颖为什么不同意朱啸虎的观点](https://www.huxiu.com/article/2941738.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [中国的人均GDP只有美国的六分之一，实际差距真的这么大吗？](https://www.huxiu.com/article/2943220.html)
+append_entries: 2
+Finish: 2024-04-23 20:08:06.161918
