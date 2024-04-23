@@ -2678,3 +2678,40 @@ Append: [对地产周期的一些看法](https://www.huxiu.com/article/2938018.h
 Append: [肥肥虾庄：一天卖出26吨龙虾，背后有怎样的创业故事？](https://www.huxiu.com/article/2938985.html)
 append_entries: 12
 Finish: 2024-04-23 08:10:34.468973
+------------------------------------------------------
+Started: 2024-04-23 10:07:36.178472
+Existing_entries: 739
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [阿凡达、仙剑缘起、昆特牌等手游，是怎么在拿版号的路上死掉的](https://www.huxiu.com/article/2941797.html)
+Token length: 98
+Summarized using GPT-3.5-turbo
+Append: [全球最畅销的书是哪本？幕后的大佬竟然是它？](https://www.huxiu.com/article/2942365.html)
+Token length: 124
+Summarized using GPT-3.5-turbo
+Append: [取代香港，酷爱鞭刑的新加坡为啥成了富豪优选？](https://www.huxiu.com/article/2941022.html)
+Token length: 86
+Summarized using GPT-3.5-turbo
+Append: [中国人都买什么车，哪个省豪车率最高？](https://www.huxiu.com/article/2939044.html)
+Token length: 2877
+Summarized using GPT-3.5-turbo
+Append: [从茶百道大幅破发，看港股市场的现状](https://www.huxiu.com/article/2941756.html)
+Token length: 550
+Summarized using GPT-3.5-turbo
+Append: [月之暗面回应杨植麟套现数千万美元：消息不实](https://www.huxiu.com/article/2942323.html)
+Token length: 114
+Summarized using GPT-3.5-turbo
+Append: [心灵感应：这是玄学话题还是科学案例？](https://www.huxiu.com/article/2940643.html)
+Token length: 100
+Summarized using GPT-3.5-turbo
+Append: [不推荐书单，让我们一本一本讲清楚](https://www.huxiu.com/article/2941752.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [寒冬下的游戏人：昨天还在工作，今天岗位没了](https://www.huxiu.com/article/2927912.html)
+Token length: 93
+Summarized using GPT-3.5-turbo
+Append: [从鱼贩到身价百亿，一元店鼻祖的传奇人生](https://www.huxiu.com/article/2930177.html)
+Append: [紫金陈：用产品经理的思维去写小说](https://www.huxiu.com/article/2940601.html)
+append_entries: 11
+Finish: 2024-04-23 10:08:37.130782
