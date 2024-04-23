@@ -2553,3 +2553,40 @@ Summarized using GPT-3.5-turbo
 Append: [周期之王，闷声发大财](https://www.huxiu.com/article/2930185.html)
 append_entries: 9
 Finish: 2024-04-23 00:32:12.500666
+------------------------------------------------------
+Started: 2024-04-23 02:19:51.308827
+Existing_entries: 699
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 113
+Summarized using GPT-3.5-turbo
+Append: [被中国人“买”成日本首富，优衣库凭什么爆火？](https://www.huxiu.com/article/2930192.html)
+Token length: 2123
+Summarized using GPT-3.5-turbo
+Append: [取消刷脸入住，酒店人更愁了？](https://www.huxiu.com/article/2940613.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [石油巨头们，为“汽油时代”落幕做准备](https://www.huxiu.com/article/2928273.html)
+Token length: 111
+Summarized using GPT-3.5-turbo
+Append: [特斯拉车型大降价，反映出怎样的经济问题？](https://www.huxiu.com/article/2936826.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [为一切定价，将日常生活资本化](https://www.huxiu.com/article/2939633.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [我对当下房地产市场的7个新观察](https://www.huxiu.com/article/2939850.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [正在路上的GPT-6，可能强在哪儿？](https://www.huxiu.com/article/2940589.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [AI时代：PC巨头们的未来战争](https://www.huxiu.com/article/2939631.html)
+Token length: 122
+Summarized using GPT-3.5-turbo
+Append: [债务人快要当老赖了，钱还能要回来吗？](https://www.huxiu.com/article/2938983.html)
+Token length: 2661
+Summarized using GPT-3.5-turbo
+Append: [火箭是怎么飞到目的地的：算法描述](https://www.huxiu.com/article/2940099.html)
+Append: [那个“划伤”自己的孩子，在表达这3种渴望](https://www.huxiu.com/article/2939575.html)
+append_entries: 11
+Finish: 2024-04-23 02:20:36.898389
