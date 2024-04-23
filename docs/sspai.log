@@ -20781,3 +20781,12 @@ Summarized using GPT-3.5-turbo
 Append: [App+1｜看过太多意外，我们做了个 App 来记录「身体信号」：BodyKnows](https://sspai.com/post/88207)
 append_entries: 1
 Finish: 2024-04-23 10:07:26.547388
+------------------------------------------------------
+Started: 2024-04-23 12:13:07.418830
+Existing_entries: 756
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [社区速递 041 | 派友速食大曝光、老乡鸡以及作者的新玩意](https://sspai.com/post/88290)
+append_entries: 1
+Finish: 2024-04-23 12:13:11.485847

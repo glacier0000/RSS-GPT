@@ -2715,3 +2715,33 @@ Append: [从鱼贩到身价百亿，一元店鼻祖的传奇人生](https://www.
 Append: [紫金陈：用产品经理的思维去写小说](https://www.huxiu.com/article/2940601.html)
 append_entries: 11
 Finish: 2024-04-23 10:08:37.130782
+------------------------------------------------------
+Started: 2024-04-23 12:13:21.094294
+Existing_entries: 750
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 1243
+Summarized using GPT-3.5-turbo
+Append: [微软推出iPhone能跑的ChatGPT级模型，性能超Llama-3](https://www.huxiu.com/article/2941261.html)
+Token length: 117
+Summarized using GPT-3.5-turbo
+Append: [狂赚11亿，BOSS直聘凭什么？](https://www.huxiu.com/article/2940973.html)
+Token length: 2016
+Summarized using GPT-3.5-turbo
+Append: [特斯拉罕见“七连跌”，明天凌晨马斯克能“力挽狂澜”吗？](https://www.huxiu.com/article/2942945.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [华南暴雨倾盆，极端天气为何频现？](https://www.huxiu.com/article/2942304.html)
+Token length: 131
+Summarized using GPT-3.5-turbo
+Append: [从一天就能倒手几千万的期货大佬，到种柚子树的人](https://www.huxiu.com/article/2941786.html)
+Token length: 110
+Summarized using GPT-3.5-turbo
+Append: [消失的大学宿舍：研究生入学无宿舍可住？](https://www.huxiu.com/article/2941796.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [茶百道成新茶饮第二股，上市一小时跌没40亿](https://www.huxiu.com/article/2941774.html)
+Token length: 2743
+Summarized using GPT-3.5-turbo
+Append: [手机放胸口2分钟就能发现致命心脏病？准确率89%](https://www.huxiu.com/article/2942297.html)
+append_entries: 8
+Finish: 2024-04-23 12:14:06.976644
