@@ -2590,3 +2590,10 @@ Append: [火箭是怎么飞到目的地的：算法描述](https://www.huxiu.com
 Append: [那个“划伤”自己的孩子，在表达这3种渴望](https://www.huxiu.com/article/2939575.html)
 append_entries: 11
 Finish: 2024-04-23 02:20:36.898389
+------------------------------------------------------
+Started: 2024-04-23 04:08:39.938326
+Existing_entries: 710
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
