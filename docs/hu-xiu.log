@@ -2597,3 +2597,46 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-04-23 06:09:43.639192
+Existing_entries: 710
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [苹果Vision Pro戴了40个小时，这是我的感想](https://www.huxiu.com/article/2934142.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [吴敬琏：中国未来经济改革，“需要对基本问题研究得清晰透彻”](https://www.huxiu.com/article/2940990.html)
+Token length: 3522
+Summarized using GPT-3.5-turbo
+Append: [AI“分裂”好莱坞](https://www.huxiu.com/article/2941006.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [阅读不能让你成功，它只能救你自己](https://www.huxiu.com/article/2940638.html)
+Token length: 3166
+Summarized using GPT-3.5-turbo
+Append: [特价团购下的餐饮业：商家和顾客相爱相杀](https://www.huxiu.com/article/2940975.html)
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [偷卖种子是对境外“提供情报”？为什么这事影响这么大？](https://www.huxiu.com/article/2940962.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [2024，“不出海，就出局”？](https://www.huxiu.com/article/2941012.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [我在霸总短剧演“恶婆婆”，只为圆年轻时的演员梦](https://www.huxiu.com/article/2940947.html)
+Token length: 103
+Summarized using GPT-3.5-turbo
+Append: [氢能源车是下一个时代风口，还是点歪的科技树？](https://www.huxiu.com/article/2941001.html)
+Token length: 90
+Summarized using GPT-3.5-turbo
+Append: [孟子究竟牛在哪儿？](https://www.huxiu.com/article/2938508.html)
+Append: [AI大模型，如何打破“内存墙”？](https://www.huxiu.com/article/2940651.html)
+Append: [爆肝半个月，我用AI制作了真人电影版《海贼王》预告片](https://www.huxiu.com/article/2938984.html)
+Append: [门店关闭、供应链转移，国内外资都想跑路了？](https://www.huxiu.com/article/2939042.html)
+Append: [餐饮业正刮起一股“现炒风”](https://www.huxiu.com/article/2940964.html)
+Append: [15-20万高性价比汽车推荐，怎样把钱花在刀刃上？](https://www.huxiu.com/article/2938506.html)
+Append: [韩国偶像流水线，也开始“粗制滥造”了？](https://www.huxiu.com/article/2939858.html)
+Append: [豆瓣8.6，它究竟是最佳？还只是捧杀？](https://www.huxiu.com/article/2931189.html)
+append_entries: 17
+Finish: 2024-04-23 06:10:44.598846
