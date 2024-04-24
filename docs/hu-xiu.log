@@ -2852,3 +2852,51 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-04-24 12:14:58.969656
+Existing_entries: 769
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [左川爱：明绿色的弃儿](https://www.huxiu.com/article/2946332.html)
+Token length: 2264
+Summarized using GPT-3.5-turbo
+Append: [马斯克一句话，拯救特斯拉股价](https://www.huxiu.com/article/2946267.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [我朋友李志飞的公司上市了，创业者千万别学他](https://www.huxiu.com/article/2945776.html)
+Token length: 3285
+Summarized using GPT-3.5-turbo
+Append: [茶百道破发，新茶饮还旺得起来吗？](https://www.huxiu.com/article/2947061.html)
+Token length: 3186
+Summarized using GPT-3.5-turbo
+Append: [去国外旅行，怎么比国内游还便宜了？](https://www.huxiu.com/article/2938965.html)
+Token length: 112
+Summarized using GPT-3.5-turbo
+Append: [当机器人有“意识”，你会害怕吗？](https://www.huxiu.com/article/2947072.html)
+Token length: 127
+Summarized using GPT-3.5-turbo
+Append: [新茶饮第二股，茶百道在港交所敲钟上市](https://www.huxiu.com/article/2945564.html)
+Token length: 2457
+Summarized using GPT-3.5-turbo
+Append: [“人到中年沉迷医美，我和老婆差点离婚”](https://www.huxiu.com/article/2947058.html)
+Token length: 3552
+Summarized using GPT-3.5-turbo
+Append: [新能源投资有多火？融资额10年间上涨100倍](https://www.huxiu.com/article/2947050.html)
+Token length: 132
+Summarized using GPT-3.5-turbo
+Append: [中国行政区划最“乱“的省级行政区](https://www.huxiu.com/article/2947030.html)
+Append: [生成式AI：三块短板、两道难题、一个悖论](https://www.huxiu.com/article/2947052.html)
+Append: [“纯血鸿蒙”上线，小米们高端白冲了？](https://www.huxiu.com/article/2927536.html)
+Append: [10元一瓶，国产汽水八大王为何越卖越贵？](https://www.huxiu.com/article/2946361.html)
+Append: [你缺的不是书单，而是读书的方法](https://www.huxiu.com/article/2946638.html)
+Append: [半导体出海的思考（下）](https://www.huxiu.com/article/2945562.html)
+Append: [日元、亚洲货币崩盘，谁在煎熬，谁在获利？](https://www.huxiu.com/article/2946344.html)
+Append: [如果你是这样的人，你只能用iPhone](https://www.huxiu.com/article/2939017.html)
+Append: [中国人命丧尼泊尔：登山探险还是保命要紧](https://www.huxiu.com/article/2943237.html)
+Append: [ChatGPT一天“吃”50万度电，美国上演电力“抢夺战”](https://www.huxiu.com/article/2946310.html)
+Append: [苹果AI，遥遥落后？](https://www.huxiu.com/article/2946646.html)
+Append: [一个小县城，10个IPO，养活整个娱乐圈](https://www.huxiu.com/article/2946594.html)
+Append: [半导体出海的思考（上）](https://www.huxiu.com/article/2945561.html)
+append_entries: 22
+Finish: 2024-04-24 12:17:10.930605
