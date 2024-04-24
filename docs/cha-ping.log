@@ -1184,3 +1184,41 @@ Existing_entries: 120
 Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
 append_entries: 0
 Finish: 2024-04-24 16:08:46.476310
+------------------------------------------------------
+Started: 2024-04-24 18:09:20.097831
+Existing_entries: 120
+Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
+Token length: 3216
+Summarized using GPT-3.5-turbo
+Append: [周鸿祎终于如愿以偿，成了一名网红。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654496554&idx=1&sn=266a0d3cd6550c51a2e7bfe6402aab96&chksm=8b85702dbcf2f93baa6858974e5185f70aff059d18a82bca57d8b0b23b46deca8cf0958cc339&scene=58&subscene=0)
+Token length: 2724
+Summarized using GPT-3.5-turbo
+Append: [最近这批中端机，为什么我一台都不推荐你买？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654496554&idx=2&sn=177410d14ed0553cef1baab55dee9764&chksm=8b85702dbcf2f93b2c67a96141224222474371ba48b06e41dff8a3025bf4d3b4821e4525324e&scene=58&subscene=0)
+Token length: 2419
+Summarized using GPT-3.5-turbo
+Append: [《剑与远征》的“续作”来了，它的变化确实是有点大。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654496554&idx=3&sn=7c9467ff29855aac698004b81978ad3f&chksm=8b85702dbcf2f93b88ce79d60b4081d936ab2c826925332b8baf8a7cdc14cf197de51bd0dae6&scene=58&subscene=0)
+Token length: 58
+Summarized using GPT-3.5-turbo
+Append: [今日最佳：十块钱拿下左右护法。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654496554&idx=4&sn=db47fe0a329c6ad7b435e1f684a615da&chksm=8b85702dbcf2f93bace4dbd3a950dabf3e4af148ed6c19e00b20069c765d441d6cb205b99a7b&scene=58&subscene=0)
+Token length: 33
+Summarized using GPT-3.5-turbo
+Append: [聊一聊：你今年在哪个APP上花的钱最多？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654496554&idx=5&sn=85683953902aae545efed35b2045770d&chksm=8b85702dbcf2f93bcc4f9a7c23f629ae08d6075d517e862d44aa05f9b0d063327cbc912ace84&scene=58&subscene=0)
+Token length: 1280
+Summarized using GPT-3.5-turbo
+Append: [特斯拉毁约应届生，苹果或推出iPad原生计算器，Steam更新退款政策，剥离TikTok新法案通过，这就是今天的其他大新闻！](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654496554&idx=6&sn=336a77b57413b99cb04833dbbdbab1a1&chksm=8b85702dbcf2f93bb400259c8542316601403338315f0e70e4f128f23c1c4ff9e5839e0c6232&scene=58&subscene=0)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [在抖音上有多少倒霉蛋，为了钓鱼甩飞了手机？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654496166&idx=1&sn=4e7d01a028ddcd61494fa762583ea31d&chksm=8b8572a1bcf2fbb7291226c9c50c5b234fc3552bf9c3041dc24b647b601094dbc1932d120c8e&scene=58&subscene=0)
+Token length: 2745
+Summarized using GPT-3.5-turbo
+Append: [加量降价，其实不是新款问界M5的重点。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654496166&idx=2&sn=d763513e0e75b653c6d50fe5fbddaed0&chksm=8b8572a1bcf2fbb73239bbf9304ea32eafd91a5ca218ee2628078289d3b3701c9af88ee75fe8&scene=58&subscene=0)
+Token length: 2415
+Summarized using GPT-3.5-turbo
+Append: [想要像周冠宇一样开上F1，究竟有多难？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654496166&idx=3&sn=53fa4c44036fd0dc6f57393225c6bdac&chksm=8b8572a1bcf2fbb70d7e7166014d5be52acc723481315e978b8f31027447ba112b0d5a18ddd1&scene=58&subscene=0)
+Token length: 64
+Summarized using GPT-3.5-turbo
+Append: [今日最佳：人类进化的结果。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654496166&idx=4&sn=38c87f7148811f32b9e300b7c1fdfd52&chksm=8b8572a1bcf2fbb7695eed6ad96f2286909e463f24c1251ec32e9059263ad5fbd4d167ae8372&scene=58&subscene=0)
+Append: [聊一聊：你每个月在洗车上面会花多少钱？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654496166&idx=5&sn=e0bff276e5fac4ccd4c5da52d800b0d0&chksm=8b8572a1bcf2fbb73d69a197cb6e09db2c4f260f949d459975c038935e159234f7a0f525f50d&scene=58&subscene=0)
+Append: [一条小团团被捕，小鹏回应因MEGA风波配合调查，百度百科App关闭服务，欧盟调查TikTok Lite，这就是今天的其他大新闻！](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654496166&idx=6&sn=3bf6322f12132484ec34f72e708cad66&chksm=8b8572a1bcf2fbb770dbe06571587f88a7a2ccbdbc457ca7ed91e3aebf5163f6fd46bf542998&scene=58&subscene=0)
+append_entries: 12
+Finish: 2024-04-24 18:10:33.769992
