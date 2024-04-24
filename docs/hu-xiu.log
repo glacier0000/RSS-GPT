@@ -2900,3 +2900,41 @@ Append: [一个小县城，10个IPO，养活整个娱乐圈](https://www.huxiu.c
 Append: [半导体出海的思考（上）](https://www.huxiu.com/article/2945561.html)
 append_entries: 22
 Finish: 2024-04-24 12:17:10.930605
+------------------------------------------------------
+Started: 2024-04-24 14:07:21.908158
+Existing_entries: 791
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 1415
+Summarized using GPT-3.5-turbo
+Append: [“古希腊的神”挤满中国，我的“流行词恐惧症”又犯了](https://www.huxiu.com/article/2943732.html)
+Token length: 2703
+Summarized using GPT-3.5-turbo
+Append: [性能媲美GPT-3.5，AI大模型能塞进手机了？](https://www.huxiu.com/article/2948139.html)
+Token length: 3347
+Summarized using GPT-3.5-turbo
+Append: [第一批AI大模型独角兽，创始人已经开始套现了？](https://www.huxiu.com/article/2948037.html)
+Token length: 2275
+Summarized using GPT-3.5-turbo
+Append: [站上悬崖边：美国国会通过TikTok“不卖就禁”法案](https://www.huxiu.com/article/2948076.html)
+Token length: 2956
+Summarized using GPT-3.5-turbo
+Append: [被“流放”的留学生，吃饭主打一个“活着”](https://www.huxiu.com/article/2946263.html)
+Token length: 1728
+Summarized using GPT-3.5-turbo
+Append: [传音控股年度现金分红超48亿，占归母净利润87%](https://www.huxiu.com/article/2948046.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [十年观察笔记：我们对中国农民的误解太深了](https://www.huxiu.com/article/2948043.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [火箭发动机为什么长这样？](https://www.huxiu.com/article/2948024.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [人均20元的骗局，盯上写论文的大学生](https://www.huxiu.com/article/2947531.html)
+Token length: 1685
+Summarized using GPT-3.5-turbo
+Append: [哪家航空公司需要“避雷”？](https://www.huxiu.com/article/2948032.html)
+Append: [中国互联网的三十岁，给我们留下了什么？](https://www.huxiu.com/article/2947517.html)
+Append: [侯毅，生不逢时](https://www.huxiu.com/article/2946280.html)
+append_entries: 12
+Finish: 2024-04-24 14:11:20.976829
