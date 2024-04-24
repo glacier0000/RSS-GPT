@@ -2938,3 +2938,10 @@ Append: [中国互联网的三十岁，给我们留下了什么？](https://www.
 Append: [侯毅，生不逢时](https://www.huxiu.com/article/2946280.html)
 append_entries: 12
 Finish: 2024-04-24 14:11:20.976829
+------------------------------------------------------
+Started: 2024-04-24 16:08:18.580676
+Existing_entries: 803
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
