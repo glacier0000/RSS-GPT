@@ -23058,3 +23058,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-04-24 08:10:11.433020
+------------------------------------------------------
+Started: 2024-04-24 10:08:25.536485
+Existing_entries: 365
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Token length: 654
+Summarized using GPT-3.5-turbo
+Append: [【自荐】QuickRecorder: 开源免费的轻量化多功能 macOS 录屏工具](https://meta.appinn.net/t/topic/55611)
+append_entries: 1
+Finish: 2024-04-24 10:08:52.908178
