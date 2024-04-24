@@ -20847,3 +20847,12 @@ Existing_entries: 758
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-24 06:10:44.129725
+------------------------------------------------------
+Started: 2024-04-24 08:10:15.889818
+Existing_entries: 758
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [放轻松，这就是大人的玩具：大疆 Avata 2 第一视角无人机](https://sspai.com/post/88270)
+append_entries: 1
+Finish: 2024-04-24 08:10:19.817583
