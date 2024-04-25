@@ -3038,3 +3038,36 @@ error: Error code: 403 - {'error': {'message': '免费API限制模型输入token
 Append: [高校禁止挂床帘：把大学变高中，只会适得其反](https://www.huxiu.com/article/2948437.html)
 append_entries: 4
 Finish: 2024-04-25 04:09:37.109969
+------------------------------------------------------
+Started: 2024-04-25 06:09:39.216225
+Existing_entries: 822
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 2989
+Summarized using GPT-3.5-turbo
+Append: [邯郸事件：未成年人犯罪报道如何更“精准”？](https://www.huxiu.com/article/2946614.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [寒潮下的县城幼儿园，学前教育者该如何破局？](https://www.huxiu.com/article/2949879.html)
+Token length: 2761
+Summarized using GPT-3.5-turbo
+Append: [五一假期酒店预订热，但价格不再疯涨](https://www.huxiu.com/article/2949929.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [商业世界变幻莫测，所谓“战略”还有什么用？](https://www.huxiu.com/article/2949885.html)
+Token length: 1576
+Summarized using GPT-3.5-turbo
+Append: [科学家首次证明，没有基因突变也会发生癌症](https://www.huxiu.com/article/2949389.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [碳化硅很火，但不挣钱？](https://www.huxiu.com/article/2949445.html)
+Token length: 68
+Summarized using GPT-3.5-turbo
+Append: [车圈大佬争相直播，但“雷式营销”真的不好学](https://www.huxiu.com/article/2946309.html)
+Token length: 3104
+Summarized using GPT-3.5-turbo
+Append: [TikTok“禁令”新进展：拜登已签字，特朗普在“跳反”](https://www.huxiu.com/article/2949854.html)
+Token length: 2198
+Summarized using GPT-3.5-turbo
+Append: [两天跌了80亿，茶百道吓到了谁？](https://www.huxiu.com/article/2949920.html)
+append_entries: 9
+Finish: 2024-04-25 06:10:45.582774
