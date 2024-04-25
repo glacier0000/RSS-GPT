@@ -3020,3 +3020,21 @@ Summarized using GPT-3.5-turbo
 Append: [周大福、周生生、周大生，为什么全中国卖黄金的都姓“周”？](https://www.huxiu.com/article/2940611.html)
 append_entries: 10
 Finish: 2024-04-25 02:20:35.527080
+------------------------------------------------------
+Started: 2024-04-25 04:09:15.098337
+Existing_entries: 818
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [Meta：暴跌梦魇又来？惊吓大于惊悚](https://www.huxiu.com/article/2949493.html)
+Token length: 3165
+Summarized using GPT-3.5-turbo
+Append: [2023年，新能源行业新晋独角兽有哪些？](https://www.huxiu.com/article/2949489.html)
+Token length: 121
+Summarized using GPT-3.5-turbo
+Append: [加盟商撑起的奶茶，到底能不能上市？](https://www.huxiu.com/article/2947136.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [高校禁止挂床帘：把大学变高中，只会适得其反](https://www.huxiu.com/article/2948437.html)
+append_entries: 4
+Finish: 2024-04-25 04:09:37.109969
