@@ -3126,3 +3126,41 @@ Append: [央行下场买国债？对市场有何影响？](https://www.huxiu.com
 Append: [剥离法案生效在即，TikTok将如何反击？](https://www.huxiu.com/article/2948413.html)
 append_entries: 22
 Finish: 2024-04-25 10:08:31.048077
+------------------------------------------------------
+Started: 2024-04-25 12:10:54.869841
+Existing_entries: 853
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 4012
+Summarized using GPT-3.5-turbo
+Append: [AI iPhone怎么做？苹果给出了一些答案](https://www.huxiu.com/article/2951483.html)
+Token length: 1991
+Summarized using GPT-3.5-turbo
+Append: [五月天演唱会来了，“假唱”调查有结果吗？](https://www.huxiu.com/article/2951165.html)
+Token length: 3613
+Summarized using GPT-3.5-turbo
+Append: [2024年，出海吗？](https://www.huxiu.com/article/2951199.html)
+Token length: 3304
+Summarized using GPT-3.5-turbo
+Append: [苹果一次性开源8个大模型，为WWDC做准备？](https://www.huxiu.com/article/2950935.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [卫哲：赚钱模式，彻底变了](https://www.huxiu.com/article/2947059.html)
+Token length: 2142
+Summarized using GPT-3.5-turbo
+Append: [某区域快消经销商“爆仓”，原因何在？](https://www.huxiu.com/article/2951185.html)
+Token length: 3213
+Summarized using GPT-3.5-turbo
+Append: [雷军：SU7上市后每天都战战兢兢](https://www.huxiu.com/article/2951441.html)
+Token length: 112
+Summarized using GPT-3.5-turbo
+Append: [不爱说话的人其实不内向？解读不爱说话的心理机制](https://www.huxiu.com/article/2940631.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [《大宋病人》：一种“实验历史写作”的可能性](https://www.huxiu.com/article/2951198.html)
+Token length: 3830
+Summarized using GPT-3.5-turbo
+Append: [拜登签了，TikTok的诉讼空间有多大？](https://www.huxiu.com/article/2951459.html)
+Append: [入侵200名孩子的手机后，美国研究发现了一个心碎的共性](https://www.huxiu.com/article/2951136.html)
+Append: [下一代宽带上网技术，难在哪里？](https://www.huxiu.com/article/2951167.html)
+append_entries: 12
+Finish: 2024-04-25 12:12:23.453553
