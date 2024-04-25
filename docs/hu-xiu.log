@@ -2984,3 +2984,39 @@ Summarized using GPT-3.5-turbo
 Append: [允许年轻人挂床帘，是社会进步的体现](https://www.huxiu.com/article/2945751.html)
 append_entries: 4
 Finish: 2024-04-25 00:33:26.623507
+------------------------------------------------------
+Started: 2024-04-25 02:19:40.848821
+Existing_entries: 808
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 1798
+Summarized using GPT-3.5-turbo
+Append: [AI能不能解决消费企业的效益大难题？](https://www.huxiu.com/article/2947142.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [AIGC工具实操：如何在工作生活中解决实际问题？](https://www.huxiu.com/article/2949437.html)
+Token length: 57
+Summarized using GPT-3.5-turbo
+Append: [强尼银手对话小丑，Sora生成的视频能模拟真实世界吗？](https://www.huxiu.com/article/2949496.html)
+Token length: 3190
+Summarized using GPT-3.5-turbo
+Append: [未婚未育的90后，开始抢着当月嫂](https://www.huxiu.com/article/2949388.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [管理者“甩锅”给员工，有哪些消极影响？](https://www.huxiu.com/article/2949456.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [类《完蛋》游戏制作人：我们要让全亚洲宅男都上车](https://www.huxiu.com/article/2948116.html)
+Token length: 2676
+Summarized using GPT-3.5-turbo
+Append: [央行如何影响十年国债利率？](https://www.huxiu.com/article/2945570.html)
+Token length: 2784
+Summarized using GPT-3.5-turbo
+Append: [在电影院生气的人，不止我一个](https://www.huxiu.com/article/2948058.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [被中产抛弃，宜家急了](https://www.huxiu.com/article/2938978.html)
+Token length: 76
+Summarized using GPT-3.5-turbo
+Append: [周大福、周生生、周大生，为什么全中国卖黄金的都姓“周”？](https://www.huxiu.com/article/2940611.html)
+append_entries: 10
+Finish: 2024-04-25 02:20:35.527080
