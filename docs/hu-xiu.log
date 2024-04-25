@@ -3212,3 +3212,10 @@ error: Error code: 403 - {'error': {'message': '免费API限制模型输入token
 Append: [什么样的中产，会送孩子上“幼儿技校”？](https://www.huxiu.com/article/2951452.html)
 append_entries: 2
 Finish: 2024-04-25 16:09:21.739186
+------------------------------------------------------
+Started: 2024-04-25 18:08:49.869628
+Existing_entries: 877
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
