@@ -1294,3 +1294,27 @@ Existing_entries: 132
 Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
 append_entries: 0
 Finish: 2024-04-25 18:09:26.866464
+------------------------------------------------------
+Started: 2024-04-25 20:07:48.631274
+Existing_entries: 132
+Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
+Token length: 3122
+Summarized using GPT-3.5-turbo
+Append: [为了抢夺《咸鱼之王》们，字节腾讯又打起来了。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654496755&idx=1&sn=01c8086dc5664a22db0b0076cbd39bc6&chksm=8b8570f4bcf2f9e2bf8802874aabc938d2828c56dffef3fa7e3909a97d22e01d68cb67154964&scene=58&subscene=0)
+Token length: 53
+Summarized using GPT-3.5-turbo
+Append: [北京车展来了！一张图看遍所有热门新车。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654496755&idx=2&sn=82d8a0a7edb1c8f88488587ad8096eb9&chksm=8b8570f4bcf2f9e21955455f42b4b32acd81929100e3890eceb7a38dba37c05e7a2e140db7a5&scene=58&subscene=0)
+Token length: 2920
+Summarized using GPT-3.5-turbo
+Append: [1999元配超大电池，这台手机治好了我的续航焦虑。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654496755&idx=3&sn=fc955180eb5af6c3e4fb83e37fc7cc60&chksm=8b8570f4bcf2f9e268fd5748654204f3098b261c7cf6d7588f88f003da57132447a53141ee6f&scene=58&subscene=0)
+Token length: 60
+Summarized using GPT-3.5-turbo
+Append: [今日最佳：笑得很贱。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654496755&idx=4&sn=ba57c85418759e04c96539c0fc85d7ae&chksm=8b8570f4bcf2f9e226bf9b71de024e852f41774d31c45775d3507ba8dcc5b01eaf2242b84ac4&scene=58&subscene=0)
+Token length: 33
+Summarized using GPT-3.5-turbo
+Append: [聊一聊：你有每期都会追的博主吗？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654496755&idx=5&sn=d85ba8175e0c49cb83cf4ecc16831854&chksm=8b8570f4bcf2f9e25b2644c0ff3855f2faa2365523ce954ec3eb1add0233b7c8b1067a8df4d3&scene=58&subscene=0)
+Token length: 959
+Summarized using GPT-3.5-turbo
+Append: [iPhone销量下降或因用户不愿升级，小鹏公布新品牌MONA，丰田与腾讯合作，字节辟谣出售Tiktok，这就是今天的其他大新闻！](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654496755&idx=6&sn=4a640bd0df70290283e5873aeba26a2b&chksm=8b8570f4bcf2f9e2f4b4b507dfa9f7b81e1a6b700fce7529de507302e69eed34beae1b96748a&scene=58&subscene=0)
+append_entries: 6
+Finish: 2024-04-25 20:08:31.421612
