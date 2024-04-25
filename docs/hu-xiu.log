@@ -2966,3 +2966,21 @@ Existing_entries: 804
 Fetching from https://glacier0000.vercel.app/huxiu/article
 append_entries: 0
 Finish: 2024-04-24 22:05:42.389687
+------------------------------------------------------
+Started: 2024-04-25 00:32:58.206123
+Existing_entries: 804
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 2699
+Summarized using GPT-3.5-turbo
+Append: [不婚主义者如何过好这一生？](https://www.huxiu.com/article/2949249.html)
+Token length: 3184
+Summarized using GPT-3.5-turbo
+Append: [“与其说是消费降级，不如说是智商升级”](https://www.huxiu.com/article/2949372.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [山东，为什么没有诞生中国前十大城市？](https://www.huxiu.com/article/2948836.html)
+Token length: 2177
+Summarized using GPT-3.5-turbo
+Append: [允许年轻人挂床帘，是社会进步的体现](https://www.huxiu.com/article/2945751.html)
+append_entries: 4
+Finish: 2024-04-25 00:33:26.623507
