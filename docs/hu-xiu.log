@@ -3078,3 +3078,51 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-04-25 10:07:29.390640
+Existing_entries: 831
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 95
+Summarized using GPT-3.5-turbo
+Append: [美国对华为下手狠辣，为何对TikTok犹豫不决？](https://www.huxiu.com/article/2951142.html)
+Token length: 3416
+Summarized using GPT-3.5-turbo
+Append: [29省份一季度成绩单公布：谁在增速领跑？](https://www.huxiu.com/article/2951151.html)
+Token length: 1807
+Summarized using GPT-3.5-turbo
+Append: [五一旅游业，将迎小高峰](https://www.huxiu.com/article/2951150.html)
+Token length: 2855
+Summarized using GPT-3.5-turbo
+Append: [LP也开始“出海了”](https://www.huxiu.com/article/2951173.html)
+Token length: 117
+Summarized using GPT-3.5-turbo
+Append: [亚马逊AI的饭碗，是印度人给的？](https://www.huxiu.com/article/2951149.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [TikTok困境，是中国企业国际化最后一层窗户纸](https://www.huxiu.com/article/2950938.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [净利润下滑64%、股价大跌50%，完美世界的战略失灵了？](https://www.huxiu.com/article/2950912.html)
+Token length: 127
+Summarized using GPT-3.5-turbo
+Append: [电车需不需要手机支架，看看威马车主就知道了](https://www.huxiu.com/article/2941301.html)
+Token length: 110
+Summarized using GPT-3.5-turbo
+Append: [雷军免费为友商打广告？这波在大气层](https://www.huxiu.com/article/2942328.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [年轻人在义乌，批发“暴富神话”](https://www.huxiu.com/article/2950913.html)
+Append: [为什么周日晚上总是睡不着？](https://www.huxiu.com/article/2950906.html)
+Append: [TikTok，背水一跳](https://www.huxiu.com/article/2949910.html)
+Append: [扎克伯格，决定掀桌子了](https://www.huxiu.com/article/2949924.html)
+Append: [日本央行的下一步是什么？](https://www.huxiu.com/article/2950916.html)
+Append: [空虚无聊没意思？因为你的存在“感”太弱了](https://www.huxiu.com/article/2946318.html)
+Append: [津巴布韦股市崩了，真不是货币的锅](https://www.huxiu.com/article/2950874.html)
+Append: [从人夫感到“媳妇哥”，谁在塑造互联网上的“理想男人”？](https://www.huxiu.com/article/2950878.html)
+Append: [靠刷好评挣300万？揭秘网络水军的“科技和狠活”](https://www.huxiu.com/article/2943780.html)
+Append: [一文说透：火箭到底是怎样回收的？](https://www.huxiu.com/article/2950356.html)
+Append: [ASML一个时代结束，新CEO正式上任](https://www.huxiu.com/article/2949467.html)
+Append: [央行下场买国债？对市场有何影响？](https://www.huxiu.com/article/2945526.html)
+Append: [剥离法案生效在即，TikTok将如何反击？](https://www.huxiu.com/article/2948413.html)
+append_entries: 22
+Finish: 2024-04-25 10:08:31.048077
