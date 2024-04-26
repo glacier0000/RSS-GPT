@@ -3285,3 +3285,40 @@ Append: [开罗印象](https://www.huxiu.com/article/2953111.html)
 Append: [沪上阿姨，“流血”也要上市](https://www.huxiu.com/article/2951432.html)
 append_entries: 20
 Finish: 2024-04-26 02:19:11.801557
+------------------------------------------------------
+Started: 2024-04-26 04:08:38.964691
+Existing_entries: 897
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 119
+Summarized using GPT-3.5-turbo
+Append: [实测：上千块的徒步鞋竟然没有洞洞鞋防滑？](https://www.huxiu.com/article/2954407.html)
+Token length: 88
+Summarized using GPT-3.5-turbo
+Append: [状况百出，法国奥运会能否如期举行？](https://www.huxiu.com/article/2951456.html)
+Token length: 2331
+Summarized using GPT-3.5-turbo
+Append: [东北三省，有的先支棱起来了](https://www.huxiu.com/article/2954358.html)
+Token length: 114
+Summarized using GPT-3.5-turbo
+Append: [从蔡崇信的阿里反思聊开去（下）](https://www.huxiu.com/article/2951174.html)
+Token length: 2285
+Summarized using GPT-3.5-turbo
+Append: [美国滞胀？这是美联储最大的噩梦](https://www.huxiu.com/article/2954366.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [如何像高手一样汇报工作？](https://www.huxiu.com/article/2954003.html)
+Token length: 3076
+Summarized using GPT-3.5-turbo
+Append: [中国快递业不需要“小院高墙”](https://www.huxiu.com/article/2953956.html)
+Token length: 3168
+Summarized using GPT-3.5-turbo
+Append: [一文看懂：神舟十八号载人飞船任务亮点](https://www.huxiu.com/article/2954346.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [头部主播“收徒”，肥了谁的钱包？](https://www.huxiu.com/article/2953932.html)
+Token length: 103
+Summarized using GPT-3.5-turbo
+Append: [求职必看：让你的简历100%通过AI筛选](https://www.huxiu.com/article/2954357.html)
+Append: [我卖乳胶漆，从年卖200万到负债60万，就因为踩了这些坑](https://www.huxiu.com/article/2951171.html)
+append_entries: 11
+Finish: 2024-04-26 04:09:59.446626
