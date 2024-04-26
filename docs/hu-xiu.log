@@ -3359,3 +3359,46 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-04-26 10:07:44.342797
+Existing_entries: 916
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 105
+Summarized using GPT-3.5-turbo
+Append: [坚持活下去就是一切的答案](https://www.huxiu.com/article/2955168.html)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [爆肝500小时，带你看懂尿酸和嘌呤之间深层次的关系](https://www.huxiu.com/article/2954626.html)
+Token length: 118
+Summarized using GPT-3.5-turbo
+Append: [从披萨、特斯拉到币圈大佬，比特币的六个起伏时刻](https://www.huxiu.com/article/2954656.html)
+Token length: 2926
+Summarized using GPT-3.5-turbo
+Append: [一家D轮医疗公司，倒了](https://www.huxiu.com/article/2954965.html)
+Token length: 2433
+Summarized using GPT-3.5-turbo
+Append: [全球首例，54岁女病人同时移植人工心脏和猪肾](https://www.huxiu.com/article/2954598.html)
+Token length: 113
+Summarized using GPT-3.5-turbo
+Append: [一到晚上就觉得无力？你只是无法感受到“我累了”](https://www.huxiu.com/article/2949492.html)
+Token length: 84
+Summarized using GPT-3.5-turbo
+Append: [从《繁花》看当代幸福观，欲望是一条没有尽头的路](https://www.huxiu.com/article/2955174.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [我在越南城乡结合部，开了一家蜜雪冰城](https://www.huxiu.com/article/2954919.html)
+Token length: 2657
+Summarized using GPT-3.5-turbo
+Append: [威尼斯处处是外人：幽灵们](https://www.huxiu.com/article/2954914.html)
+Token length: 2762
+Summarized using GPT-3.5-turbo
+Append: [威尼斯处处是外人：三出戏](https://www.huxiu.com/article/2954912.html)
+Append: [困在车企的打工人](https://www.huxiu.com/article/2954410.html)
+Append: [揭露地沟油背后的绿色财富密码](https://www.huxiu.com/article/2942349.html)
+Append: [新品牌如何引爆市场？](https://www.huxiu.com/article/2954576.html)
+Append: [欠薪上亿元，估值500亿的柔宇科技还有救吗？](https://www.huxiu.com/article/2951212.html)
+Append: [“AI枪手”横行中小学生作业本，妈妈更担心我的学习了](https://www.huxiu.com/article/2954637.html)
+Append: [荷兰政府成功挽留阿斯麦，但功臣不是它](https://www.huxiu.com/article/2954643.html)
+Append: [北京车展最值得看的10辆国产车](https://www.huxiu.com/article/2954396.html)
+append_entries: 17
+Finish: 2024-04-26 10:08:47.380556
