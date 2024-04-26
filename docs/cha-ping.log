@@ -1390,3 +1390,27 @@ Existing_entries: 138
 Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
 append_entries: 0
 Finish: 2024-04-26 20:08:44.690987
+------------------------------------------------------
+Started: 2024-04-26 22:07:30.390185
+Existing_entries: 138
+Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
+Token length: 2914
+Summarized using GPT-3.5-turbo
+Append: [我去了趟北京车展，结果大家都在看雷军。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654497095&idx=1&sn=5cad84de674c5d6a3b21718790ddd925&chksm=8b857e40bcf2f756cfdc036cf0736f63da13b35c07021495f06af7274fd4ad9d66fea6c6d541&scene=58&subscene=0)
+Token length: 2403
+Summarized using GPT-3.5-turbo
+Append: [“中国近一半大城市在下沉”，这事儿到底有多严重？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654497095&idx=2&sn=0aabf392b8d2d6f2c84cf6d62957266b&chksm=8b857e40bcf2f7565173c302a78ef3695d2dfaccf4ebb2ce9208ad8d519ee95ccf0389420bbd&scene=58&subscene=0)
+Token length: 2636
+Summarized using GPT-3.5-turbo
+Append: [最友好的魂系游戏，打不过就一枪打爆敌人的头！](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654497095&idx=3&sn=5a7ca2cd2ecdf520446a7b0dac3d0050&chksm=8b857e40bcf2f756f24dc571061e84d3c489fc87d99b4c637d57bf8ae52bed05ec9806c0a4c5&scene=58&subscene=0)
+Token length: 62
+Summarized using GPT-3.5-turbo
+Append: [今日最佳：用行动来说话。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654497095&idx=4&sn=360fb6c27855bc0748262415a983f603&chksm=8b857e40bcf2f756bbd2aeeefa8376144a5991edb1785fbd328ea7df213d2b43e74aadd1eff9&scene=58&subscene=0)
+Token length: 30
+Summarized using GPT-3.5-turbo
+Append: [聊一聊：单休的周末你打算咋过？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654497095&idx=5&sn=7368d063d3037410fb87466f3c572899&chksm=8b857e40bcf2f7569505050a3657330af776979ccefd4dcf2f8d5d435be9b5b13bb4767de36b&scene=58&subscene=0)
+Token length: 1176
+Summarized using GPT-3.5-turbo
+Append: [618取消预售机制，贾跃亭想争取早日回国，神舟十八号航天员进驻中国空间站，汽车以旧换新补贴实施细则印发，这就是今天的其他大新闻！](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654497095&idx=6&sn=2e68b554dec40f593541ee234ffacbc9&chksm=8b857e40bcf2f756fc09a4d10740e3435302726b9ee0aaff664b6adb21bf9d1e38cf80822176&scene=58&subscene=0)
+append_entries: 6
+Finish: 2024-04-26 22:09:23.061254
