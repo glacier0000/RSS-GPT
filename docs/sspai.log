@@ -21036,3 +21036,12 @@ Summarized using GPT-3.5-turbo
 Append: [一日一技 | Windows 11 满地广告：教你如何关闭它](https://sspai.com/post/88373)
 append_entries: 1
 Finish: 2024-04-26 10:07:33.696525
+------------------------------------------------------
+Started: 2024-04-26 12:12:13.887422
+Existing_entries: 769
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [本周看什么 | 最近值得一看的 12 部作品](https://sspai.com/post/88382)
+append_entries: 1
+Finish: 2024-04-26 12:12:17.662730

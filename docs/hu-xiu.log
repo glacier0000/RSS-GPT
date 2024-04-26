@@ -3402,3 +3402,30 @@ Append: [荷兰政府成功挽留阿斯麦，但功臣不是它](https://www.hux
 Append: [北京车展最值得看的10辆国产车](https://www.huxiu.com/article/2954396.html)
 append_entries: 17
 Finish: 2024-04-26 10:08:47.380556
+------------------------------------------------------
+Started: 2024-04-26 12:12:27.763423
+Existing_entries: 933
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [“东方枢纽”规划亮相：上海，将再造一个世界级门户？](https://www.huxiu.com/article/2954925.html)
+Token length: 2663
+Summarized using GPT-3.5-turbo
+Append: [韩国企业的寒风，吹向“35+”员工](https://www.huxiu.com/article/2955256.html)
+Token length: 176
+Summarized using GPT-3.5-turbo
+Append: [7年磨一剑，日本帮印度修的高铁咋样了？](https://www.huxiu.com/article/2955162.html)
+Token length: 3637
+Summarized using GPT-3.5-turbo
+Append: [谷歌微软起飞了](https://www.huxiu.com/article/2955182.html)
+Token length: 3835
+Summarized using GPT-3.5-turbo
+Append: [ChatGPT觉醒了，就没乙游什么事儿了](https://www.huxiu.com/article/2955166.html)
+Token length: 124
+Summarized using GPT-3.5-turbo
+Append: [十年后，最有名的中药公司，来自日本？](https://www.huxiu.com/article/2954937.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [74岁铁娘子卸任，港交所迎来年薪400万新主席](https://www.huxiu.com/article/2955195.html)
+append_entries: 7
+Finish: 2024-04-26 12:13:12.491745

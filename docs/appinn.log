@@ -23273,3 +23273,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-04-26 10:07:19.083460
+------------------------------------------------------
+Started: 2024-04-26 12:11:59.019460
+Existing_entries: 370
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Token length: 175
+Summarized using GPT-3.5-turbo
+Append: [发现了DwarFS的一个彩蛋功能](https://meta.appinn.net/t/topic/55703)
+append_entries: 1
+Finish: 2024-04-26 12:12:09.297599

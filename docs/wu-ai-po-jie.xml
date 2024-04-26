@@ -4,17 +4,18 @@
 <title>吾爱破解论坛</title>
 <link>https://wechat2rss.xlab.app/feed/90c827b8290310a96ef80a13df9dbcc06ab69892.xml</link>
 
+
 <item>
 <title>ebpf在Android安全上的应用：结合binder完成一个行为检测沙箱(下篇)</title>
 <link>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140600&amp;idx=1&amp;sn=f0161296c1a102ae251fb3346709d387&amp;chksm=bd50a1ac8a2728ba58d95b4478fd1080a2e50a89ae57517592b5e82db5270120af11a5dc38b5&amp;scene=58&amp;subscene=0</link>
 <guid>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140600&amp;idx=1&amp;sn=f0161296c1a102ae251fb3346709d387&amp;chksm=bd50a1ac8a2728ba58d95b4478fd1080a2e50a89ae57517592b5e82db5270120af11a5dc38b5&amp;scene=58&amp;subscene=0</guid>
 <content:encoded><![CDATA[
-<div> IPC是Android中的进程间通信技术，用于实现不同进程之间的数据交换。Android在请求系统服务时会需要跨进程通信。<br>
-Binder是Android中实现IPC的一种方式，ServiceManager是管理系统服务的重要组件。ServiceManager负责注册、查找服务、进程间通信等功能。<br>
-客户端在调用系统服务时，会首先通过Java层的代码发起调用，然后通过BinderProxy进行跨进程通信到Native层。<br>
-在Native层，跨进程通信会通过Binder驱动进行处理，最终发起到内核层的通信。<br>
-在内核层，使用binder_ioctl处理跨进程通信的数据包，最终交互到目标进程。<br>
-实现的效果可以用于捕捉系统服务的调用和返回数据，甚至修改返回数据，用于风控对抗或逆向工作。<br> <div>
+<div> IPC是Android中的进程间通信技术，用于实现不同进程之间的数据交换。Android在请求系统服务时会需要跨进程通信。<br />
+Binder是Android中实现IPC的一种方式，ServiceManager是管理系统服务的重要组件。ServiceManager负责注册、查找服务、进程间通信等功能。<br />
+客户端在调用系统服务时，会首先通过Java层的代码发起调用，然后通过BinderProxy进行跨进程通信到Native层。<br />
+在Native层，跨进程通信会通过Binder驱动进行处理，最终发起到内核层的通信。<br />
+在内核层，使用binder_ioctl处理跨进程通信的数据包，最终交互到目标进程。<br />
+实现的效果可以用于捕捉系统服务的调用和返回数据，甚至修改返回数据，用于风控对抗或逆向工作。<br /> <div>
 <p>
 原创 <span>吾爱pojie</span> <span>2024-04-26 09:26</span> <span style="display: inline-block;">北京</span>
 </p>
@@ -33,26 +34,25 @@ Binder是Android中实现IPC的一种方式，ServiceManager是管理系统服�
 <p><a href="https://www.52pojie.cn/thread-1917351-1-1.html">阅读原文</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 25 Apr 2024 17:45:53 +0800</pubDate>
-<pubDate>Thu, 25 Apr 2024 17:45:53 +0800</pubDate>
 </item>
 <item>
 <title>ebpf在Android安全上的应用：ebpf的一些基础知识(上篇)</title>
 <link>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140561&amp;idx=1&amp;sn=3b00ef83cc82b5f9e0683bf7d7a3226e&amp;chksm=bd50a1858a27289343d5d8904923428f2127589b55b9f0043c23e77ccfaedfa9c03dbdf8b6b0&amp;scene=58&amp;subscene=0</link>
 <guid>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140561&amp;idx=1&amp;sn=3b00ef83cc82b5f9e0683bf7d7a3226e&amp;chksm=bd50a1858a27289343d5d8904923428f2127589b55b9f0043c23e77ccfaedfa9c03dbdf8b6b0&amp;scene=58&amp;subscene=0</guid>
 <content:encoded><![CDATA[
-<div> 🧐 eBPF 是一种革命性的技术，可以在 Linux 内核中运行沙盒程序，扩展内核功能，无需修改内核源码。它比起传统的 kernel hook 技术，更安全、更可移植。<br>
+<div> 🧐 eBPF 是一种革命性的技术，可以在 Linux 内核中运行沙盒程序，扩展内核功能，无需修改内核源码。它比起传统的 kernel hook 技术，更安全、更可移植。<br />
 
-🛠️ 可用开发工具有 bcc、libbpf、cilium、Android mk。我选用了 cilium，因为配置简单、开发便捷。<br>
+🛠️ 可用开发工具有 bcc、libbpf、cilium、Android mk。我选用了 cilium，因为配置简单、开发便捷。<br />
 
-📱 运行环境是基于 Android 模拟器，并在内核版本为 5.15.41 的环境中进行开发。<br>
+📱 运行环境是基于 Android 模拟器，并在内核版本为 5.15.41 的环境中进行开发。<br />
 
-📦 数据传输常用的框架有 perf 和 ringbuffer。在 ebpf 中还有一些常用函数如 bpf_printk、bpf_probe_read_user_str 等。<br>
+📦 数据传输常用的框架有 perf 和 ringbuffer。在 ebpf 中还有一些常用函数如 bpf_printk、bpf_probe_read_user_str 等。<br />
 
-🐧 通过 vmlinux.h 头文件可以避免查询内核数据结构的繁琐，使用 bpftool 可生成该文件。<br>
+🐧 通过 vmlinux.h 头文件可以避免查询内核数据结构的繁琐，使用 bpftool 可生成该文件。<br />
 
-🔎 eBPF 中常见的事件类型有 kprobe、tracepoint。kprobe 可以在函数开始处插桩，tracepoint 是源码中的预置 hook 点。<br>
+🔎 eBPF 中常见的事件类型有 kprobe、tracepoint。kprobe 可以在函数开始处插桩，tracepoint 是源码中的预置 hook 点。<br />
 
-🌟 一些使用技巧包括如何将数据从用户空间传输到内核空间，以及如何获取应用程序的 UID。<br> <div>
+🌟 一些使用技巧包括如何将数据从用户空间传输到内核空间，以及如何获取应用程序的 UID。<br /> <div>
 <p>
 原创 <span>吾爱pojie</span> <span>2024-04-25 17:41</span> <span style="display: inline-block;">北京</span>
 </p>
@@ -71,9 +71,7 @@ Binder是Android中实现IPC的一种方式，ServiceManager是管理系统服�
 <p><a href="https://www.52pojie.cn/thread-1917339-1-1.html">阅读原文</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 25 Apr 2024 17:40:52 +0800</pubDate>
-<pubDate>Thu, 25 Apr 2024 17:40:52 +0800</pubDate>
 </item>
-
 <item>
 <title>腾讯游戏安全大赛2024决赛题解</title>
 <link>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651140550&amp;idx=1&amp;sn=06032f42320c27348461d54fce62318a&amp;chksm=bd50a1928a2728843f062d140281a3622ab175a86c46d574bd10578b7695b36fb8726bad4357&amp;scene=58&amp;subscene=0</link>
