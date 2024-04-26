@@ -3456,3 +3456,15 @@ Summarized using GPT-3.5-turbo
 Append: [英国人真可怜，只能靠干巴lunch度日](https://www.huxiu.com/article/2955705.html)
 append_entries: 7
 Finish: 2024-04-26 14:07:23.315707
+------------------------------------------------------
+Started: 2024-04-26 16:09:47.995283
+Existing_entries: 947
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 1417
+Summarized using GPT-3.5-turbo
+Append: [奥特曼最新演讲：GPT-5强到发指，Scaling Law依然有效](https://www.huxiu.com/article/2955712.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [35岁失业，游戏人身不由己](https://www.huxiu.com/article/2952061.html)
+append_entries: 2
+Finish: 2024-04-26 16:10:16.866191
