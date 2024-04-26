@@ -3239,3 +3239,49 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-04-26 02:18:34.950296
+Existing_entries: 877
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 117
+Summarized using GPT-3.5-turbo
+Append: [劝退小三、修复婚姻，还有什么是情感专家不会的？](https://www.huxiu.com/article/2952427.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [那个翻译海德格尔的农民工，现在怎么样了？](https://www.huxiu.com/article/2953909.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [“锂电池取代者”，一把梭哈](https://www.huxiu.com/article/2953906.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [我的12个“2024 AI猜想”](https://www.huxiu.com/article/2950877.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [读书少的人，不要草率地打开一本书](https://www.huxiu.com/article/2952092.html)
+Token length: 162
+Summarized using GPT-3.5-turbo
+Append: [从猩猩到猪，人类在器官移植的路上究竟走了多远？](https://www.huxiu.com/article/2949857.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [雷军周鸿祎出圈：中年CEO，抢着当网红](https://www.huxiu.com/article/2952411.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [HPV不再“一苗难求”，疫苗企业的好日子却到头了](https://www.huxiu.com/article/2952100.html)
+Token length: 93
+Summarized using GPT-3.5-turbo
+Append: [离婚市场崛起，钻石真爱营销开始发癫](https://www.huxiu.com/article/2950894.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [横店变回“横”店](https://www.huxiu.com/article/2950925.html)
+Append: [为什么理发店总让你办卡？](https://www.huxiu.com/article/2947486.html)
+Append: [“史上最致命禽流感”卷土重来，多国蛋价已经飙升](https://www.huxiu.com/article/2953547.html)
+Append: [29省份一季报：粤苏渐近，豫鄂“进位”，谁在提速赶超？](https://www.huxiu.com/article/2952093.html)
+Append: [铜跑赢金银，中国在其中扮演重要角色](https://www.huxiu.com/article/2952034.html)
+Append: [“三天不买衣服就难受”：可能是强迫性购物障碍](https://www.huxiu.com/article/2952399.html)
+Append: [这届打工人，等不来酒店降价了](https://www.huxiu.com/article/2952099.html)
+Append: [管理细则80条，重整支付行业新秩序](https://www.huxiu.com/article/2952608.html)
+Append: [年轻人不想恋爱，AI会是良药吗？](https://www.huxiu.com/article/2951176.html)
+Append: [开罗印象](https://www.huxiu.com/article/2953111.html)
+Append: [沪上阿姨，“流血”也要上市](https://www.huxiu.com/article/2951432.html)
+append_entries: 20
+Finish: 2024-04-26 02:19:11.801557
