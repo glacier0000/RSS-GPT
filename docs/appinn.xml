@@ -4,17 +4,18 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>发现了DwarFS的一个彩蛋功能</title>
 <link>https://meta.appinn.net/t/topic/55703</link>
 <guid>https://meta.appinn.net/t/topic/55703</guid>
 <content:encoded><![CDATA[
-<div> 📂 使用 DwarFS 工具将文件夹压缩成 mp4 格式：<br>
-命令：mkdwarfs -i path -o file.mp4<br>
-🌟 这样压缩后的文件可以方便地上传到阿里云盘分享给他人。<br>
-📤 将压缩包分享给接收者后，他们只需使用命令 dwarfs file.mp4 P: 就能挂载，无需修改文件后缀。<br>
-😊 这个工具相当方便，可以将各种文件压缩并分享出去，非常便利！<br>
-💡 如果需要对压缩包进行解压缩，接收者需自行解决。<br> <div>
+<div> 📂 使用 DwarFS 工具将文件夹压缩成 mp4 格式：<br />
+命令：mkdwarfs -i path -o file.mp4<br />
+🌟 这样压缩后的文件可以方便地上传到阿里云盘分享给他人。<br />
+📤 将压缩包分享给接收者后，他们只需使用命令 dwarfs file.mp4 P: 就能挂载，无需修改文件后缀。<br />
+😊 这个工具相当方便，可以将各种文件压缩并分享出去，非常便利！<br />
+💡 如果需要对压缩包进行解压缩，接收者需自行解决。<br /> <div>
 <p>用DwarFS把文件夹压成mp4格式</p>
 <pre><code class="lang-auto">mkdwarfs -i path -o file.mp4
 </code></pre>
@@ -31,9 +32,7 @@
             <p><a href="https://meta.appinn.net/t/topic/55703">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 26 Apr 2024 10:44:50 +0000</pubDate>
-<pubDate>Fri, 26 Apr 2024 10:44:50 +0000</pubDate>
 </item>
-
 <item>
 <title>TreeSheets基础使用说明，以及数十种高阶玩法教程！</title>
 <link>https://meta.appinn.net/t/topic/34715</link>

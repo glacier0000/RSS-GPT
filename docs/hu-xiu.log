@@ -3429,3 +3429,30 @@ error: Error code: 403 - {'error': {'message': '免费API限制模型输入token
 Append: [74岁铁娘子卸任，港交所迎来年薪400万新主席](https://www.huxiu.com/article/2955195.html)
 append_entries: 7
 Finish: 2024-04-26 12:13:12.491745
+------------------------------------------------------
+Started: 2024-04-26 14:06:23.778342
+Existing_entries: 940
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 1908
+Summarized using GPT-3.5-turbo
+Append: [美国经济再陷滞胀担忧](https://www.huxiu.com/article/2956036.html)
+Token length: 2159
+Summarized using GPT-3.5-turbo
+Append: [同样“豪赌”AI，为何Meta大跌，但微软、谷歌大涨？](https://www.huxiu.com/article/2956067.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [世界会不会更好，答案或许在书中](https://www.huxiu.com/article/2955985.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [孤立、造谣、冷暴力，“关系欺凌”的15种隐形表现](https://www.huxiu.com/article/2948361.html)
+Token length: 1437
+Summarized using GPT-3.5-turbo
+Append: [Burberry可能被卖](https://www.huxiu.com/article/2955778.html)
+Token length: 1945
+Summarized using GPT-3.5-turbo
+Append: [TikTok美国被禁：法律抗争胜算几何？](https://www.huxiu.com/article/2955761.html)
+Token length: 3228
+Summarized using GPT-3.5-turbo
+Append: [英国人真可怜，只能靠干巴lunch度日](https://www.huxiu.com/article/2955705.html)
+append_entries: 7
+Finish: 2024-04-26 14:07:23.315707
