@@ -21012,3 +21012,12 @@ Summarized using GPT-3.5-turbo
 Append: [派早报：水月雨发布 MIAD 01 HiFi 手机、高通发布骁龙 X Plus 处理器](https://sspai.com/post/88364)
 append_entries: 1
 Finish: 2024-04-26 04:08:28.446102
+------------------------------------------------------
+Started: 2024-04-26 06:10:00.131213
+Existing_entries: 767
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [什么是笔记的理想形态？个人笔记系统折腾手记](https://sspai.com/post/87490)
+append_entries: 1
+Finish: 2024-04-26 06:10:04.096076
