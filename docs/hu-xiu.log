@@ -3548,3 +3548,27 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-04-27 08:09:02.404856
+Existing_entries: 961
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 3020
+Summarized using GPT-3.5-turbo
+Append: [邂逅新加坡富豪：身家30亿美元的“造物主”](https://www.huxiu.com/article/2947131.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [人人都爱周受资](https://www.huxiu.com/article/2958249.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [Rabbit R1首批体验出炉：还没干翻app，被质疑造假](https://www.huxiu.com/article/2958200.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [再不关注铜，就晚了](https://www.huxiu.com/article/2957829.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [这副差点失败的智能眼镜，怎么就成了爆款？](https://www.huxiu.com/article/2958199.html)
+Token length: 1269
+Summarized using GPT-3.5-turbo
+Append: [购房可入户，南京祭出楼市重磅大招](https://www.huxiu.com/article/2957880.html)
+append_entries: 6
+Finish: 2024-04-27 08:09:59.499147
