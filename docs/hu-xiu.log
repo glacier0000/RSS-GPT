@@ -3498,3 +3498,10 @@ error: Error code: 403 - {'error': {'message': '免费API限制模型输入token
 Append: [被围剿的周迅：一个影后的倒掉](https://www.huxiu.com/article/2955261.html)
 append_entries: 2
 Finish: 2024-04-27 00:31:10.790327
+------------------------------------------------------
+Started: 2024-04-27 02:17:52.559858
+Existing_entries: 951
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
