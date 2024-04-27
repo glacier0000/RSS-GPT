@@ -3505,3 +3505,39 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-04-27 04:07:55.680083
+Existing_entries: 951
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 2179
+Summarized using GPT-3.5-turbo
+Append: [石油巨头们的“印钞机”歇了](https://www.huxiu.com/article/2957861.html)
+Token length: 2314
+Summarized using GPT-3.5-turbo
+Append: [南京“买房送户口”，能激起多大水花？](https://www.huxiu.com/article/2957652.html)
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [2024国内手机销量，华为重回第一？](https://www.huxiu.com/article/2955185.html)
+Token length: 89
+Summarized using GPT-3.5-turbo
+Append: [全球Top100的GPTs开发者，教你五大GPT搞钱策略](https://www.huxiu.com/article/2954395.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [年度最佳预定，这部电影没人能心平气和看完](https://www.huxiu.com/article/2957653.html)
+Token length: 115
+Summarized using GPT-3.5-turbo
+Append: [看了上千页招股书，我找到了金店跑路的真正原因](https://www.huxiu.com/article/2955193.html)
+Token length: 1181
+Summarized using GPT-3.5-turbo
+Append: [日元暴跌破158，一天连续失守多个重要关口](https://www.huxiu.com/article/2957640.html)
+Token length: 109
+Summarized using GPT-3.5-turbo
+Append: [盘不活的“烂尾楼们”，该何去何从？](https://www.huxiu.com/article/2955187.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [收购价腰斩后，为什么我们没有实现小龙虾自由？](https://www.huxiu.com/article/2957240.html)
+Token length: 1204
+Summarized using GPT-3.5-turbo
+Append: [黄金疯涨，巴菲特错了么？](https://www.huxiu.com/article/2956552.html)
+append_entries: 10
+Finish: 2024-04-27 04:10:49.626430
