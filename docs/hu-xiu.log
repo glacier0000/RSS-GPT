@@ -3579,3 +3579,24 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-04-27 12:10:38.024705
+Existing_entries: 967
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [这四种疫苗，该免费了](https://www.huxiu.com/article/2959553.html)
+Token length: 3081
+Summarized using GPT-3.5-turbo
+Append: [在泰国做外卖，还是有点难](https://www.huxiu.com/article/2959232.html)
+Token length: 3243
+Summarized using GPT-3.5-turbo
+Append: [实地围观了义乌搞钱的一天](https://www.huxiu.com/article/2957634.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [湖南菜的灵魂，不是剁椒，也不是豆豉](https://www.huxiu.com/article/2955731.html)
+Token length: 2756
+Summarized using GPT-3.5-turbo
+Append: [为什么五一机票会大幅降价？](https://www.huxiu.com/article/2958710.html)
+append_entries: 5
+Finish: 2024-04-27 12:11:09.218254
