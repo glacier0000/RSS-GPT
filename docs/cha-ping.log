@@ -1480,3 +1480,24 @@ Existing_entries: 144
 Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
 append_entries: 0
 Finish: 2024-04-27 20:06:28.136717
+------------------------------------------------------
+Started: 2024-04-27 22:07:25.353079
+Existing_entries: 144
+Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
+Token length: 1204
+Summarized using GPT-3.5-turbo
+Append: [苹果或停止升级Mac起步内存，盒马会员恢复开通，特斯拉再次在美被调查，小米高管否认雷军被李想锁车里，这就是今天的其他大新闻！](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654497122&idx=1&sn=18647dc2a28fc094470958e0cc2968eb&chksm=8b857e65bcf2f773fd3bddb00381c57f391728f5d595a7b7ebd231b1b4424171847549be95ac&scene=58&subscene=0)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [欧美集体退出电车市场？信这不如信我是秦始皇](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654497122&idx=2&sn=c444dc84dea1d5217aad63d7d8feabce&chksm=8b857e65bcf2f773a8634605f58d1abcb10aa07409e189fd30586cf19822836668bee81288da&scene=58&subscene=0)
+Token length: 2038
+Summarized using GPT-3.5-turbo
+Append: [脱去涩涩外衣的《剑星》，能算是一个好游戏吗？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654497122&idx=3&sn=0074fc2ee217218c3c8b3ee21d46747e&chksm=8b857e65bcf2f77397d908c21ab4f39de9798521a54906cb18956c93e16965c9b8df56cac1de&scene=58&subscene=0)
+Token length: 62
+Summarized using GPT-3.5-turbo
+Append: [今日最佳：球也没想到。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654497122&idx=4&sn=82f51742d8ef1887b3b3579321e6ad34&chksm=8b857e65bcf2f7739578198a70f11965c3098d225bdda360ce003901902d071ca15832a19afd&scene=58&subscene=0)
+Token length: 33
+Summarized using GPT-3.5-turbo
+Append: [聊一聊：你最近总玩的游戏有啥槽点？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654497122&idx=5&sn=abdbae07fa780844cef0b515e8fa06c3&chksm=8b857e65bcf2f773be78d807f885c0eea29747b0c989f2803189b6dadf27dfeab1e6ca650549&scene=58&subscene=0)
+append_entries: 5
+Finish: 2024-04-27 22:08:08.896088
