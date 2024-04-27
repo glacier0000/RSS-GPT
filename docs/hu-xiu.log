@@ -3572,3 +3572,10 @@ Summarized using GPT-3.5-turbo
 Append: [购房可入户，南京祭出楼市重磅大招](https://www.huxiu.com/article/2957880.html)
 append_entries: 6
 Finish: 2024-04-27 08:09:59.499147
+------------------------------------------------------
+Started: 2024-04-27 10:07:36.203323
+Existing_entries: 967
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
