@@ -3541,3 +3541,10 @@ Summarized using GPT-3.5-turbo
 Append: [黄金疯涨，巴菲特错了么？](https://www.huxiu.com/article/2956552.html)
 append_entries: 10
 Finish: 2024-04-27 04:10:49.626430
+------------------------------------------------------
+Started: 2024-04-27 06:09:27.427696
+Existing_entries: 961
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
