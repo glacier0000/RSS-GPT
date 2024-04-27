@@ -3486,3 +3486,15 @@ Existing_entries: 949
 Fetching from https://glacier0000.vercel.app/huxiu/article
 append_entries: 0
 Finish: 2024-04-26 22:07:13.384253
+------------------------------------------------------
+Started: 2024-04-27 00:30:58.812174
+Existing_entries: 949
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [曾经排队移民的人，后悔了？](https://www.huxiu.com/article/2947543.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.top 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.top to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [被围剿的周迅：一个影后的倒掉](https://www.huxiu.com/article/2955261.html)
+append_entries: 2
+Finish: 2024-04-27 00:31:10.790327
