@@ -3901,3 +3901,9 @@ Summarized using GPT-3.5-turbo
 Append: [“弱智吧”，人类抵御AI的最后防线](https://www.huxiu.com/article/2963943.html)
 append_entries: 4
 Finish: 2024-04-28 16:08:03.886456
+------------------------------------------------------
+Started: 2024-04-28 18:08:16.193856
+Existing_entries: 1004
+Fetching from https://glacier0000.vercel.app/huxiu/article
+append_entries: 0
+Finish: 2024-04-28 18:08:21.050348
