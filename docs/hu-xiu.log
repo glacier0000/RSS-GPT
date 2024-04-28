@@ -3907,3 +3907,9 @@ Existing_entries: 1004
 Fetching from https://glacier0000.vercel.app/huxiu/article
 append_entries: 0
 Finish: 2024-04-28 18:08:21.050348
+------------------------------------------------------
+Started: 2024-04-28 20:08:12.403449
+Existing_entries: 1000
+Fetching from https://glacier0000.vercel.app/huxiu/article
+append_entries: 0
+Finish: 2024-04-28 20:08:16.908197
