@@ -3756,3 +3756,41 @@ Summarized using GPT-3.5-turbo
 Append: [为了退出，VC打起“腰部项目”的主意](https://www.huxiu.com/article/2962236.html)
 append_entries: 8
 Finish: 2024-04-28 06:16:03.931837
+------------------------------------------------------
+Started: 2024-04-28 08:09:42.414602
+Existing_entries: 1008
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 136
+Summarized using GPT-3.5-turbo
+Append: [全球6400多家门店，名创优品崛起背后有怎样的故事？](https://www.huxiu.com/article/2962527.html)
+Token length: 3439
+Summarized using GPT-3.5-turbo
+Append: [旅行者1号“复活”：世界最慢的电脑，被成功修复了](https://www.huxiu.com/article/2958232.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [AI大模型的“混合专家”，底层原理是什么？](https://www.huxiu.com/article/2962514.html)
+Token length: 119
+Summarized using GPT-3.5-turbo
+Append: [小米SU7爆火，揭秘“营销之王”雷军的三大法宝](https://www.huxiu.com/article/2957247.html)
+Token length: 3158
+Summarized using GPT-3.5-turbo
+Append: [网红品牌已消亡](https://www.huxiu.com/article/2962091.html)
+Token length: 1900
+Summarized using GPT-3.5-turbo
+Append: [艺考生为何困在二本线？](https://www.huxiu.com/article/2962512.html)
+Token length: 176
+Summarized using GPT-3.5-turbo
+Append: [极氪三年：一个巨型汽车集团的经济特区](https://www.huxiu.com/article/2962322.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [黄金“烫手”，水贝商家有点愁](https://www.huxiu.com/article/2962107.html)
+Token length: 1129
+Summarized using GPT-3.5-turbo
+Append: [谷歌员工爆料Python基础团队原地解散](https://www.huxiu.com/article/2962282.html)
+Token length: 127
+Summarized using GPT-3.5-turbo
+Append: [深圳华强北，被最能省钱的年轻人逛疯了](https://www.huxiu.com/article/2962095.html)
+Append: [日元贬值，不断刷新历史，日本究竟哪里出了问题？](https://www.huxiu.com/article/2954929.html)
+Append: [一口气看完龚自珍，晚清思想家，乱世独行侠](https://www.huxiu.com/article/2955664.html)
+append_entries: 12
+Finish: 2024-04-28 08:17:19.427952
