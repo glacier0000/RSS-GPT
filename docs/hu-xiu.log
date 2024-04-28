@@ -3794,3 +3794,44 @@ Append: [日元贬值，不断刷新历史，日本究竟哪里出了问题？](
 Append: [一口气看完龚自珍，晚清思想家，乱世独行侠](https://www.huxiu.com/article/2955664.html)
 append_entries: 12
 Finish: 2024-04-28 08:17:19.427952
+------------------------------------------------------
+Started: 2024-04-28 10:05:43.568334
+Existing_entries: 1012
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 3662
+Summarized using GPT-3.5-turbo
+Append: [为什么GP们都去县城募资？](https://www.huxiu.com/article/2963113.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [中国吃辣最狠的城市，为什么猛过云贵川湘？](https://www.huxiu.com/article/2951565.html)
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [文学巨匠，余华新书《十八岁出门远行》发布](https://www.huxiu.com/article/2963034.html)
+Token length: 86
+Summarized using GPT-3.5-turbo
+Append: [一个月套利超6000万：第二把刀，砍向券商](https://www.huxiu.com/article/2956586.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [远程办公，会降低我们的创造力吗？](https://www.huxiu.com/article/2950354.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [你为什么控制不了你的愤怒？](https://www.huxiu.com/article/2963050.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [为何你总是迷路？](https://www.huxiu.com/article/2947440.html)
+Token length: 126
+Summarized using GPT-3.5-turbo
+Append: [和AI美女谈恋爱是一种什么体验？](https://www.huxiu.com/article/2962315.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [生存与生活之间，是一泡茶的距离](https://www.huxiu.com/article/2962042.html)
+Token length: 3251
+Summarized using GPT-3.5-turbo
+Append: [Sora大佬专访：AI视频模型仍处在GPT-1时代](https://www.huxiu.com/article/2960010.html)
+Append: [“大城市沉降”上热搜，这事儿到底有多严重？](https://www.huxiu.com/article/2957013.html)
+Append: [猪猪也有脸部识别？“智慧农业”都发展成什么样子了？](https://www.huxiu.com/article/2958679.html)
+Append: [2024年，黄金还能保值吗？怎么买才对？](https://www.huxiu.com/article/2955691.html)
+Append: [健身房关店多了，二手健身器械生意暴涨](https://www.huxiu.com/article/2962532.html)
+Append: [年轻人开始整顿酒店代理](https://www.huxiu.com/article/2962544.html)
+append_entries: 15
+Finish: 2024-04-28 10:06:39.473545
