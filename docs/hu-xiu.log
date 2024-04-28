@@ -3883,3 +3883,21 @@ error: Error code: 403 - {'error': {'message': '免费API限制模型输入token
 Append: [你以为医生能有多善良？](https://www.huxiu.com/article/2963025.html)
 append_entries: 5
 Finish: 2024-04-28 14:04:46.247512
+------------------------------------------------------
+Started: 2024-04-28 16:07:34.981276
+Existing_entries: 1005
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 3108
+Summarized using GPT-3.5-turbo
+Append: [我的公司，还没被OpenAI杀死](https://www.huxiu.com/article/2964451.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [热闹的车市，卷不动的打工人](https://www.huxiu.com/article/2963127.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [经济学家的困境](https://www.huxiu.com/article/2963974.html)
+Token length: 1886
+Summarized using GPT-3.5-turbo
+Append: [“弱智吧”，人类抵御AI的最后防线](https://www.huxiu.com/article/2963943.html)
+append_entries: 4
+Finish: 2024-04-28 16:08:03.886456
