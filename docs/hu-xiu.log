@@ -3643,3 +3643,33 @@ Existing_entries: 976
 Fetching from https://glacier0000.vercel.app/huxiu/article
 append_entries: 0
 Finish: 2024-04-27 22:07:07.398261
+------------------------------------------------------
+Started: 2024-04-28 00:34:35.593447
+Existing_entries: 976
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [数字视频营销，带来哪些价值？](https://www.huxiu.com/article/2961142.html)
+Token length: 57
+Summarized using GPT-3.5-turbo
+Append: [放假调休背后的经济账本](https://www.huxiu.com/article/2950907.html)
+Token length: 3018
+Summarized using GPT-3.5-turbo
+Append: [快消人，面临“40岁尴尬”](https://www.huxiu.com/article/2952024.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [我宣布，退出五一档票房预测](https://www.huxiu.com/article/2938058.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [不要再上多巴胺的当了](https://www.huxiu.com/article/2960478.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [会说沪语和粤语，成了职场第一竞争力？](https://www.huxiu.com/article/2955653.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [企业要把外部环境转化为驱动力](https://www.huxiu.com/article/2960337.html)
+Token length: 3399
+Summarized using GPT-3.5-turbo
+Append: [布林肯结束访华，中美达成五点共识](https://www.huxiu.com/article/2959216.html)
+append_entries: 8
+Finish: 2024-04-28 00:35:33.771098
