@@ -3680,3 +3680,49 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-04-28 04:08:30.105122
+Existing_entries: 984
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 280
+Summarized using GPT-3.5-turbo
+Append: [每人每年可以变性一次，西方迈入“变性时代”？](https://www.huxiu.com/article/2955685.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [广告公司咨询化，是个伪命题](https://www.huxiu.com/article/2961536.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [“晒字节工牌过气了，现在进新能源大厂才是顶配工作”](https://www.huxiu.com/article/2960346.html)
+Token length: 137
+Summarized using GPT-3.5-turbo
+Append: [好消息：刘强东终于带货了，坏消息：是AI](https://www.huxiu.com/article/2959547.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [取消绩点，就不卷了吗？](https://www.huxiu.com/article/2961552.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [同事们的买房故事，让我大开眼界](https://www.huxiu.com/article/2961138.html)
+Token length: 126
+Summarized using GPT-3.5-turbo
+Append: [从电视购物到电商直播，谁才是美妆赛道风口上的“猪”？](https://www.huxiu.com/article/2954623.html)
+Token length: 2946
+Summarized using GPT-3.5-turbo
+Append: [理想AI一看就会，现实AI一用全废，怎么破？](https://www.huxiu.com/article/2950340.html)
+Token length: 3045
+Summarized using GPT-3.5-turbo
+Append: [出门在外，为何总是不能安心踏入一间厕所？](https://www.huxiu.com/article/2961522.html)
+Token length: 140
+Summarized using GPT-3.5-turbo
+Append: [巴菲特、索罗斯等投资大师都是怎样的持仓动向？](https://www.huxiu.com/article/2956023.html)
+Append: [爸妈容易转发谣言，是因为他们害怕这件事？](https://www.huxiu.com/article/2957848.html)
+Append: [他们在车展的泼天流量，是谁赐的？](https://www.huxiu.com/article/2961529.html)
+Append: [美企CEO薪酬又创新高，不过股东赚得更多](https://www.huxiu.com/article/2958215.html)
+Append: [大冰其实是这个时代的尊者？](https://www.huxiu.com/article/2947535.html)
+Append: [森林大火后，我们是否要为植物悲伤？](https://www.huxiu.com/article/2961159.html)
+Append: [小麦的恶魔双胞胎：被嫌弃的毒麦的一生](https://www.huxiu.com/article/2955646.html)
+Append: [新晋“投胎顶配”东北独生女，藏不住“花木兰困境”？](https://www.huxiu.com/article/2956062.html)
+Append: [欧盟首次对中国风电发起反补贴调查，影响几何？](https://www.huxiu.com/article/2951524.html)
+Append: [在首尔，阳光是要花钱买的](https://www.huxiu.com/article/2952445.html)
+Append: [越来越贵的李宁，终于跌落神坛？](https://www.huxiu.com/article/2961482.html)
+append_entries: 20
+Finish: 2024-04-28 04:10:04.086576
