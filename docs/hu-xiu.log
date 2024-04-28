@@ -3835,3 +3835,30 @@ Append: [健身房关店多了，二手健身器械生意暴涨](https://www.hux
 Append: [年轻人开始整顿酒店代理](https://www.huxiu.com/article/2962544.html)
 append_entries: 15
 Finish: 2024-04-28 10:06:39.473545
+------------------------------------------------------
+Started: 2024-04-28 12:11:58.811509
+Existing_entries: 1015
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 106
+Summarized using GPT-3.5-turbo
+Append: [阿斯麦出走？背后的真相是什么？](https://www.huxiu.com/article/2963067.html)
+Token length: 3362
+Summarized using GPT-3.5-turbo
+Append: [SpaceX系列：殖民火星Part 2](https://www.huxiu.com/article/2489441.html)
+Token length: 113
+Summarized using GPT-3.5-turbo
+Append: [两次先锋计划，华为剑指苹果？](https://www.huxiu.com/article/2963068.html)
+Token length: 2455
+Summarized using GPT-3.5-turbo
+Append: [人均100+的贵价汉堡，“割”不动了](https://www.huxiu.com/article/2962563.html)
+Token length: 118
+Summarized using GPT-3.5-turbo
+Append: [传说中的仙山和飞升之法，背后是怎样的科学奥秘？](https://www.huxiu.com/article/2957646.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [言必AI的手机厂商们，找对路了吗？](https://www.huxiu.com/article/2963056.html)
+Token length: 111
+Summarized using GPT-3.5-turbo
+Append: [李闽轩北电作弊？天价艺培浮出水面，3年烧百万](https://www.huxiu.com/article/2955654.html)
+append_entries: 7
+Finish: 2024-04-28 12:12:56.363860
