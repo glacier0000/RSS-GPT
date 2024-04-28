@@ -3726,3 +3726,33 @@ Append: [在首尔，阳光是要花钱买的](https://www.huxiu.com/article/295
 Append: [越来越贵的李宁，终于跌落神坛？](https://www.huxiu.com/article/2961482.html)
 append_entries: 20
 Finish: 2024-04-28 04:10:04.086576
+------------------------------------------------------
+Started: 2024-04-28 06:10:40.875732
+Existing_entries: 1004
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 2120
+Summarized using GPT-3.5-turbo
+Append: [谷歌、微软和Meta，还要花多少钱投入AI？](https://www.huxiu.com/article/2962276.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [她在富士康“拧螺丝”，下班兼职摆地摊](https://www.huxiu.com/article/2962077.html)
+Token length: 133
+Summarized using GPT-3.5-turbo
+Append: [1.7亿人口，全国都是洪泛区，孟加拉国深陷困局？](https://www.huxiu.com/article/2959971.html)
+Token length: 81
+Summarized using GPT-3.5-turbo
+Append: [美股惊现“黑色星期五”，AI时代谁能笑到最后？](https://www.huxiu.com/article/2955204.html)
+Token length: 3031
+Summarized using GPT-3.5-turbo
+Append: [澳洲肉厂打工历劫记](https://www.huxiu.com/article/2962257.html)
+Token length: 155
+Summarized using GPT-3.5-turbo
+Append: [小帅小美科目三，榨干当代年轻人](https://www.huxiu.com/article/2960476.html)
+Token length: 155
+Summarized using GPT-3.5-turbo
+Append: [TVB傍上优酷，究竟是抱团取暖还是各自为计？](https://www.huxiu.com/article/2958246.html)
+Token length: 3082
+Summarized using GPT-3.5-turbo
+Append: [为了退出，VC打起“腰部项目”的主意](https://www.huxiu.com/article/2962236.html)
+append_entries: 8
+Finish: 2024-04-28 06:16:03.931837
