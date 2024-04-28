@@ -1567,3 +1567,27 @@ Existing_entries: 149
 Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
 append_entries: 0
 Finish: 2024-04-28 20:08:37.129959
+------------------------------------------------------
+Started: 2024-04-28 22:06:09.326289
+Existing_entries: 149
+Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [看完问界M7的高速事故，我最想骂的其实是营销号。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654497390&idx=1&sn=4cda6fcabf94cdcdae323d7c9a7660ea&chksm=8b857d69bcf2f47f4c5406eb1a084ac2a1d3927042396ac22ff36d33dc8a27987f759cd2aa11&scene=58&subscene=0)
+Token length: 2331
+Summarized using GPT-3.5-turbo
+Append: [靠码字年入上亿的唐家三少，还是宣布停更了。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654497390&idx=2&sn=c9754d744093dadbc41ebf6a2fae6fea&chksm=8b857d69bcf2f47fef63a669f4ab6160e940c63edda4b19a6769a137ff860f93d41f2c970fa0&scene=58&subscene=0)
+Token length: 2554
+Summarized using GPT-3.5-turbo
+Append: [Apple Store一条新规，直接让游戏机模拟器登顶了。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654497390&idx=3&sn=7501d80ed990ca155225c9c814e52f74&chksm=8b857d69bcf2f47fae2bb4abf57666bf6d65dbef1cca0d170d5153a82599ac3050fd186ec032&scene=58&subscene=0)
+Token length: 64
+Summarized using GPT-3.5-turbo
+Append: [今日最佳：球也没想到2.0。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654497390&idx=4&sn=11448145b6c1b1f6a166851e6a9bf06f&chksm=8b857d69bcf2f47febc4eef7371b11a7be534ad58f2a2477a6d38a3400443c9e82b62a2126ca&scene=58&subscene=0)
+Token length: 33
+Summarized using GPT-3.5-turbo
+Append: [聊一聊：你用过性价比最高的手机是哪个？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654497390&idx=5&sn=3cbc5b7c46673f5a79debd114708587f&chksm=8b857d69bcf2f47fccaa3da9395b7f0f5f8c87d66414060b0376ff0dbbbbe0788e6d592d89a9&scene=58&subscene=0)
+Token length: 1226
+Summarized using GPT-3.5-turbo
+Append: [马斯克抵达北京，小杨哥回归带货1小时销售破亿，理想高管回应降价，小米辟谣已规划三款SUV车型，这就是今天的其他大新闻！](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654497390&idx=6&sn=7de115cb57e7cfadf6d4ee6bf911e3ae&chksm=8b857d69bcf2f47fafb3431268fd199a5b2b33b47056ace2d4bfe98daae238aa6244af131dd0&scene=58&subscene=0)
+append_entries: 6
+Finish: 2024-04-28 22:06:50.650791
