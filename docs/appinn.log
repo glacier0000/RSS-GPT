@@ -23562,3 +23562,11 @@ Summarized using GPT-3.5-turbo
 Append: [Mac有自媒体一文多发工具吗？](https://meta.appinn.net/t/topic/44287)
 append_entries: 1
 Finish: 2024-04-29 08:11:00.904785
+------------------------------------------------------
+Started: 2024-04-29 10:07:51.258768
+Existing_entries: 373
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-04-29 10:07:54.570294

@@ -4042,3 +4042,46 @@ Append: [2个月取消近20场，音乐节的“不可抗力因素”究竟是�
 Append: [体验叙利亚老板在中国的一天：1颗螺丝钉，年销2.5亿元](https://www.huxiu.com/article/2955176.html)
 append_entries: 22
 Finish: 2024-04-29 08:12:52.744006
+------------------------------------------------------
+Started: 2024-04-29 10:08:10.418738
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 107
+Summarized using GPT-3.5-turbo
+Append: [便利店开始和快餐店抢生意了？](https://www.huxiu.com/article/2955251.html)
+Token length: 2510
+Summarized using GPT-3.5-turbo
+Append: [“禁令”之下，TikTok能否突围？](https://www.huxiu.com/article/2967962.html)
+Token length: 2462
+Summarized using GPT-3.5-turbo
+Append: [这个假期，年轻人涌向县城：人均预算千元，主打“佛系出游”](https://www.huxiu.com/article/2967964.html)
+Token length: 2977
+Summarized using GPT-3.5-turbo
+Append: [美系最后的神话，还是被中国车拿下](https://www.huxiu.com/article/2927000.html)
+Token length: 82
+Summarized using GPT-3.5-turbo
+Append: [彩票被买到断货，谁在靠年轻人的暴富梦“偷偷”发财？](https://www.huxiu.com/article/2963481.html)
+Token length: 3412
+Summarized using GPT-3.5-turbo
+Append: [月薪5万的豪宅管家：24小时待命，学的比商学院多](https://www.huxiu.com/article/2967929.html)
+Token length: 59
+Summarized using GPT-3.5-turbo
+Append: [汽车上也有“潜望结构”？2 分钟看懂你未来的出行“搭子”](https://www.huxiu.com/article/2964949.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [义乌电商，追爆品的人](https://www.huxiu.com/article/2967132.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [谁能找到越南女首富失落的2亿黄金？](https://www.huxiu.com/article/2967428.html)
+Token length: 112
+Summarized using GPT-3.5-turbo
+Append: [白酒企业如何跨越国界？五粮液给出了范本](https://www.huxiu.com/article/2966829.html)
+Append: [企业客户和开发者云，是时候“松绑”了](https://www.huxiu.com/article/2967410.html)
+Append: [大模型“局中局”：威胁先一步降临](https://www.huxiu.com/article/2967942.html)
+Append: [一位父亲带着儿子来到人类精子库](https://www.huxiu.com/article/2967438.html)
+Append: [VC们，开始奔赴印度募资](https://www.huxiu.com/article/2967424.html)
+Append: [痛风和生孩子的疼痛机制相同？为什么这是最剧烈的疼痛？](https://www.huxiu.com/article/2966818.html)
+Append: [在色情网站上看到我？别惊讶，没准儿还有你自己呢](https://www.huxiu.com/article/2967123.html)
+Append: [统治了游戏和AI之后，“皮衣黄”还想统治汽车行业？](https://www.huxiu.com/article/2966875.html)
+append_entries: 17
+Finish: 2024-04-29 10:10:21.467916
