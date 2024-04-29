@@ -3944,3 +3944,39 @@ error: Error code: 403 - {'error': {'message': '免费API限制模型输入token
 Append: [微信算是碰上硬茬了](https://www.huxiu.com/article/2952443.html)
 append_entries: 6
 Finish: 2024-04-29 00:32:41.648454
+------------------------------------------------------
+Started: 2024-04-29 02:19:53.153243
+Existing_entries: 1006
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 4343
+Summarized using GPT-3.5-turbo
+Append: [脑机接口，就是将大脑和计算机互联？](https://www.huxiu.com/article/2963118.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [音乐版权投资，不再是好生意了？](https://www.huxiu.com/article/2964000.html)
+Token length: 123
+Summarized using GPT-3.5-turbo
+Append: [纯干货：5-10万元高性价比汽车应该如何选？](https://www.huxiu.com/article/2963069.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [农村老人，卷入子代家庭中](https://www.huxiu.com/article/2966020.html)
+Token length: 117
+Summarized using GPT-3.5-turbo
+Append: [我们穿的衣服，真的是塑料瓶做出来的吗？](https://www.huxiu.com/article/2966055.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [报价比同行低47.5%，中国高铁在海外是“赔本赚吆喝”吗？](https://www.huxiu.com/article/2966054.html)
+Token length: 124
+Summarized using GPT-3.5-turbo
+Append: [日元暴跌，会是下一只“黑天鹅”吗？](https://www.huxiu.com/article/2964943.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [印度科学家：能称霸硅谷，但救不了印度](https://www.huxiu.com/article/2963978.html)
+Token length: 2440
+Summarized using GPT-3.5-turbo
+Append: [中国游客重新涌入日本](https://www.huxiu.com/article/2966057.html)
+Token length: 118
+Summarized using GPT-3.5-turbo
+Append: [我给老款油车装了“智驾辅助”，结果差点被它“干死”？](https://www.huxiu.com/article/2962567.html)
+append_entries: 10
+Finish: 2024-04-29 02:21:18.899952
