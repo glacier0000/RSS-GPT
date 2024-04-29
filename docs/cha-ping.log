@@ -1657,3 +1657,27 @@ Existing_entries: 155
 Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
 append_entries: 0
 Finish: 2024-04-29 20:07:55.750636
+------------------------------------------------------
+Started: 2024-04-29 22:07:15.708520
+Existing_entries: 155
+Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [为宝宝测评的产品，最后用得最爽的居然是我自己。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654497795&idx=1&sn=928c8b3d97848e1271d05eee81f2be60&chksm=8b857b04bcf2f212bd695ea1c53a13111b78f301a3e74c0fb75b7d3c35890fc8bf7504c485b7&scene=58&subscene=0)
+Token length: 2256
+Summarized using GPT-3.5-turbo
+Append: [发布两个月降价2000+，现在旗舰机跳水真的有点猛。。。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654497795&idx=2&sn=23680beaceeb7e69e7cb3a546869528f&chksm=8b857b04bcf2f212331faf018bdf62b79e7e17ff5683e39faef7a433b24e95894cc8c3436cf9&scene=58&subscene=0)
+Token length: 2836
+Summarized using GPT-3.5-turbo
+Append: [刚发布就被对标Sora，这个国产模型来头这么大？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654497795&idx=3&sn=99990a9d48576b4fd531697f9a49c1e0&chksm=8b857b04bcf2f2120f107315dd2ccb986a289d3534224ec1333b2b47c83aeb07a443e2d0775e&scene=58&subscene=0)
+Token length: 77
+Summarized using GPT-3.5-turbo
+Append: [今日最佳：真正的阅读理解题。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654497795&idx=4&sn=dd936710db9de6417b07ae034bebc40b&chksm=8b857b04bcf2f212044fc5487c9c669bb80e01c608907cf5809a16b33dac677d0f7ef19a301f&scene=58&subscene=0)
+Token length: 33
+Summarized using GPT-3.5-turbo
+Append: [聊一聊：你最烦别人给你发啥信息？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654497795&idx=5&sn=b4174331e0602b4bfe277001d9bb866d&chksm=8b857b04bcf2f2128f71adfe72fbce6bd695377b331fd69050ba16ecc29fc173e62b56d4df76&scene=58&subscene=0)
+Token length: 1381
+Summarized using GPT-3.5-turbo
+Append: [传特斯拉中国版FSD或进入中国，高合或最晚5月初复工复产，日本拟加强半导体等出口管制，网易暴雪辟谣，这就是今天的其他大新闻！](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654497795&idx=6&sn=792f37e4d34f32cddc9cdbb916b41488&chksm=8b857b04bcf2f212119c7293aee29c730764b7e54431e5528b786dffe27adcb0c12951602161&scene=58&subscene=0)
+append_entries: 6
+Finish: 2024-04-29 22:08:00.826010
