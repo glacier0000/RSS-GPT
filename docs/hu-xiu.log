@@ -4092,3 +4092,45 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-04-29 14:08:30.300898
+Existing_entries: 1017
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [深圳家教，被中介“垄断”：两头高价收费，兼职都能月入5万](https://www.huxiu.com/article/2969125.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [凡客诚品，能接住雷军送来的这波流量吗？](https://www.huxiu.com/article/2967444.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [A股收复3100点，地产股全线爆发](https://www.huxiu.com/article/2968628.html)
+Token length: 2998
+Summarized using GPT-3.5-turbo
+Append: [我在巴厘岛生活了一年：无法成为“白女”又如何？](https://www.huxiu.com/article/2969072.html)
+Token length: 2777
+Summarized using GPT-3.5-turbo
+Append: [过敏那么多年，我终于走进了变态反应科](https://www.huxiu.com/article/2968567.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [AI投资与应用，有哪些趋势？](https://www.huxiu.com/article/2968035.html)
+Token length: 2867
+Summarized using GPT-3.5-turbo
+Append: [年薪百万被裁员后，为什么有人宁可去开滴滴？](https://www.huxiu.com/article/2968534.html)
+Token length: 2325
+Summarized using GPT-3.5-turbo
+Append: [希区柯克忌辰：惊悚之下的爱情与孤独](https://www.huxiu.com/article/2967975.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [144小时免签游中国，外国人都成了特种兵](https://www.huxiu.com/article/2968020.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [懂球帝失去“懂球帝”后，下一步怎么走？](https://www.huxiu.com/article/2968007.html)
+Append: [美国大选，义乌预测不了](https://www.huxiu.com/article/2967966.html)
+Append: [方便速食市场，有哪些趋势？](https://www.huxiu.com/article/2967423.html)
+Append: [中华文化钛合金招牌，诸子百家C位顶流，孔子（上)](https://www.huxiu.com/article/2967958.html)
+Append: [成都136㎡“怪好看”的家，和1000个娃娃住一起是什么体验？](https://www.huxiu.com/article/2967992.html)
+Append: [明星主题片，跟随佟丽娅来欣赏洛阳美景](https://www.huxiu.com/article/2968520.html)
+Append: [中国第二次拯救特斯拉？](https://www.huxiu.com/article/2967941.html)
+append_entries: 16
+Finish: 2024-04-29 14:10:46.491912
