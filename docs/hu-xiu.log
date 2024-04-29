@@ -3994,3 +3994,51 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-04-29 08:11:16.143827
+Existing_entries: 1010
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 2051
+Summarized using GPT-3.5-turbo
+Append: [一位草根创业者的创业失败复盘](https://www.huxiu.com/article/2967429.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [短肠人之困，当一个人的小肠只剩30厘米](https://www.huxiu.com/article/2966871.html)
+Token length: 3149
+Summarized using GPT-3.5-turbo
+Append: [资方背刺、宿敌补刀，懂球帝还能拿回商标吗？](https://www.huxiu.com/article/2964497.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [五一电影，又卷又安静](https://www.huxiu.com/article/2967140.html)
+Token length: 154
+Summarized using GPT-3.5-turbo
+Append: [不守猫德，狮子为什么群居？](https://www.huxiu.com/article/2967388.html)
+Token length: 170
+Summarized using GPT-3.5-turbo
+Append: [与诺奖女科学家聊婚姻、教育和职场，我的人生观受到了冲击](https://www.huxiu.com/article/2966872.html)
+Token length: 2390
+Summarized using GPT-3.5-turbo
+Append: [马斯克来中国看“AI最大的应用场景”](https://www.huxiu.com/article/2967189.html)
+Token length: 2716
+Summarized using GPT-3.5-turbo
+Append: [这届二手房业主，“没点才艺很难卖房”](https://www.huxiu.com/article/2966869.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [年轻人挤破头进社工岗](https://www.huxiu.com/article/2951567.html)
+Token length: 3352
+Summarized using GPT-3.5-turbo
+Append: [在县域加盟海底捞的人](https://www.huxiu.com/article/2966845.html)
+Append: [降低AI大模型幻觉的必由之路](https://www.huxiu.com/article/2963483.html)
+Append: [从保定“车神”传说，看国产汽车的艰难崛起](https://www.huxiu.com/article/2963472.html)
+Append: [精打细算的年轻人，带火五一县城游](https://www.huxiu.com/article/2966369.html)
+Append: [用“吸血鬼面膜”得了艾滋病？](https://www.huxiu.com/article/2966785.html)
+Append: [现在的AI能讲好真实的故事吗？自制AI动画短片《格局》](https://www.huxiu.com/article/2966359.html)
+Append: [号称一剑劈断火枪的马来克力士剑，真的自带邪术吗？](https://www.huxiu.com/article/2966793.html)
+Append: [权力逻辑的转移：从周鸿祎亲自下场当网红说起](https://www.huxiu.com/article/2966363.html)
+Append: [观鸟，让我打开了世界的新图层](https://www.huxiu.com/article/2966331.html)
+Append: [美国经济再通胀，担忧与预期调整](https://www.huxiu.com/article/2962561.html)
+Append: [看不见隐形家务，就是看不见女性](https://www.huxiu.com/article/2966280.html)
+Append: [2个月取消近20场，音乐节的“不可抗力因素”究竟是什么？](https://www.huxiu.com/article/2963078.html)
+Append: [体验叙利亚老板在中国的一天：1颗螺丝钉，年销2.5亿元](https://www.huxiu.com/article/2955176.html)
+append_entries: 22
+Finish: 2024-04-29 08:12:52.744006
