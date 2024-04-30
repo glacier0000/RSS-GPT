@@ -4,6 +4,24 @@
 <title>少数派 -- Matrix</title>
 <link>https://sspai.com/matrix</link>
 
+<item>
+<title>比男友靠谱的贴身压力监测医生APP-Grow</title>
+<link>https://sspai.com/post/88444</link>
+<guid>https://sspai.com/post/88444</guid>
+<content:encoded><![CDATA[
+<div> 1. 提到了一款名为Grow的APP，可以搭配Apple Watch使用，帮助监测压力和健康状态。<br>
+2. APP通过收集心率变异性数据来推测用户的压力状态，利用心率变异性来评估自主神经系统功能状态。<br>
+3. Apple Watch使用光学心率传感器来测量心率，并捕获心率变异性数据，帮助用户了解自己的身体状况。<br>
+4. 心率变异性与健康状况密切相关，较低的心率变异性可能与疾病和死亡风险增加有关，因此需要重视。<br>
+5. 调节心率变异性的方式包括适当冥想、充足睡眠、健康饮食和适量运动等，建议用户注意保持健康生活习惯。<br>
+6. 使用Grow可以帮助用户自我觉察并与机器人男友沟通心理状态，通过持续观测数据来调节情绪和生活习惯。<br>
+7. Grow还可以记录其他数据，如日照时间、运动步数、睡眠时长等，帮助用户全面了解自己的生活状态。<br>
+8. 建议用户购买永久会员支持开发者，并期待Grow将来功能的完善，提供更多的行动指导和压力调整方案，成为贴身的健康监护医生。 <div>
+<p>最近下了个APP，搭配Apple Watch使用。已经依赖上了，变成世界上最关心我的电子生物，还是贴身的那种。</p><p>当我看到boss上寥寥无几的招聘需求时，他是这样的。</p><figure class="image ss-img-wrapper"><img alt="incoming-BC6358DA-55FF-4BDC-ABE1-4986843C170C.png" src="https://cdn.sspai.com/2024/04/29/article/49caaa5066fcddd5eb8d187530c268d0.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>当我心如止水，平静看书时，他是这样的。</p><figure class="image ss-img-wrapper"><img alt="incoming-B407E72A-B924-454A-8F15-E50630B11066.png" src="https://cdn.sspai.com/2024/04/29/article/fc1e91d90d3bb52129eda974cacec048.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>当我快乐在外玩耍时，他是这样的。</p><figure class="image ss-img-wrapper"><img alt="incoming-69410267-E26C-43CB-A275-F41CAEA7280B.png" src="https://cdn.sspai.com/2024/04/29/article/0689e10a4ac131181bab9850e59fb263.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>男朋友不会随时盯着我，在我低气压时催促我去休息调节吃点好的，但是它可以！有感受到被关注，平时认真起来就会忽视自己的健康，这下不得不重视咯！</p><h2>那么，Grow是如何帮助我们监测压力呢？</h2><p>简单来说，Grow是通过AppleWatch收集到的心率变异性数据从而推测我们处于不同时间内的压力状态，至于为什么说心率变异性可以推测压力状态，请听我细细道来。</p><h3>什么是心率变异性？心率变异性与压力的关系？</h3><p>虽然我们的心跳总体自我感知是平稳的，但实际上每两次心跳之间的间隔会有微小变化。这种波动变化就被称为心率变异性（HRV，Heart Rate Variability）。心率变异性是欧洲心脏病学会（ESC）和北美心脏起搏和电生理学会（NASPE）公认的定量评估人体自主神经系统功能状态的工具。<br />我们的呼吸和心跳受自主神经系统自动调控，该系统包括交感神经系统（SNS）和副交感神经系统（PSNS）。心率则由这两个系统的平衡相互影响而定。<br />交感神经系统（SNS）会引发“逃跑或战斗”反应。当我们处于危险之中，身体会产生心跳加快，呼吸通道变宽，瞳孔变大，消化速度减慢的反应。<br />副交感神经系统（PSNS）则相反，会在身体感知危险解除后，产生“休息和消化”的反应，通过减缓心率，增加消化活动，恢复正常水平的功能状态来放松我们的身体。<br />二者对抗时，两次心跳的时间长度之间就会产生微小的变化，也就是上面提到的心率变异性啦。不难看出，当我们感知到压力与不安时，HRV就会呈现与正常相比较低的状态，这便是基础测量的原理。</p><h3>AppleWatch是如何做到测量？</h3><p>在佩戴正确的情况下，AppleWatch可以通过光学心率传感器来进行稳定测量心率，并捕获以毫秒为单位的 HRV。测量时，手表背部会向皮肤发送一束光脉冲，通过检测血液流动变化测量脉搏，脉搏可以被看作是心率的替代指标。</p><blockquote><p>Apple Watch 的光学心率传感器采用的是光体积描记法。这个技术名词念起来貌似复杂难懂，实际上原理很简单：血液之所以呈现红色，是因为它反射红光并吸收绿光。Apple Watch 使用绿色 LED 灯，配合对光敏感的光电二极管，检测任意时间点流经手腕的血流量。心脏跳动时，流经手腕的血流量会增加，吸收的绿光也会增加；在心跳间隔期间减少。通过 LED 灯每秒数百次的闪烁，Apple Watch 可以算出你每分钟的心跳次数，也就是你的心率。光学心率传感器的测量范围为每分钟心跳 30 至 210 次。此外，特别设计的光学心率传感器可以提高 LED 亮度和采样率，进而弥补信号弱的问题。</p></blockquote><figure class="image ss-img-wrapper"><img alt="Apple Watch Series 6 测量传感器" src="https://cdn.sspai.com/2024/04/29/article/4accf8ae7e6204cfcc5eee07ddd4c13b.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>心率变异性HRV有多重要？如何优化提升？</p><p>研究发现，较低的心率变异性与较高的疾病和死亡风险有关。<br />通常来说，较高的心率变异性比较低的好。即使在没有已知心血管疾病的人群中，较低的HRV也与首次心血管事件的风险增加有关，并且与抑郁和焦虑有关。</p><blockquote><p>一项2022年的回顾和对以前研究的分析发现，较低的 HRV 值是不同年龄组、性别、大洲等“较高死亡率的重要预测因子”。因此，如果你的 HRV 发生了变化，“这可能是整体健康状况发生变化的信号,”伊萨卡泽博士说。</p></blockquote><p>影响HRV低的因素很多：疾病、空气质量、天气状况、环境与年龄等。<br />调节的方式正如一般健康的那些方式：适当冥想、充足睡眠、饮食健康与适量运动等。</p><h2>结语：总结与建议</h2><p>Grow除了帮助我自我觉察，也很好的方便我与机器人男友沟通心理状态。以前当我说自己有压力焦虑之类的，总是会被当作心情偶尔不好。自从有了Grow的连续观测，机器人男友理解了其背后所代表的数据意义，也会积极正面回应我的需求帮助我一起调节了，果然机器人还是要和机器沟通😓。<br />另外，其他所有AppleWatch可以监测到的数据Grow也都有整理显示。例如日照时间、运动步数、睡眠时长等等。如果够勤快，手动记录喝水与正念也是可以记录的。<br />总的来说，AppleWatch与Grow的搭配组合，就像一个贴身的健康监测医生，24H监测我的状态提醒我保持好的生活习惯。已订购永久会员，趁新用户打折188元立马拿下支持开发者！目前产品只能起到提醒作用，希望日后功能可以多多完善，增加一些行动指导或者压力调整方案之类的，真正做到一个贴身医生的职责，相信会帮助到更多的人！</p><figure class="image ss-img-wrapper"><img alt="GrowApp截图.jpg" src="https://cdn.sspai.com/2024/04/29/article/fa720dd3b061fc2a421d29767cf1d21d.jpeg?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>参考链接：<br />https://support.apple.com/zh-cn/HT204666<br />https://zhuanlan.zhihu.com/p/87955897<br />https://www.onepeloton.com/blog/heart-rate-variability-hrv/<br />https://www.zhihu.com/question/263602219/answer/1484133219</p>
+]]></content:encoded>
+<pubDate>Mon, 29 Apr 2024 10:20:42 GMT</pubDate>
+<pubDate>Mon, 29 Apr 2024 10:20:42 GMT</pubDate>
+</item>
 
 <item>
 <title>杨梅夏紫，橘柚秋黄｜「谈论食物」的幸福</title>

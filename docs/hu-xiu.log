@@ -4169,3 +4169,45 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-04-30 02:18:36.430484
+Existing_entries: 1000
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 119
+Summarized using GPT-3.5-turbo
+Append: [师门有令，速速归山，张家界旅游旺季到了](https://www.huxiu.com/article/2968580.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [日本，勒着脖子也要贬值](https://www.huxiu.com/article/2970710.html)
+Token length: 119
+Summarized using GPT-3.5-turbo
+Append: [音乐演出经济火热，都是谁在分这杯羹？](https://www.huxiu.com/article/2969327.html)
+Token length: 2719
+Summarized using GPT-3.5-turbo
+Append: [内容游戏的困境：成功率不高，性价比很低](https://www.huxiu.com/article/2969325.html)
+Token length: 3228
+Summarized using GPT-3.5-turbo
+Append: [100亿，“口红一哥”KIKO被卖了](https://www.huxiu.com/article/2967420.html)
+Token length: 1052
+Summarized using GPT-3.5-turbo
+Append: [苹果新iPad尚未发布，就遭欧盟当头一棒](https://www.huxiu.com/article/2970716.html)
+Token length: 2867
+Summarized using GPT-3.5-turbo
+Append: [《不够善良的我们》：简庆芬为什么需要一个“敌人”?](https://www.huxiu.com/article/2969316.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [马斯克希望老朋友再拉一把](https://www.huxiu.com/article/2969335.html)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [百货商场叒倒闭了？中产都不爱逛，百货这是怎么了？](https://www.huxiu.com/article/2968532.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [我在北美送快递：一个VC的尽调手记](https://www.huxiu.com/article/2970441.html)
+Append: [都是贴牌的，哪些“飞利浦”值得买？哪些得多看看？](https://www.huxiu.com/article/2967228.html)
+Append: [如何看待辽宁吉林人口回流趋势？](https://www.huxiu.com/article/2969364.html)
+Append: [AI音乐热潮下，“神曲工作室”率先失业](https://www.huxiu.com/article/2969321.html)
+Append: [TikTok将如何用法律武器打响“自卫战”？](https://www.huxiu.com/article/2967394.html)
+Append: [原点上的失败：十倍执行力提升，可以换来一个成功的AI产品吗？](https://www.huxiu.com/article/2969830.html)
+Append: [问界M7撞死人，华为该背锅吗？](https://www.huxiu.com/article/2969808.html)
+append_entries: 16
+Finish: 2024-04-30 02:19:38.278547
