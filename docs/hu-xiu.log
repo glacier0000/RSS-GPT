@@ -4318,3 +4318,44 @@ Append: [不止上海超级工厂，特斯拉还曾在山东合资投过一家�
 Append: [极端天气下，卫星通信如何救我的命？](https://www.huxiu.com/article/2970974.html)
 append_entries: 18
 Finish: 2024-04-30 08:11:43.564667
+------------------------------------------------------
+Started: 2024-04-30 10:08:17.758269
+Existing_entries: 1018
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 2705
+Summarized using GPT-3.5-turbo
+Append: [面子狂热，里子流血](https://www.huxiu.com/article/2971812.html)
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [芒果，这次“爱芒”押对了](https://www.huxiu.com/article/2967991.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [动力电池出海，谁能赚到钱？](https://www.huxiu.com/article/2970984.html)
+Token length: 3191
+Summarized using GPT-3.5-turbo
+Append: [芒果的ESG超越了九成国内同行，还是被国际机构评为“高风险”](https://www.huxiu.com/article/2970981.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [千亿茅台换帅，为何选中张德芹？](https://www.huxiu.com/article/2972353.html)
+Token length: 2827
+Summarized using GPT-3.5-turbo
+Append: [为什么花园是完美谋杀案的理想场所？](https://www.huxiu.com/article/2860120.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [Suno爆火，AI如何影响音乐圈？](https://www.huxiu.com/article/2972360.html)
+Token length: 135
+Summarized using GPT-3.5-turbo
+Append: [旅行文化如何被网红经济改变？AI史蒂夫对话梭罗](https://www.huxiu.com/article/2971854.html)
+Token length: 2608
+Summarized using GPT-3.5-turbo
+Append: [人均收入十强省份卡位战，最有机会的是这三地](https://www.huxiu.com/article/2972321.html)
+Token length: 3732
+Summarized using GPT-3.5-turbo
+Append: [又一张百亿牌桌要翻？](https://www.huxiu.com/article/2971322.html)
+Append: [美国连环出招，却拿中国电动车没办法？](https://www.huxiu.com/article/2968008.html)
+Append: [用数据可视化，看互联网中小厂的日子到底过得怎么样？](https://www.huxiu.com/article/2972331.html)
+Append: [年轻人为什么爱上逛动物园？](https://www.huxiu.com/article/2971823.html)
+Append: [三大特殊动向，背后有何玄机？](https://www.huxiu.com/article/2969098.html)
+Append: [台剧女人的复兴，刚刚开始](https://www.huxiu.com/article/2971865.html)
+append_entries: 15
+Finish: 2024-04-30 10:09:53.590688
