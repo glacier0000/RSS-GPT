@@ -1747,3 +1747,27 @@ Existing_entries: 161
 Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
 append_entries: 0
 Finish: 2024-04-30 20:07:52.505259
+------------------------------------------------------
+Started: 2024-04-30 22:07:42.994652
+Existing_entries: 161
+Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [试驾完领克07才发现，它竟然堆了这么多料。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654498729&idx=1&sn=63784c1a9ac960e2c08e195ddc1d2ebc&chksm=8b8578aebcf2f1b846105369cd1af37ed3ee88112e5c2b777d422637df36cbb5db5bb83975ec&scene=58&subscene=0)
+Token length: 2724
+Summarized using GPT-3.5-turbo
+Append: [撞车了车门打不开？今天我想再骂骂隐藏式门把手。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654498729&idx=2&sn=5836ac4132f8466bd01906204daa247b&chksm=8b8578aebcf2f1b8cb66401d519eaffeac239cfda0338529ffa71cf3f34ff10ac437e9e08efd&scene=58&subscene=0)
+Token length: 1389
+Summarized using GPT-3.5-turbo
+Append: [你钱包里的这张卡，全国旅游都能刷。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654498729&idx=3&sn=6565c641e21de010b29818cf841df63d&chksm=8b8578aebcf2f1b8b62d4fc6adb2e3e31822da2fa71f72033b7d8d0561822b8ea332bbfc603d&scene=58&subscene=0)
+Token length: 68
+Summarized using GPT-3.5-turbo
+Append: [今日最佳：我的蠢货朋友。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654498729&idx=4&sn=62bf2bae3ec7af9188d7f9424e4d80f1&chksm=8b8578aebcf2f1b8e0a76abdb064f8110421936e990098066f7b9f37bf159f9757f29dfacc6e&scene=58&subscene=0)
+Token length: 30
+Summarized using GPT-3.5-turbo
+Append: [聊一聊：你这个五一有啥安排？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654498729&idx=5&sn=7913268e95a54b825e1dd422f7c07b47&chksm=8b8578aebcf2f1b8951bbbe3cc0cbc42ca20f3b4d2f8a4e5d56f88cb30bb5c9dd04f7682b408&scene=58&subscene=0)
+Token length: 1201
+Summarized using GPT-3.5-turbo
+Append: [余承东卸任华为终端BG CEO，法拉第未来宣布退市，《蛋仔派对》增设消费上限，杭州主城区无人驾驶全开放，这就是今天的其他大新闻！](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654498729&idx=6&sn=abba18167f67d4ffb0078fea261bba55&chksm=8b8578aebcf2f1b8c7051534ede5e3a7ab55f229c13717de0e8d525d2f7f036be68e22b401df&scene=58&subscene=0)
+append_entries: 6
+Finish: 2024-04-30 22:08:19.218807
