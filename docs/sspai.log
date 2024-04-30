@@ -21351,3 +21351,15 @@ error: Error code: 403 - {'error': {'message': '免费API限制模型输入token
 Append: [五一假期将至，用 iPhone 轻松搞定假日出行](https://sspai.com/post/88452)
 append_entries: 1
 Finish: 2024-04-30 10:08:07.120430
+------------------------------------------------------
+Started: 2024-04-30 12:10:52.334940
+Existing_entries: 778
+Fetching from https://rsshub.app/sspai/index
+Token length: 2213
+Summarized using GPT-3.5-turbo
+Append: [小屏手机，一只脚踏进坟地](https://sspai.com/post/88324)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [社区速递 042 | RIME 多端同步、无线充电争议以及派友们的新玩意](https://sspai.com/post/88483)
+append_entries: 2
+Finish: 2024-04-30 12:11:16.750235

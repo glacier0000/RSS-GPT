@@ -4359,3 +4359,27 @@ Append: [三大特殊动向，背后有何玄机？](https://www.huxiu.com/artic
 Append: [台剧女人的复兴，刚刚开始](https://www.huxiu.com/article/2971865.html)
 append_entries: 15
 Finish: 2024-04-30 10:09:53.590688
+------------------------------------------------------
+Started: 2024-04-30 12:11:27.340841
+Existing_entries: 1015
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [12岁，离家千里](https://www.huxiu.com/article/2972399.html)
+Token length: 109
+Summarized using GPT-3.5-turbo
+Append: [《娱乐至死》究竟是一本怎样的书？要辩证看待](https://www.huxiu.com/article/2972409.html)
+Token length: 2894
+Summarized using GPT-3.5-turbo
+Append: [“并购还没热，泡沫就来了”](https://www.huxiu.com/article/2972439.html)
+Token length: 50
+Summarized using GPT-3.5-turbo
+Append: [AI自制反战反恐公益短片《今夜别哭》](https://www.huxiu.com/article/2966366.html)
+Token length: 111
+Summarized using GPT-3.5-turbo
+Append: [裁员10%、取消印度之行，马斯克此次中国行意欲何为？](https://www.huxiu.com/article/2972876.html)
+Token length: 104
+Summarized using GPT-3.5-turbo
+Append: [孔子的救世秘籍：仁爱，礼治，德治，中庸](https://www.huxiu.com/article/2971847.html)
+append_entries: 6
+Finish: 2024-04-30 12:12:36.319752
