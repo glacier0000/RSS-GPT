@@ -4211,3 +4211,33 @@ Append: [原点上的失败：十倍执行力提升，可以换来一个成功�
 Append: [问界M7撞死人，华为该背锅吗？](https://www.huxiu.com/article/2969808.html)
 append_entries: 16
 Finish: 2024-04-30 02:19:38.278547
+------------------------------------------------------
+Started: 2024-04-30 04:10:06.754153
+Existing_entries: 1016
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 200
+Summarized using GPT-3.5-turbo
+Append: [爆改深圳137平，原来学霸家是这样装修的？](https://www.huxiu.com/article/2968504.html)
+Token length: 2091
+Summarized using GPT-3.5-turbo
+Append: [神秘AI大模型一夜刷屏，奥特曼避而不答打哑谜](https://www.huxiu.com/article/2970961.html)
+Token length: 2702
+Summarized using GPT-3.5-turbo
+Append: [又翻车了，大热的AI硬件rabbit r1没用上AI？](https://www.huxiu.com/article/2970752.html)
+Token length: 117
+Summarized using GPT-3.5-turbo
+Append: [黄金搭档离世，孤独的巴菲特今年会给出怎样的启示？](https://www.huxiu.com/article/2970751.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [为我们的资产配置，打造一个武器库](https://www.huxiu.com/article/2970677.html)
+Token length: 107
+Summarized using GPT-3.5-turbo
+Append: [全球头部音乐节IP，科切拉音乐节也卖不动了？](https://www.huxiu.com/article/2962265.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [一穷二白的年轻人，借贷旅行](https://www.huxiu.com/article/2969157.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [谁杀死了餐饮小店？](https://www.huxiu.com/article/2970695.html)
+append_entries: 8
+Finish: 2024-04-30 04:10:46.884980
