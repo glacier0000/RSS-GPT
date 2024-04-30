@@ -4383,3 +4383,27 @@ Summarized using GPT-3.5-turbo
 Append: [孔子的救世秘籍：仁爱，礼治，德治，中庸](https://www.huxiu.com/article/2971847.html)
 append_entries: 6
 Finish: 2024-04-30 12:12:36.319752
+------------------------------------------------------
+Started: 2024-04-30 14:07:51.637458
+Existing_entries: 1006
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [从鸡肉三明治看美国经济背后的隐藏力量](https://www.huxiu.com/article/2973247.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [光伏行业遇到“坎”了：龙头企业首季报“集体转亏”](https://www.huxiu.com/article/2973241.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [花了这么多钱买“加速包”，我高铁票呢？](https://www.huxiu.com/article/2973216.html)
+Token length: 2447
+Summarized using GPT-3.5-turbo
+Append: [世界第一的牛河，竟然不在广东？](https://www.huxiu.com/article/2973009.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.shop 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [日本即将进入“单身税时代”？](https://www.huxiu.com/article/2972966.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.shop 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [“妈妈，上班好累啊”](https://www.huxiu.com/article/2972933.html)
+append_entries: 6
+Finish: 2024-04-30 14:09:04.452878
