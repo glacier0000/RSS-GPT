@@ -21369,3 +21369,12 @@ Existing_entries: 780
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-04-30 14:07:40.906183
+------------------------------------------------------
+Started: 2024-04-30 16:09:17.203890
+Existing_entries: 780
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [本月玩什么 | 波坦尼庄园、太阳之子、哈罗德·哈利巴](https://sspai.com/post/88489)
+append_entries: 1
+Finish: 2024-04-30 16:09:23.500551
