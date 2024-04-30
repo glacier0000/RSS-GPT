@@ -4274,3 +4274,47 @@ error: Error code: 403 - {'error': {'message': '免费API限制模型输入token
 Append: [足疗按摩：当代脆皮年轻人的精神乌托邦](https://www.huxiu.com/article/2970977.html)
 append_entries: 9
 Finish: 2024-04-30 06:10:50.112946
+------------------------------------------------------
+Started: 2024-04-30 08:10:35.411462
+Existing_entries: 1009
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 1917
+Summarized using GPT-3.5-turbo
+Append: [雷军问鼎车展，马斯克赴京不晚](https://www.huxiu.com/article/2971234.html)
+Token length: 99
+Summarized using GPT-3.5-turbo
+Append: [给AI一段抽象的文字，就能创作出一个MV？](https://www.huxiu.com/article/2971215.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [西方公司也讲“拼爹”？](https://www.huxiu.com/article/2970723.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [手游日益“大型化”，成国内游戏基本矛盾？](https://www.huxiu.com/article/2971279.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [戳中年轻人心声的史铁生，为何在日本也备受喜爱？](https://www.huxiu.com/article/2968015.html)
+Token length: 3129
+Summarized using GPT-3.5-turbo
+Append: [行李收费，餐食缩水，传统航司也成“刺客”了](https://www.huxiu.com/article/2971819.html)
+Token length: 1845
+Summarized using GPT-3.5-turbo
+Append: [马斯克访华，伤透了印度人的心](https://www.huxiu.com/article/2971829.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [我们的大学宿舍为啥停留在80年代？](https://www.huxiu.com/article/2971826.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [酒店的“氛围感”灯光，逼疯多少打工人？](https://www.huxiu.com/article/2971300.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [当你老了：献给40岁以上还在求职的朋友](https://www.huxiu.com/article/2971280.html)
+Append: [华人首富CZ：大起大落，引火烧身](https://www.huxiu.com/article/2967156.html)
+Append: [直男天堂迪卡侬，逆势增长的秘密](https://www.huxiu.com/article/2970767.html)
+Append: [美国到底是不能登月，还是不敢再次登月？](https://www.huxiu.com/article/2970761.html)
+Append: [中国4月官方制造业PMI 50.4，连续两个月处于扩张区间](https://www.huxiu.com/article/2971801.html)
+Append: [1分钟搞懂：美国咋又一家银行倒闭了？](https://www.huxiu.com/article/2971247.html)
+Append: [可可价格翻一倍，以后还吃得起巧克力吗？](https://www.huxiu.com/article/2971043.html)
+Append: [不止上海超级工厂，特斯拉还曾在山东合资投过一家公司？](https://www.huxiu.com/article/2971237.html)
+Append: [极端天气下，卫星通信如何救我的命？](https://www.huxiu.com/article/2970974.html)
+append_entries: 18
+Finish: 2024-04-30 08:11:43.564667
