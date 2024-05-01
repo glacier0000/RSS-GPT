@@ -4464,3 +4464,30 @@ Summarized using GPT-3.5-turbo
 Append: [通胀阴霾笼罩，美国第一季度劳动力成本创一年来最大涨幅](https://www.huxiu.com/article/2974776.html)
 append_entries: 3
 Finish: 2024-05-01 02:23:37.102967
+------------------------------------------------------
+Started: 2024-05-01 04:08:48.690523
+Existing_entries: 1003
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 2641
+Summarized using GPT-3.5-turbo
+Append: [社交媒体让我们的关系更亲密了吗？](https://www.huxiu.com/article/2973594.html)
+Token length: 107
+Summarized using GPT-3.5-turbo
+Append: [白马非马，固态如固，固态电池技术真的已经上车了吗？](https://www.huxiu.com/article/2972332.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [适合五一假期做的30件事](https://www.huxiu.com/article/2974798.html)
+Token length: 165
+Summarized using GPT-3.5-turbo
+Append: [从众星捧月到无人问津，环保少女为何跌落神坛？](https://www.huxiu.com/article/2972440.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [这个五一，婚礼人“赚”不动了](https://www.huxiu.com/article/2974822.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [花1万块游七国的女生，凭什么被网暴](https://www.huxiu.com/article/2974821.html)
+Token length: 133
+Summarized using GPT-3.5-turbo
+Append: [如何捕获比子弹快10倍的太空垃圾？](https://www.huxiu.com/article/2972429.html)
+append_entries: 7
+Finish: 2024-05-01 04:09:27.407690
