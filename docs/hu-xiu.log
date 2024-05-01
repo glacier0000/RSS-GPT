@@ -4431,3 +4431,21 @@ Existing_entries: 1000
 Fetching from https://glacier0000.vercel.app/huxiu/article
 append_entries: 0
 Finish: 2024-04-30 22:07:25.060169
+------------------------------------------------------
+Started: 2024-05-01 00:34:13.691220
+Existing_entries: 1000
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [给劳动者的一份平等就业法治指南](https://www.huxiu.com/article/2970750.html)
+Token length: 3066
+Summarized using GPT-3.5-turbo
+Append: [货币版《坠落的审判》：日元跳楼式落体的无奈](https://www.huxiu.com/article/2970769.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [相亲交友骗走我26万后，最难的是承认被骗了](https://www.huxiu.com/article/2969123.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [李书福，“梦醒”了](https://www.huxiu.com/article/2966876.html)
+append_entries: 4
+Finish: 2024-05-01 00:34:35.410102
