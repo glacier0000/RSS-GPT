@@ -4491,3 +4491,18 @@ Summarized using GPT-3.5-turbo
 Append: [如何捕获比子弹快10倍的太空垃圾？](https://www.huxiu.com/article/2972429.html)
 append_entries: 7
 Finish: 2024-05-01 04:09:27.407690
+------------------------------------------------------
+Started: 2024-05-01 06:11:14.135911
+Existing_entries: 1007
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 96
+Summarized using GPT-3.5-turbo
+Append: [无人机空战时代要来了？美国成功测试AI空战](https://www.huxiu.com/article/2972401.html)
+Token length: 109
+Summarized using GPT-3.5-turbo
+Append: [手机届的“赛博掐架”？红米Turbo 3和一加Ace 3V性能对决](https://www.huxiu.com/article/2970975.html)
+Token length: 3269
+Summarized using GPT-3.5-turbo
+Append: [美国网红PE上市，股价飙涨1200%，是真香还是骗局？](https://www.huxiu.com/article/2975064.html)
+append_entries: 3
+Finish: 2024-05-01 06:11:44.802345
