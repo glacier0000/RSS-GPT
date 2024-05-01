@@ -4545,3 +4545,27 @@ Append: [免税店，我们究竟占了谁的便宜？](https://www.huxiu.com/ar
 Append: [“玩儿到服”：科技资本如何驯服硅谷工程师？](https://www.huxiu.com/article/2975065.html)
 append_entries: 13
 Finish: 2024-05-01 08:12:19.332959
+------------------------------------------------------
+Started: 2024-05-01 10:07:47.452765
+Existing_entries: 1013
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 1798
+Summarized using GPT-3.5-turbo
+Append: [金店打响“五一”促销战](https://www.huxiu.com/article/2976450.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [谁影响了我的决策？](https://www.huxiu.com/article/2975571.html)
+Token length: 163
+Summarized using GPT-3.5-turbo
+Append: [烂尾接盘却成神作：《哈尔的移动城堡》为何能封神？](https://www.huxiu.com/article/2973207.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [美团闯中东，能成功吗？](https://www.huxiu.com/article/2973803.html)
+Token length: 3352
+Summarized using GPT-3.5-turbo
+Append: [关于ASML光刻机的权力斗争内幕](https://www.huxiu.com/article/2976122.html)
+Token length: 155
+Summarized using GPT-3.5-turbo
+Append: [不到24小时，马斯克搞定FSD入华最大障碍？](https://www.huxiu.com/article/2971881.html)
+append_entries: 6
+Finish: 2024-05-01 10:08:34.692147
