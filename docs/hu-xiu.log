@@ -4449,3 +4449,18 @@ error: Error code: 403 - {'error': {'message': '免费API限制模型输入token
 Append: [李书福，“梦醒”了](https://www.huxiu.com/article/2966876.html)
 append_entries: 4
 Finish: 2024-05-01 00:34:35.410102
+------------------------------------------------------
+Started: 2024-05-01 02:23:16.564744
+Existing_entries: 1004
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [卖二手车给俄罗斯，中国倒爷一个月戴上劳力士](https://www.huxiu.com/article/2967207.html)
+Token length: 128
+Summarized using GPT-3.5-turbo
+Append: [净利润连续暴跌，“更适合中国宝宝”的飞鹤感到非常不适](https://www.huxiu.com/article/2972345.html)
+Token length: 959
+Summarized using GPT-3.5-turbo
+Append: [通胀阴霾笼罩，美国第一季度劳动力成本创一年来最大涨幅](https://www.huxiu.com/article/2974776.html)
+append_entries: 3
+Finish: 2024-05-01 02:23:37.102967
