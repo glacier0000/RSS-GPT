@@ -4,21 +4,22 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>有没有在singlefile保存前全部展开知乎所有回答和所有评论的脚本？</title>
 <link>https://meta.appinn.net/t/topic/55912</link>
 <guid>https://meta.appinn.net/t/topic/55912</guid>
 <content:encoded><![CDATA[
 <div> 1. 知乎现在无法通过Wayback Machine进行页面存档，因此使用SingleFile这个工具。
-<br>
+<br />
 
 2. 在使用SingleFile时，遇到了一些问题，例如要展开评论需要点击按钮，而且页面需要滚动到底部才加载下一页内容。
-<br>
+<br />
 
 3. 了解到这些问题后，我们可以考虑采取一些策略来解决：
    - 首先，针对评论的展开问题，可以通过修改SingleFile的设置或者编写自定义脚本来自动展开评论，以便更好地进行存档。
    - 其次，针对页面加载下一页的方式，可能需要等待页面完全加载后再进行存档，或者同样通过编写脚本来模拟滚动操作，以确保所有内容都被正确地存档。
-<br>
+<br />
 
 4. 总的来说，虽然遇到了一些技术上的挑战，但通过适当的调整和技术手段，我们可以有效地使用SingleFile来对知乎页面进行存档，以便后续的参考和分析。 <div>
 <p>知乎现在不能用waybackmarchine做archive了，只好用singlefile<br />
@@ -27,9 +28,7 @@
             <p><a href="https://meta.appinn.net/t/topic/55912">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 01 May 2024 18:05:56 +0000</pubDate>
-<pubDate>Wed, 01 May 2024 18:05:56 +0000</pubDate>
 </item>
-
 <item>
 <title>【自荐】摄影 App 胶片拾光，五一促销：1元买断</title>
 <link>https://meta.appinn.net/t/topic/55899</link>
