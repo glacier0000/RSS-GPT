@@ -4506,3 +4506,42 @@ Summarized using GPT-3.5-turbo
 Append: [美国网红PE上市，股价飙涨1200%，是真香还是骗局？](https://www.huxiu.com/article/2975064.html)
 append_entries: 3
 Finish: 2024-05-01 06:11:44.802345
+------------------------------------------------------
+Started: 2024-05-01 08:11:04.672374
+Existing_entries: 1003
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [阿斯麦断供，结果适得其反？](https://www.huxiu.com/article/2972934.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [无需羡慕留在县城的那些人](https://www.huxiu.com/article/2973785.html)
+Token length: 2110
+Summarized using GPT-3.5-turbo
+Append: [民航盈利格局洗牌，春秋继续称王](https://www.huxiu.com/article/2976111.html)
+Token length: 2496
+Summarized using GPT-3.5-turbo
+Append: [港澳五一抢内地游客](https://www.huxiu.com/article/2976112.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [五一“人群”躲避指南](https://www.huxiu.com/article/2973286.html)
+Token length: 3621
+Summarized using GPT-3.5-turbo
+Append: [中国景区的心机，从改名开始](https://www.huxiu.com/article/2975604.html)
+Token length: 167
+Summarized using GPT-3.5-turbo
+Append: [万物DIY的魅力，千元到万元3D打印机横评](https://www.huxiu.com/article/2973004.html)
+Token length: 118
+Summarized using GPT-3.5-turbo
+Append: [出口不重要了吗？解读如今中国出口的真实情况](https://www.huxiu.com/article/2973243.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [房思琪的故事被拍成了电影，但远远不够](https://www.huxiu.com/article/2973291.html)
+Token length: 601
+Summarized using GPT-3.5-turbo
+Append: [广东梅大高速茶阳路段路面塌陷事故致19人死亡](https://www.huxiu.com/article/2976108.html)
+Append: [当大龄司机卷进网约车](https://www.huxiu.com/article/2975111.html)
+Append: [免税店，我们究竟占了谁的便宜？](https://www.huxiu.com/article/2972911.html)
+Append: [“玩儿到服”：科技资本如何驯服硅谷工程师？](https://www.huxiu.com/article/2975065.html)
+append_entries: 13
+Finish: 2024-05-01 08:12:19.332959
