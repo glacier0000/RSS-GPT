@@ -4691,3 +4691,21 @@ Summarized using GPT-3.5-turbo
 Append: [马斯克砍光超充团队，整个美国电车业都懵了](https://www.huxiu.com/article/2978748.html)
 append_entries: 3
 Finish: 2024-05-02 06:10:28.698931
+------------------------------------------------------
+Started: 2024-05-02 08:09:47.350923
+Existing_entries: 1003
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: [马斯克访华背后，一条新的“鲶鱼”将进入中国市场](https://www.huxiu.com/article/2968553.html)
+Token length: 2601
+Summarized using GPT-3.5-turbo
+Append: [全国第六城争夺战：苏州暂时领先，成都靠什么反超？](https://www.huxiu.com/article/2978941.html)
+Token length: 2728
+Summarized using GPT-3.5-turbo
+Append: [十家电影公司2023年报观察：春回影市，修复加速](https://www.huxiu.com/article/2978939.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [纽约梅隆财富管理CIO：“七巨头”以外的投资机会到了](https://www.huxiu.com/article/2978745.html)
+append_entries: 4
+Finish: 2024-05-02 08:10:42.810797
