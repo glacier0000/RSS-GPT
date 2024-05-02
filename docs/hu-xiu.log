@@ -4676,3 +4676,18 @@ Summarized using GPT-3.5-turbo
 Append: [暴雨、狂风、冰雹，今年4月为何频发强对流天气？](https://www.huxiu.com/article/2976436.html)
 append_entries: 8
 Finish: 2024-05-02 04:10:00.965289
+------------------------------------------------------
+Started: 2024-05-02 06:09:44.389873
+Existing_entries: 1008
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 2092
+Summarized using GPT-3.5-turbo
+Append: [全新神经网络架构KAN一夜爆火，能干掉MLP？](https://www.huxiu.com/article/2978766.html)
+Token length: 75
+Summarized using GPT-3.5-turbo
+Append: [智能化体验大比拼，哪家车企体验更好？](https://www.huxiu.com/article/2967411.html)
+Token length: 2390
+Summarized using GPT-3.5-turbo
+Append: [马斯克砍光超充团队，整个美国电车业都懵了](https://www.huxiu.com/article/2978748.html)
+append_entries: 3
+Finish: 2024-05-02 06:10:28.698931
