@@ -4741,3 +4741,24 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-05-02 16:08:21.285698
+Existing_entries: 1004
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 1183
+Summarized using GPT-3.5-turbo
+Append: [真正的一线代理商是怎么做生意的？](https://www.huxiu.com/article/2979731.html)
+Token length: 3426
+Summarized using GPT-3.5-turbo
+Append: [4月港股领涨全球：“反弹”还是“拐点已至”？](https://www.huxiu.com/article/2979461.html)
+Token length: 1647
+Summarized using GPT-3.5-turbo
+Append: [十年](https://www.huxiu.com/article/2979477.html)
+Token length: 1932
+Summarized using GPT-3.5-turbo
+Append: [“元”与“円”：汉字在中日两国的变迁](https://www.huxiu.com/article/2979182.html)
+Token length: 3176
+Summarized using GPT-3.5-turbo
+Append: [投行人转型：从卖理财开始](https://www.huxiu.com/article/2979170.html)
+append_entries: 5
+Finish: 2024-05-02 16:09:17.742382
