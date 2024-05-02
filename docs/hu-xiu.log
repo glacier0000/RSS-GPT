@@ -4646,3 +4646,33 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-05-02 04:09:04.446694
+Existing_entries: 1002
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 120
+Summarized using GPT-3.5-turbo
+Append: [投流公司，咪蒙短剧背后的男人们](https://www.huxiu.com/article/2977046.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [企业出海遭遇“产能过剩论”，如何讲好品牌故事？](https://www.huxiu.com/article/2978549.html)
+Token length: 107
+Summarized using GPT-3.5-turbo
+Append: [我们用深圳速度，做了一支关于深圳的视频](https://www.huxiu.com/article/2975609.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [面对高铁上嚎叫的小孩，降噪耳机为什么屁用没有？](https://www.huxiu.com/article/2975552.html)
+Token length: 1815
+Summarized using GPT-3.5-turbo
+Append: [Anthropic推出Claude iOS版应用，能硬刚ChatGPT？](https://www.huxiu.com/article/2977699.html)
+Token length: 112
+Summarized using GPT-3.5-turbo
+Append: [一到过节放假旅游景区人挤人，这件事谁来背锅？](https://www.huxiu.com/article/2976800.html)
+Token length: 3507
+Summarized using GPT-3.5-turbo
+Append: [余承东，要All in汽车了？](https://www.huxiu.com/article/2976135.html)
+Token length: 1948
+Summarized using GPT-3.5-turbo
+Append: [暴雨、狂风、冰雹，今年4月为何频发强对流天气？](https://www.huxiu.com/article/2976436.html)
+append_entries: 8
+Finish: 2024-05-02 04:10:00.965289
