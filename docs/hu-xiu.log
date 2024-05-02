@@ -4709,3 +4709,21 @@ error: Error code: 403 - {'error': {'message': '免费API限制模型输入token
 Append: [纽约梅隆财富管理CIO：“七巨头”以外的投资机会到了](https://www.huxiu.com/article/2978745.html)
 append_entries: 4
 Finish: 2024-05-02 08:10:42.810797
+------------------------------------------------------
+Started: 2024-05-02 10:08:23.981497
+Existing_entries: 1004
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 3249
+Summarized using GPT-3.5-turbo
+Append: [进了特斯拉的应届生：未毕业，已失业](https://www.huxiu.com/article/2979168.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [为何不能简单地将中国经验复制到海外市场？](https://www.huxiu.com/article/2979167.html)
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: [特斯拉智驾入华，再次引领新能源汽车？](https://www.huxiu.com/article/2977299.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [时速400公里的高铁：大国铁路的野望与挑战](https://www.huxiu.com/article/2971859.html)
+append_entries: 4
+Finish: 2024-05-02 10:08:54.431863
