@@ -4838,3 +4838,24 @@ Append: [《阿修罗》：在地狱里挣扎](https://www.huxiu.com/article/298
 Append: [如何保障打工人的“离线权”？](https://www.huxiu.com/article/2979970.html)
 append_entries: 13
 Finish: 2024-05-03 04:12:34.056680
+------------------------------------------------------
+Started: 2024-05-03 06:11:26.061752
+Existing_entries: 1013
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [五一在家的你，请收下这份高效能笔记法](https://www.huxiu.com/article/2981455.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [世界上最惊喜的旅行盲盒，是这一款](https://www.huxiu.com/article/2981912.html)
+Token length: 3046
+Summarized using GPT-3.5-turbo
+Append: [品牌反内卷“七不”原则](https://www.huxiu.com/article/2981910.html)
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [杨幂新剧播出，“掀桌文学”又开始了？](https://www.huxiu.com/article/2979164.html)
+Token length: 1069
+Summarized using GPT-3.5-turbo
+Append: [谷歌“核心”团队裁员200人，部分岗位移至印度、墨西哥](https://www.huxiu.com/article/2981792.html)
+append_entries: 5
+Finish: 2024-05-03 06:13:55.425564
