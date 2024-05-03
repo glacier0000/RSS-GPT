@@ -4901,3 +4901,21 @@ error: Error code: 403 - {'error': {'message': '免费API限制模型输入token
 Append: [一个学哲学的，成了全网最敢说的美食博主](https://www.huxiu.com/article/2982484.html)
 append_entries: 2
 Finish: 2024-05-03 12:11:47.584152
+------------------------------------------------------
+Started: 2024-05-03 14:07:32.204279
+Existing_entries: 1002
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [清北商科毕业生“疯狂赚钱”的野心落空后](https://www.huxiu.com/article/2982959.html)
+Token length: 2692
+Summarized using GPT-3.5-turbo
+Append: [中美AI的破冰时刻](https://www.huxiu.com/article/2982968.html)
+Token length: 2532
+Summarized using GPT-3.5-turbo
+Append: [“卑微的”银行信贷员，追着去放贷](https://www.huxiu.com/article/2982680.html)
+Token length: 2517
+Summarized using GPT-3.5-turbo
+Append: [古镇太多，大鱿鱼不够卖了](https://www.huxiu.com/article/2982674.html)
+append_entries: 4
+Finish: 2024-05-03 14:09:14.699442
