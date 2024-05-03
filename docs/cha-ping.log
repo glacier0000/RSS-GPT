@@ -2002,3 +2002,27 @@ Existing_entries: 178
 Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
 append_entries: 0
 Finish: 2024-05-03 16:09:12.596721
+------------------------------------------------------
+Started: 2024-05-03 18:09:34.943932
+Existing_entries: 178
+Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
+Token length: 2695
+Summarized using GPT-3.5-turbo
+Append: [台积电砸了600多亿的厂不能开工，竟然是因为美国工程师太懒。。。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654499273&idx=1&sn=8029bd453d4926b3b915d3fcddd6d06b&chksm=8b8566cebcf2efd82e7b8a319051ac876d78d0638305423ae0fc3ac76c91ca583802c371a53f&scene=58&subscene=0)
+Token length: 2581
+Summarized using GPT-3.5-turbo
+Append: [中东土豪们开始用钞能力实现“马里奥赛车”了？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654499273&idx=2&sn=8b03488050d3f9089a840104a247c132&chksm=8b8566cebcf2efd837fb0feee0642bd1e215361dee23309b554efae49be99e5de2cf2e098eaa&scene=58&subscene=0)
+Token length: 2742
+Summarized using GPT-3.5-turbo
+Append: [苹果首款第三方应用商店上线了，但竟然要收费。。。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654499273&idx=3&sn=8faab6855de41b0c53926ca30c798c6c&chksm=8b8566cebcf2efd8a03c5398efdd1121d20766a1d6efc1bb7524d666ddc14e02533bf8026e49&scene=58&subscene=0)
+Token length: 94
+Summarized using GPT-3.5-turbo
+Append: [今日最佳：现身说法。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654499273&idx=4&sn=2eb54d5cec0618915759578e48b2a28e&chksm=8b8566cebcf2efd829cd2cd22aa07f50119d947f0ce6ece822e69f6a42beba4972fd605000aa&scene=58&subscene=0)
+Token length: 33
+Summarized using GPT-3.5-turbo
+Append: [聊一聊：你出去旅游做攻略吗？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654499273&idx=5&sn=dd94e06f75fcdc5e7bd26d304e9c04e0&chksm=8b8566cebcf2efd84504e2f90dae4464900b430cf95514b5279df656b3306ba26dd408df1a14&scene=58&subscene=0)
+Token length: 1106
+Summarized using GPT-3.5-turbo
+Append: [嫦娥六号奔月成功，苹果发布财报，网传OpenAI要出搜索产品，太阳爆发强耀斑，这就是今天的其他大新闻！](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654499273&idx=6&sn=4b3c52fedcbacbe201d7e0cb385b400e&chksm=8b8566cebcf2efd8b162ec59ff7129e475123690263325a6a62eba5e42cf2493e80419f49ace&scene=58&subscene=0)
+append_entries: 6
+Finish: 2024-05-03 18:16:12.944677
