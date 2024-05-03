@@ -4,6 +4,27 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+<item>
+<title>Chrome的同步机制可以单向同步吗?</title>
+<link>https://meta.appinn.net/t/topic/55953</link>
+<guid>https://meta.appinn.net/t/topic/55953</guid>
+<content:encoded><![CDATA[
+<div> 1. 功能说明：同步历史记录
+
+2. 同步方向：单向（电脑端 -> 手机端）
+
+3. 不同步方向：单向（手机端 -> 电脑端）
+
+4. 特点：只同步电脑端的历史记录，不影响手机端的历史记录
+
+5. 输出示例：电脑端浏览器的历史记录可以同步到手机端，方便用户在不同设备上浏览网页，但是手机端的历史记录不会同步到电脑端。<br> <div>
+<p>就是把电脑端的历史记录单向同步给手机端, 但是手机端的历史记录不同步给桌面端</p>
+            <p><small>2 个帖子 - 2 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/55953">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Fri, 03 May 2024 08:28:38 +0000</pubDate>
+<pubDate>Fri, 03 May 2024 08:28:38 +0000</pubDate>
+</item>
 
 <item>
 <title>有没有在singlefile保存前全部展开知乎所有回答和所有评论的脚本？</title>
