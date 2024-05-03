@@ -4799,3 +4799,42 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-05-03 04:10:29.431702
+Existing_entries: 1002
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 133
+Summarized using GPT-3.5-turbo
+Append: [小霸王走上巅峰，是因为段永平的“三把火”？](https://www.huxiu.com/article/2981746.html)
+Token length: 4081
+Summarized using GPT-3.5-turbo
+Append: [400亿，球星杜兰特将收获一个IPO](https://www.huxiu.com/article/2981753.html)
+Token length: 3149
+Summarized using GPT-3.5-turbo
+Append: [1100亿美元：苹果将启动史上最大规模回购](https://www.huxiu.com/article/2981745.html)
+Token length: 132
+Summarized using GPT-3.5-turbo
+Append: [网红商业街简史：从长红百年，到千篇一律](https://www.huxiu.com/article/2978943.html)
+Token length: 2949
+Summarized using GPT-3.5-turbo
+Append: [你不会真以为，周鸿祎被耍了吧？](https://www.huxiu.com/article/2980418.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [五一档两天破8亿：有小惊喜，没有王炸](https://www.huxiu.com/article/2981463.html)
+Token length: 127
+Summarized using GPT-3.5-turbo
+Append: [足疗，年轻人的短效孟婆汤](https://www.huxiu.com/article/2979188.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [单身同居的女人们：搭伙过日子，为什么非要找对象](https://www.huxiu.com/article/2981471.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [继火药和核武器之后，AI将带来第三次战争革命？](https://www.huxiu.com/article/2981445.html)
+Token length: 169
+Summarized using GPT-3.5-turbo
+Append: [西方环保组织：可以不活，但不能没活？](https://www.huxiu.com/article/2972426.html)
+Append: [钻石卖得不好，戴比尔斯可能要被卖了](https://www.huxiu.com/article/2979454.html)
+Append: [《阿修罗》：在地狱里挣扎](https://www.huxiu.com/article/2980407.html)
+Append: [如何保障打工人的“离线权”？](https://www.huxiu.com/article/2979970.html)
+append_entries: 13
+Finish: 2024-05-03 04:12:34.056680
