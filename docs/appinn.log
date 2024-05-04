@@ -24057,3 +24057,14 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-05-04 08:08:37.607203
+------------------------------------------------------
+Started: 2024-05-04 10:06:00.075194
+Existing_entries: 378
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Token length: 2735
+Summarized using GPT-3.5-turbo
+Append: [【开发者自荐】人生之书，写一本指引你生活的书](https://meta.appinn.net/t/topic/55985)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-05-04 10:06:49.076011
