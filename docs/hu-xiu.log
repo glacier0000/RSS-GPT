@@ -4968,3 +4968,10 @@ Summarized using GPT-3.5-turbo
 Append: [苹果，正变成一家卖梦的公司](https://www.huxiu.com/article/2984251.html)
 append_entries: 2
 Finish: 2024-05-04 02:17:18.820426
+------------------------------------------------------
+Started: 2024-05-04 04:09:34.627378
+Existing_entries: 1002
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
