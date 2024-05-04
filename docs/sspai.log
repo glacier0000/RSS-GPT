@@ -21666,3 +21666,12 @@ Summarized using GPT-3.5-turbo
 Append: [8. 处理图像实例：批量清理截图状态栏](https://sspai.com/post/79283)
 append_entries: 2
 Finish: 2024-05-04 06:09:53.462417
+------------------------------------------------------
+Started: 2024-05-04 08:08:42.287424
+Existing_entries: 791
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [比装备推荐更重要的户外知识：重装徒步入坑指南](https://sspai.com/post/88425)
+append_entries: 1
+Finish: 2024-05-04 08:08:47.403410
