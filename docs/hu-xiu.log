@@ -5037,3 +5037,21 @@ Append: [MIT校长对话奥特曼：GPT-5或将数据与推理引擎分离](http
 Append: [史上首次，嫦娥六号要从月球背面“挖土”回来](https://www.huxiu.com/article/2984271.html)
 append_entries: 15
 Finish: 2024-05-04 12:12:45.066551
+------------------------------------------------------
+Started: 2024-05-04 14:07:12.005031
+Existing_entries: 1015
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [闵熙珍的“发疯式控诉”，揭开韩娱权力关系的一角](https://www.huxiu.com/article/2986027.html)
+Token length: 1939
+Summarized using GPT-3.5-turbo
+Append: [美国“抓内鬼”：指控页岩油巨头“串通”OPEC，抬高油价](https://www.huxiu.com/article/2986381.html)
+Token length: 3135
+Summarized using GPT-3.5-turbo
+Append: [腋下“减不掉”的肉，根本就不是副乳？](https://www.huxiu.com/article/2986360.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [10亿美元押注世俱杯，苹果的体育版权争夺战](https://www.huxiu.com/article/2986025.html)
+append_entries: 4
+Finish: 2024-05-04 14:07:43.939745
