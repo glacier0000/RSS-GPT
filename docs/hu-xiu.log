@@ -4996,3 +4996,44 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-05-04 12:11:12.861897
+Existing_entries: 1002
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 3104
+Summarized using GPT-3.5-turbo
+Append: [米其林餐厅接连闭店，“高端西餐”过气了吗？](https://www.huxiu.com/article/2971204.html)
+Token length: 2913
+Summarized using GPT-3.5-turbo
+Append: [巅峰市值580亿，这家电车独角兽要破产了](https://www.huxiu.com/article/2985582.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [还没适应社会的大学生，迈出了象牙塔](https://www.huxiu.com/article/2985407.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [一个野生的电影节，为谁而办？](https://www.huxiu.com/article/2985045.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [接班计划、澄清神秘持股、规划卸任后的未来？巴菲特在股东大会也许说这些](https://www.huxiu.com/article/2985064.html)
+Token length: 3455
+Summarized using GPT-3.5-turbo
+Append: [终于有正经AI硬件了，一台能写诗的“拍立得”](https://www.huxiu.com/article/2985057.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [地不好卖了，“数据城投”跑步进场](https://www.huxiu.com/article/2985074.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [从头开始做一个只有AI智能体的公司，需要哪几步？](https://www.huxiu.com/article/2983424.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [对比10款主流AI翻译工具后，我找到了最适合你的翻译神器](https://www.huxiu.com/article/2985066.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [路风：不要对中国工业发展自我设限](https://www.huxiu.com/article/2985071.html)
+Append: [李飞飞首次创业：成立“空间智能”公司，已完成种子轮](https://www.huxiu.com/article/2984537.html)
+Append: [赶在回忆消失之前，留住山城的旧时光](https://www.huxiu.com/article/2974229.html)
+Append: [港股、人民币、中概股提前猛攻](https://www.huxiu.com/article/2984531.html)
+Append: [MIT校长对话奥特曼：GPT-5或将数据与推理引擎分离](https://www.huxiu.com/article/2981775.html)
+Append: [史上首次，嫦娥六号要从月球背面“挖土”回来](https://www.huxiu.com/article/2984271.html)
+append_entries: 15
+Finish: 2024-05-04 12:12:45.066551
