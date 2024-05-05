@@ -2164,3 +2164,24 @@ Existing_entries: 184
 Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
 append_entries: 0
 Finish: 2024-05-05 16:09:26.786768
+------------------------------------------------------
+Started: 2024-05-05 18:08:34.953945
+Existing_entries: 184
+Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
+Token length: 1148
+Summarized using GPT-3.5-turbo
+Append: [专家称高铁涨价是必要的，花钱可解锁特斯拉续航，索尼绑定PSN惹众怒，谷歌新验证系统不支持火狐，这就是今天的其他大新闻！](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654499324&idx=1&sn=85e7f1872c9e876006e8f4db9c8498c9&chksm=8b8566fbbcf2efed91f4042f17af09f222f13cef76a386202bec7f59e9b9eb76a663b4e4bff2&scene=58&subscene=0)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [固态电池来了？完了，又被车企找到东西吹了。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654499324&idx=2&sn=191f4b2f22bef0a8f30227317c2dba10&chksm=8b8566fbbcf2efeda7f9765e3b995a6df442bf835c8740323126dd8ce5e4e21c41627e6bb3b0&scene=58&subscene=0)
+Token length: 2894
+Summarized using GPT-3.5-turbo
+Append: [练习两年半的扎克伯克，快把 meta 鼓捣成 VR界安卓了。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654499324&idx=3&sn=06980e56f4ad49952761f138fda754c5&chksm=8b8566fbbcf2efed079ac6616374138619dab58e4dae2e63dcade74c559e2a008f6650356527&scene=58&subscene=0)
+Token length: 77
+Summarized using GPT-3.5-turbo
+Append: [今日最佳：见过大熊猫的进来评评理。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654499324&idx=4&sn=704739b8e3f3eee3232d5b1a580d46d3&chksm=8b8566fbbcf2efed3e9b7a1f19e1c88bb28083373a69cd11f7565aced752f772019cbaf42d4d&scene=58&subscene=0)
+Token length: 33
+Summarized using GPT-3.5-turbo
+Append: [聊一聊：你抢到回程的票了吗？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654499324&idx=5&sn=497df117ffea2a10ba8a3575c122cd3b&chksm=8b8566fbbcf2efed13156a179f0b63eb4d43dd9807b73c944744f4599a187572679f31ec4222&scene=58&subscene=0)
+append_entries: 5
+Finish: 2024-05-05 18:08:59.743512
