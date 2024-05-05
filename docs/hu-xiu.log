@@ -5194,3 +5194,10 @@ error: Error code: 403 - {'error': {'message': '免费API限制模型输入token
 Append: [广东“重口味”之城韶关，如何香翻全省？](https://www.huxiu.com/article/2918730.html)
 append_entries: 4
 Finish: 2024-05-05 12:11:55.999797
+------------------------------------------------------
+Started: 2024-05-05 14:04:40.224179
+Existing_entries: 1004
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
