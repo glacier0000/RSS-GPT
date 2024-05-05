@@ -5176,3 +5176,21 @@ Summarized using GPT-3.5-turbo
 Append: [我在上海开出租，每天出车就像开盲盒](https://www.huxiu.com/article/2988090.html)
 append_entries: 10
 Finish: 2024-05-05 10:08:54.937386
+------------------------------------------------------
+Started: 2024-05-05 12:11:19.831942
+Existing_entries: 1010
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 3239
+Summarized using GPT-3.5-turbo
+Append: [谷歌搜索可能被强制拆分？](https://www.huxiu.com/article/2989405.html)
+Token length: 3737
+Summarized using GPT-3.5-turbo
+Append: [人见人烦的“已读”功能，究竟从何而来？](https://www.huxiu.com/article/2989027.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [这次，东北总算接住“泼天的富贵”](https://www.huxiu.com/article/2989041.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [广东“重口味”之城韶关，如何香翻全省？](https://www.huxiu.com/article/2918730.html)
+append_entries: 4
+Finish: 2024-05-05 12:11:55.999797
