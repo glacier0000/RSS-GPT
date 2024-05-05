@@ -5099,3 +5099,30 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-05-05 04:09:22.933762
+Existing_entries: 1002
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [谁是2023年人口增长最多的城市？](https://www.huxiu.com/article/2981963.html)
+Token length: 2778
+Summarized using GPT-3.5-turbo
+Append: [假期快结束了，我还堵在路上](https://www.huxiu.com/article/2987608.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [日元与我](https://www.huxiu.com/article/2987597.html)
+Token length: 1698
+Summarized using GPT-3.5-turbo
+Append: [油价单周下跌6%，接下来两个月是关键？](https://www.huxiu.com/article/2987629.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [“脏脏的”印度，为何有个干净的城市](https://www.huxiu.com/article/2987410.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [今年股东大会，巴菲特说了什么？](https://www.huxiu.com/article/2987609.html)
+Token length: 110
+Summarized using GPT-3.5-turbo
+Append: [美联储哪种情景会降息？鲍威尔透露了哪些信号？](https://www.huxiu.com/article/2978073.html)
+append_entries: 7
+Finish: 2024-05-05 04:10:10.653060
