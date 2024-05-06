@@ -5237,3 +5237,30 @@ Existing_entries: 1000
 Fetching from https://glacier0000.vercel.app/huxiu/article
 append_entries: 0
 Finish: 2024-05-05 22:05:10.756443
+------------------------------------------------------
+Started: 2024-05-06 00:32:37.311446
+Existing_entries: 1000
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 2917
+Summarized using GPT-3.5-turbo
+Append: [因为一首歌，解锁一座城](https://www.huxiu.com/article/2990498.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [出狱后，他成为一名写作者](https://www.huxiu.com/article/2973264.html)
+Token length: 2823
+Summarized using GPT-3.5-turbo
+Append: [为什么五一酒店价格没涨起来？](https://www.huxiu.com/article/2990891.html)
+Token length: 2745
+Summarized using GPT-3.5-turbo
+Append: [苹果首款第三方应用商店上线了，但竟然要收费](https://www.huxiu.com/article/2983428.html)
+Token length: 2202
+Summarized using GPT-3.5-turbo
+Append: [农家乐为何成了“明日黄花”？](https://www.huxiu.com/article/2990888.html)
+Token length: 3332
+Summarized using GPT-3.5-turbo
+Append: [巨头角力将见分晓](https://www.huxiu.com/article/2985085.html)
+Token length: 3295
+Summarized using GPT-3.5-turbo
+Append: [第一批搬去新加坡的中产：没200万年薪，撑不下去](https://www.huxiu.com/article/2926966.html)
+append_entries: 7
+Finish: 2024-05-06 00:34:05.592158
