@@ -5376,3 +5376,39 @@ Append: [“剧透”一下苹果的AI iPad](https://www.huxiu.com/article/29886
 Append: [他们想做畅销书：流量中的图书编辑们](https://www.huxiu.com/article/2991138.html)
 append_entries: 11
 Finish: 2024-05-06 06:12:27.532887
+------------------------------------------------------
+Started: 2024-05-06 08:10:29.895019
+Existing_entries: 1011
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 1553
+Summarized using GPT-3.5-turbo
+Append: [一个失败的创业案例和一个价值百亿的产品设计](https://www.huxiu.com/article/2978034.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [硅谷AI工程师，被迫“内卷”](https://www.huxiu.com/article/2988675.html)
+Token length: 124
+Summarized using GPT-3.5-turbo
+Append: [一年开店几千家，资本热捧的网红炸串为何如此疯狂？](https://www.huxiu.com/article/2991509.html)
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: [港股暴涨，制造业回落，楼市涨价去库存？](https://www.huxiu.com/article/2987163.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [程序员的归宿](https://www.huxiu.com/article/2992510.html)
+Token length: 127
+Summarized using GPT-3.5-turbo
+Append: [对比曾经战无不胜的神机，华为重返巅峰还需多久？](https://www.huxiu.com/article/2991128.html)
+Token length: 2603
+Summarized using GPT-3.5-turbo
+Append: [3元畅饮、15元畅吃，自助餐再次成为新潮流？](https://www.huxiu.com/article/2992048.html)
+Token length: 72
+Summarized using GPT-3.5-turbo
+Append: [手机大模型体验横评，AI能替我们做什么？](https://www.huxiu.com/article/2991515.html)
+Token length: 96
+Summarized using GPT-3.5-turbo
+Append: [发烧能治病？“变蒸”能否开启人类第三次进化？](https://www.huxiu.com/article/2984570.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [“掼蛋之乡”淮安，批量诞生千亿LP](https://www.huxiu.com/article/2991986.html)
+append_entries: 10
+Finish: 2024-05-06 08:11:29.740480

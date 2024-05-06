@@ -21831,3 +21831,15 @@ error: Error code: 403 - {'error': {'message': '免费API限制模型输入token
 Append: [喀拉峻的瞬间](https://sspai.com/post/88505)
 append_entries: 1
 Finish: 2024-05-06 06:10:58.625799
+------------------------------------------------------
+Started: 2024-05-06 08:09:57.064638
+Existing_entries: 798
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [从 1.0 到 95，见证 Windows 界面从青涩到成熟](https://sspai.com/post/87835)
+Token length: 2312
+Summarized using GPT-3.5-turbo
+Append: [理解 Keynote「神奇移动」效果的原理](https://sspai.com/post/77495)
+append_entries: 2
+Finish: 2024-05-06 08:10:18.763414
