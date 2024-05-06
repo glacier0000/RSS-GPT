@@ -5474,3 +5474,39 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-05-06 16:09:15.813203
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 3313
+Summarized using GPT-3.5-turbo
+Append: [这个五一，游客变抠了](https://www.huxiu.com/article/2994337.html)
+Token length: 2473
+Summarized using GPT-3.5-turbo
+Append: [《自然》最新研究：只需8周，运动全面改变身体](https://www.huxiu.com/article/2993998.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [被滥用的竞业协议，正在国外逐步禁止](https://www.huxiu.com/article/2994028.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [中国男人真的不爱穿西装吗？](https://www.huxiu.com/article/2993996.html)
+Token length: 1957
+Summarized using GPT-3.5-turbo
+Append: [年薪百万，每年还发股票，英伟达员工还是觉得赚少了](https://www.huxiu.com/article/2994013.html)
+Token length: 1798
+Summarized using GPT-3.5-turbo
+Append: [为了AI，苹果要把最强芯片M4首发iPad？](https://www.huxiu.com/article/2993977.html)
+Token length: 2390
+Summarized using GPT-3.5-turbo
+Append: [居民医保个人筹资机制，面临哪些困境](https://www.huxiu.com/article/2993978.html)
+Token length: 3337
+Summarized using GPT-3.5-turbo
+Append: [跳过5G和5G-A，直接发展6G，可行吗？](https://www.huxiu.com/article/2993071.html)
+Token length: 1051
+Summarized using GPT-3.5-turbo
+Append: [出租车司机，每月收入多少？](https://www.huxiu.com/article/2993937.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [试点每周四天工作制？不如多增加些法定假期](https://www.huxiu.com/article/2993470.html)
+append_entries: 10
+Finish: 2024-05-06 16:19:05.040187
