@@ -21849,3 +21849,12 @@ Existing_entries: 800
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-05-06 10:08:24.284310
+------------------------------------------------------
+Started: 2024-05-06 12:19:24.715992
+Existing_entries: 800
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.shop 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [派评 | 近期值得关注的 app](https://sspai.com/post/88579)
+append_entries: 1
+Finish: 2024-05-06 12:20:05.794882

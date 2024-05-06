@@ -5419,3 +5419,51 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-05-06 12:20:17.657313
+Existing_entries: 1010
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.shop 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [两款最火的AI硬件全球首拆来了：逃不过“首秀即翻车”？](https://www.huxiu.com/article/2993504.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.shop 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [江门的秘密，大多藏在集装箱里](https://www.huxiu.com/article/2993513.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.shop 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [正确的事情，要重复做](https://www.huxiu.com/article/2991094.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.shop 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [“股神”巴菲特不为人知的故事](https://www.huxiu.com/article/2993055.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.shop 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [别光盯着英伟达了，一口气了解AMD](https://www.huxiu.com/article/2993107.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.shop 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [非科技企业将成为人工智能下一阶段受益者](https://www.huxiu.com/article/2981939.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.shop 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [AIPC要来了？如来](https://www.huxiu.com/article/2991526.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.shop 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [激励不可不用，但要避免混合信号](https://www.huxiu.com/article/2993092.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.shop 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [万字拆解Meta“开源”战略：理解谷歌、成为谷歌](https://www.huxiu.com/article/2993067.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.shop 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [淀粉肠是如何变成流量单品的？](https://www.huxiu.com/article/2993110.html)
+Append: [减肥和重生](https://www.huxiu.com/article/2993056.html)
+Append: [一口气看完李叔同，从绝代才子到得道高僧](https://www.huxiu.com/article/2992010.html)
+Append: [ChatGPT下沉到县城小镇了吗？](https://www.huxiu.com/article/2993087.html)
+Append: [没编制的教师岗不香了？](https://www.huxiu.com/article/2993069.html)
+Append: [自驾游成五一出行新潮](https://www.huxiu.com/article/2993073.html)
+Append: [餐饮老板自述：我如何从年流水过亿，变成“老赖”？](https://www.huxiu.com/article/2993032.html)
+Append: [实探五一深圳楼市，特价房直降百万](https://www.huxiu.com/article/2993058.html)
+Append: [天京事变为何注定了太平天国的灭亡？](https://www.huxiu.com/article/2988693.html)
+Append: [数千亿投资押注绿色甲醇，我们为什么还要进口](https://www.huxiu.com/article/2992530.html)
+Append: [《九龙城寨之围城》排雷：暴力和脏话很爽，但能吹的不多](https://www.huxiu.com/article/2989030.html)
+Append: [“胖猫”事件，悲剧何以发生](https://www.huxiu.com/article/2992559.html)
+Append: [PUA、雌竞与内卷圣骑士](https://www.huxiu.com/article/2992537.html)
+append_entries: 22
+Finish: 2024-05-06 12:27:06.383506
