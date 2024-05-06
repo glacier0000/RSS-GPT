@@ -1868,3 +1868,15 @@ Existing_entries: 55
 Fetching from https://glacier0000.vercel.app/sspai/matrix
 append_entries: 0
 Finish: 2024-05-06 00:32:33.897867
+------------------------------------------------------
+Started: 2024-05-06 02:22:20.836972
+Existing_entries: 55
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [2024年在斯里兰卡过春节](https://sspai.com/post/88082)
+Token length: 2824
+Summarized using GPT-3.5-turbo
+Append: [用Quicker设置Obsidian到哔哩哔哩（B站）视频的跳转、回链动作](https://sspai.com/post/88495)
+append_entries: 2
+Finish: 2024-05-06 02:22:43.854923
