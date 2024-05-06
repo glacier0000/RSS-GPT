@@ -2272,3 +2272,9 @@ Summarized using GPT-3.5-turbo
 Append: [微软发现严重安全漏洞，苹果更新应用商店收费规则，网易开启守望先锋测试招募，五一假期热门目的地出炉，这就是今天的其他大新闻！](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654499378&idx=5&sn=868cdf9bcdb9598f8e956aaee4bd5f3e&chksm=8b856535bcf2ec23126ed156373298849559b2e9e278ecc0eff7f42602fcd5e9f295eed63ece&scene=58&subscene=0)
 append_entries: 5
 Finish: 2024-05-06 18:11:17.603825
+------------------------------------------------------
+Started: 2024-05-06 20:07:56.850841
+Existing_entries: 194
+Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
+append_entries: 0
+Finish: 2024-05-06 20:07:57.916413
