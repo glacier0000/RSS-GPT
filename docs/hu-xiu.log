@@ -5339,3 +5339,40 @@ Summarized using GPT-3.5-turbo
 Append: [这地方，怎么满地流石油啊？](https://www.huxiu.com/article/2982164.html)
 append_entries: 10
 Finish: 2024-05-06 04:11:24.039910
+------------------------------------------------------
+Started: 2024-05-06 06:11:18.069040
+Existing_entries: 1010
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 138
+Summarized using GPT-3.5-turbo
+Append: [解读4月房地产市场报告，限购政策发生哪些调整？](https://www.huxiu.com/article/2975602.html)
+Token length: 103
+Summarized using GPT-3.5-turbo
+Append: [40岁的雷军，也曾不敢承认小米是他做的？](https://www.huxiu.com/article/2985401.html)
+Token length: 3691
+Summarized using GPT-3.5-turbo
+Append: [特斯拉的Optimus机器人，“进厂打工”了](https://www.huxiu.com/article/2992013.html)
+Token length: 2943
+Summarized using GPT-3.5-turbo
+Append: [学历是衬衫上的第一粒纽扣](https://www.huxiu.com/article/2991090.html)
+Token length: 3188
+Summarized using GPT-3.5-turbo
+Append: [30强城市争夺战，谁在领跑？](https://www.huxiu.com/article/2991958.html)
+Token length: 103
+Summarized using GPT-3.5-turbo
+Append: [让“星辰”和“大海”，和你聊聊星辰大海](https://www.huxiu.com/article/2985400.html)
+Token length: 3211
+Summarized using GPT-3.5-turbo
+Append: [竞业协议在美国走向终结：职场“枷锁”能被彻底打破吗？](https://www.huxiu.com/article/2991964.html)
+Token length: 135
+Summarized using GPT-3.5-turbo
+Append: [从三百涨到两万，小电驴卖不动了？](https://www.huxiu.com/article/2982497.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [宅男之死](https://www.huxiu.com/article/2991489.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [“剧透”一下苹果的AI iPad](https://www.huxiu.com/article/2988633.html)
+Append: [他们想做畅销书：流量中的图书编辑们](https://www.huxiu.com/article/2991138.html)
+append_entries: 11
+Finish: 2024-05-06 06:12:27.532887
