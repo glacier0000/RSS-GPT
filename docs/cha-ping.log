@@ -2251,3 +2251,24 @@ Existing_entries: 189
 Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
 append_entries: 0
 Finish: 2024-05-06 16:19:25.820078
+------------------------------------------------------
+Started: 2024-05-06 18:10:45.895691
+Existing_entries: 189
+Fetching from https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [我们花6200块钱，给19年的卡罗拉装了个高阶智驾。。。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654499378&idx=1&sn=0b59f6acc82408cf9c0569607a635e02&chksm=8b856535bcf2ec238b315f7d0f6fc2c1313f399ab2187a0bc1b6d510d95bf297d818cc926ba6&scene=58&subscene=0)
+Token length: 2356
+Summarized using GPT-3.5-turbo
+Append: [那个3000块玩2077的迷你电脑又整活了，而且这次玩起来更爽。。。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654499378&idx=2&sn=a4d4fc80039004f5ebabf40338667559&chksm=8b856535bcf2ec2352d1a7451eb8d158c53cd948b5fdfabbd637c219f803ca26e33a20e15715&scene=58&subscene=0)
+Token length: 60
+Summarized using GPT-3.5-turbo
+Append: [今日最佳：同事之间不要开这种玩笑。](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654499378&idx=3&sn=eaa72776d29467a492743a04697242cd&chksm=8b856535bcf2ec237df189735998e61bd1223e9fbcda524b30237ef80ac234582532e44cbb43&scene=58&subscene=0)
+Token length: 33
+Summarized using GPT-3.5-turbo
+Append: [聊一聊：五一你是怎么过的？](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654499378&idx=4&sn=313ed4afbee8ed706cbe6b4fcc7939b4&chksm=8b856535bcf2ec2368c546793b3e84a18552b450f5256288550b32ce8fbe1399c9c6c3119143&scene=58&subscene=0)
+Token length: 1352
+Summarized using GPT-3.5-turbo
+Append: [微软发现严重安全漏洞，苹果更新应用商店收费规则，网易开启守望先锋测试招募，五一假期热门目的地出炉，这就是今天的其他大新闻！](https://mp.weixin.qq.com/s?__biz=MzA5NDc1NzQ4MA==&mid=2654499378&idx=5&sn=868cdf9bcdb9598f8e956aaee4bd5f3e&chksm=8b856535bcf2ec23126ed156373298849559b2e9e278ecc0eff7f42602fcd5e9f295eed63ece&scene=58&subscene=0)
+append_entries: 5
+Finish: 2024-05-06 18:11:17.603825
