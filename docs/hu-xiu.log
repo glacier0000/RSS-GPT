@@ -5303,3 +5303,39 @@ Append: [开除员工+闭店：海底捞、胖东来为什么不这么做？](ht
 Append: [14亿人却做不好科研，印度学术困境难解](https://www.huxiu.com/article/2991049.html)
 append_entries: 13
 Finish: 2024-05-06 02:23:47.004370
+------------------------------------------------------
+Started: 2024-05-06 04:10:22.096395
+Existing_entries: 1013
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 1893
+Summarized using GPT-3.5-turbo
+Append: [力所不及却非要买房的人，大概率会活得特别痛苦](https://www.huxiu.com/article/2991088.html)
+Token length: 129
+Summarized using GPT-3.5-turbo
+Append: [纵容嫖娼，见怪不怪，日本出轨有多疯狂？](https://www.huxiu.com/article/2986040.html)
+Token length: 113
+Summarized using GPT-3.5-turbo
+Append: [喜欢存款，习惯攒钱，年轻人活明白了？](https://www.huxiu.com/article/2983682.html)
+Token length: 834
+Summarized using GPT-3.5-turbo
+Append: [中国4月财新服务业PMI 52.5，连续16个月扩张](https://www.huxiu.com/article/2991492.html)
+Token length: 3561
+Summarized using GPT-3.5-turbo
+Append: [OpenAI的AI搜索也要来了，但我们需要么？](https://www.huxiu.com/article/2991472.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [“邮”曼蒂克消亡史](https://www.huxiu.com/article/2991121.html)
+Token length: 121
+Summarized using GPT-3.5-turbo
+Append: [用利息生活的年轻人，究竟有多爱攒钱？](https://www.huxiu.com/article/2985389.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [硅谷去哪儿了？](https://www.huxiu.com/article/2991066.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [Supreme寻找“中国时刻”：过气潮牌，能否再酷一次？](https://www.huxiu.com/article/2991151.html)
+Token length: 72
+Summarized using GPT-3.5-turbo
+Append: [这地方，怎么满地流石油啊？](https://www.huxiu.com/article/2982164.html)
+append_entries: 10
+Finish: 2024-05-06 04:11:24.039910

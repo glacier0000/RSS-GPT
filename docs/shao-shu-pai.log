@@ -1880,3 +1880,24 @@ Summarized using GPT-3.5-turbo
 Append: [用Quicker设置Obsidian到哔哩哔哩（B站）视频的跳转、回链动作](https://sspai.com/post/88495)
 append_entries: 2
 Finish: 2024-05-06 02:22:43.854923
+------------------------------------------------------
+Started: 2024-05-06 04:09:39.960716
+Existing_entries: 57
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Token length: 1355
+Summarized using GPT-3.5-turbo
+Append: [心理咨询师的快捷指令](https://sspai.com/post/88557)
+Token length: 2042
+Summarized using GPT-3.5-turbo
+Append: [湾湾日记能否成为一款平替Day One的日记App？](https://sspai.com/post/88561)
+Token length: 2144
+Summarized using GPT-3.5-turbo
+Append: [我用Obsidian做心理咨询案例记录](https://sspai.com/post/88500)
+Token length: 2628
+Summarized using GPT-3.5-turbo
+Append: [计算机「扫盲」之路](https://sspai.com/post/88539)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [喀拉峻的瞬间](https://sspai.com/post/88505)
+append_entries: 5
+Finish: 2024-05-06 04:10:18.658453
