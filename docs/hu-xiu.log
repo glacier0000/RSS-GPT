@@ -5528,3 +5528,39 @@ Existing_entries: 1000
 Fetching from https://glacier0000.vercel.app/huxiu/article
 append_entries: 0
 Finish: 2024-05-06 22:07:43.616410
+------------------------------------------------------
+Started: 2024-05-07 00:31:32.790553
+Existing_entries: 1000
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [完蛋！女性向真人乙游真的不行？](https://www.huxiu.com/article/2994330.html)
+Token length: 1066
+Summarized using GPT-3.5-turbo
+Append: [马斯克是天才还是疯子？解雇充电团队引发北美市场集体头疼](https://www.huxiu.com/article/2995145.html)
+Token length: 2724
+Summarized using GPT-3.5-turbo
+Append: [你有什么资格嘲笑胖猫？](https://www.huxiu.com/article/2994021.html)
+Token length: 2087
+Summarized using GPT-3.5-turbo
+Append: [警惕“科学育儿”陷阱](https://www.huxiu.com/article/2995142.html)
+Token length: 1600
+Summarized using GPT-3.5-turbo
+Append: [花旗信用卡正式停用](https://www.huxiu.com/article/2995143.html)
+Token length: 1367
+Summarized using GPT-3.5-turbo
+Append: [为什么说大语言模型AI应用创业是地狱难度](https://www.huxiu.com/article/2995141.html)
+Token length: 1487
+Summarized using GPT-3.5-turbo
+Append: [苹果iOS 18或迎重磅AI升级，不联网也能生成文本](https://www.huxiu.com/article/2994378.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [我花8000元，买到一只后院猫](https://www.huxiu.com/article/2994342.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [高效解决问题，至少要做4件事](https://www.huxiu.com/article/2961502.html)
+Token length: 1341
+Summarized using GPT-3.5-turbo
+Append: [韩国严打裸卖空：涉及164只股票、2112亿韩元](https://www.huxiu.com/article/2995147.html)
+append_entries: 10
+Finish: 2024-05-07 00:33:42.627043
