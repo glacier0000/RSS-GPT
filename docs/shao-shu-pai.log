@@ -1995,3 +1995,10 @@ error: Error code: 403 - {'error': {'message': '免费API限制模型输入token
 Append: [在 2024 年播放一张上世纪的「图像唱片」 - LaserDisc](https://sspai.com/post/88519)
 append_entries: 6
 Finish: 2024-05-07 04:09:58.555025
+------------------------------------------------------
+Started: 2024-05-07 06:10:29.691595
+Existing_entries: 69
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/shao-shu-pai
