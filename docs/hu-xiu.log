@@ -5564,3 +5564,43 @@ Summarized using GPT-3.5-turbo
 Append: [韩国严打裸卖空：涉及164只股票、2112亿韩元](https://www.huxiu.com/article/2995147.html)
 append_entries: 10
 Finish: 2024-05-07 00:33:42.627043
+------------------------------------------------------
+Started: 2024-05-07 02:25:50.978459
+Existing_entries: 1010
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 2287
+Summarized using GPT-3.5-turbo
+Append: [人口老龄化下，殡葬成了“朝阳产业”？](https://www.huxiu.com/article/2993109.html)
+Token length: 1842
+Summarized using GPT-3.5-turbo
+Append: [阿尔茨海默病重要发现：这个基因变化或让人难逃患病结局](https://www.huxiu.com/article/2995641.html)
+Token length: 3531
+Summarized using GPT-3.5-turbo
+Append: [首演即爆满，“刚通网”的J-Pop终于要复兴了？](https://www.huxiu.com/article/2994339.html)
+Token length: 117
+Summarized using GPT-3.5-turbo
+Append: [“宫廷玉液酒，一百八一杯”正在水果店变成现实](https://www.huxiu.com/article/2993079.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [家庭手工，为县城老人带来了什么？](https://www.huxiu.com/article/2993524.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [如何激发员工积极性？](https://www.huxiu.com/article/2993495.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [万亿城市大“变阵”，谁是格局挑战者？](https://www.huxiu.com/article/2994380.html)
+Token length: 2736
+Summarized using GPT-3.5-turbo
+Append: [“普通人的房子，都不太会涨”](https://www.huxiu.com/article/2995153.html)
+Token length: 1811
+Summarized using GPT-3.5-turbo
+Append: [美债利息有多夸张？](https://www.huxiu.com/article/2995652.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [中国电影的大撤档时代](https://www.huxiu.com/article/2995162.html)
+Append: [苹果汽车：泰坦计划为何失败？苹果未来又在何方？](https://www.huxiu.com/article/2993040.html)
+Append: [有意义和成就感的工作，在这个世界相当罕见](https://www.huxiu.com/article/2704180.html)
+Append: [距离治疗阿尔茨海默病，“伟哥”还有多远的路要走？](https://www.huxiu.com/article/2995635.html)
+Append: [车企大佬，为什么都想成为“雷布斯”？](https://www.huxiu.com/article/2991529.html)
+append_entries: 14
+Finish: 2024-05-07 02:27:22.017573
