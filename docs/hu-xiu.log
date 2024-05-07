@@ -5604,3 +5604,36 @@ Append: [距离治疗阿尔茨海默病，“伟哥”还有多远的路要走�
 Append: [车企大佬，为什么都想成为“雷布斯”？](https://www.huxiu.com/article/2991529.html)
 append_entries: 14
 Finish: 2024-05-07 02:27:22.017573
+------------------------------------------------------
+Started: 2024-05-07 04:10:01.960851
+Existing_entries: 1014
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 84
+Summarized using GPT-3.5-turbo
+Append: [遍地黄金，为你揭秘黄金的无限可能](https://www.huxiu.com/article/2972402.html)
+Token length: 193
+Summarized using GPT-3.5-turbo
+Append: [东风吹到意大利，岚图不止地中海](https://www.huxiu.com/article/2993098.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [美国反垄断法，为什么切不动苹果和谷歌？](https://www.huxiu.com/article/2995714.html)
+Token length: 141
+Summarized using GPT-3.5-turbo
+Append: [卫星通信全面横评：华为、小米、荣耀、OPPO，哪家强？](https://www.huxiu.com/article/2991470.html)
+Token length: 105
+Summarized using GPT-3.5-turbo
+Append: [营地倒闭潮来临](https://www.huxiu.com/article/2992503.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [江浙沪服务区，已经卷成了 5A级主题乐园](https://www.huxiu.com/article/2993514.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [中高端专业店加速收缩](https://www.huxiu.com/article/2995709.html)
+Token length: 2803
+Summarized using GPT-3.5-turbo
+Append: [“史上最丑AI生图”Remini，怎么就一夜爆火了？](https://www.huxiu.com/article/2995666.html)
+Token length: 2070
+Summarized using GPT-3.5-turbo
+Append: [北京车展上，我看到这些车型设计拒绝“复制粘贴”](https://www.huxiu.com/article/2995729.html)
+append_entries: 9
+Finish: 2024-05-07 04:10:53.220685

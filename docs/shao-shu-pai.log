@@ -1971,3 +1971,27 @@ Fetching from https://glacier0000.vercel.app/sspai/matrix
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/shao-shu-pai
+------------------------------------------------------
+Started: 2024-05-07 04:09:01.663571
+Existing_entries: 63
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Token length: 1909
+Summarized using GPT-3.5-turbo
+Append: [后疫情时代的居家健身](https://sspai.com/post/64824)
+Token length: 2965
+Summarized using GPT-3.5-turbo
+Append: [小确幸触手可及：聊聊 iPhone SE第 3 代](https://sspai.com/post/88484)
+Token length: 2885
+Summarized using GPT-3.5-turbo
+Append: [城市的气质](https://sspai.com/post/88565)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [如何用「竞争」与「作品」助力成长？读《工作的心智》有感](https://sspai.com/post/88564)
+Token length: 1181
+Summarized using GPT-3.5-turbo
+Append: [介绍一下我独立开发的健康App](https://sspai.com/post/88542)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [在 2024 年播放一张上世纪的「图像唱片」 - LaserDisc](https://sspai.com/post/88519)
+append_entries: 6
+Finish: 2024-05-07 04:09:58.555025
