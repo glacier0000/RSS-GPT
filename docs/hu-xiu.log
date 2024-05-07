@@ -5722,3 +5722,24 @@ Append: [AI带来天然气繁荣？](https://www.huxiu.com/article/2995738.html)
 Append: [“非传统医生”陶勇：想做一个“上蹿下跳”的人](https://www.huxiu.com/article/2996601.html)
 append_entries: 22
 Finish: 2024-05-07 08:12:35.229568
+------------------------------------------------------
+Started: 2024-05-07 10:09:19.851476
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.shop 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [在反腐和暴富中，越南选择了反腐？](https://www.huxiu.com/article/2996841.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.shop 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [倒闭8万多家，或在升级或被遗忘，农家乐还会存在吗？](https://www.huxiu.com/article/2993077.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.shop 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [亚马逊的无人超市里，藏着1000个印度人？](https://www.huxiu.com/article/2996682.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.shop 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [你为亲密关系做好准备了吗？](https://www.huxiu.com/article/2996134.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.shop 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [高铁和站台为什么有缝隙，不能并上吗](https://www.huxiu.com/article/2996856.html)
+append_entries: 5
+Finish: 2024-05-07 10:12:39.683104

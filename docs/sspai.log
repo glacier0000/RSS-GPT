@@ -21927,3 +21927,12 @@ error: Error code: 403 - {'error': {'message': '免费API限制模型输入token
 Append: [用对字体，像图片一样呈现文本](https://sspai.com/post/76990)
 append_entries: 1
 Finish: 2024-05-07 08:09:40.177478
+------------------------------------------------------
+Started: 2024-05-07 10:08:24.487666
+Existing_entries: 804
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.shop 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [我的栖息之所：历时半年，把房子装成家](https://sspai.com/post/88391)
+append_entries: 1
+Finish: 2024-05-07 10:09:08.549536
