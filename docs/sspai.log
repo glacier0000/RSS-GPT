@@ -21918,3 +21918,12 @@ error: Error code: 403 - {'error': {'message': '免费API限制模型输入token
 Append: [在 2024 年播放一张上世纪的「图像唱片」 - LaserDisc](https://sspai.com/post/88519)
 append_entries: 1
 Finish: 2024-05-07 06:10:29.319677
+------------------------------------------------------
+Started: 2024-05-07 08:09:35.431899
+Existing_entries: 803
+Fetching from https://rsshub.app/sspai/index
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [用对字体，像图片一样呈现文本](https://sspai.com/post/76990)
+append_entries: 1
+Finish: 2024-05-07 08:09:40.177478

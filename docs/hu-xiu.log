@@ -5674,3 +5674,51 @@ Append: [“一亿人”挤爆小村庄，县域旅游谁赢了？](https://www.
 Append: [日本半导体，闷声发大财](https://www.huxiu.com/article/2995719.html)
 append_entries: 11
 Finish: 2024-05-07 06:11:57.844177
+------------------------------------------------------
+Started: 2024-05-07 08:09:52.737583
+Existing_entries: 1011
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Token length: 108
+Summarized using GPT-3.5-turbo
+Append: [扒一扒车展最值得关注的20款国产新车，哪些值得入手？](https://www.huxiu.com/article/2996805.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [3天20万差评，索尼犯了众怒](https://www.huxiu.com/article/2996835.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [2400亿慈善基金做投资，收获一支IPO天团](https://www.huxiu.com/article/2996680.html)
+Token length: 103
+Summarized using GPT-3.5-turbo
+Append: [量化交易技术指标消亡史：从独领风骚到泯然众人？](https://www.huxiu.com/article/2996130.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [8个好用的提示词策略，教你玩转ChatGPT](https://www.huxiu.com/article/2996621.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [‍‍‍‍‍抑郁休学的孩子如何重启人生？](https://www.huxiu.com/article/2996083.html)
+Summarization failed, append the original article
+error: Error code: 403 - {'error': {'message': '免费API限制模型输入token小于4096，如有更多需求，请访问 https://buyca.shop 购买付费API。The number of prompt tokens for free accounts is limited to 4096. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '403 FORBIDDEN'}}
+Append: [梁宁：下一个时代，是情绪价值的比拼](https://www.huxiu.com/article/2994322.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.shop 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [从“胖猫”事件，揭开王者荣耀的代练江湖](https://www.huxiu.com/article/2996808.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.shop 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [为什么金融机构的套利空间一直在萎缩？](https://www.huxiu.com/article/2996645.html)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': '免费API限制每日100次请求，请00:00后再试，如有更多需求，请访问 https://buyca.shop 购买付费API。The free account is limited to 100 requests per day. Please try again after 00:00 the next day. If you have additional requirements, please visit https://buyca.shop to purchase a premium key.', 'type': 'chatanywhere_error', 'param': None, 'code': '429 TOO_MANY_REQUESTS'}}
+Append: [“股神”巴菲特背后的商业帝国，究竟是如何运作的？](https://www.huxiu.com/article/2996564.html)
+Append: [当情侣遇到失业](https://www.huxiu.com/article/2996095.html)
+Append: [OpenAI泄密者投奔马斯克](https://www.huxiu.com/article/2996659.html)
+Append: [挑战OpenAI，微软自研5000亿参数大模型曝光](https://www.huxiu.com/article/2996670.html)
+Append: [世界上最豪华的火车上，吃的有多美味？](https://www.huxiu.com/article/2996683.html)
+Append: [这个中概股财报季，很重要，又一点也不重要](https://www.huxiu.com/article/2996131.html)
+Append: [只卖18道菜，人均50元，这批小餐馆究竟有什么魅力？](https://www.huxiu.com/article/2996068.html)
+Append: [AI应用，在海外形成了一条隐秘的产业链](https://www.huxiu.com/article/2996125.html)
+Append: [五折代叫车背后，暗藏怎样的骗局？](https://www.huxiu.com/article/2996105.html)
+Append: [解码外资回潮：中国资产吸引力何在？](https://www.huxiu.com/article/2993529.html)
+Append: [iOS 18新功能爆料汇总：除了AI，还有这些更新值得期待](https://www.huxiu.com/article/2996575.html)
+Append: [AI带来天然气繁荣？](https://www.huxiu.com/article/2995738.html)
+Append: [“非传统医生”陶勇：想做一个“上蹿下跳”的人](https://www.huxiu.com/article/2996601.html)
+append_entries: 22
+Finish: 2024-05-07 08:12:35.229568
