@@ -5942,3 +5942,10 @@ Existing_entries: 1013
 Fetching from https://glacier0000.vercel.app/huxiu/article
 append_entries: 0
 Finish: 2024-05-08 16:09:37.518444
+------------------------------------------------------
+Started: 2024-05-08 18:09:53.082344
+Existing_entries: 1000
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [飞机修理师，辞职做“农民”](https://www.huxiu.com/article/3002475.html)
+append_entries: 1
+Finish: 2024-05-08 18:09:57.163638
