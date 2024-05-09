@@ -6098,3 +6098,10 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Append: [放过百度吧](https://www.huxiu.com/article/3006765.html)
 append_entries: 1
 Finish: 2024-05-09 16:08:37.347116
+------------------------------------------------------
+Started: 2024-05-09 18:07:49.274056
+Existing_entries: 1001
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
