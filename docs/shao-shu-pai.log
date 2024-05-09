@@ -2130,3 +2130,13 @@ Existing_entries: 71
 Fetching from https://glacier0000.vercel.app/sspai/matrix
 append_entries: 0
 Finish: 2024-05-09 00:31:46.588537
+------------------------------------------------------
+Started: 2024-05-09 02:23:14.477378
+Existing_entries: 71
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Append: [解锁HMI设计规范](https://sspai.com/post/88646)
+Append: [Obsidian 插件汉化经验分享](https://sspai.com/post/88634)
+Append: [Node-RED 入门指南](https://sspai.com/post/88590)
+Append: [从沙子到电路——浅谈半导体行业](https://sspai.com/post/88652)
+append_entries: 4
+Finish: 2024-05-09 02:23:22.386510
