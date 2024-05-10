@@ -6118,3 +6118,10 @@ Existing_entries: 1001
 Fetching from https://glacier0000.vercel.app/huxiu/article
 append_entries: 0
 Finish: 2024-05-09 22:06:23.033635
+------------------------------------------------------
+Started: 2024-05-10 00:31:43.238796
+Existing_entries: 1000
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
