@@ -6403,3 +6403,9 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Append: [世上只有妈妈好，妈妈的辛苦谁知道？](https://www.huxiu.com/article/3012922.html)
 append_entries: 1
 Finish: 2024-05-11 16:08:20.012889
+------------------------------------------------------
+Started: 2024-05-11 18:08:50.935164
+Existing_entries: 1001
+Fetching from https://glacier0000.vercel.app/huxiu/article
+append_entries: 0
+Finish: 2024-05-11 18:08:55.117606
