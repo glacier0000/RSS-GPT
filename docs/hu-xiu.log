@@ -6663,3 +6663,9 @@ Append: [9块9一杯的咖啡，打工人还能喝多久？](https://www.huxiu.c
 Append: [苹果新品广告惹争议：罕见失策何以造成](https://www.huxiu.com/article/3021683.html)
 append_entries: 8
 Finish: 2024-05-13 16:09:40.156208
+------------------------------------------------------
+Started: 2024-05-13 18:08:05.731690
+Existing_entries: 1008
+Fetching from https://glacier0000.vercel.app/huxiu/article
+append_entries: 0
+Finish: 2024-05-13 18:08:09.210299
