@@ -6845,3 +6845,15 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-05-15 00:32:12.703979
+Existing_entries: 1000
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [一个内心强大的人，身上往往兼有男性女性特质](https://www.huxiu.com/article/3027000.html)
+Append: [真松弛的新中产，都在吃干巴饭](https://www.huxiu.com/article/3026011.html)
+Append: [李显龙谢幕](https://www.huxiu.com/article/3027170.html)
+Append: [Google对轰OpenAI：喊了121次AI，台下观众都快睡着了](https://www.huxiu.com/article/3028240.html)
+Append: [4家券商齐齐栽在同一造假公司上，集体遭罚](https://www.huxiu.com/article/3028250.html)
+Append: [商场衣服越卖越贵，年轻人开始逛批发市场](https://www.huxiu.com/article/3026995.html)
+append_entries: 6
+Finish: 2024-05-15 00:32:19.455125
