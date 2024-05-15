@@ -2581,3 +2581,10 @@ Existing_entries: 89
 Fetching from https://glacier0000.vercel.app/sspai/matrix
 append_entries: 0
 Finish: 2024-05-15 00:32:09.531537
+------------------------------------------------------
+Started: 2024-05-15 02:25:07.549062
+Existing_entries: 89
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Append: [Obsidan与Kanban：用Quicker快速添加内容到kanban（新版教程）](https://sspai.com/post/88802)
+append_entries: 1
+Finish: 2024-05-15 02:25:14.536087
