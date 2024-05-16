@@ -6995,3 +6995,10 @@ Append: [微信开始扛起腾讯跑了](https://www.huxiu.com/article/3028937.h
 Append: [历史性“关口”在前，武汉拿什么和兄弟城市“同题较量”？](https://www.huxiu.com/article/3030676.html)
 append_entries: 5
 Finish: 2024-05-16 00:32:35.269734
+------------------------------------------------------
+Started: 2024-05-16 02:21:46.868671
+Existing_entries: 1005
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
