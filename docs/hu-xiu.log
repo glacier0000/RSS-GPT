@@ -7360,3 +7360,10 @@ Existing_entries: 1000
 Fetching from https://glacier0000.vercel.app/huxiu/article
 append_entries: 0
 Finish: 2024-05-18 22:05:00.433092
+------------------------------------------------------
+Started: 2024-05-19 00:35:15.981922
+Existing_entries: 1000
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [OpenAI解散Ilya重要团队，前高管怒斥，宫斗第二季？](https://www.huxiu.com/article/3043760.html)
+append_entries: 1
+Finish: 2024-05-19 00:35:19.873899
