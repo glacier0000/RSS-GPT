@@ -7873,3 +7873,10 @@ Append: [谁在“谋杀”出版社？](https://www.huxiu.com/article/3056705.h
 Append: [联合抵制618，图书行业活不下去了](https://www.huxiu.com/article/3056708.html)
 append_entries: 5
 Finish: 2024-05-22 14:07:15.900005
+------------------------------------------------------
+Started: 2024-05-22 16:09:34.264808
+Existing_entries: 1005
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [如何看待影视行业的补助？](https://www.huxiu.com/article/3057236.html)
+append_entries: 1
+Finish: 2024-05-22 16:09:38.776541
