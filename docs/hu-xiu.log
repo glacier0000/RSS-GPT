@@ -8239,3 +8239,13 @@ Existing_entries: 1004
 Fetching from https://glacier0000.vercel.app/huxiu/article
 append_entries: 0
 Finish: 2024-05-25 12:11:21.781723
+------------------------------------------------------
+Started: 2024-05-25 14:04:29.374666
+Existing_entries: 1000
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [大模型价格战：大厂烧钱狂飙，小厂如何抉择](https://www.huxiu.com/article/3067960.html)
+Append: [被捧成“打工人嘴替”的新晋网红，开始背刺打工人了](https://www.huxiu.com/article/3067579.html)
+Append: [研究生就业难于本科生](https://www.huxiu.com/article/3067951.html)
+Append: [茅台镇暴利时代落幕？](https://www.huxiu.com/article/3067578.html)
+append_entries: 4
+Finish: 2024-05-25 14:04:33.186557
