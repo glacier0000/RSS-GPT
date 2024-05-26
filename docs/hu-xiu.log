@@ -8275,3 +8275,12 @@ Existing_entries: 1000
 Fetching from https://glacier0000.vercel.app/huxiu/article
 append_entries: 0
 Finish: 2024-05-25 22:05:12.309626
+------------------------------------------------------
+Started: 2024-05-26 00:35:46.377113
+Existing_entries: 1000
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [中国零售大洗牌：商超巨头们一年共亏损49亿，为什么？](https://www.huxiu.com/article/3068162.html)
+Append: [如何花小钱，办大事？](https://www.huxiu.com/article/3062749.html)
+Append: [我去了趟“折叠”中东，看到了矛盾、混乱和生机](https://www.huxiu.com/article/3067964.html)
+append_entries: 3
+Finish: 2024-05-26 00:35:51.225415
