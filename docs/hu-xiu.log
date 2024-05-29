@@ -8716,3 +8716,10 @@ Append: [vivo X100 Ultra手机影像天花板？](https://www.huxiu.com/article/
 Append: [一晚上市值跌千亿，星巴克这次可能挺不住了](https://www.huxiu.com/article/3080666.html)
 append_entries: 7
 Finish: 2024-05-29 08:10:58.978230
+------------------------------------------------------
+Started: 2024-05-29 10:08:41.602383
+Existing_entries: 1007
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
