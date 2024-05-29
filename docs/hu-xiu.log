@@ -8763,3 +8763,10 @@ Append: [各地那些第一高楼，最后都怎样了](https://www.huxiu.com/ar
 Append: [OpenAI让苹果决定给Siri换个脑子](https://www.huxiu.com/article/3082167.html)
 append_entries: 6
 Finish: 2024-05-29 14:07:09.362333
+------------------------------------------------------
+Started: 2024-05-29 16:09:11.766221
+Existing_entries: 1006
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
