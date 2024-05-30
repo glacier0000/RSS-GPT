@@ -8844,3 +8844,10 @@ Append: [大模型的5月：热闹的30天和鸿沟边缘](https://www.huxiu.com
 Append: [纸上谈兵：做满足垂直人群需求的虚拟陪伴产品](https://www.huxiu.com/article/3083476.html)
 append_entries: 9
 Finish: 2024-05-30 06:10:50.569465
+------------------------------------------------------
+Started: 2024-05-30 08:10:39.267322
+Existing_entries: 1009
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
