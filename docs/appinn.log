@@ -26616,3 +26616,11 @@ Append: [求一款跨平台的任务计划管理应用，可以指定时间提�
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2024-05-30 14:08:04.453616
+------------------------------------------------------
+Started: 2024-05-30 16:08:18.929228
+Existing_entries: 413
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-05-30 16:08:22.041788
