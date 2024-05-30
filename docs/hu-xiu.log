@@ -8789,3 +8789,15 @@ Existing_entries: 1000
 Fetching from https://glacier0000.vercel.app/huxiu/article
 append_entries: 0
 Finish: 2024-05-29 22:07:07.770624
+------------------------------------------------------
+Started: 2024-05-30 00:33:08.159182
+Existing_entries: 1000
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [我们什么时候才能不加班？](https://www.huxiu.com/article/3082154.html)
+Append: [常驻越南1年半后，对越南出海祛魅了](https://www.huxiu.com/article/3081132.html)
+Append: [留学生算“留学账” 越算越难](https://www.huxiu.com/article/3082579.html)
+Append: [黄奇帆：世界是可以重组的](https://www.huxiu.com/article/3081116.html)
+Append: [中国电动车的命，拜登说了不算](https://www.huxiu.com/article/3082429.html)
+Append: [GPT准备替中医把脉了](https://www.huxiu.com/article/3074038.html)
+append_entries: 6
+Finish: 2024-05-30 00:33:13.253054
