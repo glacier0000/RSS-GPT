@@ -9072,3 +9072,10 @@ Append: [第一批citywalk的中产，已经去wildeat了](https://www.huxiu.com
 Append: [抱团养老，会是我们这代人的养老最优解吗？](https://www.huxiu.com/article/3078291.html)
 append_entries: 3
 Finish: 2024-06-01 00:35:46.280325
+------------------------------------------------------
+Started: 2024-06-01 02:27:57.886030
+Existing_entries: 1003
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
