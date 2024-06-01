@@ -9098,3 +9098,10 @@ Append: [贫瘠童年也挺好](https://www.huxiu.com/article/3090170.html)
 Append: [酒店代订，到底是怎样的隐秘生意？](https://www.huxiu.com/article/3088630.html)
 append_entries: 13
 Finish: 2024-06-01 04:08:56.454321
+------------------------------------------------------
+Started: 2024-06-01 06:09:33.655717
+Existing_entries: 1013
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
