@@ -26891,3 +26891,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-06-02 10:07:15.495491
+------------------------------------------------------
+Started: 2024-06-02 12:11:14.806867
+Existing_entries: 416
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [Chrome Manifest V3 推迟到 2023 年 6 月强制执行，Manifest V2 仅支持至 2024 年](https://meta.appinn.net/t/topic/39508)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-06-02 12:11:18.020418
