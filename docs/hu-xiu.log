@@ -9179,3 +9179,10 @@ Append: [少内耗，做自己的匠人](https://www.huxiu.com/article/3092831.h
 Append: [霸总们隔着屏幕油到我了](https://www.huxiu.com/article/3090787.html)
 append_entries: 2
 Finish: 2024-06-02 00:35:54.877249
+------------------------------------------------------
+Started: 2024-06-02 02:27:41.120456
+Existing_entries: 1002
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
