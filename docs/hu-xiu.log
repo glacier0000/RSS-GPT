@@ -9171,3 +9171,11 @@ Existing_entries: 1000
 Fetching from https://glacier0000.vercel.app/huxiu/article
 append_entries: 0
 Finish: 2024-06-01 22:05:32.404937
+------------------------------------------------------
+Started: 2024-06-02 00:35:51.365974
+Existing_entries: 1000
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [少内耗，做自己的匠人](https://www.huxiu.com/article/3092831.html)
+Append: [霸总们隔着屏幕油到我了](https://www.huxiu.com/article/3090787.html)
+append_entries: 2
+Finish: 2024-06-02 00:35:54.877249
