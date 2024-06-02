@@ -9186,3 +9186,15 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-06-02 04:08:54.152491
+Existing_entries: 1002
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [AI大模型，正在排队寻求卖身](https://www.huxiu.com/article/3093996.html)
+Append: [美国大选到处都是“假拜登”](https://www.huxiu.com/article/3093509.html)
+Append: [图书商为何“仇视”京东618？](https://www.huxiu.com/article/3092343.html)
+Append: [稳稳当当，嫦娥六号“高分”着陆月背](https://www.huxiu.com/article/3093507.html)
+Append: [曾经风靡一时的施华洛世奇和潘多拉，为啥不火了？](https://www.huxiu.com/article/3087969.html)
+Append: [单踏板要被禁了，但只禁了一半](https://www.huxiu.com/article/3093502.html)
+append_entries: 6
+Finish: 2024-06-02 04:08:59.028982
