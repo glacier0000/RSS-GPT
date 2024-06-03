@@ -9264,3 +9264,15 @@ Existing_entries: 1000
 Fetching from https://glacier0000.vercel.app/huxiu/article
 append_entries: 0
 Finish: 2024-06-02 22:05:37.995579
+------------------------------------------------------
+Started: 2024-06-03 00:34:16.976111
+Existing_entries: 1000
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [报刊亭，不能停](https://www.huxiu.com/article/3096424.html)
+Append: [香港人北上抢房](https://www.huxiu.com/article/3095597.html)
+Append: [黄仁勋剧透下一代GPU，机器人时代已经到来？](https://www.huxiu.com/article/3095599.html)
+Append: [港股年度行情分化，有一方向更持续](https://www.huxiu.com/article/3095423.html)
+Append: [华为卖车的最大一道坎，就要来了](https://www.huxiu.com/article/3095594.html)
+Append: [像硅谷那样去思考](https://www.huxiu.com/article/3095971.html)
+append_entries: 6
+Finish: 2024-06-03 00:34:23.107795
