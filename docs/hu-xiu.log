@@ -9451,3 +9451,10 @@ Append: [已删除私密照片“复活”，苹果的隐私保护掉链子了�
 Append: [结合亲身经历聊一聊：普通人如何做自媒体](https://www.huxiu.com/article/3098456.html)
 append_entries: 9
 Finish: 2024-06-04 04:09:31.102282
+------------------------------------------------------
+Started: 2024-06-04 06:10:24.577099
+Existing_entries: 1009
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
