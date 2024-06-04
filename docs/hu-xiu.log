@@ -9530,3 +9530,10 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Append: [是谁掀了电动牙刷的牌桌？](https://www.huxiu.com/article/3098099.html)
 append_entries: 1
 Finish: 2024-06-04 16:09:54.471631
+------------------------------------------------------
+Started: 2024-06-04 18:10:07.322548
+Existing_entries: 1001
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
