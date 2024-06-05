@@ -4,12 +4,12 @@
 <title>少数派 -- Matrix</title>
 <link>https://sspai.com/matrix</link>
 
+
 <item>
 <title>利用 Obsidian 插件和快捷指令快速添加阅读记录</title>
 <link>https://sspai.com/post/89317</link>
 <guid>https://sspai.com/post/89317</guid>
 <content:encoded><![CDATA[
-
 <h2>新点子</h2><p>今年 2 月份的时候在我派发表了第一篇文章<a href="https://sspai.com/post/86655">重新梳理我的阅读待办清单</a>，到今天忙忙碌碌也读了不少文章，<strong>为了方便自己回顾和总结读过的内容，我希望能在每次阅读完成后快速形成阅读记录</strong>，主要的需求有三点：</p><ul><li>每次添加新记录时自动插入到同一个文档的最上方；</li><li>每次添加新记录时自动生成「时间」「文章名称」「文章链接」；</li><li>使用不同的 App 阅读时，都能获取信息并添加记录，对我来说主要是 Safari 浏览器、Reeder 和微信读书。</li></ul><h2>成果展示</h2><p>经过一个下午的鼓捣，我利用 Obsidian 插件结合 macOS 快捷指令搭建了一套能快速添加阅读记录的流程。</p><p>整个添加的过程如下面的动图：</p><figure class="image ss-img-wrapper image_resized" style="width: 645px;"><img src="https://cdnfile.sspai.com/2024/06/03/78ad6f67655209bf8a5a3e8e469878a5.gif" /></figure><p>最后形成的记录如下图：</p><figure class="ss-imgRows"><img alt="" src="https://cdnfile.sspai.com/2024/06/03/c2bf1a353bdf2dd06e5eec9bce0076be.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /><img alt="" src="https://cdnfile.sspai.com/2024/06/03/0dba38aa7a533d452970d7a93d57fa11.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><h2>实现过程</h2><p>整个实现过程可以拆解为两步：</p><h3>获取文章的名称和 URL</h3><p>我自己目前阅读文章时使用的 App 主要是 Safari 浏览器、Reeder 和微信读书。<br />从浏览器获取信息是最简单的，先从 Safari 开始。这里我借助了快捷指令直接获取网页的名称和 URL，以 Markdown 格式拼接后拷贝到剪贴板上，如下图：</p><figure class="image ss-img-wrapper"><img src="https://cdnfile.sspai.com/2024/06/03/6c87d5feaa0bf29cef765ac04e4be611.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>Reeder 和微信读书虽然无法直接获取文章名称和 URL，但是可以分享文章的链接。于是利用快捷指令获取分享的链接并在浏览器打开，再重复执行上面的快捷指令即可，如下图：</p><figure class="image ss-img-wrapper"><img src="https://cdnfile.sspai.com/2024/06/03/98578f55d0ba2bc4f28ccf8d2bf0110d.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /><figcaption>部分网页打开速度较慢，因此需设置等待 2 秒钟之后再执行接下来的快捷指令</figcaption></figure><p>至此，我们已经可以从 Safari、Reeder 和微信读书拿到文章的名称和 URL，拼接成 Markdown 格式，并粘贴到剪贴板。</p><h3>在 Obsidian 中添加记录</h3><p>有了文章的名称和 URL 信息后，接下来就需要在文档中添加记录。</p><p>首先需要用到 Obsidian 的第一个插件：QuickAdd。<strong>这个插件的作用是在指定的文档中插入记录，并添加时间信息。</strong></p><p>QuickAdd 插件本身有多种功能，选择「Capture To（捕获）」功能创建新的指令并命名为「Reading」具体的设置项可以参考下图：</p><figure class="image ss-img-wrapper"><img src="https://cdnfile.sspai.com/2024/06/03/c5886bec3193145d704b9b87ea4567e0.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>创建完成后，每次执行这个指令时，就会在「阅读记录」文档的最上方添加一条新的记录。</p><p>第二个要用到的 Obsidian 插件是 Advanced URL。<strong>这个插件的作用是为上面添加的指令生成一个全局性的链接，以便在快捷指令中调用，将第一步和第二步串联成完成的流程。</strong></p><p>搜索并执行 Advanced URL，就可以获取到「Reading」指令的全局链接：<code>obsidian://advanced-uri?vault=你的仓库名称&amp;commandid=quickadd%253Achoice%链接信息</code>。参考下面的动图：</p><figure class="image ss-img-wrapper image_resized" style="width: 645px;"><img src="https://cdnfile.sspai.com/2024/06/03/eb4ada2644fa0175b9829952456877c4.gif" /></figure><p>接下来需要在之前的快捷指令中添加打开全局链接的操作：</p><figure class="image ss-img-wrapper"><img src="https://cdnfile.sspai.com/2024/06/03/fada72422bb43206f432396c34d30e93.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /><figcaption>在最后添加「运行 Shell 脚本」操作并填入：open "全局链接"。（注意两者间有个空格）</figcaption></figure><p>这样就完成了全部流程的设置。</p><h2>一点补充</h2><p>可以为快捷指令添加全局快捷键，这样在 Safari 浏览器上阅读文章时，就不用手动点击分享按钮打开快捷指令。我是通过 raycast 来设置了全局快捷键。但是在 Reeder 或者微信读书上阅读时，仍然需要手动点击。</p><p>快捷指令中的「运行 Shell 脚本」无法将上一步的结果作为参数传递过去，因此只能先拷贝到剪贴板，再粘贴到 Obsidian 的输入框中。</p><p>dataview 的 js 代码如下，凭借我粗浅的理解加上 AI 的协助居然成功了，不得不说 AI 是人类之光：</p><pre class="language-javascript"><code>const page = dv.page("阅读记录. md"); 
 const content = await dv.io.load(page.file.path);
 
@@ -32,9 +32,7 @@ dv.table(["date","time","name","tag","link"],
 </code></pre><p style="margin-left: 0px;">&gt; 关注&nbsp;<a href="https://sspai.com/link?target=https%3A%2F%2Fwww.xiaohongshu.com%2Fuser%2Fprofile%2F63f5d65d000000001001d8d4" target="_blank">少数派小红书</a>，感受精彩数字生活 🍃</p><p style="margin-left: 0px;">&gt; 实用、好用的&nbsp;<a href="https://sspai.com/mall">正版软件</a>，少数派为你呈现 🚀</p>
 ]]></content:encoded>
 <pubDate>Tue, 04 Jun 2024 01:05:57 GMT</pubDate>
-<pubDate>Tue, 04 Jun 2024 01:05:57 GMT</pubDate>
 </item>
-
 <item>
 <title>从0开始装修新家——从平面图开始踩坑</title>
 <link>https://sspai.com/post/89268</link>
