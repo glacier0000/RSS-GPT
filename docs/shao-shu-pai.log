@@ -4219,3 +4219,12 @@ Fetching from https://glacier0000.vercel.app/sspai/matrix
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/shao-shu-pai
+------------------------------------------------------
+Started: 2024-06-06 04:09:05.041578
+Existing_entries: 132
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Append: [没错，我日常就用 Linux：谈谈我的 Linux 发行版使用体会](https://sspai.com/post/89194)
+Append: [【实测】2024年洗地机推荐！友望、石头、云鲸、添可洗地机哪一款更好？](https://sspai.com/post/89375)
+Append: [CentOS 之死](https://sspai.com/post/89361)
+append_entries: 3
+Finish: 2024-06-06 04:09:11.790176
