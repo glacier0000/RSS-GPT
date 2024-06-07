@@ -9839,3 +9839,10 @@ Append: [如何走出低能量状态？](https://www.huxiu.com/article/3109629.h
 Append: [美团走入“沙漠”](https://www.huxiu.com/article/3109125.html)
 append_entries: 7
 Finish: 2024-06-07 00:34:23.726133
+------------------------------------------------------
+Started: 2024-06-07 02:27:01.575251
+Existing_entries: 1007
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
