@@ -10041,3 +10041,11 @@ Append: [100亿，一家潮牌正式卖身](https://www.huxiu.com/article/311559
 Append: [野生测试可以休矣](https://www.huxiu.com/article/3115225.html)
 append_entries: 3
 Finish: 2024-06-08 12:11:38.574596
+------------------------------------------------------
+Started: 2024-06-08 14:07:54.020669
+Existing_entries: 1003
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [光伏企业承压](https://www.huxiu.com/article/3116310.html)
+Append: [高考结束的那一晚](https://www.huxiu.com/article/3115591.html)
+append_entries: 2
+Finish: 2024-06-08 14:07:57.749917
