@@ -10484,3 +10484,10 @@ Append: [三甲医生转行卖保险，怎么样了？](https://www.huxiu.com/ar
 Append: [“老外遇刺”会影响入境游吗？](https://www.huxiu.com/article/3127984.html)
 append_entries: 18
 Finish: 2024-06-12 04:09:26.972076
+------------------------------------------------------
+Started: 2024-06-12 06:10:47.180167
+Existing_entries: 1018
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
