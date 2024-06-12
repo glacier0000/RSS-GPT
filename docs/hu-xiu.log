@@ -10530,3 +10530,10 @@ Append: [日本年轻人正用辞职掀起革命](https://www.huxiu.com/article/
 Append: [谷歌与英伟达的AI人才之战，有多疯狂?](https://www.huxiu.com/article/3129080.html)
 append_entries: 11
 Finish: 2024-06-12 10:08:37.298420
+------------------------------------------------------
+Started: 2024-06-12 12:13:20.511980
+Existing_entries: 1011
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
