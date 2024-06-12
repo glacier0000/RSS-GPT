@@ -10430,3 +10430,15 @@ Existing_entries: 1000
 Fetching from https://glacier0000.vercel.app/huxiu/article
 append_entries: 0
 Finish: 2024-06-11 22:07:31.062652
+------------------------------------------------------
+Started: 2024-06-12 00:33:45.167302
+Existing_entries: 1000
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [Spotify CEO激怒音乐界：内容的创作成本接近于零？](https://www.huxiu.com/article/3126600.html)
+Append: [马尔克斯和他的革命魔幻人设](https://www.huxiu.com/article/3126926.html)
+Append: [美国胰岛素产业的丧钟，被我们敲响了？](https://www.huxiu.com/article/3126409.html)
+Append: [又一条跨国铁路来了，新疆喀什经济特区即将“起飞”?](https://www.huxiu.com/article/3127676.html)
+Append: [争论AI是否有意识毫无意义](https://www.huxiu.com/article/3126923.html)
+Append: [造电动车这事，沃尔沃快要弃赛了](https://www.huxiu.com/article/3095176.html)
+append_entries: 6
+Finish: 2024-06-12 00:33:50.806879
