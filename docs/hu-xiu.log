@@ -10724,3 +10724,10 @@ Existing_entries: 1000
 Fetching from https://glacier0000.vercel.app/huxiu/article
 append_entries: 0
 Finish: 2024-06-13 20:07:34.958094
+------------------------------------------------------
+Started: 2024-06-13 22:07:54.054130
+Existing_entries: 1000
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [蔚来，再次走进死胡同](https://www.huxiu.com/article/3130087.html)
+append_entries: 1
+Finish: 2024-06-13 22:07:57.829087
