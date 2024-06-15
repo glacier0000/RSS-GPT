@@ -10910,3 +10910,10 @@ Append: [英特尔发布Lunar Lake 处理器，AI个人电脑会是什么样？]
 Append: [受投行业务拖累，头部券商年终奖大幅“缩水”](https://www.huxiu.com/article/3137222.html)
 append_entries: 4
 Finish: 2024-06-15 04:09:13.763204
+------------------------------------------------------
+Started: 2024-06-15 06:09:15.893829
+Existing_entries: 1004
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
