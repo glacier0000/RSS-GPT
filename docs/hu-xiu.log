@@ -11371,3 +11371,10 @@ Append: [法国乱局对市场意味着什么？一文读懂](https://www.huxiu.
 Append: [苹果的Apple Intelligence ，为什么要这样设计新Siri？](https://www.huxiu.com/article/3149133.html)
 append_entries: 7
 Finish: 2024-06-18 14:07:29.673816
+------------------------------------------------------
+Started: 2024-06-18 16:08:53.868137
+Existing_entries: 1007
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
