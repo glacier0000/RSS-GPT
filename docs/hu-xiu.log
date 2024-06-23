@@ -12052,3 +12052,10 @@ Append: [中国高校第一省，易主了](https://www.huxiu.com/article/316549
 Append: [防晒霜的泡沫要被戳破了](https://www.huxiu.com/article/3165678.html)
 append_entries: 13
 Finish: 2024-06-23 16:08:05.382028
+------------------------------------------------------
+Started: 2024-06-23 18:09:03.875302
+Existing_entries: 1013
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
