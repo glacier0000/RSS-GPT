@@ -11998,3 +11998,10 @@ Append: [倒闭2.9万家：“预制黄焖鸡”被年轻人抛弃](https://www.
 Append: [股权冻结，官司缠身，玩命营销的自嗨锅嗨不起来了？](https://www.huxiu.com/article/3160145.html)
 append_entries: 6
 Finish: 2024-06-23 04:09:05.715931
+------------------------------------------------------
+Started: 2024-06-23 06:10:45.615216
+Existing_entries: 1006
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
