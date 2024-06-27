@@ -12608,3 +12608,10 @@ Append: [黄金行情走完了吗？](https://www.huxiu.com/article/3180279.html
 Append: [35岁，不是终点，是拐点](https://www.huxiu.com/article/3180249.html)
 append_entries: 10
 Finish: 2024-06-27 04:10:32.050210
+------------------------------------------------------
+Started: 2024-06-27 06:11:05.719502
+Existing_entries: 1010
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
