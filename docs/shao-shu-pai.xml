@@ -4,6 +4,27 @@
 <title>少数派 -- Matrix</title>
 <link>https://sspai.com/matrix</link>
 
+<item>
+<title>实现听书的自由</title>
+<link>https://sspai.com/post/89983</link>
+<guid>https://sspai.com/post/89983</guid>
+<content:encoded><![CDATA[
+
+<p>现在纵观app商店已经有很多的听书类软件了，但局限就是可以选择的书籍都是指定的，或者要等主播更新平台上架。对于有时想回顾一些经典读物，比如最近上映电影《沙丘2》后想听听原著就有些犯难了。本文提供一种可以实现高度自由听书的方式，不涉及书籍版权及来源。</p><p>&nbsp; 提醒：本人使用的是Mac的系统，身边没有Win系统，所以教程均是在MacOS上举例。</p><p>&nbsp; 为了方便初步接触的朋友可以上手，接下来会逐步分享。</p><ul><li>首先我们需要在github找到 <a href="https://github.com/p0n1/epub_to_audiobook"><strong>epub_to_audiobook</strong></a> 这个项目，打开一个终端窗口，使用git clone的方式进行下载。</li></ul><figure class="image ss-img-wrapper"><img src="https://cdnfile.sspai.com/2024/06/27/5ea842febb87f8edd3d171348d7ae6b4.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /><figcaption><a href="https://github.com/p0n1/epub_to_audiobook"><strong>epub_to_audiobook</strong></a></figcaption></figure><pre class="language-shell"><code>git clone https://github.com/p0n1/epub_to_audiobook.git</code></pre><ul><li>然后进入finder找到下载的文件夹，右键菜单-服务-新建位于文件夹位置的终端窗口</li></ul><figure class="image ss-img-wrapper"><img src="https://cdnfile.sspai.com/2024/06/27/4fcefc892212ea419672af000826a7c0.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><ul><li>创建虚拟环境，防止影响机器本地的环境，相当于做了一层隔离。在创建之前需要先确保安装了python3，具体怎么安装我们不在篇文章中涉及。</li></ul><pre class="language-python"><code>python3 -m venv venv</code></pre><ul><li>激活虚拟环境</li></ul><pre class="language-python"><code>source venv/bin/activate</code></pre><ul><li>在激活的虚拟环境中安装需要的组件。以下命令会参照requirements.txt这个文件中列出的依赖进行依次安装</li></ul><pre class="language-python"><code>pip install -r requirements.txt</code></pre><p>&nbsp;</p><p>&nbsp; 至此我们的本地安装完成，接下来就是使用的环节。</p><hr /><ul><li>需要转换语音的epub书籍放入指定文件夹：examples，并提前创建一个需要输出的文件夹，此处我以《银河系搭车客指南》为例。</li></ul><figure class="image ss-img-wrapper"><img src="https://cdnfile.sspai.com/2024/06/27/9510ec227fdef4db1d726d11767e6cf0.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /><figcaption>examples文件夹输出，自创建文件夹输出</figcaption></figure><p>&nbsp; 这个程序可以调用3种方式进行语音转换：OpenAI、AZure、Edge。前两种需要使用API，并且是需要付费的，所以我们此处讨论的第三种：Edge。</p><p>&nbsp; 本质上调用了Edge浏览器的语音朗读功能，所有它支持的音色都可以调用，关键是：免费！稳定！</p><p>&nbsp; 接下来我们要举例的前提是我们已经在&lt;examples&gt;文件夹种放入了《银河系搭车客指南》这本书，然后已经创建好对应的文件夹，当然文件夹的名称随意，只是接下来命令中做好对应就好即可。</p><hr /><ul><li>继续在原先的命令窗口中输入指令运行：</li></ul><pre class="language-python"><code>python3 main.py /Users/jeff/epub_to_audiobook/examples/银河系搭车客指南5部曲.epub /Users/jeff/epub_to_audiobook/银河系搭车客指南 --tts edge --language zh-CN --voice_name "zh-CN-XiaoxiaoNeural" --chapter_start 1 --chapter_end 203 --break_duration 1000</code></pre><p>&nbsp; 对于以上命令解释下：</p><figure class="table"><table><tbody><tr><td>/Users/jeff/epub_to_audiobook/examples/银河系搭车客指南5部曲.epub</td><td>读取的书籍</td></tr><tr><td>/Users/jeff/epub_to_audiobook/银河系搭车客指南</td><td>输出的目录</td></tr><tr><td>--voice_name "zh-CN-XiaoxiaoNeural"</td><td>调用的音色</td></tr><tr><td>--chapter_start 1 --chapter_end 203</td><td>开始到结束的章节</td></tr><tr><td>--break_duration 1000</td><td>段落之间间隔多少毫秒</td></tr></tbody></table></figure><ul><li>输出的文件</li></ul><figure class="image ss-img-wrapper"><img src="https://cdnfile.sspai.com/2024/06/27/c5646c41c985204423cf582e848fa791.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /><figcaption>已经按照章节分好</figcaption></figure><hr /><ul><li>避坑<ul><li>转换出来的音频都只有3KB，无法播放：这是因为原先的代码有问题，需要打开edge_tts_provider.py，替换以下代码，重新运行即可。</li></ul></li></ul><figure class="image ss-img-wrapper"><img src="https://cdnfile.sspai.com/2024/06/27/9954784627aefee8e8ad998d040e9eb7.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><pre class="language-python"><code>    async def save(
+        self,
+        audio_fname: Union[str, bytes],
+        metadata_fname: Optional[Union[str, bytes]] = None,
+    ) -&gt; None:
+        # Save the audio and metadata to the specified files.
+        await self.chunkify()
+        await super().save(audio_fname, metadata_fname)
+
+        audio: AudioSegment = AudioSegment.from_file(audio_fname)
+        audio.export(audio_fname)</code></pre><ul><li>以上是需要替换的代码，找到相似的这段直接替换保存退出即可。</li></ul>
+]]></content:encoded>
+<pubDate>Fri, 28 Jun 2024 05:40:10 GMT</pubDate>
+<pubDate>Fri, 28 Jun 2024 05:40:10 GMT</pubDate>
+</item>
 
 <item>
 <title>像使用桌面便签一样管理你的任务</title>
