@@ -13036,3 +13036,10 @@ Append: [银行存款利率一降再降，客户依然踊跃存款](https://www.
 Append: [从原神到DNF手游，为什么游戏厂商纷纷抛弃安卓渠道？](https://www.huxiu.com/article/3185982.html)
 append_entries: 5
 Finish: 2024-06-30 02:31:16.479236
+------------------------------------------------------
+Started: 2024-06-30 04:09:08.159166
+Existing_entries: 1005
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
