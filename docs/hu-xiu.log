@@ -13140,3 +13140,10 @@ Append: [马克龙落后，欧央行将出手？](https://www.huxiu.com/article/
 Append: [周鸿祎的“心头肉”，难渡“生死劫”](https://www.huxiu.com/article/3192053.html)
 append_entries: 7
 Finish: 2024-07-01 00:39:10.838668
+------------------------------------------------------
+Started: 2024-07-01 02:34:21.440942
+Existing_entries: 1007
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
