@@ -13474,3 +13474,10 @@ Append: [高端人士消费降级，利好本土酒店品牌？](https://www.hux
 Append: [公司卖了230亿，一批员工实现财富自由](https://www.huxiu.com/article/3203030.html)
 append_entries: 11
 Finish: 2024-07-03 06:11:59.244120
+------------------------------------------------------
+Started: 2024-07-03 08:10:50.205608
+Existing_entries: 1011
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
