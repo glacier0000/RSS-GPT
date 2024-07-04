@@ -13701,3 +13701,10 @@ Append: [用工荒的日本，为啥不给中年人涨薪？](https://www.huxiu.
 Append: [中国稀土，又上了一次高度](https://www.huxiu.com/article/3206478.html)
 append_entries: 13
 Finish: 2024-07-04 16:09:03.507529
+------------------------------------------------------
+Started: 2024-07-04 18:10:01.433820
+Existing_entries: 1013
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
