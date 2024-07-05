@@ -13792,3 +13792,10 @@ Append: [中企高管菲律宾遇害，掘金东南亚要注意些什么？](htt
 Append: [为什么我出生在农村？两代人与一种童年](https://www.huxiu.com/article/3210495.html)
 append_entries: 5
 Finish: 2024-07-05 06:11:58.004258
+------------------------------------------------------
+Started: 2024-07-05 08:10:18.061284
+Existing_entries: 1005
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
