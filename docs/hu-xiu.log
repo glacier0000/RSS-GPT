@@ -13977,3 +13977,10 @@ Append: [大砍条码，停止打款：酒商力保现金流](https://www.huxiu.
 Append: [我在东南亚干海外仓，差点被客户坑死](https://www.huxiu.com/article/3215921.html)
 append_entries: 5
 Finish: 2024-07-06 14:04:50.673569
+------------------------------------------------------
+Started: 2024-07-06 16:08:07.429131
+Existing_entries: 1005
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
