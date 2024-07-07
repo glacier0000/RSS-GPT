@@ -14057,3 +14057,10 @@ Append: [土地市场这半年](https://www.huxiu.com/article/3218089.html)
 Append: [“谁主”问界？赛力斯25亿元商标交易案背后](https://www.huxiu.com/article/3218258.html)
 append_entries: 8
 Finish: 2024-07-07 08:09:21.852162
+------------------------------------------------------
+Started: 2024-07-07 10:07:05.443449
+Existing_entries: 1008
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
