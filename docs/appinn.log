@@ -30490,3 +30490,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-07-09 12:14:32.063367
+------------------------------------------------------
+Started: 2024-07-09 14:07:14.079569
+Existing_entries: 455
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Append: [Macos 的 tag 怎么没了](https://meta.appinn.net/t/topic/58551)
+append_entries: 1
+Finish: 2024-07-09 14:07:16.403297
