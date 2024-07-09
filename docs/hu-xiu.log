@@ -14250,3 +14250,10 @@ Append: [从中国到法国，从巴黎到干邑](https://www.huxiu.com/article/
 Append: [比第一次高考分低的复读生们](https://www.huxiu.com/article/3224434.html)
 append_entries: 15
 Finish: 2024-07-09 02:28:28.886944
+------------------------------------------------------
+Started: 2024-07-09 04:09:42.508393
+Existing_entries: 1015
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
