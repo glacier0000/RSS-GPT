@@ -14383,3 +14383,10 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-07-09 20:10:33.421981
+Existing_entries: 1012
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [热衷把自己当病人这回事，从清朝就开始了？](https://www.huxiu.com/article/3225590.html)
+append_entries: 1
+Finish: 2024-07-09 20:10:40.339080
