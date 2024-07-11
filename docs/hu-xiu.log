@@ -14685,3 +14685,10 @@ Append: [从互联网大厂裸辞两年后，我决定重返职场](https://www.
 Append: [价格崩盘的海南酒店业，跌倒在暑期旺季之前](https://www.huxiu.com/article/3233459.html)
 append_entries: 12
 Finish: 2024-07-11 10:08:14.138299
+------------------------------------------------------
+Started: 2024-07-11 12:13:35.863672
+Existing_entries: 1012
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
