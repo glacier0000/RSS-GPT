@@ -14614,3 +14614,10 @@ Append: [暂停转融券如何影响A股？](https://www.huxiu.com/article/32327
 Append: [AI产品出海行么？](https://www.huxiu.com/article/3232374.html)
 append_entries: 22
 Finish: 2024-07-11 02:30:25.300705
+------------------------------------------------------
+Started: 2024-07-11 04:11:08.706020
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
