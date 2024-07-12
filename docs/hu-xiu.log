@@ -14788,3 +14788,10 @@ Append: [欧洲杯背后，足球俱乐部怎么搞钱？](https://www.huxiu.com
 Append: [“双曲线一号”发射失败，中国民营火箭为何连遭挫折？](https://www.huxiu.com/article/3237359.html)
 append_entries: 6
 Finish: 2024-07-12 08:11:32.534076
+------------------------------------------------------
+Started: 2024-07-12 10:08:27.620061
+Existing_entries: 1006
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
