@@ -14924,3 +14924,10 @@ Append: [年轻人的精神胜利法彩票，只剩精神胜利了？](https://w
 Append: [为什么日本游戏公司不会“大裁员”？](https://www.huxiu.com/article/3239094.html)
 append_entries: 18
 Finish: 2024-07-13 08:09:05.399565
+------------------------------------------------------
+Started: 2024-07-13 10:07:16.937279
+Existing_entries: 1018
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
