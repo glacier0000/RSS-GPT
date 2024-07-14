@@ -14989,3 +14989,13 @@ Existing_entries: 1000
 Fetching from https://glacier0000.vercel.app/huxiu/article
 append_entries: 0
 Finish: 2024-07-13 22:06:07.844215
+------------------------------------------------------
+Started: 2024-07-14 00:38:45.769153
+Existing_entries: 1000
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [OpenAI的神秘项目“草莓”，到底是什么？](https://www.huxiu.com/article/3244159.html)
+Append: [“巴菲特指标”显示：美股被严重高估了](https://www.huxiu.com/article/3244153.html)
+Append: [当“被封印的人”走出医院](https://www.huxiu.com/article/3243076.html)
+Append: [别拿电子垃圾糊弄中国人](https://www.huxiu.com/article/3243270.html)
+append_entries: 4
+Finish: 2024-07-14 00:38:53.901041
