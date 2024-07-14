@@ -15054,3 +15054,10 @@ Append: [无人出租车爆单，是好事还是坏事？](https://www.huxiu.com
 Append: [无人出租车，是技术进步的一粒灰，还是普通人头上的一座山？](https://www.huxiu.com/article/3244561.html)
 append_entries: 3
 Finish: 2024-07-14 10:09:22.207649
+------------------------------------------------------
+Started: 2024-07-14 12:12:07.086523
+Existing_entries: 1003
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
