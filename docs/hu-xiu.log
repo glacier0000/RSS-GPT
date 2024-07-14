@@ -15073,3 +15073,10 @@ Append: [持续上涨3个月后，中国出口集装箱运输市场整体回调]
 Append: [米其林“跌落神坛”？ 高端西餐降价求生](https://www.huxiu.com/article/3238505.html)
 append_entries: 6
 Finish: 2024-07-14 14:05:17.289219
+------------------------------------------------------
+Started: 2024-07-14 16:03:48.142403
+Existing_entries: 1006
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
