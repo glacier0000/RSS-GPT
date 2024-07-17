@@ -15407,3 +15407,10 @@ Append: [上市公司造假](https://www.huxiu.com/article/3255254.html)
 Append: [特朗普的新副手，才是保守主义运动的新旗手？](https://www.huxiu.com/article/3253240.html)
 append_entries: 8
 Finish: 2024-07-17 06:11:18.046354
+------------------------------------------------------
+Started: 2024-07-17 08:10:33.776422
+Existing_entries: 1008
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
