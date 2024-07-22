@@ -31738,3 +31738,11 @@ Append: [【iOS】提醒英雄，把重要事项牢牢钉在你的锁屏界面�
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 2
 Finish: 2024-07-22 06:11:03.421363
+------------------------------------------------------
+Started: 2024-07-22 08:11:07.158495
+Existing_entries: 487
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-07-22 08:11:09.988469
