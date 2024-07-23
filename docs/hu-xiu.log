@@ -15972,3 +15972,10 @@ Append: [优绩主义如何撕裂美国社会](https://www.huxiu.com/article/327
 Append: [票价五折、黄牛散场，年轻人对演唱会祛魅了](https://www.huxiu.com/article/3274996.html)
 append_entries: 22
 Finish: 2024-07-23 02:29:01.416953
+------------------------------------------------------
+Started: 2024-07-23 04:09:54.723177
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
