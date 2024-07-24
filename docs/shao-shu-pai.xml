@@ -4,6 +4,47 @@
 <title>少数派 -- Matrix</title>
 <link>https://sspai.com/matrix</link>
 
+<item>
+<title>字幕组高效施工workflow——剪映+VSCode+Python+Obisidian实现字幕识别+听辨+校正</title>
+<link>https://sspai.com/post/90691</link>
+<guid>https://sspai.com/post/90691</guid>
+<content:encoded><![CDATA[
+
+<h2>前言</h2><p>在我的工作中经常要给录像添加对话字幕。众所周知，手动添加字幕是一个极其繁琐的工作。现在介绍我的工作流，都是在实践中一点一点摸索出来的，能大大提升添加字幕的工作效率。特别地，用到的软件和工具都是免费使用的。</p><h2>工作流程</h2><h3>流程图</h3><figure class="image ss-img-wrapper"><img src="https://cdnfile.sspai.com/2024/07/22/441f04a716dc9ebfec62fbcd0d62e2e1.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><h3>视频拼接</h3><p><strong>工具：剪映</strong></p><blockquote><p>这一步比较简单，只要将拍摄的几段录像按照时间顺序拼接成一个长视频。</p></blockquote><ol><li>打开剪映软件，创建一个新的项目，重命名；</li><li>将需要拼接的录像导入素材库；</li><li>按照时间顺序将录像从素材区拖入时间线，可以进行适当的剪辑；</li><li>核对无误后进入下一步。</li></ol><h3>识别和导出字幕</h3><p><strong>工具：剪映</strong></p><blockquote><p>这一步需要联网，请保证网络连接畅通。</p></blockquote><h4>操作步骤</h4><ol><li>点击剪映的“文本”菜单，单击识别字幕按钮，进行字幕识别（长视频字幕识别较慢，可以先做点别的事情）；</li><li>对于2小时以上的长视频，需要手动切成2小时以内的片段再进行识别；</li><li>字幕识别完成后，点击右上角的“导出”按钮，选择导出视频（低画质，可以选480p）+字幕（SRT格式），导出完成后打开文件夹。</li></ol><blockquote><p>SRT文件是用来进行重新编辑和生成时间戳的，低画质mp4文件是用来听辨和校对的。<br />对于较长的视频文件，视频导出会比较慢，也可以选择导出音频（MP3格式）用于听辨。</p></blockquote><h3>初步纠正</h3><p><strong>工具：Visual Studio Code + Subtitles Editor 插件</strong><br />剪映的字幕识别功能非常优秀，时间位置信息几乎准确，极大提升了字幕施工效率。虽然如此，自动识别的字幕文本通常不适合直接使用，需要手动纠正以下问题：</p><ul><li>重复单字、重复词、语气词和口水词（日常口语中很常见）</li><li>错别字（同音字或者专有词汇很容易识别错）</li><li>整句话识别错误的情况<br />针对前两种情况，我们可以在VSCode界面下通过编辑srt文件进行手动纠正。对于第三种识别问题，不能一眼就看出该如何纠正，这时就需要回放和听辨，留给后两步讲解。</li></ul><blockquote><p>为什么不在剪映操作直接纠正字幕呢？因为一个个点开几千条字幕，效率实在太低了！<br />用纯文本编辑器处理字幕，效率会高很多。</p></blockquote><h4>操作步骤</h4><ol><li>用VSCode打开srt文件，<strong>记得选择“信任该文件”，确保没有开启restrict mode。Subtitles Editor 插件会自动将每一条字幕的序号和时间信息高亮显示，</strong> 帮助你更高效地进行字幕文件的编辑。</li><li><a href="https://www.bilibili.com/video/BV1Yz421h7m4/"><strong>清除多余的重复单字</strong></a><strong>：</strong><code>Ctrl+H</code> 打开查找替换浮窗，<strong>启用正则表达式搜索</strong>。检索式 <code>([^\w-])\1+</code> 替换式 <code>$1</code>，进行将叠字替换为单字的操作。逐个替换。如果遇到固有叠词（例如“慢慢”、“看看”、“试试”），可以将检索式该为<code>([^慢看试\w-])\1+</code> ，避免识别到这些固有叠词。<a href="https://www.bilibili.com/video/BV1Yz421h7m4/">这个在笔者制作的视频教程里也有讲解。</a></li><li>对于2~5个字的词语的叠词，使用正则表达式 <code>([^\w-][^\w-])\1+</code>（2字词汇叠词）<code>([^\w-][^\w-][^\w-])\1+</code>（3字词汇叠词）<code>([^\w-][^\w-][^\w-][^\w-])\1+</code>（4字词汇叠词）<code>([^\w-][^\w-][^\w-][^\w-][^\w-])\1+</code>（5字词汇叠词） 进行检索，替换式同样是<code>$1</code>。</li><li><strong>清除多余的语气词：</strong><code>Ctrl+H</code> 打开查找替换浮窗，<strong>启用正则表达式搜索</strong>。检索式 <code>[啊哦呃呢哈嗯哎呵]</code> 替换式 为空格，将口语中的语气词改为停顿空格。</li><li><strong>纠正错别字：</strong> 逐条检查并纠正错别字。适当使用查找替换功能。对于不清楚这行字幕该如何纠正的情况，需要人工听辨识别，留到下一步处理。</li><li>保存srt文件。</li></ol><h3>生成时间戳笔记</h3><p><strong>工具：Python+srt库</strong></p><h4>背景：人工听辨的瓶颈是拖动进度条</h4><p>VSCode修改srt字幕虽然快捷，但是有些自动识别的字幕行语义不明，不能一眼看出正确的文字，这时候就需要找出视频文件，调到字幕行所在的时间播放，进行人工听辨和手动纠错。</p><p>剪映自带的预览播放器，目前还没有输入时间戳跳转到时间点的功能。大多数媒体播放器也没有跳转到特定时间戳的功能。用鼠标拖拽进度条很难拖准，<strong>听辨和纠错的大部分时间都花在拖进度条了</strong>。如果一次没能听辨出来，还要重新拖进度条，很是麻烦。笔者苦于进度条问题久矣！</p><p>作为一名Obsidian用户，笔者偶然间发现 Obsidian 的 Media Extended 插件带有时间戳笔记功能——只要点击带有超链接的时间戳，就能从笔记右侧分屏播放多媒体文件，并直接跳转到特定时间位置。超链接语法格式是<code>[hh:mm](file:\\\{{url}}#t=hh:mm:ss.xxx)</code>，只需点击超链接，就能在Obsidian原生界面分屏播放视频，跳转到指定的<code>hh:mm:ss.xxx</code> 时间点开始播放。</p><p>受此启发，笔者编写了一个<code>python</code>小脚本<code>srt2timestamp</code>，能提取srt文件中的字幕行的起始时间信息，按照<code>[hh:mm:ss.xxx](file:\\\{{url}}#t=hh:mm:ss.xxx)</code> 的超链接语法，转换Obsidian Media Extended 支持的时间戳笔记<code>.md</code>文件。这样一来，笔者就可以在Obsidian界面上，实现对每条字幕起始时间的一键跳转，反复听很多遍也不费事！</p><h4>操作步骤</h4><ol><li>配置好python环境。建议到<a href="https://www.python.org/downloads/">python官网</a><a href="https://www.liaoxuefeng.com/wiki/1016959663602400/1016959856222624">下载并安装</a>新版python。安装完成后，在默认目录下创建第一个python文件<code>test.py</code>，内容如下：</li></ol><pre class="language-python"><code> print("Hello, world!")</code></pre><p>2. 在cmd命令行界面输入<code>python test.py</code>，如果输出“Hello, world!” 说明python已经安装成功！</p><p>3. 运行我们的 <code>srt2timestamp</code> 脚本会用到 <code>srt</code> 和 <code>urllib.parser</code> 两个python库。前者需要手动安装，后者是python自带的。安装 <a href="https://pypi.org/project/srt/">srt 库</a>的方法是在cmd命令行下输入<code>pip install srt</code>.</p><p>4. 现在开始编辑我们的 <code>srt2timestamp</code> 脚本：</p><pre class="language-python"><code>#引用 srt 和 urllib.parse 库
+import srt
+import urllib.parse
+#输入需要转换的字幕文件的路径
+srtpath = input("输入 .SRT 路径: ")
+
+#输入用于对照的音频或视频文件的路径，并转换成 url 编码
+mpath = urllib.parse.quote_plus(input("输入媒体文件路径: "))
+
+#输出转换成url格式的媒体文件路径，用于校对是否正常
+print(mpath)
+
+#打开srt字幕文件
+sfile=open(srtpath, mode="r",encoding="utf-8")
+
+#读取srt文件内容
+s = sfile.read()
+
+#关闭srt文件
+sfile.close()
+
+#指定md文件的文件名
+mdname = input("指定md文件名: ")+".md"
+#创建markdown文件
+md = open(mdname, mode="w+", encoding="utf-8")
+#解析srt文件内容，对于里面的每一行字幕（sub）执行以下操作
+for sub in srt.parse(s):
+line = "- " + str(sub.index) + " "+ str(sub.start) +" "+sub.content+"\n" #按照 “- &lt;字幕编号&gt; &lt;时间戳笔记&gt; &lt;字幕内容&gt; &lt;换行&gt;”的格式，构成准备写入的新行（line）字符串
+md.write(line) #向md文件写入新行
+#关闭md文件
+md.close()</code></pre><p>&nbsp;</p><ol><li>编辑好 <code>srt2timestamp.py</code> 脚本以后，保存到一个方便的文件目录下，譬如 <code>cmd</code> 窗口打开后的默认路径。</li><li>打开 <code>cmd</code> 命令行，输入 <code>cd </code>+py脚本的路径，切换到<code>srt2timestamp.py</code>脚本所在的目录下，输入 <code>python srt2timestamp.py</code> 运行脚本！</li><li>按照提示一步步输入 SRT文件路径、视频/音频文件路径，以及指定markdown文件的文件名。</li><li><code>srt2timestamp.py</code>脚本运行正常结束后，脚本所在目录下会发现一个新生成的markdown文件。把它复制粘贴到Obsidian仓库文件夹内的任意位置，这样就能用Obsidian打开。</li><li>Obsidian打开新生成的markdown文件，发现是生成了一列 字幕编号+起始时间+字幕内容的无序列表（unordered list）。点击上面的时间标签，右边正常弹出视频窗口，视频已跳转到字幕开始的时间，说明超链接正常生成。</li></ol><h3>听辨校正</h3><p><strong>工具：Visual Studio Code + Subtitles Editor 插件，Obsidian + Media Extended 插件</strong><br />现在我们已经做好了一个能一键定位到字幕开始时间位置的工具，就可以开始人工听辨了。</p><ol><li>左右分屏：左边用VSCode打开SRT文件，右边用Obsidian打开刚才生成的带有视频超链接的笔记文件。或者按照你喜欢的方式，同时打开VSCode和Obsidian。</li><li>在VSCode窗口下逐条检查需要修正的字幕行。遇到有疑问的字幕行，记下字幕编号，然后到Obsidian页面上找该编号对应的行，点击这一行的时间戳超链接，右侧分屏跳转到视频的字幕开始时间，播放并进行听辨。</li><li>根据听辨结果，在VSCode编辑器下修正字幕文本。按照此方法，逐一对存疑的字幕进行人工听辨和手动更正。</li><li>清除没有文字的字幕行，并进行检查校对。</li><li><code>ctrl+shift+P</code>打开命令，输入 <code>subtitles editor: renumber indices</code> ，在跳出的提示框内输入 <code>1</code>，意思是将第一条字幕编号命名为1. （这步不是必须的，即使没有重新编号，剪映也能正常读取，但是其他视频编辑软件和多媒体播放器不一定支持不连续编号的srt文件）。</li><li>保存SRT文件。</li></ol><h3>导入字幕和导出视频</h3><p><strong>工具：剪映</strong></p><ol><li>打开剪映软件，打开拼接视频时创建的项目。</li><li>打开文本菜单下的本地字幕面板，将刚才订正好的srt文件导入资源库。</li><li>删除已有的自动识别的字幕（这步很重要，否则导入的新字幕会有大量缺失）。</li><li>将资源库里的修正好的srt字幕拖入时间线，尽可能往左拖，务必使srt的0时间与视频的起始时间对其，避免错位。</li><li>调整字幕格式，例如字号和描边等。</li><li>在预览模式下再检查一遍字幕有无问题。</li><li>选择合适的清晰度，导出视频文件。完成！</li></ol><p>&nbsp;</p>
+]]></content:encoded>
+<pubDate>Tue, 23 Jul 2024 02:04:03 GMT</pubDate>
+<pubDate>Tue, 23 Jul 2024 02:04:03 GMT</pubDate>
+</item>
 
 <item>
 <title>桌游设计杂记（2） | 为什么我建议你不要着急开始，兼谈「概念设计」</title>
