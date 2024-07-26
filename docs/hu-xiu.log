@@ -16354,3 +16354,10 @@ Append: [为什么意大利人讨厌菠萝披萨？](https://www.huxiu.com/artic
 Append: [300亿芯片大牛股退市，市值跌没99.7%](https://www.huxiu.com/article/3287980.html)
 append_entries: 22
 Finish: 2024-07-26 06:11:54.285038
+------------------------------------------------------
+Started: 2024-07-26 08:10:17.322783
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
