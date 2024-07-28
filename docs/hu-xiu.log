@@ -16601,3 +16601,10 @@ Append: [走访锈带：美国大选的反直觉认知与不被看见的人](htt
 Append: [暧昧让人受尽委屈？我们离爱情少了哪一步？](https://www.huxiu.com/article/3289772.html)
 append_entries: 6
 Finish: 2024-07-28 10:07:31.517320
+------------------------------------------------------
+Started: 2024-07-28 12:12:32.704208
+Existing_entries: 1006
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
