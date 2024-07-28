@@ -16556,3 +16556,10 @@ Append: [三个方法缓解‍‍‍‍‍‍提前焦虑](https://www.huxiu.com
 Append: [南方人爱的笋，到底有多鲜？](https://www.huxiu.com/article/3293563.html)
 append_entries: 5
 Finish: 2024-07-28 02:32:50.944899
+------------------------------------------------------
+Started: 2024-07-28 04:09:07.607065
+Existing_entries: 1005
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
