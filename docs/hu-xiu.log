@@ -17354,3 +17354,10 @@ Append: [C.AI创始人被谷歌挖走，角色社交还要继续吗？](https://
 Append: [舟山无人村：绿野中的时光印记](https://www.huxiu.com/article/3323803.html)
 append_entries: 22
 Finish: 2024-08-05 10:07:48.727758
+------------------------------------------------------
+Started: 2024-08-05 12:14:42.787352
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
