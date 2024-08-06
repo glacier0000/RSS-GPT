@@ -4,18 +4,16 @@
 <title>少数派 -- Matrix</title>
 <link>https://sspai.com/matrix</link>
 
+
 <item>
 <title>老是错过提醒通知？这个强提醒 App 可能适合你</title>
 <link>https://sspai.com/post/91175</link>
 <guid>https://sspai.com/post/91175</guid>
 <content:encoded><![CDATA[
-
 <blockquote><p><strong>你可能会忘记所有事情，但是你大概不会忘记看手机。</strong></p></blockquote><p>你有没有经常忘记一些生活琐事的情况？几周前我苦于经常忘记取快递，把衣服放在洗衣机里忘记拿出来，萌生了开发一个提醒 App 的想法。</p><p>在这之前我也用过 iOS 自带的"提醒事项"，用了几次之后，发现它根本不会提醒我！<strong>折腾了一会儿才知道原来需要给每个提醒项设置时间</strong>，只是单纯的选择"今天"，"明天"，它只会以红点显示，并不会发送通知。</p><h2>为什么会错过提醒通知? 以下是我总结的几种情况</h2><ul><li>单纯没有设置提醒时间，基本上所有 App 都要求你主动设置提醒时间</li><li>提醒了，但是没空，也没有设置稍后提醒</li><li>即时消息太多，导致被其它通知覆盖，没有及时看到</li></ul><h3>解决这些问题非常简单</h3><h4><strong>忘记设置提醒时间 ？</strong></h4><p>那就不需设置提醒时间，任务在创建时默认推送到通知中心</p><h4><strong>通知被点击或清除之后消失 ？</strong></h4><p>那就让通知无法被删除，无论是点击还是清空通知中心，在任务未完成时重新放回锁屏</p><h4><strong>即时消息太多，没有及时看到 ？</strong></h4><p>让通知周期性的刷新，始终保持在其他通知的最上方</p><p><strong>提醒英雄利用持续定位权限(没有实际用到位置数据)运行一个后台任务，时刻监控任务状态，保证当前没有完成的任务一直处于锁屏，代价是消耗一点电量</strong></p><p>锁屏是解锁手机后看到的第一个界面(不然怎么叫锁屏界面)，它对于你的视觉拥有最高的优先级。</p><ul><li>即时消息在到达一小时时间限制时，不会被通知中心收起</li><li>点击或者清除通知后，也不会消失</li></ul><p>如果你不需要强提醒功能，也可以在设置中手动关闭后台任务</p><h2>让提醒英雄帮助你处理生活琐事</h2><p>生活琐事(取快递，买东西等等)属于 [重要但不紧急] 的类型，你可以在任何时间去做，但是不能忘记。<strong>把这些类事情一直放在锁屏界面，同时可以自由决定什么时候去完成，可能是最好的办法，只要每次打开手机就一定会注意到。</strong></p><figure class="image ss-img-wrapper"><img src="https://cdnfile.sspai.com/2024/08/05/781e142a9df25486c3325814cfc5e472.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>创建任务采用目前最流行的键盘弹出框，默认情况下，任务为"提醒中"状态并立即推送到通知中心，也可以通过日历指定提醒时间。</p><figure class="image ss-img-wrapper"><img src="https://cdnfile.sspai.com/2024/08/05/20dea5bb12df7d040730f6d17e62f311.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>首页右上角把任务分为三种类型，通过左右滑动快速切换</p><ul><li>即时任务(仅提醒一次，完成即结束)</li><li>重复任务(按照时间间隔多次提醒)</li><li>定期任务(每天，每周，每月定时触发)</li></ul><p>这样设计的好处是简化了创建任务时的交互负担，不需要在页面上点击各种设置，在对应的类型下，创建的就是对应类型的任务。也方便你进行管理。</p><figure class="image ss-img-wrapper"><img src="https://cdnfile.sspai.com/2024/08/05/dacf92fc95be27358d8711e29f4aec01.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>为每个任务添加检查项，在检查清单功能上，提醒英雄做了这些改进</p><ul><li>点击通知进入 App 时，即可完成相应的检查项</li><li>修改检查项的状态后，通知也会同步显示任务进度【例如"购物清单(5/12)"】</li><li><strong>只有在所有检查项完成后，任务才可以被标记为"完成"</strong></li></ul><p>很奇怪为什么大多数 App 虽然会显示任务的完成进度，但是子任务没有全部完成时，任务依然可以完成，那检查清单不就没有意义了吗？</p><figure class="image ss-img-wrapper"><img src="https://cdnfile.sspai.com/2024/08/05/c11080baaa96ea4a7a464b6fe85dd072.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" /></figure><p>我觉得比效有趣的设计，提醒英雄在侧边栏里提供了一个迷你日历，用于展示本月的任务安排情况。</p><h3>会员权益</h3><p><strong>所有基础提醒功能都是免费的</strong>，以下是会员功能列表</p><ul><li>全局持续响铃</li><li>为某个任务指定持续响铃</li><li>同步和备份数据到 iCloud</li><li>同步任务完成情况到系统日历</li><li>为每个任务创建检查清单</li><li>任务分类和高级筛选【开发中】</li><li>任务完成情况的数据统计【开发中】</li></ul><h3>下载地址</h3><span class="ss-linkCard">&nbsp;</span><p>&nbsp;</p><p>或者在 App Store 中搜索"提醒英雄"，外区请搜索"Notifyman"</p><p><strong>提醒英雄为年费订阅模式，按年订阅为 18元 / 每年，目前也提供 68 元的终身会员选项(限时销售)</strong></p><h3>赠送兑换码</h3><p>请你在评论区写下对于提醒英雄的看法，我们会抽取 10 个幸运用户赠送永久会员！</p><blockquote><p>我们专注于制作温暖，有个性的独立 App，欢迎关注公众号 "CM0S 独立工作室"</p></blockquote><p>&nbsp;</p>
 ]]></content:encoded>
 <pubDate>Tue, 06 Aug 2024 02:01:42 GMT</pubDate>
-<pubDate>Tue, 06 Aug 2024 02:01:42 GMT</pubDate>
 </item>
-
 <item>
 <title>找工作过程中的记录、复盘、训练</title>
 <link>https://sspai.com/post/91124</link>
