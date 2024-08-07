@@ -17564,3 +17564,10 @@ Append: [英国最有松弛感的工程是哪个？](https://www.huxiu.com/artic
 Append: [一碗云吞面](https://www.huxiu.com/article/3329541.html)
 append_entries: 22
 Finish: 2024-08-07 10:08:51.653249
+------------------------------------------------------
+Started: 2024-08-07 12:14:55.924010
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu

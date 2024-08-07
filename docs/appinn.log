@@ -33313,3 +33313,11 @@ Append: [求一个上滑下滑刷视频的APP，支持webdav协议](https://meta
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2024-08-07 10:08:32.148021
+------------------------------------------------------
+Started: 2024-08-07 12:14:36.675235
+Existing_entries: 507
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-08-07 12:14:40.793412
