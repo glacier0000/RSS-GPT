@@ -17781,3 +17781,10 @@ Append: [GPT-4o失控，突然呻吟尖叫发癫，引发研究人员恐慌](htt
 Append: [AI代笔的日子快到头了](https://www.huxiu.com/article/3338835.html)
 append_entries: 22
 Finish: 2024-08-09 12:14:11.441162
+------------------------------------------------------
+Started: 2024-08-09 14:08:30.599480
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
