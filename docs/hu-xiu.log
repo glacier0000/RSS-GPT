@@ -17923,3 +17923,10 @@ Append: [AI视频造假“逆天”了](https://www.huxiu.com/article/3341903.ht
 Append: [放在几十年前，这届奥运会得有十来个冠军惜败亚军](https://www.huxiu.com/article/3343269.html)
 append_entries: 6
 Finish: 2024-08-10 14:07:19.656008
+------------------------------------------------------
+Started: 2024-08-10 16:09:17.131019
+Existing_entries: 1006
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
