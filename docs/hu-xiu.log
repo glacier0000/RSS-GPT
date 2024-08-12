@@ -18132,3 +18132,10 @@ Append: [市值700亿的太阳能设备制造巨头，要破产了](https://www.
 Append: [巴黎奥运会，92%的中国制造？](https://www.huxiu.com/article/3338964.html)
 append_entries: 22
 Finish: 2024-08-12 14:09:38.114066
+------------------------------------------------------
+Started: 2024-08-12 16:09:42.320427
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
