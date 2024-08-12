@@ -18069,3 +18069,10 @@ Append: [奥运救不了啤酒业](https://www.huxiu.com/article/3309774.html)
 Append: [手机上瘾，不是你的错](https://www.huxiu.com/article/3345384.html)
 append_entries: 22
 Finish: 2024-08-12 02:34:12.545359
+------------------------------------------------------
+Started: 2024-08-12 04:10:14.987684
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
