@@ -18244,3 +18244,10 @@ Append: [机器人解决养老难？](https://www.huxiu.com/article/3352260.html
 Append: [如果私募不允许保本，那么LP凭什么要求GP回购？](https://www.huxiu.com/article/3351788.html)
 append_entries: 22
 Finish: 2024-08-13 10:09:16.038288
+------------------------------------------------------
+Started: 2024-08-13 12:14:43.415047
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
