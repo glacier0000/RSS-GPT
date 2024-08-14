@@ -18335,3 +18335,10 @@ Append: [Sea：实力打碎鬼故事，东南亚小腾讯仍是好样的](https:
 Append: [四省通衢的老城，愈夜愈热闹](https://www.huxiu.com/article/3355989.html)
 append_entries: 22
 Finish: 2024-08-14 06:11:32.256088
+------------------------------------------------------
+Started: 2024-08-14 08:10:32.139446
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
