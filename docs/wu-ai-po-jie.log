@@ -9192,3 +9192,10 @@ Existing_entries: 52
 Fetching from https://wechat2rss.xlab.app/feed/90c827b8290310a96ef80a13df9dbcc06ab69892.xml
 append_entries: 0
 Finish: 2024-08-16 10:09:00.159938
+------------------------------------------------------
+Started: 2024-08-16 12:14:46.279601
+Existing_entries: 52
+Fetching from https://wechat2rss.xlab.app/feed/90c827b8290310a96ef80a13df9dbcc06ab69892.xml
+Append: [2023腾讯游戏安全PC决赛复现](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141171&idx=1&sn=66f61359150558e0f64a6fce7ef9c39f&chksm=bd50a4678a272d7172260a5fb31c2a3d6d9c91cf41af1c8ac841206025234832867cf73dd42b&scene=58&subscene=0)
+append_entries: 1
+Finish: 2024-08-16 12:14:47.194792
