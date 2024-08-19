@@ -18990,3 +18990,10 @@ Append: [山西为何是“古建筑爱好者的天堂”？](https://www.huxiu.
 Append: [打脸“AI灭绝论”，研究反驳：大模型涌现能力不会威胁人类生存](https://www.huxiu.com/article/3374584.html)
 append_entries: 17
 Finish: 2024-08-19 06:12:01.920320
+------------------------------------------------------
+Started: 2024-08-19 08:11:38.080251
+Existing_entries: 1017
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
