@@ -18960,3 +18960,10 @@ Append: [华为不走险路](https://www.huxiu.com/article/3369151.html)
 Append: [成都的哥，消失的江湖](https://www.huxiu.com/article/3361082.html)
 append_entries: 22
 Finish: 2024-08-19 02:33:37.618352
+------------------------------------------------------
+Started: 2024-08-19 04:09:58.139266
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
