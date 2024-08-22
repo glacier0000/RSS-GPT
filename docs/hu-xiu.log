@@ -19373,3 +19373,10 @@ Append: [给《黑神话：悟空》打一星的外国人，究竟在想什么�
 Append: [比尔·盖茨要用AI对付蚊子，人类和蚊子的“战争”迎来终局？](https://www.huxiu.com/article/3386274.html)
 append_entries: 22
 Finish: 2024-08-22 14:08:01.125256
+------------------------------------------------------
+Started: 2024-08-22 16:09:46.494658
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
