@@ -19289,3 +19289,10 @@ Append: [《黑神话：悟空》员工被疯狂挖角，不是因为其他公�
 Append: [全国多少旅拍店在坐等倒闭？](https://www.huxiu.com/article/3384553.html)
 append_entries: 22
 Finish: 2024-08-22 02:33:17.036932
+------------------------------------------------------
+Started: 2024-08-22 04:09:58.018928
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
