@@ -19380,3 +19380,12 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-08-22 18:10:22.245147
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [异国恋生存指南](https://www.huxiu.com/article/3385400.html)
+Append: [盖浇饭才是打工人的中式健康餐](https://www.huxiu.com/article/3386907.html)
+Append: [米哈游坐落的漕河泾，正成为游戏业的新中心](https://www.huxiu.com/article/3386347.html)
+append_entries: 3
+Finish: 2024-08-22 18:10:28.560042
