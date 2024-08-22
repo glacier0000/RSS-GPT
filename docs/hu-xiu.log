@@ -19338,3 +19338,10 @@ Append: [啊？坐办公室都要成贵族符号了？](https://www.huxiu.com/ar
 Append: [对目前创投行业投资条款的一些看法](https://www.huxiu.com/article/3385415.html)
 append_entries: 22
 Finish: 2024-08-22 10:09:32.468515
+------------------------------------------------------
+Started: 2024-08-22 12:14:05.349648
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
