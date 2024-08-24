@@ -19621,3 +19621,10 @@ Append: [四大行股价创历史新高，银行股何以“大象起舞”？](
 Append: [IPO中介的百亿生意迎来变局](https://www.huxiu.com/article/3394292.html)
 append_entries: 5
 Finish: 2024-08-24 14:08:26.751579
+------------------------------------------------------
+Started: 2024-08-24 16:08:39.473159
+Existing_entries: 1005
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
