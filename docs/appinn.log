@@ -35079,3 +35079,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-08-25 06:10:39.909837
+------------------------------------------------------
+Started: 2024-08-25 08:09:37.487335
+Existing_entries: 519
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [有没有觉得win10上的chrome和chrome一样内核的浏览器都特别慢？](https://meta.appinn.net/t/topic/60306)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-08-25 08:09:40.536302
