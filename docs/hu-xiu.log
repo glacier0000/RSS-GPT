@@ -19668,3 +19668,10 @@ Append: [永生，真的能让人快乐吗？](https://www.huxiu.com/article/339
 Append: [TikTok在东南亚碰到硬茬了](https://www.huxiu.com/article/3395161.html)
 append_entries: 9
 Finish: 2024-08-25 02:36:23.561084
+------------------------------------------------------
+Started: 2024-08-25 04:09:45.108574
+Existing_entries: 1009
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
