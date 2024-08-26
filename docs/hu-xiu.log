@@ -19793,3 +19793,10 @@ Append: [大批日料店艰难求生：撑过了核污水风波，熬不过消�
 Append: [深度体验美国青少年选美，老钱家庭的鸡娃新赛道（上）](https://www.huxiu.com/article/3390321.html)
 append_entries: 22
 Finish: 2024-08-26 02:33:13.553991
+------------------------------------------------------
+Started: 2024-08-26 04:10:40.214946
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
