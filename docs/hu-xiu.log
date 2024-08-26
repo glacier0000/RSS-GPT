@@ -19875,3 +19875,10 @@ Append: [“先涨为敬”，鲍威尔“鸽”声中的降息迷局](https://w
 Append: [拼多多赚钱依旧，但不再突破天际？](https://www.huxiu.com/article/3401590.html)
 append_entries: 6
 Finish: 2024-08-26 18:10:43.764843
+------------------------------------------------------
+Started: 2024-08-26 20:10:02.488939
+Existing_entries: 1006
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
