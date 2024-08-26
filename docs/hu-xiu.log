@@ -19856,3 +19856,10 @@ Append: [谷歌、苹果接连被传“拆分”，美国反垄断风暴还未�
 Append: [AI投流战，投不出未来](https://www.huxiu.com/article/3400853.html)
 append_entries: 22
 Finish: 2024-08-26 14:08:51.544251
+------------------------------------------------------
+Started: 2024-08-26 16:09:46.708740
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
