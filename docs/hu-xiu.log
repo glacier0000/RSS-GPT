@@ -19976,3 +19976,10 @@ Append: [鼎泰丰扛不住了](https://www.huxiu.com/article/3404615.html)
 Append: [“愤怒”的背后是什么？](https://www.huxiu.com/article/3404440.html)
 append_entries: 11
 Finish: 2024-08-27 14:08:07.642258
+------------------------------------------------------
+Started: 2024-08-27 16:09:38.817830
+Existing_entries: 1011
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
