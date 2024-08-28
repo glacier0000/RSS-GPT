@@ -35390,3 +35390,11 @@ Fetching from https://meta.appinn.net/tag/macos.rss
 Append: [Veusz——开源、免费、轻量级的科研作图软件](https://meta.appinn.net/t/topic/60405)
 append_entries: 2
 Finish: 2024-08-28 10:08:22.028832
+------------------------------------------------------
+Started: 2024-08-28 12:14:56.800717
+Existing_entries: 526
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-08-28 12:15:00.428486
