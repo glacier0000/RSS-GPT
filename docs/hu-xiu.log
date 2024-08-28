@@ -20102,3 +20102,10 @@ Append: [上海楼市一条很重要的政策被忽略了](https://www.huxiu.com
 Append: [以氪佬、财经博主等视角，聊聊原神这款游戏](https://www.huxiu.com/article/3406846.html)
 append_entries: 22
 Finish: 2024-08-28 14:08:15.762963
+------------------------------------------------------
+Started: 2024-08-28 16:09:15.055403
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
