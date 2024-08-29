@@ -20200,3 +20200,10 @@ Append: [老板娘是第一生产力？](https://www.huxiu.com/article/3404381.h
 Append: [英伟达财报逆天股价却下跌，华尔街为何不买账？](https://www.huxiu.com/article/3410555.html)
 append_entries: 22
 Finish: 2024-08-29 06:12:10.618691
+------------------------------------------------------
+Started: 2024-08-29 08:11:26.298605
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
