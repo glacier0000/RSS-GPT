@@ -10538,3 +10538,11 @@ Existing_entries: 316
 Fetching from https://glacier0000.vercel.app/sspai/matrix
 append_entries: 0
 Finish: 2024-08-30 00:37:29.248093
+------------------------------------------------------
+Started: 2024-08-30 02:37:07.479892
+Existing_entries: 316
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Append: [提示词技术详解（1）——Prompt的结构&少样本学习](https://sspai.com/post/91879)
+Append: [Notion Exporter: 将Notion内容导出为卡片，让分享更简单](https://sspai.com/post/91869)
+append_entries: 2
+Finish: 2024-08-30 02:37:14.286781
