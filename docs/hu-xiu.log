@@ -20340,3 +20340,10 @@ Append: [AI革新：蛋白质设计新突破，助力癌症与痴呆症研究](h
 Append: [谷歌大手笔挖走创始人后，Character.AI上演裁员风波](https://www.huxiu.com/article/3413891.html)
 append_entries: 22
 Finish: 2024-08-30 10:09:05.687964
+------------------------------------------------------
+Started: 2024-08-30 12:14:19.733315
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
