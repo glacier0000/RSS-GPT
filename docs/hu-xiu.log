@@ -20291,3 +20291,10 @@ Append: [AI芯片，再一次开战](https://www.huxiu.com/article/3412960.html)
 Append: [国际航线补贴好日子要结束了？](https://www.huxiu.com/article/3412978.html)
 append_entries: 22
 Finish: 2024-08-30 02:37:24.596798
+------------------------------------------------------
+Started: 2024-08-30 04:10:31.542403
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
