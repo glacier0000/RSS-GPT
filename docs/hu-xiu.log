@@ -20725,3 +20725,10 @@ Append: [美国的核心优势产业是哪些？](https://www.huxiu.com/article/
 Append: [我在非洲当博主](https://www.huxiu.com/article/3425060.html)
 append_entries: 22
 Finish: 2024-09-03 02:35:52.757668
+------------------------------------------------------
+Started: 2024-09-03 04:10:37.813273
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
