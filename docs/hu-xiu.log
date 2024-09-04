@@ -20907,3 +20907,10 @@ Append: [加州人工智能法案即将通过，或将与欧盟AI法案形成协
 Append: [利玛窦的失败与伟大](https://www.huxiu.com/article/3432834.html)
 append_entries: 22
 Finish: 2024-09-04 14:08:21.331438
+------------------------------------------------------
+Started: 2024-09-04 16:10:06.159462
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
