@@ -36108,3 +36108,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-09-04 22:07:25.124063
+------------------------------------------------------
+Started: 2024-09-05 00:37:26.651876
+Existing_entries: 532
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Append: [Keyviz 汉化版 - 开源免费的按键可视化工具](https://meta.appinn.net/t/topic/60657)
+append_entries: 1
+Finish: 2024-09-05 00:37:29.417646
