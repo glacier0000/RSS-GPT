@@ -4,12 +4,12 @@
 <title>吾爱破解论坛</title>
 <link>https://wechat2rss.xlab.app/feed/90c827b8290310a96ef80a13df9dbcc06ab69892.xml</link>
 
+
 <item>
 <title>【原创】音频采样率转换的研究与Rust代码实现</title>
 <link>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651141350&amp;idx=1&amp;sn=1a63fc243a6b682b5b891eb6d46ac034&amp;chksm=bd50a4b28a272da42279038ea345f744531bd339e50c108ca16efe968047f815ce6420ae3ff6&amp;scene=58&amp;subscene=0</link>
 <guid>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651141350&amp;idx=1&amp;sn=1a63fc243a6b682b5b891eb6d46ac034&amp;chksm=bd50a4b28a272da42279038ea345f744531bd339e50c108ca16efe968047f815ce6420ae3ff6&amp;scene=58&amp;subscene=0</guid>
 <content:encoded><![CDATA[
-
 <p>
 原创 <span>吾爱pojie</span> <span>2024-09-05 17:50</span> <span style="display: inline-block;">北京</span>
 </p>
@@ -29,9 +29,7 @@
 <p><a href="https://wechat2rss.xlab.app/link-proxy/?k=998d36d7&amp;r=1&amp;u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5Mjc3MDM2Mw%3D%3D%26mid%3D2651141350%26idx%3D1%26sn%3D1a63fc243a6b682b5b891eb6d46ac034%26chksm%3Dbd50a4b28a272da42279038ea345f744531bd339e50c108ca16efe968047f815ce6420ae3ff6%26scene%3D58%26subscene%3D0%23rd">跳转微信打开</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 05 Sep 2024 17:50:19 +0800</pubDate>
-<pubDate>Thu, 05 Sep 2024 17:50:19 +0800</pubDate>
 </item>
-
 <item>
 <title>【PC样本分析】记录自己的第一次红队钓鱼样本分析</title>
 <link>https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&amp;mid=2651141297&amp;idx=1&amp;sn=93ec338d4114304f6c9f6f2b19ca0aa3&amp;chksm=bd50a4e58a272df359a63e32a1bba92b894d765c88d90f3f5bc0451fb5f4914d3960fb12ecd1&amp;scene=58&amp;subscene=0</link>
