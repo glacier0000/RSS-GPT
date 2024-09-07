@@ -21288,3 +21288,10 @@ Append: [被丢下20年，她想看看父亲的“好日子”](https://www.huxi
 Append: [镜像神经元：十载污名再出发](https://www.huxiu.com/article/3441980.html)
 append_entries: 10
 Finish: 2024-09-07 14:07:34.654414
+------------------------------------------------------
+Started: 2024-09-07 16:08:34.233997
+Existing_entries: 1010
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
