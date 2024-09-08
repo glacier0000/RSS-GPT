@@ -21376,3 +21376,10 @@ Append: [一家零售巨头要破产了](https://www.huxiu.com/article/3445703.h
 Append: [波兰正在成为中国企业欧洲桥头堡](https://www.huxiu.com/article/3445702.html)
 append_entries: 5
 Finish: 2024-09-08 10:08:53.417419
+------------------------------------------------------
+Started: 2024-09-08 12:13:18.972036
+Existing_entries: 1005
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
