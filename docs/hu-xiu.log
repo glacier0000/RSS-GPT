@@ -21453,3 +21453,10 @@ Append: [这家创业公司帮美国学生戒网瘾](https://www.huxiu.com/artic
 Append: [普通人不应该反对三明医改](https://www.huxiu.com/article/3447787.html)
 append_entries: 22
 Finish: 2024-09-09 02:41:17.128778
+------------------------------------------------------
+Started: 2024-09-09 04:10:42.236822
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
