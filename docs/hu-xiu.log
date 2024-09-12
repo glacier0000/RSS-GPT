@@ -21851,3 +21851,10 @@ Append: [谷歌广告垄断案开审，“后谷歌时代”将近](https://www.
 Append: [库里南平替？模块化后备箱？问界M9五座版怎么样？](https://www.huxiu.com/article/3450521.html)
 append_entries: 22
 Finish: 2024-09-12 14:09:11.132318
+------------------------------------------------------
+Started: 2024-09-12 16:09:46.979865
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
