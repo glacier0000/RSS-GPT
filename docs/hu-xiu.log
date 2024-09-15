@@ -22145,3 +22145,10 @@ Append: [苹果税，咱交的到底冤不冤？扒开手机厂商的“上贡�
 Append: [奥运夺冠的美国女足，为何仍开启了联赛改革？](https://www.huxiu.com/article/3470060.html)
 append_entries: 8
 Finish: 2024-09-15 02:46:03.625415
+------------------------------------------------------
+Started: 2024-09-15 04:10:17.462865
+Existing_entries: 1008
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
