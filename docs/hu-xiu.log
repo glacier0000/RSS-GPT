@@ -22208,3 +22208,10 @@ Append: [中国人，正在大量涌入土耳其](https://www.huxiu.com/article/
 Append: [金价猛涨，有金店却扛不住了](https://www.huxiu.com/article/3473580.html)
 append_entries: 4
 Finish: 2024-09-15 14:07:40.731650
+------------------------------------------------------
+Started: 2024-09-15 16:09:14.984711
+Existing_entries: 1004
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
