@@ -22222,3 +22222,10 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-09-15 20:08:44.389870
+Existing_entries: 1004
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [顺风车乱象调查：违规拼凑乘客，司乘矛盾难解](https://www.huxiu.com/article/3469628.html)
+append_entries: 1
+Finish: 2024-09-15 20:08:49.727114
