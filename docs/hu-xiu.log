@@ -22362,3 +22362,10 @@ Append: [宗馥莉正面对决钟睒睒](https://www.huxiu.com/article/3475344.h
 Append: [保本式创新，救不了中国LP](https://www.huxiu.com/article/3475577.html)
 append_entries: 22
 Finish: 2024-09-17 02:18:01.029598
+------------------------------------------------------
+Started: 2024-09-17 04:10:14.392285
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
