@@ -22388,3 +22388,14 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-09-17 10:09:19.859245
+Existing_entries: 1006
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [我孙子的孙子的孙子……可能没有中秋过了](https://www.huxiu.com/article/3479793.html)
+Append: [铜价长期将飙升？](https://www.huxiu.com/article/3479689.html)
+Append: [谁拥有最多的GPU？](https://www.huxiu.com/article/3475330.html)
+Append: [小鹏用实际行动证明，李想说得没错](https://www.huxiu.com/article/3479678.html)
+Append: [未来十年最容易被AI取代的50个职位](https://www.huxiu.com/article/3479677.html)
+append_entries: 5
+Finish: 2024-09-17 10:09:23.692383
