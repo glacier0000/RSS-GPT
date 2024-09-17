@@ -22406,3 +22406,10 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Append: [外卖平台应是骑手权益保障的积极“守卫者”](https://www.huxiu.com/article/3479961.html)
 append_entries: 1
 Finish: 2024-09-17 12:15:08.405510
+------------------------------------------------------
+Started: 2024-09-17 14:08:06.952214
+Existing_entries: 1001
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
