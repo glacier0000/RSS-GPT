@@ -11979,3 +11979,10 @@ Fetching from https://glacier0000.vercel.app/sspai/matrix
 Append: [索尼的野望——Xperia 1 II真的是一台好机器吗？](https://sspai.com/post/92342)
 append_entries: 1
 Finish: 2024-09-18 12:15:07.425652
+------------------------------------------------------
+Started: 2024-09-18 14:08:37.571748
+Existing_entries: 348
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/shao-shu-pai
