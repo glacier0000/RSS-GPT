@@ -22525,3 +22525,10 @@ Append: [一口气搞懂社保](https://www.huxiu.com/article/3474251.html)
 Append: [“开家面馆”会是打工人理想的退路吗？](https://www.huxiu.com/article/3482133.html)
 append_entries: 22
 Finish: 2024-09-18 10:09:46.034696
+------------------------------------------------------
+Started: 2024-09-18 12:15:10.776558
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
