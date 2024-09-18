@@ -37388,3 +37388,11 @@ Append: [疯狂翻译师App：睁眼看世界，主打的就是一个不出国�
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 2
 Finish: 2024-09-18 02:39:04.820450
+------------------------------------------------------
+Started: 2024-09-18 04:11:21.435000
+Existing_entries: 548
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-09-18 04:11:25.199206
