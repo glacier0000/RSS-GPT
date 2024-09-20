@@ -37614,3 +37614,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-09-20 10:09:03.287961
+------------------------------------------------------
+Started: 2024-09-20 12:14:58.904777
+Existing_entries: 550
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Append: [开关FaceTime竟然会扣费](https://meta.appinn.net/t/topic/61215)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-09-20 12:15:02.212464
