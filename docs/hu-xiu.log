@@ -22897,3 +22897,10 @@ Append: [英特尔，赶不上AI芯片末班车](https://www.huxiu.com/article/3
 Append: [拉锯十年，高傲的苹果补税130亿欧元](https://www.huxiu.com/article/3493863.html)
 append_entries: 2
 Finish: 2024-09-21 14:07:04.941670
+------------------------------------------------------
+Started: 2024-09-21 16:10:01.593660
+Existing_entries: 1002
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
