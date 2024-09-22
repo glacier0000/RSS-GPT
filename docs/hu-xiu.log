@@ -22951,3 +22951,15 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-09-22 06:11:01.424791
+Existing_entries: 1008
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [一个重大财务风险：活得比想象中长](https://www.huxiu.com/article/3495654.html)
+Append: [贵州茅台打响“股价保卫战”，最高斥资60亿回购](https://www.huxiu.com/article/3495655.html)
+Append: [为什么要写植物？](https://www.huxiu.com/article/3495454.html)
+Append: [年轻男性成了美国最保守的人](https://www.huxiu.com/article/3489773.html)
+Append: [情绪究竟是什么？如何让情绪为品牌赋能？](https://www.huxiu.com/article/3488810.html)
+Append: [“史上最大科技收购案”的不传之秘](https://www.huxiu.com/article/3495458.html)
+append_entries: 6
+Finish: 2024-09-22 06:11:05.731354
