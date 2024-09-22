@@ -37824,3 +37824,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-09-22 14:06:58.547301
+------------------------------------------------------
+Started: 2024-09-22 16:08:35.155154
+Existing_entries: 552
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Append: [【开发者自荐】极简换算 - 实用的计算、换算小工具合集（iOS）](https://meta.appinn.net/t/topic/61206)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-09-22 16:08:38.375291
