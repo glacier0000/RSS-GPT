@@ -22944,3 +22944,10 @@ Append: [美联储货币政策四十年：鲍威尔准备留下什么？](https:
 Append: [卷到越南的中国工厂](https://www.huxiu.com/article/3493865.html)
 append_entries: 8
 Finish: 2024-09-22 02:47:11.269357
+------------------------------------------------------
+Started: 2024-09-22 04:12:00.108969
+Existing_entries: 1008
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
