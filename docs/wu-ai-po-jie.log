@@ -12001,3 +12001,10 @@ Existing_entries: 59
 Fetching from https://wechat2rss.xlab.app/feed/90c827b8290310a96ef80a13df9dbcc06ab69892.xml
 append_entries: 0
 Finish: 2024-09-24 10:10:01.070979
+------------------------------------------------------
+Started: 2024-09-24 12:15:32.283104
+Existing_entries: 59
+Fetching from https://wechat2rss.xlab.app/feed/90c827b8290310a96ef80a13df9dbcc06ab69892.xml
+Append: [拦截 Chrome DevTools Protocol 实现忽略与自定义 debugger](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651141388&idx=1&sn=b7f552ac87aeb5eb013223371f68bf55&chksm=bd50a5588a272c4eeb6b4593d15aeeefc6fbe0350b021c6a1c27edcc1aa2cc92cc63f874ff7e&scene=58&subscene=0)
+append_entries: 1
+Finish: 2024-09-24 12:15:33.125919
