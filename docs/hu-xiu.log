@@ -23171,3 +23171,10 @@ Append: [伊万留任，国足换帅为何难上加难？](https://www.huxiu.com
 Append: [脆皮打工人的养生新流行，中药面包灵不灵？](https://www.huxiu.com/article/3503450.html)
 append_entries: 22
 Finish: 2024-09-24 08:12:54.745589
+------------------------------------------------------
+Started: 2024-09-24 10:09:48.153952
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
