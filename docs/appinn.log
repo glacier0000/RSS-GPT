@@ -38190,3 +38190,11 @@ Append: [小熊油耗 记录日常用车油耗](https://meta.appinn.net/t/topic/
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 2
 Finish: 2024-09-26 08:11:57.469076
+------------------------------------------------------
+Started: 2024-09-26 10:09:27.707120
+Existing_entries: 558
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-09-26 10:09:31.481273
