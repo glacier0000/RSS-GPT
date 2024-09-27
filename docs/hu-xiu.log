@@ -23483,3 +23483,10 @@ Append: [一个中国人和他管理的欧洲“百年”足球队](https://www.
 Append: [借着AI的光，存储芯片也红了](https://www.huxiu.com/article/3514832.html)
 append_entries: 22
 Finish: 2024-09-27 02:44:29.101400
+------------------------------------------------------
+Started: 2024-09-27 04:11:20.547599
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
