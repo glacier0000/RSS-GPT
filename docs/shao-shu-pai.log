@@ -12773,3 +12773,13 @@ Fetching from https://glacier0000.vercel.app/sspai/matrix
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/shao-shu-pai
+------------------------------------------------------
+Started: 2024-09-29 02:49:52.621340
+Existing_entries: 375
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Append: [再谈语言学习](https://sspai.com/post/92614)
+Append: [一款主打“高颜值”、“说人话”的开源许可证选择器](https://sspai.com/post/92592)
+Append: [在日本，来一场暴走的非主流旅行（之二）](https://sspai.com/post/92584)
+Append: [如何安装和设置 Go 版本的 fabric AI 工作流框架？](https://sspai.com/post/92583)
+append_entries: 4
+Finish: 2024-09-29 02:49:59.608469
