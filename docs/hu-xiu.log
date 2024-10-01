@@ -23965,3 +23965,10 @@ Append: [随华兹华斯寻访自然](https://www.huxiu.com/article/3532286.html
 Append: [欧美汽车股集体“熄火”](https://www.huxiu.com/article/3532075.html)
 append_entries: 2
 Finish: 2024-10-01 14:08:59.185413
+------------------------------------------------------
+Started: 2024-10-01 16:10:44.439014
+Existing_entries: 1002
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
