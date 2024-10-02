@@ -24032,3 +24032,10 @@ Append: [《凡人歌》，现实主义恐怖片：日子该过还得过](https:
 Append: [带妈妈看《出走的决心》的年轻人](https://www.huxiu.com/article/3533734.html)
 append_entries: 4
 Finish: 2024-10-02 06:12:38.282674
+------------------------------------------------------
+Started: 2024-10-02 08:12:06.231001
+Existing_entries: 1004
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
