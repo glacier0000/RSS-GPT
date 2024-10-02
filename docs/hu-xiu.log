@@ -24072,3 +24072,10 @@ Append: [“股市是我的提款机”，“股神奶奶”预言中国股市�
 Append: [人民币汇率劲扬，金融组合拳下的复苏之路](https://www.huxiu.com/article/3534645.html)
 append_entries: 3
 Finish: 2024-10-02 14:08:40.589643
+------------------------------------------------------
+Started: 2024-10-02 16:10:30.000121
+Existing_entries: 1003
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
