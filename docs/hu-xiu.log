@@ -24079,3 +24079,9 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-10-02 18:12:22.165122
+Existing_entries: 1003
+Fetching from https://glacier0000.vercel.app/huxiu/article
+append_entries: 0
+Finish: 2024-10-02 18:12:27.039160
