@@ -24195,3 +24195,10 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-10-03 20:09:43.821832
+Existing_entries: 1003
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [牛市疯了：3天赚了一百万，高兴得太早，回头发现“卖飞了”](https://www.huxiu.com/article/3538448.html)
+append_entries: 1
+Finish: 2024-10-03 20:09:48.107377
