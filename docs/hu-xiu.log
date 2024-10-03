@@ -24181,3 +24181,10 @@ Append: [独自踏上日本熊野古道，我找到了面对中年危机的勇�
 Append: [风力发电机必须有叶片？不是，我的世界观被刷新了](https://www.huxiu.com/article/3538440.html)
 append_entries: 3
 Finish: 2024-10-03 14:08:48.123310
+------------------------------------------------------
+Started: 2024-10-03 16:10:44.188062
+Existing_entries: 1003
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
