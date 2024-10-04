@@ -24289,3 +24289,10 @@ Append: [又一茶饮品牌门店全关，三线茶饮玩家被“困”在夹�
 Append: [老股民自白：两个月赚30万，“还做其他工作干什么？”](https://www.huxiu.com/article/3541155.html)
 append_entries: 2
 Finish: 2024-10-04 14:08:55.918890
+------------------------------------------------------
+Started: 2024-10-04 16:10:44.840390
+Existing_entries: 1002
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
