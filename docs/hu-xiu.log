@@ -24504,3 +24504,10 @@ Append: [8号国新办将开新闻发布会，哪些政策增量可以期待？]
 Append: [购房新政后，售楼处挤满了人？](https://www.huxiu.com/article/3545921.html)
 append_entries: 2
 Finish: 2024-10-06 14:07:49.561187
+------------------------------------------------------
+Started: 2024-10-06 16:09:12.309674
+Existing_entries: 1002
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
