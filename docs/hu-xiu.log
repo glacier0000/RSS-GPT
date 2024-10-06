@@ -24438,3 +24438,10 @@ Append: [我在故宫拍文物，也拍修文物的人](https://www.huxiu.com/ar
 Append: [再发日元债券，巴菲特这次要买日本金融和航运股？](https://www.huxiu.com/article/3545932.html)
 append_entries: 3
 Finish: 2024-10-06 02:49:32.975450
+------------------------------------------------------
+Started: 2024-10-06 04:11:18.431786
+Existing_entries: 1003
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
