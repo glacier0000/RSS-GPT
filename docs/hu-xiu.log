@@ -24650,3 +24650,10 @@ Append: [顶配打工人，抢着学销冠说话](https://www.huxiu.com/article/
 Append: [中国新茶饮逐鹿东南亚](https://www.huxiu.com/article/3551645.html)
 append_entries: 22
 Finish: 2024-10-08 02:47:47.847166
+------------------------------------------------------
+Started: 2024-10-08 04:11:10.654203
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
