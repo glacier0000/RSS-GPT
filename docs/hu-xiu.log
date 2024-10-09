@@ -24775,3 +24775,10 @@ Append: [中国内部，北方在供养南方？](https://www.huxiu.com/article/
 Append: [隰县登顶，全靠“差评”？](https://www.huxiu.com/article/3554057.html)
 append_entries: 22
 Finish: 2024-10-09 02:43:59.323714
+------------------------------------------------------
+Started: 2024-10-09 04:11:08.436554
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu

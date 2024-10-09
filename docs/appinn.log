@@ -39428,3 +39428,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-10-09 02:43:38.148761
+------------------------------------------------------
+Started: 2024-10-09 04:10:48.157788
+Existing_entries: 572
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [请问有没有什么 Chrome 付费插件独立开发的交流群？](https://meta.appinn.net/t/topic/61774)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-10-09 04:10:51.038682
