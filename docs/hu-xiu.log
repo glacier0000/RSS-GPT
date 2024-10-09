@@ -24817,3 +24817,10 @@ Append: [中国成功研发出硅光子芯片，可突破EUV封锁？有何技�
 Append: [动机和自律：哪个让你走得更远？](https://www.huxiu.com/article/3555302.html)
 append_entries: 22
 Finish: 2024-10-09 08:12:38.839526
+------------------------------------------------------
+Started: 2024-10-09 10:09:40.105676
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
