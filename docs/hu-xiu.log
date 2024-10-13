@@ -25187,3 +25187,10 @@ Append: [存量房贷如何降？多家银行公布细则](https://www.huxiu.com
 Append: [图灵诺贝尔双奖获得者，AI教父杰弗里·辛顿的叛逆人生](https://www.huxiu.com/article/3569359.html)
 append_entries: 9
 Finish: 2024-10-13 02:48:41.833432
+------------------------------------------------------
+Started: 2024-10-13 04:10:42.714833
+Existing_entries: 1009
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
