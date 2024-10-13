@@ -25163,3 +25163,12 @@ Existing_entries: 1000
 Fetching from https://glacier0000.vercel.app/huxiu/article
 append_entries: 0
 Finish: 2024-10-12 22:07:52.517578
+------------------------------------------------------
+Started: 2024-10-13 00:43:43.825830
+Existing_entries: 1000
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [愤怒，不会让你们的关系“完蛋”](https://www.huxiu.com/article/3570290.html)
+Append: [国内4K不如海外1080p：我们还得再掏多少钱？](https://www.huxiu.com/article/3570299.html)
+Append: [永辉超市“追债”王健林背后：涉及36.39亿元款项待支付](https://www.huxiu.com/article/3570305.html)
+append_entries: 3
+Finish: 2024-10-13 00:43:51.008443
