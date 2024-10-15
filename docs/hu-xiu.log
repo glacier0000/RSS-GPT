@@ -25430,3 +25430,10 @@ Append: [教苹果做一台合格的标准版，vivo X200适合吗？](https://w
 Append: [那么难吃还那么能打的甜品，只有它](https://www.huxiu.com/article/3579513.html)
 append_entries: 18
 Finish: 2024-10-15 10:11:18.788161
+------------------------------------------------------
+Started: 2024-10-15 12:16:12.034304
+Existing_entries: 1018
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
