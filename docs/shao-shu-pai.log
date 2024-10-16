@@ -14039,3 +14039,10 @@ Append: [应届生的我如何拿到高薪“入场券”？](https://sspai.com/
 Append: [卷AI的在线笔记，谁能成为Notion平替？](https://sspai.com/post/92940)
 append_entries: 3
 Finish: 2024-10-16 02:46:50.953224
+------------------------------------------------------
+Started: 2024-10-16 04:11:34.833887
+Existing_entries: 408
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/shao-shu-pai
