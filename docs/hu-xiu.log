@@ -25521,3 +25521,10 @@ Append: [苹果突然发布新iPad mini，性能更强大，但有一个遗憾](
 Append: [中美电池战：贸易制裁，电池如何重塑全球权力版图？](https://www.huxiu.com/article/3579984.html)
 append_entries: 22
 Finish: 2024-10-16 06:13:03.604687
+------------------------------------------------------
+Started: 2024-10-16 08:12:28.040294
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
