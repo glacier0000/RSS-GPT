@@ -25570,3 +25570,10 @@ Append: [研究国家间经济不平等，三位经济学家获诺贝尔奖](htt
 Append: [特斯拉的Robotaxi和FSD，难点在哪？能实现吗？](https://www.huxiu.com/article/3583638.html)
 append_entries: 22
 Finish: 2024-10-16 14:08:43.080440
+------------------------------------------------------
+Started: 2024-10-16 16:09:15.067121
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
