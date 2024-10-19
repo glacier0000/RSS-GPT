@@ -25888,3 +25888,10 @@ Append: [中国说脱口秀最牛的一群人，离散在马东做《喜剧大�
 Append: [内卷时代下的生存哲学](https://www.huxiu.com/article/3594468.html)
 append_entries: 3
 Finish: 2024-10-19 14:08:03.707182
+------------------------------------------------------
+Started: 2024-10-19 16:09:30.043659
+Existing_entries: 1003
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
