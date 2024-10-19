@@ -40440,3 +40440,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-10-19 12:14:22.001657
+------------------------------------------------------
+Started: 2024-10-19 14:07:38.481729
+Existing_entries: 584
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Append: [如何导出微信联系人为excel格式？](https://meta.appinn.net/t/topic/62147)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-10-19 14:07:41.402453
