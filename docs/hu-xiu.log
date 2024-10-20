@@ -25974,3 +25974,10 @@ Append: [《极乐迪斯科》的“精神续作”疑似有点太多了](https:
 Append: [英伟达的AI“泡沫”，到底还能撑多久？](https://www.huxiu.com/article/3592467.html)
 append_entries: 11
 Finish: 2024-10-20 10:09:34.966947
+------------------------------------------------------
+Started: 2024-10-20 12:15:35.748398
+Existing_entries: 1011
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
