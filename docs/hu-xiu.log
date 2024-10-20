@@ -25924,3 +25924,10 @@ Append: [LV老板携手红牛买球队，“巴黎德比”指日可待？](http
 Append: [椅背“战争”：飞机和高铁上，我们该“躺倒”吗？](https://www.huxiu.com/article/3590981.html)
 append_entries: 3
 Finish: 2024-10-20 00:44:36.573459
+------------------------------------------------------
+Started: 2024-10-20 02:51:43.322241
+Existing_entries: 1003
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
