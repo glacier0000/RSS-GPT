@@ -26051,3 +26051,10 @@ Append: [关于投资机会，为啥不是被高估，就是低估?](https://www
 Append: [Yann LeCun：今天的AI比猫还笨，自曝早已放弃大模型](https://www.huxiu.com/article/3597778.html)
 append_entries: 22
 Finish: 2024-10-21 02:48:40.413563
+------------------------------------------------------
+Started: 2024-10-21 04:11:45.045494
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
