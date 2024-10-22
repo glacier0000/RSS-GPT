@@ -26219,3 +26219,10 @@ Append: [不用远赴东北，广州人有自己的“鹤岗”](https://www.hux
 Append: [第一批出海墨西哥的中国企业，已经被割麻了](https://www.huxiu.com/article/3603675.html)
 append_entries: 22
 Finish: 2024-10-22 10:09:47.756768
+------------------------------------------------------
+Started: 2024-10-22 12:16:27.239214
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
