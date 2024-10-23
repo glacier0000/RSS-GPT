@@ -26296,3 +26296,10 @@ Append: [董宇辉卖假有机土豆？举报人称无法忍受打着助农旗�
 Append: [冲刺“终点线”，“腰部”省份洗牌了？](https://www.huxiu.com/article/3605065.html)
 append_entries: 22
 Finish: 2024-10-23 02:44:11.084460
+------------------------------------------------------
+Started: 2024-10-23 04:11:39.719365
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
