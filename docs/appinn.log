@@ -41001,3 +41001,11 @@ Fetching from https://meta.appinn.net/tag/macos.rss
 Append: [【开发者自荐】Badgeify：一键将任何应用添加到 macOS 菜单栏](https://meta.appinn.net/t/topic/62350)
 append_entries: 1
 Finish: 2024-10-25 08:12:15.390171
+------------------------------------------------------
+Started: 2024-10-25 10:09:41.303757
+Existing_entries: 593
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-10-25 10:09:44.150411
