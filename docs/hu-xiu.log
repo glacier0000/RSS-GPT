@@ -26506,3 +26506,10 @@ Append: [美国大选临近，亿万富豪们在为谁站队？](https://www.hux
 Append: [海权与陆权的扩张（中）：列强时代东西方​](https://www.huxiu.com/article/3588102.html)
 append_entries: 22
 Finish: 2024-10-25 02:45:48.778055
+------------------------------------------------------
+Started: 2024-10-25 04:12:06.118435
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
