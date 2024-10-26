@@ -26706,3 +26706,10 @@ Append: [你的“排便焦虑”，成为了别人的商机](https://www.huxiu.
 Append: [靠小魔方一年赚两亿，这个广州人做了什么？](https://www.huxiu.com/article/3619371.html)
 append_entries: 3
 Finish: 2024-10-26 14:07:34.034089
+------------------------------------------------------
+Started: 2024-10-26 16:09:22.273954
+Existing_entries: 1003
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
