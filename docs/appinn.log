@@ -41603,3 +41603,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-10-31 12:15:39.023711
+------------------------------------------------------
+Started: 2024-10-31 14:08:35.685275
+Existing_entries: 603
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [使用av1脚本让YouTube有更好的观看体验（尽量）](https://meta.appinn.net/t/topic/62608)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-10-31 14:08:38.488358
