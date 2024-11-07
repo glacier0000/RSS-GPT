@@ -42265,3 +42265,11 @@ Append: [ZEN能不能设置鼠标侧键切换工作区呢](https://meta.appinn.n
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2024-11-07 08:11:33.523355
+------------------------------------------------------
+Started: 2024-11-07 10:09:04.415858
+Existing_entries: 609
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-11-07 10:09:07.346905
