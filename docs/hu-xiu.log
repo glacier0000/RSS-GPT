@@ -28028,3 +28028,10 @@ Append: [当下硅谷最火的AI产品，NotebookLM什么来头？](https://www.
 Append: [巨力集团vs黄圣依，谁才是杨子的真稻草？](https://www.huxiu.com/article/3658772.html)
 append_entries: 22
 Finish: 2024-11-07 06:12:41.169654
+------------------------------------------------------
+Started: 2024-11-07 08:11:50.903173
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
