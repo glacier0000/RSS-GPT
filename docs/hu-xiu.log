@@ -28224,3 +28224,10 @@ Append: [考研禁用海马体照片：证件照真实比美颜更重要](https:
 Append: [用户正在抛弃线上交友软件？](https://www.huxiu.com/article/3664628.html)
 append_entries: 22
 Finish: 2024-11-09 02:38:27.106131
+------------------------------------------------------
+Started: 2024-11-09 04:10:32.603300
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
