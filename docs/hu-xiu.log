@@ -28287,3 +28287,10 @@ Append: [夜骑开封，一桩美事正在丑陋收场](https://www.huxiu.com/ar
 Append: [50平小店日入2万，又一个“创业顶流”？](https://www.huxiu.com/article/3667832.html)
 append_entries: 3
 Finish: 2024-11-09 14:08:16.906808
+------------------------------------------------------
+Started: 2024-11-09 16:09:09.699154
+Existing_entries: 1003
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
