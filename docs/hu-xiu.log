@@ -28333,3 +28333,10 @@ Append: [黄金已经是二次元的天下了？](https://www.huxiu.com/article/
 Append: [当养儿不再防老，生还是不生？](https://www.huxiu.com/article/3653295.html)
 append_entries: 4
 Finish: 2024-11-10 02:44:31.726226
+------------------------------------------------------
+Started: 2024-11-10 04:10:21.981814
+Existing_entries: 1004
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
