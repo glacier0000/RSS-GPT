@@ -28347,3 +28347,14 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-11-10 08:10:21.188099
+Existing_entries: 1004
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [当我让AI在双十一购物，为啥它们都只买电子产品啊？](https://www.huxiu.com/article/3669696.html)
+Append: [以100万美元起步做投资，美国知名投资人会怎么做？](https://www.huxiu.com/article/3669687.html)
+Append: [P7+爆了，但小鹏还未必稳](https://www.huxiu.com/article/3667836.html)
+Append: [这届年轻人，开始养“电子猫咪”](https://www.huxiu.com/article/3669473.html)
+Append: [我在迪拜卖房子](https://www.huxiu.com/article/3669484.html)
+append_entries: 5
+Finish: 2024-11-10 08:10:25.379562
