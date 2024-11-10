@@ -28366,3 +28366,10 @@ Append: [起底个人“债务重组”中介](https://www.huxiu.com/article/367
 Append: [西班牙大洪水：一场预报过的暴雨，为何会夺走223条人命？](https://www.huxiu.com/article/3670083.html)
 append_entries: 2
 Finish: 2024-11-10 10:08:23.696170
+------------------------------------------------------
+Started: 2024-11-10 12:14:00.633482
+Existing_entries: 1002
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
