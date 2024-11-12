@@ -42768,3 +42768,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-11-12 12:16:04.014831
+------------------------------------------------------
+Started: 2024-11-12 14:08:39.226703
+Existing_entries: 616
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Append: [5ire | 开源大模型跨平台桌面客户端](https://meta.appinn.net/t/topic/63060)
+append_entries: 1
+Finish: 2024-11-12 14:08:41.853387
