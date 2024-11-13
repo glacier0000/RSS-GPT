@@ -28632,3 +28632,10 @@ Append: [李子柒上演“熹妃回宫”](https://www.huxiu.com/article/367740
 Append: [那些学习民乐专业的人，毕业后在做什么？](https://www.huxiu.com/article/3675529.html)
 append_entries: 22
 Finish: 2024-11-13 02:42:46.022917
+------------------------------------------------------
+Started: 2024-11-13 04:11:33.754328
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
