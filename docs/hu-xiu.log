@@ -28663,3 +28663,10 @@ Append: [大语言模型会推理吗？](https://www.huxiu.com/article/3678270.h
 Append: [每月5万请哈佛学霸做“外包妈妈”，富人家庭用钱购买一切](https://www.huxiu.com/article/3678296.html)
 append_entries: 18
 Finish: 2024-11-13 06:12:49.227094
+------------------------------------------------------
+Started: 2024-11-13 08:12:06.470749
+Existing_entries: 1018
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
