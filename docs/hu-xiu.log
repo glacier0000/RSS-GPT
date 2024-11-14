@@ -28817,3 +28817,10 @@ Append: [6元一次，菜市场挤满了求“代炒”的年轻人](https://www
 Append: [停更四年，李子柒复出仍是绝对顶流](https://www.huxiu.com/article/3683013.html)
 append_entries: 22
 Finish: 2024-11-14 14:08:55.405355
+------------------------------------------------------
+Started: 2024-11-14 16:11:05.075383
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
