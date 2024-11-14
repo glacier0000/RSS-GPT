@@ -16199,3 +16199,11 @@ Fetching from https://glacier0000.vercel.app/sspai/matrix
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/shao-shu-pai
+------------------------------------------------------
+Started: 2024-11-14 04:11:41.874440
+Existing_entries: 464
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Append: [老码农的三等奖——创业这十年](https://sspai.com/post/93900)
+Append: [「在职社会人」备考应试指南](https://sspai.com/post/88053)
+append_entries: 2
+Finish: 2024-11-14 04:11:48.971274

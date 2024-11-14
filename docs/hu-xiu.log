@@ -28754,3 +28754,10 @@ Append: [关店、收缩、亏损……港式茶餐厅“大退潮”？](https:
 Append: [如何在上班期间“高效休息”？](https://www.huxiu.com/article/3680817.html)
 append_entries: 22
 Finish: 2024-11-14 02:43:33.189989
+------------------------------------------------------
+Started: 2024-11-14 04:11:52.122680
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
