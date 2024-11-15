@@ -28944,3 +28944,10 @@ Append: [带鱼到了江浙沪，就长出让人吃不起的样子？](https://w
 Append: [下行市场的上行机会：日本经验看中国](https://www.huxiu.com/article/3686702.html)
 append_entries: 19
 Finish: 2024-11-15 10:10:27.852100
+------------------------------------------------------
+Started: 2024-11-15 12:16:40.594307
+Existing_entries: 1019
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
