@@ -28880,3 +28880,10 @@ Append: [不少家庭里都有一个被“高估”的孩子](https://www.huxiu.
 Append: [特朗普拟设“政府效率部”，投资者须了解六件事](https://www.huxiu.com/article/3685187.html)
 append_entries: 22
 Finish: 2024-11-15 02:52:52.436186
+------------------------------------------------------
+Started: 2024-11-15 04:11:57.095737
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
