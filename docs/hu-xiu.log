@@ -29066,3 +29066,10 @@ Append: [对话心理治疗师：如何有效走出焦虑？](https://www.huxiu.
 Append: [马斯克大战白左，因为火箭搞不了政治正确](https://www.huxiu.com/article/3691039.html)
 append_entries: 4
 Finish: 2024-11-16 14:07:52.450277
+------------------------------------------------------
+Started: 2024-11-16 16:09:38.347990
+Existing_entries: 1004
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
