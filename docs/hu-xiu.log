@@ -29153,3 +29153,10 @@ Append: [内地与香港资本市场互联互通十周年](https://www.huxiu.com
 Append: [这家松弛的游戏小店，让百万人隔着屏幕共情](https://www.huxiu.com/article/3684383.html)
 append_entries: 3
 Finish: 2024-11-17 10:08:50.960024
+------------------------------------------------------
+Started: 2024-11-17 12:14:58.514819
+Existing_entries: 1003
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
