@@ -43268,3 +43268,11 @@ Append: [IOS或者Android平板上有啥离线版的CRM客户管理软件吗？]
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2024-11-17 16:09:13.853473
+------------------------------------------------------
+Started: 2024-11-17 18:10:26.846786
+Existing_entries: 620
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-11-17 18:10:29.559240
