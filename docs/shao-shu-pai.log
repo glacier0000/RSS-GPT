@@ -16522,3 +16522,10 @@ Fetching from https://glacier0000.vercel.app/sspai/matrix
 Append: [OPPO Find X8 体验：弥补 iPhone 体验短板之外，还有不少独到之处](https://sspai.com/post/93928)
 append_entries: 1
 Finish: 2024-11-18 08:13:37.248671
+------------------------------------------------------
+Started: 2024-11-18 10:10:46.530605
+Existing_entries: 476
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/shao-shu-pai
