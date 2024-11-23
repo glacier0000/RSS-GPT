@@ -29747,3 +29747,10 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-11-23 18:10:48.905191
+Existing_entries: 1003
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [胖东来创始人“不允许员工靠父母买房买车”，“管太宽”了吗？](https://www.huxiu.com/article/3717384.html)
+append_entries: 1
+Finish: 2024-11-23 18:10:52.784240
