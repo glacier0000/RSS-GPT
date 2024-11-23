@@ -29740,3 +29740,10 @@ Append: [“我的狗被毒死，却找不到人负责”](https://www.huxiu.com
 Append: [白酒巨额商标之争现新进展](https://www.huxiu.com/article/3718031.html)
 append_entries: 3
 Finish: 2024-11-23 14:08:20.474509
+------------------------------------------------------
+Started: 2024-11-23 16:09:33.905243
+Existing_entries: 1003
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
