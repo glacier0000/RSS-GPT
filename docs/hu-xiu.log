@@ -29783,3 +29783,10 @@ Append: [陶哲轩宣布“等式理论计划”成功，人类AI协作57天](ht
 Append: [猛砸上万亿，中国拼命修建跨海大桥，什么信号？](https://www.huxiu.com/article/3718529.html)
 append_entries: 4
 Finish: 2024-11-24 02:57:12.639758
+------------------------------------------------------
+Started: 2024-11-24 04:11:09.605957
+Existing_entries: 1004
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
