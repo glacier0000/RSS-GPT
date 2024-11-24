@@ -29773,3 +29773,13 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-11-24 02:57:07.567705
+Existing_entries: 1000
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [9.1分，中国电影终于有了《好东西》](https://www.huxiu.com/article/3719672.html)
+Append: [特朗普上台，中国企业还能出海吗？](https://www.huxiu.com/article/3709661.html)
+Append: [陶哲轩宣布“等式理论计划”成功，人类AI协作57天](https://www.huxiu.com/article/3719668.html)
+Append: [猛砸上万亿，中国拼命修建跨海大桥，什么信号？](https://www.huxiu.com/article/3718529.html)
+append_entries: 4
+Finish: 2024-11-24 02:57:12.639758
