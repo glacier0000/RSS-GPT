@@ -30165,3 +30165,10 @@ Append: [一位90后的灶屋记忆](https://www.huxiu.com/article/3731206.html)
 Append: [今年双11静悄悄，奇观已成寻常（上）](https://www.huxiu.com/article/3730700.html)
 append_entries: 10
 Finish: 2024-11-27 08:13:10.699295
+------------------------------------------------------
+Started: 2024-11-27 10:10:51.079996
+Existing_entries: 1010
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
