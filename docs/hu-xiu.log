@@ -30123,3 +30123,10 @@ Append: [《柳叶刀》最新研究：全球艾滋病毒感染率和死亡率�
 Append: [为何在中国无法再造山姆和胖东来？](https://www.huxiu.com/article/3730053.html)
 append_entries: 22
 Finish: 2024-11-27 02:56:09.529808
+------------------------------------------------------
+Started: 2024-11-27 04:12:17.711102
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
