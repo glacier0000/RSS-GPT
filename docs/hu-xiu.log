@@ -30313,3 +30313,10 @@ Append: [卖不动的HPV疫苗，瞄向了男人](https://www.huxiu.com/article/
 Append: [母婴“情感对话”：婴儿哭泣如何影响妈妈的情绪](https://www.huxiu.com/article/3735358.html)
 append_entries: 20
 Finish: 2024-11-28 10:10:37.158044
+------------------------------------------------------
+Started: 2024-11-28 12:17:11.766987
+Existing_entries: 1020
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu

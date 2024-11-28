@@ -44309,3 +44309,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-11-28 10:10:14.599963
+------------------------------------------------------
+Started: 2024-11-28 12:16:51.082485
+Existing_entries: 629
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [浏览器在线预览html文件或代码效果方案](https://meta.appinn.net/t/topic/63597)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-11-28 12:16:53.851890
