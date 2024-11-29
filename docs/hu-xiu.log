@@ -30411,3 +30411,10 @@ Append: [马斯克又盯上电视台？这次是康卡斯特的有线频道](htt
 Append: [揭开糖尿病“神药”迷局](https://www.huxiu.com/article/3732143.html)
 append_entries: 22
 Finish: 2024-11-29 02:55:40.375565
+------------------------------------------------------
+Started: 2024-11-29 04:12:20.175213
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
