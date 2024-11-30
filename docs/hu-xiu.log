@@ -30603,3 +30603,10 @@ Append: [全球最好的足球节目，来到了“生死”时刻](https://www.
 Append: [马拉松狂热背后的“买脚”生意](https://www.huxiu.com/article/3742671.html)
 append_entries: 2
 Finish: 2024-11-30 14:07:51.101865
+------------------------------------------------------
+Started: 2024-11-30 16:09:37.109179
+Existing_entries: 1002
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
