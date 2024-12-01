@@ -30700,3 +30700,10 @@ Append: [24岁入狱，25岁年入2000万，她如何在逆境中重生？](http
 Append: [电驴神器，成了年轻人的羽绒服平替](https://www.huxiu.com/article/3738972.html)
 append_entries: 14
 Finish: 2024-12-01 10:09:27.454557
+------------------------------------------------------
+Started: 2024-12-01 12:15:30.803741
+Existing_entries: 1014
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
