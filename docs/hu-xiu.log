@@ -30651,3 +30651,10 @@ Append: [马斯克：植入大脑的NeuraLink设备，解决大部分脑部问�
 Append: [全面禁用死囚器官后，中国器官移植事业是否迎来重生？](https://www.huxiu.com/article/3743897.html)
 append_entries: 6
 Finish: 2024-12-01 03:09:49.048590
+------------------------------------------------------
+Started: 2024-12-01 04:15:13.497979
+Existing_entries: 1006
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
