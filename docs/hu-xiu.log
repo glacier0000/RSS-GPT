@@ -30630,3 +30630,12 @@ Existing_entries: 1001
 Fetching from https://glacier0000.vercel.app/huxiu/article
 append_entries: 0
 Finish: 2024-11-30 22:08:28.066157
+------------------------------------------------------
+Started: 2024-12-01 00:53:42.515185
+Existing_entries: 1000
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [《好东西》：铁梅就在你身边](https://www.huxiu.com/article/3743507.html)
+Append: [顶着基金公司名义诈骗的情况，为何屡屡上演？](https://www.huxiu.com/article/3743169.html)
+Append: [中产不够用了，中国老板盯上非洲](https://www.huxiu.com/article/3743162.html)
+append_entries: 3
+Finish: 2024-12-01 00:53:48.088023
