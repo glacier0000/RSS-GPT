@@ -30861,3 +30861,10 @@ Append: [“工作和创业你可以同时来”，真的可能吗？](https://w
 Append: [支持还是反对，难道就没第三个选项？](https://www.huxiu.com/article/3749077.html)
 append_entries: 22
 Finish: 2024-12-02 14:09:54.456737
+------------------------------------------------------
+Started: 2024-12-02 16:12:01.273438
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
