@@ -30819,3 +30819,10 @@ Append: [“银发经济”会带来哪些商业蓝海？](https://www.huxiu.com
 Append: [连锁餐饮，混战大厂食堂](https://www.huxiu.com/article/3747829.html)
 append_entries: 14
 Finish: 2024-12-02 08:14:10.769210
+------------------------------------------------------
+Started: 2024-12-02 10:11:01.897121
+Existing_entries: 1014
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
