@@ -31008,3 +31008,10 @@ Append: [全网批斗，豆瓣top250](https://www.huxiu.com/article/3755261.html
 Append: [欧盟出生率降至新低：27国一年新生儿仅有366.5万人](https://www.huxiu.com/article/3755256.html)
 append_entries: 22
 Finish: 2024-12-04 02:58:12.463148
+------------------------------------------------------
+Started: 2024-12-04 04:12:11.458835
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
