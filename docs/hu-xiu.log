@@ -31194,3 +31194,10 @@ Append: [特朗普、马斯克和星舰有多狠？](https://www.huxiu.com/artic
 Append: [荣誉与背叛：字节诉讼遇到NeurIPS最佳论文](https://www.huxiu.com/article/3761607.html)
 append_entries: 11
 Finish: 2024-12-05 10:11:05.091734
+------------------------------------------------------
+Started: 2024-12-05 12:17:19.761384
+Existing_entries: 1011
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
