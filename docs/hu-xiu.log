@@ -31271,3 +31271,10 @@ Append: [马斯克的星链用到飞机上了，我们正奋起直追](https://w
 Append: [日本“1998年问题”：自杀、无差异杀人与恶性犯罪](https://www.huxiu.com/article/3762601.html)
 append_entries: 22
 Finish: 2024-12-06 02:57:25.517468
+------------------------------------------------------
+Started: 2024-12-06 04:12:28.005982
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
