@@ -31426,3 +31426,10 @@ Append: [手术失败后，医生在想什么？](https://www.huxiu.com/article/
 Append: [二手餐饮收购商，餐饮业的“扫地僧”](https://www.huxiu.com/article/3768105.html)
 append_entries: 5
 Finish: 2024-12-07 14:08:08.216626
+------------------------------------------------------
+Started: 2024-12-07 16:09:51.777872
+Existing_entries: 1005
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
