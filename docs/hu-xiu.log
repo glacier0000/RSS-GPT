@@ -31512,3 +31512,10 @@ Append: [俄罗斯食品馆遍地开花，卖的真是纯正俄品？](https://w
 Append: [如何不吃一堑也长一智？](https://www.huxiu.com/article/3771212.html)
 append_entries: 4
 Finish: 2024-12-08 10:09:28.764042
+------------------------------------------------------
+Started: 2024-12-08 12:15:43.391405
+Existing_entries: 1004
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
