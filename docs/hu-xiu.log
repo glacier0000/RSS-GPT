@@ -31631,3 +31631,10 @@ Append: [11月CPI和PPI数据出炉，为何通缩梦靥挥之不去？](https:/
 Append: [孩子沉溺社交媒体，不能将所有压力交给父母](https://www.huxiu.com/article/3774060.html)
 append_entries: 8
 Finish: 2024-12-09 08:14:22.305006
+------------------------------------------------------
+Started: 2024-12-09 10:11:08.575321
+Existing_entries: 1008
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
