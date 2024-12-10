@@ -18132,3 +18132,10 @@ Fetching from https://glacier0000.vercel.app/sspai/matrix
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/shao-shu-pai
+------------------------------------------------------
+Started: 2024-12-10 02:59:40.112668
+Existing_entries: 509
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Append: [强化微调 (RFT) 如何助你打造更聪明的专业 AI 模型？](https://sspai.com/post/94661)
+append_entries: 1
+Finish: 2024-12-10 02:59:49.579260
