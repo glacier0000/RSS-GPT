@@ -31991,3 +31991,10 @@ Append: [如何解决司机师傅最大的“后顾之忧”？](https://www.hux
 Append: [网络暴力如何成了“赛博刽子手”？](https://www.huxiu.com/article/3782183.html)
 append_entries: 11
 Finish: 2024-12-12 10:11:05.673320
+------------------------------------------------------
+Started: 2024-12-12 12:17:56.431442
+Existing_entries: 1011
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
