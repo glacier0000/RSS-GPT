@@ -32103,3 +32103,10 @@ Append: [中东再一次站在十字路口](https://www.huxiu.com/article/378818
 Append: [OpenAI全量上线4o视频通话，我们等了7个月](https://www.huxiu.com/article/3788043.html)
 append_entries: 22
 Finish: 2024-12-13 06:13:57.044282
+------------------------------------------------------
+Started: 2024-12-13 08:13:20.918796
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
