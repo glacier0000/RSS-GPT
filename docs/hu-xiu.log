@@ -32152,3 +32152,10 @@ Append: [一盘冷水：叶国富与于东来，注定鸡同鸭讲](https://www.
 Append: [内娱废料，被韩国送上全球热门](https://www.huxiu.com/article/3789534.html)
 append_entries: 22
 Finish: 2024-12-13 14:09:49.946359
+------------------------------------------------------
+Started: 2024-12-13 16:11:39.488702
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
