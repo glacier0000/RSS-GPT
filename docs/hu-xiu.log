@@ -32259,3 +32259,10 @@ Append: [中美科技合作协定续签，哪些关键技术被排除了？](htt
 Append: [为什么一线城市有设计感的店铺越来越多？](https://www.huxiu.com/article/3793210.html)
 append_entries: 3
 Finish: 2024-12-14 14:07:46.365548
+------------------------------------------------------
+Started: 2024-12-14 16:10:06.558058
+Existing_entries: 1003
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
