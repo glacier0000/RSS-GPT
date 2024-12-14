@@ -32273,3 +32273,11 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2024-12-14 20:09:48.270050
+Existing_entries: 1003
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [墨西哥义乌商贸城再被查封：创办人称刚交一千多万罚款](https://www.huxiu.com/article/3793217.html)
+Append: [事业型妈妈，更容易得到孩子的崇拜么？](https://www.huxiu.com/article/3791311.html)
+append_entries: 2
+Finish: 2024-12-14 20:09:52.779726
