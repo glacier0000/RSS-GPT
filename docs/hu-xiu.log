@@ -32455,3 +32455,10 @@ Append: [2024最后一个爆梗，来自这部全网吐槽的国漫](https://www
 Append: [中美欧相继开展反垄断调查，英伟达到底做了啥？](https://www.huxiu.com/article/3798526.html)
 append_entries: 22
 Finish: 2024-12-16 10:11:15.825695
+------------------------------------------------------
+Started: 2024-12-16 12:18:17.899251
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
