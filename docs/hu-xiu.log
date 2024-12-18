@@ -32658,3 +32658,10 @@ Append: [慢性乙肝治疗，有了临床新进展](https://www.huxiu.com/artic
 Append: [道指连跌九天，创1978年以来最长连跌，发生了什么？](https://www.huxiu.com/article/3806126.html)
 append_entries: 22
 Finish: 2024-12-18 08:13:18.629746
+------------------------------------------------------
+Started: 2024-12-18 10:10:23.918623
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
