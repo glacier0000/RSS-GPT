@@ -33079,3 +33079,10 @@ Append: [她在央视出尽“洋相”，却一点也不丢人](https://www.hux
 Append: [有很多强二线城市率先回暖了](https://www.huxiu.com/article/3820421.html)
 append_entries: 12
 Finish: 2024-12-22 08:10:59.301130
+------------------------------------------------------
+Started: 2024-12-22 10:08:28.506528
+Existing_entries: 1012
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
