@@ -33163,3 +33163,10 @@ Append: [为什么反智主义盛行的美国，仍是世界科技的中心？](
 Append: [争夺市场“叙事”：鲍威尔VS特朗普](https://www.huxiu.com/article/3823029.html)
 append_entries: 22
 Finish: 2024-12-23 02:44:48.165594
+------------------------------------------------------
+Started: 2024-12-23 04:11:24.761098
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
