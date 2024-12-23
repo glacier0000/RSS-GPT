@@ -33195,3 +33195,10 @@ Append: [新型抑制剂，能否帮助应对结核病的耐药性危机？](htt
 Append: [一些商场已经想清退星巴克了](https://www.huxiu.com/article/3823250.html)
 append_entries: 19
 Finish: 2024-12-23 06:13:33.616227
+------------------------------------------------------
+Started: 2024-12-23 08:13:06.543588
+Existing_entries: 1019
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
