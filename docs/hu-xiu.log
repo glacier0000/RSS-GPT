@@ -33307,3 +33307,10 @@ Append: [高盛：美国避免政府关门也没用，美股未来抛售空间�
 Append: [人工智能专业，正在沦为新“天坑”](https://www.huxiu.com/article/3824590.html)
 append_entries: 22
 Finish: 2024-12-24 02:42:48.463548
+------------------------------------------------------
+Started: 2024-12-24 04:11:28.083899
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
