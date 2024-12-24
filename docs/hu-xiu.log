@@ -33342,3 +33342,10 @@ Append: [天合光能上市无望，投资人全被“套牢”？](https://www.
 Append: [“送礼物”难撬动社交电商，微信小店缺的是供给](https://www.huxiu.com/article/3826617.html)
 append_entries: 22
 Finish: 2024-12-24 06:13:07.107130
+------------------------------------------------------
+Started: 2024-12-24 08:12:21.224355
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
