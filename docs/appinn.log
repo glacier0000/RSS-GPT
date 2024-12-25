@@ -46876,3 +46876,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-12-24 22:08:03.129179
+------------------------------------------------------
+Started: 2024-12-25 00:40:01.354174
+Existing_entries: 657
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [【开发者自荐】Readest - 极简、现代和面向未来的电子书阅读器](https://meta.appinn.net/t/topic/64506)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-12-25 00:40:04.045085
