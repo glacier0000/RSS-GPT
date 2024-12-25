@@ -19289,3 +19289,10 @@ Fetching from https://glacier0000.vercel.app/sspai/matrix
 Append: [从 Raycast 到如快：一个程序员的全平台效率启动器解决方案](https://sspai.com/post/95005)
 append_entries: 1
 Finish: 2024-12-25 10:09:35.396111
+------------------------------------------------------
+Started: 2024-12-25 12:15:28.457842
+Existing_entries: 549
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/shao-shu-pai
