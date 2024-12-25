@@ -33468,3 +33468,10 @@ Append: [60岁的父亲，不承认自己患了抑郁症](https://www.huxiu.com/
 Append: [3分钱一片叶酸，1毛8分一片西格列汀，集采药企“极限报价”](https://www.huxiu.com/article/3830909.html)
 append_entries: 22
 Finish: 2024-12-25 06:13:15.170089
+------------------------------------------------------
+Started: 2024-12-25 08:12:13.551283
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
