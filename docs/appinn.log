@@ -47071,3 +47071,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-12-26 22:08:07.997599
+------------------------------------------------------
+Started: 2024-12-27 00:40:25.222393
+Existing_entries: 660
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [做了一个可以把 GitHub 仓库转成 LLM 友好提示词 📝 的浏览器插件](https://meta.appinn.net/t/topic/64596)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-12-27 00:40:28.091175
