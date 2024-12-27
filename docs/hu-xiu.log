@@ -33718,3 +33718,10 @@ Append: [从“教材”到“毒野史”：出版行业危机的冰山一角](
 Append: [网易旗下樱花工作室官网关闭，负责人删除工作履历](https://www.huxiu.com/article/3837110.html)
 append_entries: 22
 Finish: 2024-12-27 14:08:51.642679
+------------------------------------------------------
+Started: 2024-12-27 16:10:05.811286
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
