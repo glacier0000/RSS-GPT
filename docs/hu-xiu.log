@@ -33683,3 +33683,10 @@ Append: [“新美联储通讯社”：美联储正试图评估特朗普影响](
 Append: [60岁孕妇成功分娩，产科医生怎么看？](https://www.huxiu.com/article/3839589.html)
 append_entries: 13
 Finish: 2024-12-27 10:09:34.717317
+------------------------------------------------------
+Started: 2024-12-27 12:15:23.126984
+Existing_entries: 1013
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
