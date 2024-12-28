@@ -33827,3 +33827,10 @@ Append: [新能源电池退役潮，污染堪比原子弹？](https://www.huxiu.
 Append: [TikTok博主花式秀中国，带火China travel风](https://www.huxiu.com/article/3843894.html)
 append_entries: 5
 Finish: 2024-12-28 14:07:37.853507
+------------------------------------------------------
+Started: 2024-12-28 16:09:28.231362
+Existing_entries: 1005
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
