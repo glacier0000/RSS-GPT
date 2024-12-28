@@ -33809,3 +33809,10 @@ Append: [6G最强悍的特性，竟提前被这些手机厂商用上](https://ww
 Append: [阿塞拜疆客机真的是被击落？俄罗斯最新回应](https://www.huxiu.com/article/3842919.html)
 append_entries: 22
 Finish: 2024-12-28 10:08:39.653646
+------------------------------------------------------
+Started: 2024-12-28 12:14:19.674901
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
