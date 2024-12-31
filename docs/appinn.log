@@ -47504,3 +47504,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-12-31 08:12:01.871926
+------------------------------------------------------
+Started: 2024-12-31 10:09:25.812498
+Existing_entries: 669
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Append: [Vimo Rebinder 2.0 系列来了，开发者来聊聊都有什么变化](https://meta.appinn.net/t/topic/64748)
+append_entries: 1
+Finish: 2024-12-31 10:09:29.879387
