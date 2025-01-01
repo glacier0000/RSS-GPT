@@ -34190,3 +34190,10 @@ Append: [智能手机2024成绩单：AI升温、折叠屏降速，OPPO跌出前�
 Append: [IPO能否治愈沪上阿姨的“虚胖”](https://www.huxiu.com/article/3858318.html)
 append_entries: 2
 Finish: 2025-01-01 10:09:50.458452
+------------------------------------------------------
+Started: 2025-01-01 12:15:41.276841
+Existing_entries: 1002
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
