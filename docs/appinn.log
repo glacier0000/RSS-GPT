@@ -47668,3 +47668,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-01-02 00:40:14.526872
+------------------------------------------------------
+Started: 2025-01-02 02:41:20.899037
+Existing_entries: 673
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [Curl-impersonate：curl 的特殊版本，可以模拟 Chrome 和 Firefox](https://meta.appinn.net/t/topic/64796)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2025-01-02 02:41:23.913477
