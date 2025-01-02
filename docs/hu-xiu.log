@@ -34267,3 +34267,10 @@ Append: [131.38亿港元，阿里把高鑫零售也卖了](https://www.huxiu.com
 Append: [赚钱这事儿很简单，不需要花钱买课](https://www.huxiu.com/article/3858538.html)
 append_entries: 22
 Finish: 2025-01-02 02:41:46.059767
+------------------------------------------------------
+Started: 2025-01-02 04:11:20.096327
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
