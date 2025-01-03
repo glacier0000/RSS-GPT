@@ -47824,3 +47824,11 @@ Fetching from https://meta.appinn.net/tag/macos.rss
 Append: [Listary 团队新作： Gety 加入过等待列表的现可以体验了](https://meta.appinn.net/t/topic/64867)
 append_entries: 1
 Finish: 2025-01-03 14:08:28.643389
+------------------------------------------------------
+Started: 2025-01-03 16:10:29.416174
+Existing_entries: 677
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2025-01-03 16:10:33.440730
