@@ -34372,3 +34372,10 @@ Append: [苹果官网突然降价，这一次最高降800元](https://www.huxiu.
 Append: [为了一单提成，我推他们走向深渊](https://www.huxiu.com/article/3861148.html)
 append_entries: 22
 Finish: 2025-01-03 02:43:13.309952
+------------------------------------------------------
+Started: 2025-01-03 04:11:25.666463
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
