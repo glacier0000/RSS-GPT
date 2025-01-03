@@ -34449,3 +34449,10 @@ Append: [日本最赚钱的折扣超市，是怎么炼成的？](https://www.hux
 Append: [大模型竞赛的2025，淘汰加速](https://www.huxiu.com/article/3866692.html)
 append_entries: 22
 Finish: 2025-01-03 18:12:19.575988
+------------------------------------------------------
+Started: 2025-01-03 20:09:53.166845
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
