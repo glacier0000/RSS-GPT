@@ -34547,3 +34547,10 @@ Append: [下周到底发不发Switch 2？急](https://www.huxiu.com/article/3870
 Append: [长期且忠诚的爱，是最大的性幻想](https://www.huxiu.com/article/3867754.html)
 append_entries: 2
 Finish: 2025-01-04 14:07:41.327962
+------------------------------------------------------
+Started: 2025-01-04 16:09:29.618643
+Existing_entries: 1002
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
