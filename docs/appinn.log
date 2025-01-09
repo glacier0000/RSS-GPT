@@ -48379,3 +48379,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-01-09 06:12:24.675213
+------------------------------------------------------
+Started: 2025-01-09 08:11:53.109742
+Existing_entries: 688
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Append: [iPhone手机上Safari浏览器页面缩放无法设置](https://meta.appinn.net/t/topic/65082)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2025-01-09 08:11:55.930212
