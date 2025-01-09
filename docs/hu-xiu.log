@@ -35082,3 +35082,10 @@ Append: [人民币跌破7.3，央行释放稳汇率信号](https://www.huxiu.com
 Append: [终极拷问，FSD真能撑起1.5万亿特斯拉？](https://www.huxiu.com/article/3887383.html)
 append_entries: 14
 Finish: 2025-01-09 08:12:20.150006
+------------------------------------------------------
+Started: 2025-01-09 10:10:23.909826
+Existing_entries: 1014
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
