@@ -35302,3 +35302,10 @@ Append: [AI红利，轮到寒武纪了](https://www.huxiu.com/article/3895757.ht
 Append: [韩女在上海旅游猛花钱，“沪币”终于有了懂它的人](https://www.huxiu.com/article/3895740.html)
 append_entries: 5
 Finish: 2025-01-11 14:07:43.004867
+------------------------------------------------------
+Started: 2025-01-11 16:09:26.592924
+Existing_entries: 1005
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
