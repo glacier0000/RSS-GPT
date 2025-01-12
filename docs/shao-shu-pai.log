@@ -20656,3 +20656,10 @@ Fetching from https://glacier0000.vercel.app/sspai/matrix
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/shao-shu-pai
+------------------------------------------------------
+Started: 2025-01-12 08:10:43.259883
+Existing_entries: 597
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Append: [一天一张 Live Photos 完成 2024 总结视频](https://sspai.com/post/95518)
+append_entries: 1
+Finish: 2025-01-12 08:10:50.238725
