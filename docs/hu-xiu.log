@@ -35496,3 +35496,10 @@ Append: [卖周边的风，刮到了“官方机构”](https://www.huxiu.com/ar
 Append: [咱们造车，真能不用美国芯片吗？](https://www.huxiu.com/article/3900998.html)
 append_entries: 22
 Finish: 2025-01-13 10:10:34.692267
+------------------------------------------------------
+Started: 2025-01-13 12:17:13.535584
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
