@@ -20798,3 +20798,10 @@ Append: [AI 辅助编程，真的那么不靠谱吗？](https://sspai.com/post/9
 Append: [2024 年度回顾：烈火后进食](https://sspai.com/post/95575)
 append_entries: 3
 Finish: 2025-01-14 02:37:40.524188
+------------------------------------------------------
+Started: 2025-01-14 04:10:42.331109
+Existing_entries: 606
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/shao-shu-pai
