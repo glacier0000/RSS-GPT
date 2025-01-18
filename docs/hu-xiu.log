@@ -35965,3 +35965,10 @@ Append: [出生人口逆转，释放出怎样的信号？](https://www.huxiu.com
 Append: [东北胖东来，一年50亿，比优特又证明了中年男人能救商超？](https://www.huxiu.com/article/3916066.html)
 append_entries: 22
 Finish: 2025-01-18 12:13:41.668150
+------------------------------------------------------
+Started: 2025-01-18 14:07:36.712775
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
