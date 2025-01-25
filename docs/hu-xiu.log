@@ -36619,3 +36619,10 @@ Append: [红龙下南洋：雅万高铁运转体验](https://www.huxiu.com/artic
 Append: [国产带状疱疹疫苗的高光只持续了一年](https://www.huxiu.com/article/3942593.html)
 append_entries: 22
 Finish: 2025-01-25 10:08:18.280536
+------------------------------------------------------
+Started: 2025-01-25 12:13:55.020201
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
