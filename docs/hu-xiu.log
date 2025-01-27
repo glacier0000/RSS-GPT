@@ -36864,3 +36864,10 @@ Append: [变天：由一个惊艳例子引发对Deepseek的10条思考](https://
 Append: [输了澳网损失几百万？一个视频看懂网球有多赚钱](https://www.huxiu.com/article/3946059.html)
 append_entries: 22
 Finish: 2025-01-27 20:10:21.333882
+------------------------------------------------------
+Started: 2025-01-27 22:08:41.106512
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
