@@ -50143,3 +50143,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2025-01-27 08:13:10.458094
+------------------------------------------------------
+Started: 2025-01-27 10:10:17.051709
+Existing_entries: 716
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Append: [【无用之物】grex：一个根据给定的文本输出可用正则的命令行工具](https://meta.appinn.net/t/topic/65830)
+append_entries: 1
+Finish: 2025-01-27 10:10:19.635057
