@@ -50169,3 +50169,11 @@ Append: [｛NFSee｝：适用于 Android 和 iOS 的开源 NFC 工具，支持�
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2025-01-27 14:08:58.957596
+------------------------------------------------------
+Started: 2025-01-27 16:10:52.587992
+Existing_entries: 718
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2025-01-27 16:10:55.937797
