@@ -37100,3 +37100,10 @@ Append: [没想到，老家村里开始卷分红了](https://www.huxiu.com/artic
 Append: [大家对DeepSeek神话了](https://www.huxiu.com/article/3959973.html)
 append_entries: 5
 Finish: 2025-01-30 02:38:02.456585
+------------------------------------------------------
+Started: 2025-01-30 04:11:17.390365
+Existing_entries: 1005
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
