@@ -37164,3 +37164,10 @@ Append: [被无所不知的ChatGPT 打败后，我写了一篇AI“想不出”�
 Append: [微软、Meta都说“DeepSeek不影响”，英伟达可以松口气了吗？](https://www.huxiu.com/article/3961284.html)
 append_entries: 6
 Finish: 2025-01-30 14:08:57.831336
+------------------------------------------------------
+Started: 2025-01-30 16:10:39.245742
+Existing_entries: 1006
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
