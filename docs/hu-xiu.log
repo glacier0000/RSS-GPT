@@ -37382,3 +37382,10 @@ Append: [Altman因DeepSeek“认错”：在开源上OpenAI站在了历史的错
 Append: [豫东小城太康：50万人的奔波行囊](https://www.huxiu.com/article/3967301.html)
 append_entries: 22
 Finish: 2025-02-01 12:13:59.355808
+------------------------------------------------------
+Started: 2025-02-01 14:07:20.272361
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
