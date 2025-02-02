@@ -37425,3 +37425,10 @@ Append: [县城老人无证婚姻的重组家庭：健康即权力](https://www.
 Append: [那个让英特尔蒸发1500亿美元的CEO，原来是最惨背锅侠](https://www.huxiu.com/article/3969305.html)
 append_entries: 2
 Finish: 2025-02-02 00:43:09.507424
+------------------------------------------------------
+Started: 2025-02-02 02:41:08.701716
+Existing_entries: 1002
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
