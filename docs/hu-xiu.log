@@ -37502,3 +37502,14 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2025-02-02 18:10:32.266264
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [欧洲最大锂矿，丢了？](https://www.huxiu.com/article/3972176.html)
+Append: [失意中年人的归宿，不再是星巴克了？](https://www.huxiu.com/article/3961738.html)
+Append: [美加贸易战开打，油价会走高吗？](https://www.huxiu.com/article/3971898.html)
+Append: [春节返乡，山西小县城患上“网红景点饥渴症”](https://www.huxiu.com/article/3971492.html)
+Append: [2025了，我仍然十分想念赵本山](https://www.huxiu.com/article/3967310.html)
+append_entries: 5
+Finish: 2025-02-02 18:10:38.833251
