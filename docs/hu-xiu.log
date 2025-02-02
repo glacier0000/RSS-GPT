@@ -37481,3 +37481,10 @@ Append: [春节期间消费骤起，有哪些重要信息值得我们关注？](
 Append: [对于AI基建产业链各环节，DeepSeek的利好与利空](https://www.huxiu.com/article/3970276.html)
 append_entries: 22
 Finish: 2025-02-02 10:08:40.599833
+------------------------------------------------------
+Started: 2025-02-02 12:13:51.866145
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
