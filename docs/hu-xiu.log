@@ -37759,3 +37759,10 @@ Append: [蛇年，哪16个赛道最具赚钱效应？](https://www.huxiu.com/art
 Append: [春节档，关键是做差评管理](https://www.huxiu.com/article/3977889.html)
 append_entries: 22
 Finish: 2025-02-05 02:41:16.075716
+------------------------------------------------------
+Started: 2025-02-05 04:11:24.419424
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
