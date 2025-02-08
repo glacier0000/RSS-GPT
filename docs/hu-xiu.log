@@ -38139,3 +38139,10 @@ Append: [张兰等人账号被封禁，然后呢？](https://www.huxiu.com/artic
 Append: [放了这么多年炮，但你对窜天猴还是有误解](https://www.huxiu.com/article/3990025.html)
 append_entries: 21
 Finish: 2025-02-08 08:10:59.309965
+------------------------------------------------------
+Started: 2025-02-08 10:08:30.803210
+Existing_entries: 1021
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
