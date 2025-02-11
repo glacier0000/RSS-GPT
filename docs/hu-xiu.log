@@ -38451,3 +38451,10 @@ Append: [养活所有自媒体？二手App靠什么赚钱？](https://www.huxiu.
 Append: [寻求控制OpenAI，马斯克牵头财团出价974亿美元，Altman秒拒](https://www.huxiu.com/article/4003968.html)
 append_entries: 22
 Finish: 2025-02-11 06:12:54.296811
+------------------------------------------------------
+Started: 2025-02-11 08:12:16.402191
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
