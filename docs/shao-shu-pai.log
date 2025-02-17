@@ -23527,3 +23527,10 @@ Existing_entries: 672
 Fetching from https://glacier0000.vercel.app/sspai/matrix
 append_entries: 0
 Finish: 2025-02-17 16:10:36.175822
+------------------------------------------------------
+Started: 2025-02-17 18:11:36.335053
+Existing_entries: 672
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/shao-shu-pai
