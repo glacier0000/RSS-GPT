@@ -39058,3 +39058,10 @@ Append: [《封神》的地理原型，到底在哪里？](https://www.huxiu.com
 Append: [中国资本市场正在迎来价值重估的转折点](https://www.huxiu.com/article/4025756.html)
 append_entries: 22
 Finish: 2025-02-17 06:13:38.753641
+------------------------------------------------------
+Started: 2025-02-17 08:13:28.030512
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
