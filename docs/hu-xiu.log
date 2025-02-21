@@ -39415,3 +39415,10 @@ Append: [如何复制梁文锋](https://www.huxiu.com/article/4041917.html)
 Append: [梁文锋和他的超能陆战队](https://www.huxiu.com/article/4040403.html)
 append_entries: 22
 Finish: 2025-02-21 06:13:05.606828
+------------------------------------------------------
+Started: 2025-02-21 08:12:17.789333
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
