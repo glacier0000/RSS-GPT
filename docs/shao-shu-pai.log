@@ -23827,3 +23827,10 @@ Fetching from https://glacier0000.vercel.app/sspai/matrix
 Append: [一个普通用户的AI搜索手记——新手报到](https://sspai.com/post/96413)
 append_entries: 1
 Finish: 2025-02-21 12:16:21.987635
+------------------------------------------------------
+Started: 2025-02-21 14:07:33.768422
+Existing_entries: 685
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/shao-shu-pai
