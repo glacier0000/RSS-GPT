@@ -23794,3 +23794,11 @@ Fetching from https://glacier0000.vercel.app/sspai/matrix
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/shao-shu-pai
+------------------------------------------------------
+Started: 2025-02-21 04:11:48.450251
+Existing_entries: 682
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Append: [从大理到景德，聊聊一年的旅居体验](https://sspai.com/post/95071)
+Append: [【雷鸟V3】说点好听的，说点不好听的](https://sspai.com/post/96207)
+append_entries: 2
+Finish: 2025-02-21 04:11:55.557192
