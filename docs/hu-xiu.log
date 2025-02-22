@@ -39535,3 +39535,10 @@ Append: [大厂人的35岁焦虑，靠买黄金治好了？](https://www.huxiu.c
 Append: [全面拥抱DeepSeek，腾讯这回为啥这么着急？](https://www.huxiu.com/article/4039632.html)
 append_entries: 2
 Finish: 2025-02-22 10:08:34.461208
+------------------------------------------------------
+Started: 2025-02-22 12:14:05.132451
+Existing_entries: 1002
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
