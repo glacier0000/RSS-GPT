@@ -39563,3 +39563,14 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2025-02-22 20:08:56.633631
+Existing_entries: 1002
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [1924年就写出了回收火箭方案，为啥尤里在历史上籍籍无名？](https://www.huxiu.com/article/4026651.html)
+Append: [“韩国烤肉界的扛把子”要凉了？](https://www.huxiu.com/article/4047301.html)
+Append: [为百万骑手上社保，为何有人不买账？](https://www.huxiu.com/article/4047285.html)
+Append: [上瘾与心流](https://www.huxiu.com/article/4047284.html)
+Append: [人民币还能升值到6-7区间吗？](https://www.huxiu.com/article/4038496.html)
+append_entries: 5
+Finish: 2025-02-22 20:09:03.073597
