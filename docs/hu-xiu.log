@@ -39641,3 +39641,10 @@ Append: [租金跌回十年前，房东破防，租房时代真的来了吗？](
 Append: [超1000次搜索统计，我们选出了值得推荐的阅读App](https://www.huxiu.com/article/4043574.html)
 append_entries: 17
 Finish: 2025-02-23 08:11:01.305766
+------------------------------------------------------
+Started: 2025-02-23 10:08:34.073490
+Existing_entries: 1017
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
