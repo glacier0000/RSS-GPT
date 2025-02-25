@@ -24114,3 +24114,10 @@ Append: [手工制品：永生花摆件](https://sspai.com/post/96557)
 Append: [RODE罗德播客录音棚盘点](https://sspai.com/post/96579)
 append_entries: 5
 Finish: 2025-02-25 04:11:57.367738
+------------------------------------------------------
+Started: 2025-02-25 06:13:00.619278
+Existing_entries: 694
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/shao-shu-pai
