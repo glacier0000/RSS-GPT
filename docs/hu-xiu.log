@@ -39952,3 +39952,10 @@ Append: [作为独立开发人员，如何每月赚取13万美元](https://www.h
 Append: [有多少人在剑桥图书馆品鉴《娇妻的诱惑》？](https://www.huxiu.com/article/3999601.html)
 append_entries: 22
 Finish: 2025-02-26 10:10:49.482331
+------------------------------------------------------
+Started: 2025-02-26 12:17:13.366346
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
