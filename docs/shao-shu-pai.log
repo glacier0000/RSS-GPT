@@ -24204,3 +24204,10 @@ Append: [2024，在非洲，得生命之自由](https://sspai.com/post/96642)
 Append: [平凡创作，去年的手机手办摄影与手机摄影](https://sspai.com/post/96640)
 append_entries: 5
 Finish: 2025-02-26 06:13:45.549624
+------------------------------------------------------
+Started: 2025-02-26 08:12:42.147379
+Existing_entries: 699
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/shao-shu-pai
