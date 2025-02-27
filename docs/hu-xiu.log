@@ -40057,3 +40057,10 @@ Append: [900万家庭付不起天价电费，英国能源政策崩盘？](https:
 Append: [海外为啥不给哪吒排片？文化输出这盘棋他们输不起](https://www.huxiu.com/article/4060902.html)
 append_entries: 22
 Finish: 2025-02-27 10:10:37.849553
+------------------------------------------------------
+Started: 2025-02-27 12:16:48.996713
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
