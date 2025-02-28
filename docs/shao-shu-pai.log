@@ -24369,3 +24369,10 @@ Fetching from https://glacier0000.vercel.app/sspai/matrix
 Append: [把树莓派改造成一个电视盒子](https://sspai.com/post/96764)
 append_entries: 1
 Finish: 2025-02-28 06:13:22.608580
+------------------------------------------------------
+Started: 2025-02-28 08:12:27.414692
+Existing_entries: 703
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/shao-shu-pai
