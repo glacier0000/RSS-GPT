@@ -53241,3 +53241,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-02-28 08:12:18.751590
+------------------------------------------------------
+Started: 2025-02-28 10:10:06.678609
+Existing_entries: 739
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Append: [｛LibreWolf｝：基于 Firefox 的开源桌面端浏览器，注重隐私、安全和自由](https://meta.appinn.net/t/topic/67027)
+append_entries: 1
+Finish: 2025-02-28 10:10:09.324528
