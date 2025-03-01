@@ -24444,3 +24444,10 @@ Append: [一个理科生从零开始的创客之路](https://sspai.com/post/9668
 Append: [一个简单的功能，让你再不为编辑公式发愁](https://sspai.com/post/96782)
 append_entries: 2
 Finish: 2025-03-01 02:52:31.101284
+------------------------------------------------------
+Started: 2025-03-01 04:11:02.923934
+Existing_entries: 710
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/shao-shu-pai
