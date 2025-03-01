@@ -24425,3 +24425,14 @@ Fetching from https://glacier0000.vercel.app/sspai/matrix
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/shao-shu-pai
+------------------------------------------------------
+Started: 2025-03-01 00:45:31.816936
+Existing_entries: 703
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Append: [Tauri 开源(1) - 从零打造一款跨端的 AI 笔记](https://sspai.com/post/96749)
+Append: [如何科学合理配置电脑桌椅（最新修改版）](https://sspai.com/post/96772)
+Append: [为你量身定制的：「智能手表」挑选指北](https://sspai.com/post/96583)
+Append: [七千块的音乐播放器和手机有什么区别？海贝 R6 Pro Max 体验报告](https://sspai.com/post/96751)
+Append: [Claude 3.7 核心提示词曝光｜最懂提示词的大模型公司，现在怎么写 Prompt？](https://sspai.com/post/96734)
+append_entries: 5
+Finish: 2025-03-01 00:45:38.615282
