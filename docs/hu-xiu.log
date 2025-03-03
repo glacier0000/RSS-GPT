@@ -40548,3 +40548,10 @@ Append: [UT，埃安急需的那根“救命稻草”](https://www.huxiu.com/art
 Append: [游戏大厂与海外皮包公司的博弈](https://www.huxiu.com/article/4079276.html)
 append_entries: 2
 Finish: 2025-03-03 20:10:37.006147
+------------------------------------------------------
+Started: 2025-03-03 22:09:04.888736
+Existing_entries: 1002
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
