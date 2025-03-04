@@ -24735,3 +24735,10 @@ Append: [2024回顾，用这些符号玩转日本](https://sspai.com/post/96858)
 Append: [AI 如何协助我解决创作过程中遇到的编程问题](https://sspai.com/post/96632)
 append_entries: 6
 Finish: 2025-03-04 10:10:40.651867
+------------------------------------------------------
+Started: 2025-03-04 12:16:51.054764
+Existing_entries: 726
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/shao-shu-pai
