@@ -53693,3 +53693,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-03-05 04:11:35.002430
+------------------------------------------------------
+Started: 2025-03-05 06:13:21.583487
+Existing_entries: 743
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Append: [IDM替代品](https://meta.appinn.net/t/topic/67182)
+append_entries: 1
+Finish: 2025-03-05 06:13:24.361140
