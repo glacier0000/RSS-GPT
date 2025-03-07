@@ -40912,3 +40912,10 @@ Append: [不上班的第16年，一个普通人的“穷FIRE”探索](https://w
 Append: [五年狂砸百亿美元，荣耀要当AI生态领航人？](https://www.huxiu.com/article/4091018.html)
 append_entries: 22
 Finish: 2025-03-07 14:09:26.744318
+------------------------------------------------------
+Started: 2025-03-07 16:11:09.938482
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
