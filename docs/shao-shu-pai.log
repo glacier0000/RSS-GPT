@@ -24960,3 +24960,10 @@ Append: [从 Pandoc 到 Quarto：纯文本学术写作的实践与优化](https:
 Append: [为什么笔记用户要保卫自己的「数字主权」？](https://sspai.com/post/96863)
 append_entries: 4
 Finish: 2025-03-07 06:13:15.450547
+------------------------------------------------------
+Started: 2025-03-07 08:12:34.989331
+Existing_entries: 733
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/shao-shu-pai
