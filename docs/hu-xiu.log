@@ -41017,3 +41017,10 @@ Append: [10分钟详解 ：日本机器人兴衰史](https://www.huxiu.com/artic
 Append: [为什么有的板块房价永远在低洼](https://www.huxiu.com/article/4097256.html)
 append_entries: 22
 Finish: 2025-03-08 14:05:19.317672
+------------------------------------------------------
+Started: 2025-03-08 16:08:21.054633
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
