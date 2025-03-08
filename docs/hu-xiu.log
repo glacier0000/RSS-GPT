@@ -41024,3 +41024,10 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2025-03-08 18:09:18.410660
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [透过山西对地铁爱好者的态度，看它与一线城市的差距](https://www.huxiu.com/article/4099426.html)
+append_entries: 1
+Finish: 2025-03-08 18:09:23.134287
