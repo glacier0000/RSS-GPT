@@ -25182,3 +25182,10 @@ Append: [大学生AI开发实录：基于Cursor打造Chrome插件的设计与上
 Append: [一盘到底？“亿”盘到底？一区到底？“亿”区到底？让我们好好盘盘。](https://sspai.com/post/96948)
 append_entries: 8
 Finish: 2025-03-10 02:29:01.389486
+------------------------------------------------------
+Started: 2025-03-10 04:09:56.757928
+Existing_entries: 742
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/shao-shu-pai
