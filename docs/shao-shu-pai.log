@@ -25367,3 +25367,10 @@ Fetching from https://glacier0000.vercel.app/sspai/matrix
 Append: [AI 不会吃掉你](https://sspai.com/post/97078)
 append_entries: 1
 Finish: 2025-03-12 12:16:53.706800
+------------------------------------------------------
+Started: 2025-03-12 14:09:35.618509
+Existing_entries: 754
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/shao-shu-pai
