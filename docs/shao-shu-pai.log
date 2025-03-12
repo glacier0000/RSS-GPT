@@ -25326,3 +25326,11 @@ Existing_entries: 750
 Fetching from https://glacier0000.vercel.app/sspai/matrix
 append_entries: 0
 Finish: 2025-03-12 00:42:41.546886
+------------------------------------------------------
+Started: 2025-03-12 02:49:04.496972
+Existing_entries: 750
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Append: [Windows 上的 apt：Scoop 使用简明指南](https://sspai.com/post/97255)
+Append: [为Claude桌面端集成tavily搜索](https://sspai.com/post/97248)
+append_entries: 2
+Finish: 2025-03-12 02:49:09.409983
