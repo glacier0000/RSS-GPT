@@ -25412,3 +25412,10 @@ Fetching from https://glacier0000.vercel.app/sspai/matrix
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/shao-shu-pai
+------------------------------------------------------
+Started: 2025-03-13 04:11:49.194113
+Existing_entries: 754
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Append: [薅住时间的羊毛！飞书帮忙把时间管理憾到极致！](https://sspai.com/post/96341)
+append_entries: 1
+Finish: 2025-03-13 04:11:54.268796
