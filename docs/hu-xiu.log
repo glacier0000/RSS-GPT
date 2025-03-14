@@ -41588,3 +41588,10 @@ Append: [牛皮少吹10%的好处](https://www.huxiu.com/article/4118399.html)
 Append: [中国科技大爆发，又有知名海外科学家归国？](https://www.huxiu.com/article/4116550.html)
 append_entries: 22
 Finish: 2025-03-14 12:16:29.319114
+------------------------------------------------------
+Started: 2025-03-14 14:09:20.083224
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
