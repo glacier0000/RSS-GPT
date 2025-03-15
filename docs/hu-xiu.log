@@ -41656,3 +41656,10 @@ Append: [金秀贤，恋童癖“惯犯”？](https://www.huxiu.com/article/412
 Append: [理想汽车，艰难“守擂”](https://www.huxiu.com/article/4120892.html)
 append_entries: 11
 Finish: 2025-03-15 02:45:49.483047
+------------------------------------------------------
+Started: 2025-03-15 04:11:07.424634
+Existing_entries: 1011
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu

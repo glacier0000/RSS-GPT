@@ -25570,3 +25570,10 @@ Fetching from https://glacier0000.vercel.app/sspai/matrix
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/shao-shu-pai
+------------------------------------------------------
+Started: 2025-03-15 04:10:58.187162
+Existing_entries: 761
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Append: [AI 帮我开发了 10 个 Obsidian 插件：失败、教训和收获](https://sspai.com/post/97311)
+append_entries: 1
+Finish: 2025-03-15 04:11:04.117116
