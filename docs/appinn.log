@@ -54739,3 +54739,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-03-16 00:46:41.789547
+------------------------------------------------------
+Started: 2025-03-16 02:55:08.008388
+Existing_entries: 757
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [Chrome有没有好用的书签插件](https://meta.appinn.net/t/topic/67625)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2025-03-16 02:55:10.594443
