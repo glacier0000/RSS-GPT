@@ -41878,3 +41878,10 @@ Append: [格陵兰岛想做生意，但不是特朗普的那种生意](https://w
 Append: [外国人在日本坐牢是什么体验？](https://www.huxiu.com/article/4129862.html)
 append_entries: 13
 Finish: 2025-03-17 08:14:04.396539
+------------------------------------------------------
+Started: 2025-03-17 10:11:03.249501
+Existing_entries: 1013
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
