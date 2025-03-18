@@ -41962,3 +41962,10 @@ Append: [最敢生的省份，也开始“抢人”了](https://www.huxiu.com/ar
 Append: [中国“霸总”迷倒美国人？](https://www.huxiu.com/article/4130158.html)
 append_entries: 22
 Finish: 2025-03-18 02:54:08.900515
+------------------------------------------------------
+Started: 2025-03-18 04:11:58.015236
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
