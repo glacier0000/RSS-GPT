@@ -42233,3 +42233,10 @@ Append: [特斯拉是时候“去马斯克化”了](https://www.huxiu.com/artic
 Append: [广告人，能犯多大错？](https://www.huxiu.com/article/4143416.html)
 append_entries: 11
 Finish: 2025-03-20 10:10:34.660560
+------------------------------------------------------
+Started: 2025-03-20 12:17:36.793977
+Existing_entries: 1011
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
