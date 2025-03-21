@@ -42366,3 +42366,10 @@ Append: [黄仁勋为什么一边笑着“认错”，一边给量子计算站�
 Append: [中国职场，不欢迎gap过的年轻人](https://www.huxiu.com/article/4147120.html)
 append_entries: 5
 Finish: 2025-03-21 10:10:32.143617
+------------------------------------------------------
+Started: 2025-03-21 12:16:47.300348
+Existing_entries: 1005
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
