@@ -42310,3 +42310,10 @@ Append: [1分钟搞懂说美国滞胀是咋回事](https://www.huxiu.com/article
 Append: [金赛纶之死：以“恋爱”为名的联合绞杀](https://www.huxiu.com/article/4144578.html)
 append_entries: 22
 Finish: 2025-03-21 02:54:04.887466
+------------------------------------------------------
+Started: 2025-03-21 04:11:50.954493
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
