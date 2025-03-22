@@ -42443,3 +42443,10 @@ Append: [经济第二大省，这次有点慢了](https://www.huxiu.com/article/
 Append: [为什么穷人家庭更喜欢看电视？](https://www.huxiu.com/article/4147594.html)
 append_entries: 22
 Finish: 2025-03-22 02:49:23.372369
+------------------------------------------------------
+Started: 2025-03-22 04:11:01.452465
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
