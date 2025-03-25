@@ -26357,3 +26357,10 @@ Append: [DeepSeek算命太准了？别被这些心理把戏骗了](https://sspai
 Append: [别只盯着千禾！理性看待零添加与黑科技](https://sspai.com/post/97655)
 append_entries: 4
 Finish: 2025-03-25 04:11:50.535828
+------------------------------------------------------
+Started: 2025-03-25 06:13:53.896217
+Existing_entries: 783
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/shao-shu-pai
