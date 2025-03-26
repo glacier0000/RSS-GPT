@@ -25236,3 +25236,11 @@ Existing_entries: 119
 Fetching from https://wechat2rss.xlab.app/feed/90c827b8290310a96ef80a13df9dbcc06ab69892.xml
 append_entries: 0
 Finish: 2025-03-26 08:13:15.646275
+------------------------------------------------------
+Started: 2025-03-26 10:11:02.135464
+Existing_entries: 119
+Fetching from https://wechat2rss.xlab.app/feed/90c827b8290310a96ef80a13df9dbcc06ab69892.xml
+Append: [IDA 9.1 & IDA 8.5 算法分析](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142083&idx=1&sn=1fb2b734c134f9f16c9014f63c456578&chksm=bd50a7978a272e81c8e751012ef5e111d2ed5f468bd8e25c1fd19455f4e7f1dab1059e7cbc16&scene=58&subscene=0)
+Append: [去除QQ聊天窗口的平滑滚动动画](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142073&idx=1&sn=de8b782b4cbed3af3313fcc6a18ce317&chksm=bd50a7ed8a272efb262fcf1c7be1cf718eab215591f0c55c22e5186229449f86fc465b7a3db6&scene=58&subscene=0)
+append_entries: 2
+Finish: 2025-03-26 10:11:04.037379
