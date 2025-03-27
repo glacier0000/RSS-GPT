@@ -55847,3 +55847,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-03-27 00:43:35.020201
+------------------------------------------------------
+Started: 2025-03-27 02:53:40.582588
+Existing_entries: 776
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Append: [pyme：基于tk的可视化python工具，一键打包成apk](https://meta.appinn.net/t/topic/68108)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2025-03-27 02:53:43.657303
