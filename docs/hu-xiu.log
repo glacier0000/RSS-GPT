@@ -43181,3 +43181,10 @@ Append: [这些大专生，教出人形机器人](https://www.huxiu.com/article/
 Append: [比山更高：自由攀登者的死与爱](https://www.huxiu.com/article/4170878.html)
 append_entries: 5
 Finish: 2025-03-28 18:13:40.925207
+------------------------------------------------------
+Started: 2025-03-28 20:11:08.044007
+Existing_entries: 1005
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
