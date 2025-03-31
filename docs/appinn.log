@@ -56244,3 +56244,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2025-03-31 03:00:53.906085
+------------------------------------------------------
+Started: 2025-03-31 04:12:05.713743
+Existing_entries: 781
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Append: [大家有没有接触过轻app (App Clip)？](https://meta.appinn.net/t/topic/69340)
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2025-03-31 04:12:08.502358
