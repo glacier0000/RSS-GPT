@@ -43503,3 +43503,10 @@ Append: [《浪姐6》翻红《新还珠》，00后想为童年记忆翻案](htt
 Append: [三只松鼠的逆袭故事，资本为什么不愿买单？](https://www.huxiu.com/article/4179049.html)
 append_entries: 22
 Finish: 2025-04-01 06:14:25.098352
+------------------------------------------------------
+Started: 2025-04-01 08:13:56.277440
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
