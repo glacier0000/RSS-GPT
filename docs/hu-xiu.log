@@ -43594,3 +43594,10 @@ Append: [中国之外，石油化工大败局](https://www.huxiu.com/article/418
 Append: [中国需不需要更多的“朱啸虎”？](https://www.huxiu.com/article/4188681.html)
 append_entries: 22
 Finish: 2025-04-02 02:56:46.034825
+------------------------------------------------------
+Started: 2025-04-02 04:12:05.920391
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
