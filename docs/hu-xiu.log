@@ -43770,3 +43770,10 @@ Append: [一个木匠，是如何从牛顿手上赢得经度之战的？](https:
 Append: [重庆丰都，千年“鬼城”是如何炼成的？](https://www.huxiu.com/article/4196586.html)
 append_entries: 6
 Finish: 2025-04-03 14:10:10.341251
+------------------------------------------------------
+Started: 2025-04-03 16:11:44.203142
+Existing_entries: 1006
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
