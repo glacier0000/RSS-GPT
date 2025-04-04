@@ -43799,3 +43799,10 @@ Append: [丈夫去世，妻子买了一个纸做的Switch送给他](https://www.
 Append: [AI来了，人类反倒更忙了？](https://www.huxiu.com/article/4197045.html)
 append_entries: 2
 Finish: 2025-04-03 22:09:19.471671
+------------------------------------------------------
+Started: 2025-04-04 00:44:14.076198
+Existing_entries: 1002
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
