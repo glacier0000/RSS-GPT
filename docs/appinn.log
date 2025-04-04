@@ -56639,3 +56639,11 @@ Append: [【开发者自荐】 大赚一笔记账App（iOS/安卓） - 功能齐
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2025-04-04 04:11:37.462596
+------------------------------------------------------
+Started: 2025-04-04 06:13:49.571082
+Existing_entries: 784
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2025-04-04 06:13:52.527854
