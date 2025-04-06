@@ -44037,3 +44037,12 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2025-04-06 10:10:02.656428
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [一个关键数据透视“经济家底”，江苏为何逆势下降？](https://www.huxiu.com/article/4207112.html)
+Append: [Llama 4重磅来袭，Meta叫板OpenAI](https://www.huxiu.com/article/4207107.html)
+Append: [Llama 4发布：我看到了DeepSeek的影子](https://www.huxiu.com/article/4207102.html)
+append_entries: 3
+Finish: 2025-04-06 10:10:09.474060
