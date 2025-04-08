@@ -44207,3 +44207,10 @@ Append: [中西部省会，要成为人口赢家](https://www.huxiu.com/article/
 Append: [中部人口“缩水”近百万，哪些省份正在回流？](https://www.huxiu.com/article/4212681.html)
 append_entries: 22
 Finish: 2025-04-08 02:56:11.983752
+------------------------------------------------------
+Started: 2025-04-08 04:12:05.781665
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
