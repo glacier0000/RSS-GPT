@@ -44284,3 +44284,10 @@ Append: [亚马逊把Netflix的广告价格打下来了](https://www.huxiu.com/a
 Append: [“擦边”的职业老赖](https://www.huxiu.com/article/4216489.html)
 append_entries: 22
 Finish: 2025-04-09 02:57:19.628150
+------------------------------------------------------
+Started: 2025-04-09 04:12:30.525686
+Existing_entries: 1022
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu

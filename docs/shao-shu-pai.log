@@ -27485,3 +27485,10 @@ Append: [曾追及的星辰 -- Xperia Z2 回顾](https://sspai.com/post/98108)
 Append: [Obsidian 笔记要不要加密？我折腾了一圈，最后用了这个方法！](https://sspai.com/post/98168)
 append_entries: 8
 Finish: 2025-04-09 02:57:11.609092
+------------------------------------------------------
+Started: 2025-04-09 04:12:16.951823
+Existing_entries: 809
+Fetching from https://glacier0000.vercel.app/sspai/matrix
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/shao-shu-pai
