@@ -44457,3 +44457,10 @@ Append: [大厂AI to C，进攻是最好的防守](https://www.huxiu.com/article
 Append: [走访300+消费公司后，我发现了一个超级品牌的共性](https://www.huxiu.com/article/4220512.html)
 append_entries: 14
 Finish: 2025-04-10 08:13:45.347978
+------------------------------------------------------
+Started: 2025-04-10 10:11:05.629737
+Existing_entries: 1014
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
