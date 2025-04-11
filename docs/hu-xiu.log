@@ -44595,3 +44595,10 @@ Append: [总拿衣服擦镜头，是好习惯吗？](https://www.huxiu.com/artic
 Append: [十级社恐的首富、大佬们，也出来抛头露面了](https://www.huxiu.com/article/4226534.html)
 append_entries: 6
 Finish: 2025-04-11 10:10:28.335094
+------------------------------------------------------
+Started: 2025-04-11 12:17:57.413880
+Existing_entries: 1006
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/hu-xiu
