@@ -44628,3 +44628,12 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2025-04-11 18:13:21.968514
+Existing_entries: 1013
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [全屋定制不锈钢，年轻人流行“纯狱风”装修了](https://www.huxiu.com/article/4222936.html)
+Append: [做“轻体力工作”的年轻人，有点后悔了](https://www.huxiu.com/article/4226062.html)
+Append: [年轻人觉得自己“老了”，是生活变好的开始](https://www.huxiu.com/article/4223114.html)
+append_entries: 3
+Finish: 2025-04-11 18:13:25.822712
