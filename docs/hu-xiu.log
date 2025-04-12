@@ -44740,3 +44740,12 @@ Fetching from https://glacier0000.vercel.app/huxiu/article
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/hu-xiu
+------------------------------------------------------
+Started: 2025-04-12 18:11:41.934390
+Existing_entries: 1000
+Fetching from https://glacier0000.vercel.app/huxiu/article
+Append: [百万留学难换九千月薪，金融学子的精英滤镜碎了](https://www.huxiu.com/article/4230509.html)
+Append: [关税霸凌，中国外贸人：涨价](https://www.huxiu.com/article/4230510.html)
+Append: [揭秘苹果AI受挫内幕：库克优柔寡断、CFO大砍芯片预算](https://www.huxiu.com/article/4230103.html)
+append_entries: 3
+Finish: 2025-04-12 18:11:47.007494
