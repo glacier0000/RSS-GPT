@@ -44749,3 +44749,9 @@ Append: [关税霸凌，中国外贸人：涨价](https://www.huxiu.com/article/
 Append: [揭秘苹果AI受挫内幕：库克优柔寡断、CFO大砍芯片预算](https://www.huxiu.com/article/4230103.html)
 append_entries: 3
 Finish: 2025-04-12 18:11:47.007494
+------------------------------------------------------
+Started: 2025-04-12 20:09:46.180561
+Existing_entries: 1003
+Fetching from https://glacier0000.vercel.app/huxiu/article
+append_entries: 0
+Finish: 2025-04-12 20:09:50.187793
